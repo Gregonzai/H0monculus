@@ -1,0 +1,14 @@
+<div class="container-fluid">
+		</div>
+		<div class="span8">
+			<ul>
+				[% FOREACH result IN results %]
+					<li>
+						<a href="/desc/[% result.subject | uri %]">[% result.label %]</a>
+						( <a href="/desc/[% result.type %]">[% result.typelabel %]</a> )
+					</li>
+				[% END %]
+			</ul>
+		</div>
+	</div>
+</div>

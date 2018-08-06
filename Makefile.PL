@@ -23,6 +23,7 @@ WriteMakefile(
         'Template'             => 0,
         'File::Slurp::Unicode' => 0,
         'RDF::Trine'           => 0,
+        'RDF::Query'           => 0,
     },
     dist                => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean               => { FILES => 'H0monculus-*' },

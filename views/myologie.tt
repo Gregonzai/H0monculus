@@ -1,0 +1,102 @@
+REGION DE LA TETE
+	anat:muscles-masticateurs .
+	anat:muscles-expressions-faciales .
+	anat:muscles-yeux .
+	anat:muscles-langue .
+	anat:muscles-palais .
+	anat:muscles-verniers .
+	anat:pharynx .
+
+REGION DU COU
+	anat:muscles-verniers .
+	anat:pharynx .
+	anat:larynx .
+	anat:muscles-cou .
+
+REGION DU THORAX
+	anat:muscles-thoraciq-ext .
+	anat:muscles-thoraciq-intermed .
+	anat:muscles-thoraciq-int .
+	anat:mscl-diaphragme .
+
+REGION DE L'ABDOMEN
+	anat:mscl-diaphragme .
+	anat:muscles-paroi-ant-abdo .
+	anat:muscles-paroi-post-abdo .
+
+REGION DU PELVIS
+	anat:muscles-extrinseq-pelvis .
+	anat:muscles-diaphragme-pelvien .
+	anat:muscles-perinee-urogenital .
+	anat:*F*muscles-perinee-urogenital .
+	anat:muscles-perinee-anal .
+
+REGION DU DOS
+	anat:muscles-supL-dos .
+	anat:muscles-intermed-dos .
+	anat:muscles-pfd-dos .
+
+REGION DES MEMBRES SUPERIEURS
+	REGION DE LA CEINTURE SCAPULAIRE
+		anat:muscles-ceint-scap-couche-pfde .
+		anat:muscles-ceint-scap-couche-supL .
+		anat:R-muscles-propres-epaule .
+		anat:L-muscles-propres-epaule .
+	MEMBRE SUPERIEUR DROIT
+		REGION DU BRAS DROIT
+			anat:R-muscles-bras-loge-ant .
+			anat:R-muscles-bras-loge-post .
+		REGION DE L'AVANT-BRAS DROIT
+			anat:R-muscles-ant-avt-bras .
+			anat:R-muscles-post-avt-bras .
+		REGION DE LA MAIN DROITE
+			anat:R-muscles-loge-med-main .
+			anat:R-muscles-loge-lat-main .
+			anat:R-muscles-loge-moy-main .
+	MEMBRE SUPERIEUR GAUCHE
+		REGION DU BRAS GAUCHE
+			anat:L-muscles-bras-loge-ant .
+			anat:L-muscles-bras-loge-post .
+		REGION DE L'AVANT-BRAS GAUCHE
+			anat:L-muscles-ant-avt-bras .
+			anat:L-muscles-post-avt-bras .
+		REGION DE LA MAIN GAUCHE
+			anat:L-muscles-loge-med-main .
+			anat:L-muscles-loge-lat-main .
+			anat:L-muscles-loge-moy-main .
+
+REGION DES MEMBRES INFERIEURS
+	REGION DE LA CEINTURE PELVIENNE
+		anat:muscles-ceint-pelv-couche-pfde .
+		anat:muscles-ceint-pelv-couche-supL .
+	MEMBRE INFERIEUR DROIT
+		REGION DE LA CUISSE DROITE
+			anat:R-muscles-ant-cuisse .
+			anat:R-muscles-med-cuisse .
+			anat:R-muscles-post-cuisse .
+			anat:R-muscles-patte-oie .
+		REGION DE LA JAMBE DROITE
+			anat:R-muscles-ant-jambe .
+			anat:R-muscles-lat-jambe .
+			anat:R-muscles-post-jambe .
+		REGION DU PIED DROIT
+			anat:R-muscles-plantR-med-pied .
+			anat:R-muscles-plantR-lat-pied .
+			anat:R-muscles-plantR-intermed-pied .
+			anat:R-muscles-dorsaux-pied .
+	MEMBRE INFERIEUR GAUCHE
+		REGION DE LA CUISSE GAUCHE
+			anat:L-muscles-ant-cuisse .
+			anat:L-muscles-med-cuisse .
+			anat:L-muscles-post-cuisse .
+			anat:L-muscles-patte-oie .
+		REGION DE LA JAMBE GAUCHE
+			anat:L-muscles-ant-jambe .
+			anat:L-muscles-lat-jambe .
+			anat:L-muscles-post-jambe .
+		REGION DU PIED GAUCHE
+			anat:L-muscles-plantR-med-pied .
+			anat:L-muscles-plantR-lat-pied .
+			anat:L-muscles-plantR-intermed-pied .
+			anat:L-muscles-dorsaux-pied .
+

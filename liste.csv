@@ -1,0 +1,36 @@
+anat:comprend	anat:OA-AC-tete-ant .
+anat:part-comprend	anat:OA-PA-tete-ant .
+anat:part-comprend	anat:OA-PP-tete-ant .
+
+anat:comprend	anat:OA-AC-tete-moy .
+
+anat:part-comprend	anat:OA-PA-tete-ant .
+anat:comprend	anat:OA-machoire-inf .
+anat:comprend	anat:OA-PA-tete-moy .
+anat:comprend	anat:plancher-buccal .
+
+
+anat:comprend	anat:OA-PA-cou .
+anat:comprend	anat:OA-AC-cou .
+
+anat:comprend	anat:OA-PA-tete-post .
+anat:comprend	anat:OA-AC-tete-post .
+anat:comprend	anat:OA-PA-cou-sup .
+anat:comprend	anat:OA-AC-cou-sup .
+
+anat:comprend	anat:OA-PA-cou-moy .
+anat:comprend	anat:OA-AC-cou-moy .
+anat:comprend	anat:OA-PA-cou-inf .
+anat:comprend	anat:OA-AC-cou-inf .
+anat:comprend	anat:OA-PA-thorax .
+anat:comprend	anat:OA-AC-thorax .
+anat:comprend	anat:mscl-diaphragme .
+anat:comprend	anat:OA-PA-abdomen .
+anat:comprend	anat:OA-AC-abdomen .
+anat:comprend	anat:mscl-diaphragme .
+anat:comprend	anat:OA-PA-pelvis-sup .
+anat:comprend	anat:OA-AC-pelvis-sup .
+anat:comprend	anat:OA-PA-pelvis-inf .
+anat:comprend	anat:OA-AC-pelvis-inf .
+anat:comprend	anat:plancher-pelvien .
+

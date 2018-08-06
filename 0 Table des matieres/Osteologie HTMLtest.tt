@@ -1,0 +1,1838 @@
+<html>
+<head>
+<style>
+.area {
+    background-color: grey;
+    color: black;
+}
+</style>
+</head>
+
+<head>
+<style>
+.subarea {
+    background-color: lightgrey;
+    color: black;
+}
+</style>
+</head>
+
+<body>
+
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="1">
+      <h4 class="panel-title">
+        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="true" aria-controls="collapse1">
+<h4 class="area">RÉGION DE LA TETE</h4>
+        </a>
+      </h4>
+    </div>
+    <div id="collapse1" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="1">
+      <div class="panel-body">
+	<ul style="list-style-type:disc">
+	<li>Crâne osseux
+		<ul style="list-style-type:none">
+		<table>
+		<tr>
+			<td>
+				<ul style="list-style-type:disc">
+				<li>Os du neurocrâne
+					<ul style="list-style-type:disc">
+					<li><a href="http://localhost:3000/desc/http%3A%2F%2Fanat.org%2Fos-base-crane">Os de la base du crâne</a>
+						<ul style="list-style-type:circle">
+						<li><a href="http://localhost:3000/desc/http%3A%2F%2Fanat.org%2Ffrontal">Os frontal</a></li>
+						<li><a href="http://localhost:3000/desc/http%3A%2F%2Fanat.org%2Fsphenoide">Os sphénoïde</a></li>
+						<li>anat:occiput .</li>
+						<li>anat:R-temporal .</li>
+						<li>anat:L-temporal .</li>
+						<li>anat:ethmoide .</li>
+						</ul>
+					</li>
+					<li>Os de la voûte crânienne
+						<ul style="list-style-type:circle">
+						<li><a href="http://localhost:3000/desc/http%3A%2F%2Fanat.org%2Ffrontal">Os frontal</a></li>
+						<li><a href="http://localhost:3000/desc/http%3A%2F%2Fanat.org%2Fsphenoide">Os sphénoïde</a></li>
+						<li>anat:occiput .</li>
+						<li>anat:R-parietal .</li>
+						<li>anat:L-parietal .</li>
+						<li>anat:R-temporal .</li>
+						<li>anat:L-temporal .</li>
+						</ul>
+					</li>
+					</ul>
+				</li>
+				<li>Os du massif facial
+					<ul style="list-style-type:disc">
+					<li>Massif facial anterieur
+						<ul style="list-style-type:circle">
+						<li>anat:ethmoide .</li>
+						<li>anat:vomer .</li>
+						<li>anat:R-maxilaire .</li>
+						<li>anat:L-maxilaire .</li>
+						<li>anat:R-palatin .</li>
+						<li>anat:L-palatin .</li>
+						<li>anat:R-os-lacrimal .</li>
+						<li>anat:L-os-lacrimal .</li>
+						<li>anat:R-cornet-nasal-inf .</li>
+						<li>anat:L-cornet-nasal-inf .</li>
+						<li>anat:R-os-nasal .</li>
+						<li>anat:L-os-nasal .</li>
+						<li>anat:R-malaire .</li>
+						<li>anat:L-malaire .</li>
+						</ul>
+					</li>
+					<li>Massif facial moyen
+						<ul style="list-style-type:circle">
+						<li>anat:mandibule .</li>
+						</ul>
+					</li>
+					<li>Massif facial posterieur
+						<ul style="list-style-type:disc">
+						<li>anat:R-osselets-oreille .
+							<ul style="list-style-type:circle">
+							<li>anat:R-marteau .</li>
+							<li>anat:R-enclume .</li>
+							<li>anat:R-etrier .</li>
+							</ul>
+						</li>
+						<li>anat:L-osselets-oreille .
+							<ul style="list-style-type:circle">
+							<li>anat:L-marteau .</li>
+							<li>anat:L-enclume .</li>
+							<li>anat:L-etrier .</li>
+							</ul>
+						</li>
+						</ul>
+					</li>
+					</ul>
+				</li>
+				<li>Menisques temporo-mandibulaires
+					<ul style="list-style-type:circle">
+					<li>anat:R-menisque-temporo-mandi .</li>
+					<li>anat:L-menisque-temporo-mandi .</li>
+					</ul>
+				</li>
+				</ul>
+			</td>
+			<td>
+				<ul style="list-style-type:disc">
+				<li>Crâne antérieur
+					<ul style="list-style-type:disc">
+					<li>Vertèbre crânienne antérieure
+						<ul style="list-style-type:circle">
+						<li><a href="http://localhost:3000/desc/http%3A%2F%2Fanat.org%2Fsphenoide">Os sphénoïde</a></li>
+						<li><a href="http://localhost:3000/desc/http%3A%2F%2Fanat.org%2Ffrontal">Os frontal</a></li>
+						</ul>
+					</li>
+					<li>Massif facial anterieur
+						<ul style="list-style-type:circle">
+						<li>anat:ethmoide .</li>
+						<li>anat:vomer .</li>
+						<li>anat:R-maxilaire .</li>
+						<li>anat:L-maxilaire .</li>
+						<li>anat:R-palatin .</li>
+						<li>anat:L-palatin .</li>
+						<li>anat:R-os-lacrimal .</li>
+						<li>anat:L-os-lacrimal .</li>
+						<li>anat:R-cornet-nasal-inf .</li>
+						<li>anat:L-cornet-nasal-inf .</li>
+						<li>anat:R-os-nasal .</li>
+						<li>anat:L-os-nasal .</li>
+						<li>anat:R-malaire .</li>
+						<li>anat:L-malaire .</li>
+						</ul>
+					</li>
+					<li>Dents supérieures
+						<ul style="list-style-type:circle">
+						<li>anat:R-incisives-sup-1 .</li>
+						<li>anat:R-incisives-sup-2 .</li>
+						<li>anat:L-incisives-sup-1 .</li>
+						<li>anat:L-incisives-sup-2 .</li>
+						<li>anat:R-canines-sup .</li>
+						<li>anat:L-canines-sup .</li>
+						<li>anat:R-pre-molaire-sup-1 .</li>
+						<li>anat:R-pre-molaire-sup-2 .</li>
+						<li>anat:L-pre-molaire-sup-1 .</li>
+						<li>anat:L-pre-molaire-sup-2 .</li>
+						<li>anat:R-molaire-sup-1 .</li>
+						<li>anat:R-molaire-sup-2 .</li>
+						<li>anat:L-molaire-sup-1 .</li>
+						<li>anat:L-molaire-sup-2 .</li>
+						<li>anat:R-dents-sagesse-sup .</li>
+						<li>anat:L-dents-sagesse-sup .</li>
+						</ul>
+					</li>
+					</ul>
+				</li>
+				<li>Crâne moyen
+					<ul style="list-style-type:disc">
+					<li>Vertèbre crânienne moyenne
+						<ul style="list-style-type:circle">
+						<li><a href="http://localhost:3000/desc/http%3A%2F%2Fanat.org%2Fsphenoide">Os sphénoïde</a></li>
+						<li>anat:R-parietal .</li>
+						<li>anat:L-parietal .</li>
+						<li>anat:R-temporal .</li>
+						<li>anat:L-temporal .</li>
+						</ul>
+					</li>
+					<li>Massif facial moyen
+						<ul style="list-style-type:circle">
+						<li>anat:mandibule .</li>
+						</ul>
+					</li>
+					<li>Dents inférieures
+						<ul style="list-style-type:circle">
+						<li>anat:R-incisives-inf-1 .</li>
+						<li>anat:R-incisives-inf-2 .</li>
+						<li>anat:L-incisives-inf-1 .</li>
+						<li>anat:L-incisives-inf-2 .</li>
+						<li>anat:R-canines-inf .</li>
+						<li>anat:L-canines-inf .</li>
+						<li>anat:R-pre-molaire-inf-1 .</li>
+						<li>anat:R-pre-molaire-inf-2 .</li>
+						<li>anat:L-pre-molaire-inf-1 .</li>
+						<li>anat:L-pre-molaire-inf-2 .</li>
+						<li>anat:R-molaire-inf-1 .</li>
+						<li>anat:R-molaire-inf-2 .</li>
+						<li>anat:L-molaire-inf-1 .</li>
+						<li>anat:L-molaire-inf-2 .</li>
+						<li>anat:R-dents-sagesse-inf .</li>
+						<li>anat:L-dents-sagesse-inf .</li>
+						</ul>
+					</li>
+					<li>Menisques temporo-mandibulaires
+						<ul style="list-style-type:circle">
+						<li>anat:R-menisque-temporo-mandi .</li>
+						<li>anat:L-menisque-temporo-mandi .</li>
+						</ul>
+					</li>
+					</ul>
+				</li>
+				<li>Crâne postérieur
+					<ul style="list-style-type:disc">
+					<li>Vertèbre crânienne postérieure
+						<ul style="list-style-type:circle">
+						<li>anat:occiput .</li>
+						<li>anat:R-temporal .</li>
+						<li>anat:L-temporal .</li>
+						</ul>
+					</li>
+					<li>Massif facial posterieur
+						<ul style="list-style-type:disc">
+						<li>anat:R-osselets-oreille .
+							<ul style="list-style-type:circle">
+							<li>anat:R-marteau .</li>
+							<li>anat:R-enclume .</li>
+							<li>anat:R-etrier .</li>
+							</ul>
+						</li>
+						<li>anat:L-osselets-oreille .
+							<ul style="list-style-type:circle">
+							<li>anat:L-marteau .</li>
+							<li>anat:L-enclume .</li>
+							<li>anat:L-etrier .</li>
+							</ul>
+						</li>
+						</ul>
+					</li>
+					</ul>
+				</li>
+				</ul>
+			</td>
+		</tr>
+		</table>
+		</ul>
+	</li>
+	<li>Dents
+		<ul style="list-style-type:none">
+		<table>
+		<tr>
+			<td>
+				<ul style="list-style-type:disc">
+				<li>Incisives
+					<ul style="list-style-type:circle">
+					<li>anat:R-incisives-sup-1 .</li>
+					<li>anat:R-incisives-sup-2 .</li>
+					<li>anat:L-incisives-sup-1 .</li>
+					<li>anat:L-incisives-sup-2 .</li>
+					<li>anat:R-incisives-inf-1 .</li>
+					<li>anat:R-incisives-inf-2 .</li>
+					<li>anat:L-incisives-inf-1 .</li>
+					<li>anat:L-incisives-inf-2 .</li>
+					</ul>
+				</li>
+				<li>Canines
+					<ul style="list-style-type:circle">
+					<li>anat:R-canines-sup .</li>
+					<li>anat:L-canines-sup .</li>
+					<li>anat:R-canines-inf .</li>
+					<li>anat:L-canines-inf .</li>
+					</ul>
+				</li>
+				<li>Prémolaires
+					<ul style="list-style-type:circle">
+					<li>anat:R-pre-molaire-sup-1 .</li>
+					<li>anat:R-pre-molaire-sup-2 .</li>
+					<li>anat:L-pre-molaire-sup-1 .</li>
+					<li>anat:L-pre-molaire-sup-2 .</li>
+					<li>anat:R-pre-molaire-inf-1 .</li>
+					<li>anat:R-pre-molaire-inf-2 .</li>
+					<li>anat:L-pre-molaire-inf-1 .</li>
+					<li>anat:L-pre-molaire-inf-2 .</li>
+					</ul>
+				</li>
+				<li>Molaires
+					<ul style="list-style-type:circle">
+					<li>anat:R-molaire-sup-1 .</li>
+					<li>anat:R-molaire-sup-2 .</li>
+					<li>anat:L-molaire-sup-1 .</li>
+					<li>anat:L-molaire-sup-2 .</li>
+					<li>anat:R-molaire-inf-1 .</li>
+					<li>anat:R-molaire-inf-2 .</li>
+					<li>anat:L-molaire-inf-1 .</li>
+					<li>anat:L-molaire-inf-2 .</li>
+					</ul>
+				</li>
+				<li>Dents de sagesse
+					<ul style="list-style-type:circle">
+					<li>anat:R-dents-sagesse-sup .</li>
+					<li>anat:L-dents-sagesse-sup .</li>
+					<li>anat:R-dents-sagesse-inf .</li>
+					<li>anat:L-dents-sagesse-inf .</li>
+					</ul>
+				</li>
+				</ul>
+			</td>
+			<td>
+				<ul style="list-style-type:disc">
+				<li>Dents supérieures
+					<ul style="list-style-type:circle">
+					<li>anat:R-incisives-sup-1 .</li>
+					<li>anat:R-incisives-sup-2 .</li>
+					<li>anat:L-incisives-sup-1 .</li>
+					<li>anat:L-incisives-sup-2 .</li>
+					<li>anat:R-canines-sup .</li>
+					<li>anat:L-canines-sup .</li>
+					<li>anat:R-pre-molaire-sup-1 .</li>
+					<li>anat:R-pre-molaire-sup-2 .</li>
+					<li>anat:L-pre-molaire-sup-1 .</li>
+					<li>anat:L-pre-molaire-sup-2 .</li>
+					<li>anat:R-molaire-sup-1 .</li>
+					<li>anat:R-molaire-sup-2 .</li>
+					<li>anat:L-molaire-sup-1 .</li>
+					<li>anat:L-molaire-sup-2 .</li>
+					<li>anat:R-dents-sagesse-sup .</li>
+					<li>anat:L-dents-sagesse-sup .</li>
+					</ul>
+				</li>
+				<li>Dents inférieures
+					<ul style="list-style-type:circle">
+					<li>anat:R-incisives-inf-1 .</li>
+					<li>anat:R-incisives-inf-2 .</li>
+					<li>anat:L-incisives-inf-1 .</li>
+					<li>anat:L-incisives-inf-2 .</li>
+					<li>anat:R-canines-inf .</li>
+					<li>anat:L-canines-inf .</li>
+					<li>anat:R-pre-molaire-inf-1 .</li>
+					<li>anat:R-pre-molaire-inf-2 .</li>
+					<li>anat:L-pre-molaire-inf-1 .</li>
+					<li>anat:L-pre-molaire-inf-2 .</li>
+					<li>anat:R-molaire-inf-1 .</li>
+					<li>anat:R-molaire-inf-2 .</li>
+					<li>anat:L-molaire-inf-1 .</li>
+					<li>anat:L-molaire-inf-2 .</li>
+					<li>anat:R-dents-sagesse-inf .</li>
+					<li>anat:L-dents-sagesse-inf .</li>
+					</ul>
+				</li>
+				</ul>
+			</td>
+		</tr>
+		</table>
+		</ul>
+	</li>
+	</ul>
+
+      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="2">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="false" aria-controls="collapse2">
+<h4 class="area">AXE VERTÉBRAL : crâne, colonne et charnières vertébrales</h4>
+        </a>
+      </h4>
+    </div>
+    <div id="collapse2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2">
+      <div class="panel-body">
+	<ul style="list-style-type:disc">
+	<li>Crâne vertébral
+		<ul style="list-style-type:disc">
+		<li>Vertèbre crânienne antérieure
+			<ul style="list-style-type:circle">
+			<li><a href="http://localhost:3000/desc/http%3A%2F%2Fanat.org%2Fsphenoide">Os sphénoïde</a></li>
+			<li><a href="http://localhost:3000/desc/http%3A%2F%2Fanat.org%2Ffrontal">Os frontal</a></li>
+			</ul>
+		</li>
+		<li>Vertèbre crânienne moyenne
+			<ul style="list-style-type:circle">
+			<li><a href="http://localhost:3000/desc/http%3A%2F%2Fanat.org%2Fsphenoide">Os sphénoïde</a></li>
+			<li>anat:R-parietal .</li>
+			<li>anat:L-parietal .</li>
+			<li>anat:R-temporal .</li>
+			<li>anat:L-temporal .</li>
+			</ul>
+		</li>
+		<li>Vertèbre crânienne postérieure
+			<ul style="list-style-type:circle">
+			<li>anat:occiput .</li>
+			<li>anat:R-temporal .</li>
+			<li>anat:L-temporal .</li>
+			</ul>
+		</li>
+		</ul>
+	</li>
+	<li>Colonne vertébrale
+		<ul style="list-style-type:none">
+		<table>
+		<tr>
+			<td>
+				<ul style="list-style-type:disc">
+				<li>Colonne vertébrale cervicale
+					<ul style="list-style-type:disc">
+					<li>Colonne vertébrale cervicale supérieure
+						<ul style="list-style-type:circle">
+						<li>anat:v-C1 .</li>
+						<li>anat:v-C2 .</li>
+						<li>anat:v-C3 .</li>
+						<li>anat:div-C2-C3 .</li>
+						</ul>
+					</li>
+					<li>Colonne vertébrale cervicale moyenne
+						<ul style="list-style-type:circle">
+						<li>anat:v-C3 .</li>
+						<li>anat:v-C4 .</li>
+						<li>anat:v-C5 .</li>
+						<li>anat:div-C3-C4 .</li>
+						<li>anat:div-C4-C5 .</li>
+						</ul>
+					</li>
+					<li>Colonne vertébrale cervicale inférieure
+						<ul style="list-style-type:circle">
+						<li>anat:v-C5 .</li>
+						<li>anat:v-C6 .</li>
+						<li>anat:v-C7 .</li>
+						<li>anat:div-C5-C6 .</li>
+						<li>anat:div-C6-C7 .</li>
+						</ul>
+					</li>
+					</ul>
+				</li>
+				<li>Colonne vertébrale thoracique
+					<ul style="list-style-type:disc">
+					<li>Colonne vertébrale thoracique supérieure
+						<ul style="list-style-type:circle">
+						<li>anat:v-T1 .</li>
+						<li>anat:v-T2 .</li>
+						<li>anat:v-T3 .</li>
+						<li>anat:v-T4 .</li>
+						<li>anat:v-T5 .</li>
+						<li>anat:v-T6 .</li>
+						<li>anat:div-T1-T2 .</li>
+						<li>anat:div-T2-T3 .</li>
+						<li>anat:div-T3-T4 .</li>
+						<li>anat:div-T4-T5 .</li>
+						<li>anat:div-T5-T6 .</li>
+						</ul>
+					</li>
+					<li>Colonne vertébrale thoracique moyenne
+						<ul style="list-style-type:circle">
+						<li>anat:v-T6 .</li>
+						<li>anat:v-T7 .</li>
+						<li>anat:v-T8 .</li>
+						<li>anat:v-T9 .</li>
+						<li>anat:v-T10 .</li>
+						<li>anat:div-T6-T7 .</li>
+						<li>anat:div-T7-T8 .</li>
+						<li>anat:div-T8-T9 .</li>
+						<li>anat:div-T9-T10 .</li>
+						</ul>
+					</li>
+					<li>Colonne vertébrale thoracique inférieure
+						<ul style="list-style-type:circle">
+						<li>anat:v-T10 .</li>
+						<li>anat:v-T11 .</li>
+						<li>anat:v-T12 .</li>
+						<li>anat:div-T10-T11 .</li>
+						<li>anat:div-T11-T12 .</li>
+						</ul>
+					</li>
+					</ul>
+				</li>
+				<li>Colonne vertébrale lombaire
+					<ul style="list-style-type:disc">
+					<li>Colonne vertébrale lombaire supérieure
+						<ul style="list-style-type:circle">
+						<li>anat:v-L1 .</li>
+						<li>anat:v-L2 .</li>
+						<li>anat:v-L3 .</li>
+						<li>anat:div-L1-L2 .</li>
+						<li>anat:div-L2-L3 .</li>
+						</ul>
+					</li>
+					<li>Colonne vertébrale lombaire inférieure
+						<ul style="list-style-type:circle">
+						<li>anat:v-L3 .</li>
+						<li>anat:v-L4 .</li>
+						<li>anat:v-L5 .</li>
+						<li>anat:div-L3-L4 .</li>
+						<li>anat:div-L4-L5 .</li>
+						</ul>
+					</li>
+					</ul>
+				</li>
+				<li>Colonne vertébrale pelvienne
+					<ul style="list-style-type:disc">
+					<li>Colonne vertébrale pelvienne supérieure
+						<ul style="list-style-type:circle">
+						<li>anat:v-S1 .</li>
+						<li>anat:v-S2 .</li>
+						</ul>
+					</li>
+					<li>Colonne vertébrale pelvienne inférieure
+						<ul style="list-style-type:circle">
+						<li>anat:v-S3 .</li>
+						<li>anat:v-S4 .</li>
+						<li>anat:v-S5 .</li>
+						<li>anat:coccyx .</li>
+						<li>anat:div-S5-Co .</li>
+						</ul>
+					</li>
+					</ul>
+				</li>
+				</ul>
+			</td>
+			<td>
+				<ul style="list-style-type:disc">
+				<li>Vertèbres
+					<ul style="list-style-type:circle">
+					<li>anat:v-C1 .</li>
+					<li>anat:v-C2 .</li>
+					<li>anat:v-C3 .</li>
+					<li>anat:v-C4 .</li>
+					<li>anat:v-C5 .</li>
+					<li>anat:v-C6 .</li>
+					<li>anat:v-C7 .</li>
+					<li>anat:v-T1 .</li>
+					<li>anat:v-T2 .</li>
+					<li>anat:v-T3 .</li>
+					<li>anat:v-T4 .</li>
+					<li>anat:v-T5 .</li>
+					<li>anat:v-T6 .</li>
+					<li>anat:v-T7 .</li>
+					<li>anat:v-T8 .</li>
+					<li>anat:v-T9 .</li>
+					<li>anat:v-T10 .</li>
+					<li>anat:v-T11 .</li>
+					<li>anat:v-T12 .</li>
+					<li>anat:v-L1 .</li>
+					<li>anat:v-L2 .</li>
+					<li>anat:v-L3 .</li>
+					<li>anat:v-L4 .</li>
+					<li>anat:v-L5 .</li>
+					<li>anat:sacrum .
+						<ul style="list-style-type:circle">
+						<li>anat:v-S1 .</li>
+						<li>anat:v-S2 .</li>
+						<li>anat:v-S3 .</li>
+						<li>anat:v-S4 .</li>
+						<li>anat:v-S5 .</li>
+						</ul>
+					</li>
+					<li>anat:coccyx .</li>
+					</ul>
+				</li>
+				<li>Disques intervertébraux
+					<ul style="list-style-type:circle">
+					<li>anat:div-C2-C3 .</li>
+					<li>anat:div-C3-C4 .</li>
+					<li>anat:div-C4-C5 .</li>
+					<li>anat:div-C5-C6 .</li>
+					<li>anat:div-C6-C7 .</li>
+					<li>anat:div-C7-T1 .</li>
+					<li>anat:div-T1-T2 .</li>
+					<li>anat:div-T2-T3 .</li>
+					<li>anat:div-T3-T4 .</li>
+					<li>anat:div-T4-T5 .</li>
+					<li>anat:div-T5-T6 .</li>
+					<li>anat:div-T6-T7 .</li>
+					<li>anat:div-T7-T8 .</li>
+					<li>anat:div-T8-T9 .</li>
+					<li>anat:div-T9-T10 .</li>
+					<li>anat:div-T10-T11 .</li>
+					<li>anat:div-T11-T12 .</li>
+					<li>anat:div-T12-L1 .</li>
+					<li>anat:div-L1-L2 .</li>
+					<li>anat:div-L2-L3 .</li>
+					<li>anat:div-L3-L4 .</li>
+					<li>anat:div-L4-L5 .</li>
+					<li>anat:div-L5-S1 .</li>
+					<li>anat:div-S5-Co .</li>
+					</ul>
+				</li>
+				</ul>
+			</td>
+		</tr>
+		</table>
+		</ul>
+	</li>
+	<li>Charnières Vertébrales
+		<ul style="list-style-type:disc">
+		<li>Charnière C0-C1-C2
+			<ul style="list-style-type:circle">
+			<li>anat:occiput .</li>
+			<li>anat:v-C1 .</li>
+			<li>anat:v-C2 .</li>
+			</ul>
+		</li>
+		<li>Charnière cervico-thoracique
+			<ul style="list-style-type:circle">
+			<li>anat:v-C7 .</li>
+			<li>anat:v-T1 .</li>
+			<li>anat:div-C7-T1 .</li>
+			<li>anat:R-cote-1 .</li>
+			<li>anat:L-cote-1 .</li>
+			<li>anat:R-carti-costal-1 .</li>
+			<li>anat:L-carti-costal-1 .</li>
+			<li>anat:sternum-manubrium .</li>
+			</ul>
+		</li>
+		<li>Charnière thoraco-lombaire
+			<ul style="list-style-type:circle">
+			<li>anat:v-T12 .</li>
+			<li>anat:v-L1 .</li>
+			<li>anat:div-T12-L1 .</li>
+			</ul>
+		</li>
+		<li>Charnière lombo-sacree
+			<ul style="list-style-type:circle">
+			<li>anat:v-L5 .</li>
+			<li>anat:v-S1 .</li>
+			<li>anat:div-L5-S1 .</li>
+			</ul>
+		</li>
+		<li>Charnière sacro-coccygienne
+			<ul style="list-style-type:circle">
+			<li>anat:v-S5 .</li>
+			<li>anat:coccyx .</li>
+			<li>anat:div-S5-Co .</li>
+			</ul>
+		</li>
+		</ul>
+	</li>
+	</ul>
+
+      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="3">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false" aria-controls="collapse3">
+<h4 class="area">RÉGION DU COU</h4>
+        </a>
+      </h4>
+    </div>
+    <div id="collapse3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="3">
+      <div class="panel-body">
+	<ul style="list-style-type:disc">
+	<li>anat:os-hyoide .</li>
+	<li>Colonne vertébrale cervicale
+		<ul style="list-style-type:disc">
+		<li>Colonne vertébrale cervicale supérieure
+			<ul style="list-style-type:circle">
+			<li>anat:v-C1 .</li>
+			<li>anat:v-C2 .</li>
+			<li>anat:v-C3 .</li>
+			<li>anat:div-C2-C3 .</li>
+			</ul>
+		</li>
+		<li>Colonne vertébrale cervicale moyenne
+			<ul style="list-style-type:circle">
+			<li>anat:v-C3 .</li>
+			<li>anat:v-C4 .</li>
+			<li>anat:v-C5 .</li>
+			<li>anat:div-C3-C4 .</li>
+			<li>anat:div-C4-C5 .</li>
+			</ul>
+		</li>
+		<li>Colonne vertébrale cervicale inférieure
+			<ul style="list-style-type:circle">
+			<li>anat:v-C5 .</li>
+			<li>anat:v-C6 .</li>
+			<li>anat:v-C7 .</li>
+			<li>anat:div-C5-C6 .</li>
+			<li>anat:div-C6-C7 .</li>
+			</ul>
+		</li>
+		</ul>
+	</li>
+	</ul>
+
+      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="4">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="false" aria-controls="collapse4">
+<h4 class="area">RÉGION DU THORAX</h4>
+        </a>
+      </h4>
+    </div>
+    <div id="collapse4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="4">
+      <div class="panel-body">
+	<ul style="list-style-type:disc">
+	<li>Colonne vertébrale thoracique
+		<ul style="list-style-type:disc">
+		<li>Colonne vertébrale thoracique supérieure
+			<ul style="list-style-type:circle">
+			<li>anat:v-T1 .</li>
+			<li>anat:v-T2 .</li>
+			<li>anat:v-T3 .</li>
+			<li>anat:v-T4 .</li>
+			<li>anat:v-T5 .</li>
+			<li>anat:v-T6 .</li>
+			<li>anat:div-T1-T2 .</li>
+			<li>anat:div-T2-T3 .</li>
+			<li>anat:div-T3-T4 .</li>
+			<li>anat:div-T4-T5 .</li>
+			<li>anat:div-T5-T6 .</li>
+			</ul>
+		</li>
+		<li>Colonne vertébrale thoracique moyenne
+			<ul style="list-style-type:circle">
+			<li>anat:v-T6 .</li>
+			<li>anat:v-T7 .</li>
+			<li>anat:v-T8 .</li>
+			<li>anat:v-T9 .</li>
+			<li>anat:v-T10 .</li>
+			<li>anat:div-T6-T7 .</li>
+			<li>anat:div-T7-T8 .</li>
+			<li>anat:div-T8-T9 .</li>
+			<li>anat:div-T9-T10 .</li>
+			</ul>
+		</li>
+		<li>Colonne vertébrale thoracique inférieure
+			<ul style="list-style-type:circle">
+			<li>anat:v-T10 .</li>
+			<li>anat:v-T11 .</li>
+			<li>anat:v-T12 .</li>
+			<li>anat:div-T10-T11 .</li>
+			<li>anat:div-T11-T12 .</li>
+			</ul>
+		</li>
+		</ul>
+	</li>
+	<li>Cage thoracique
+		<ul style="list-style-type:none">
+		<table>
+		<tr>
+			<td>
+				<ul style="list-style-type:disc">
+				<li>Cage thoracique supérieure
+					<ul style="list-style-type:disc">
+					<li>Sternum</li>
+					<li>1er arc costal
+						<ul style="list-style-type:circle">
+						<li>anat:R-cote-1 .</li>
+						<li>anat:L-cote-1 .</li>
+						<li>anat:R-carti-costal-1 .</li>
+						<li>anat:L-carti-costal-1 .</li>
+						</ul>
+					</li>
+					<li>2e arc costal
+						<ul style="list-style-type:circle">
+						<li>anat:R-cote-2 .</li>
+						<li>anat:L-cote-2 .</li>
+						<li>anat:R-carti-costal-2 .</li>
+						<li>anat:L-carti-costal-2 .</li>
+						</ul>
+					</li>
+					<li>3e arc costal
+						<ul style="list-style-type:circle">
+						<li>anat:R-cote-3 .</li>
+						<li>anat:L-cote-3 .</li>
+						<li>anat:R-carti-costal-3 .</li>
+						<li>anat:L-carti-costal-3 .</li>
+						</ul>
+					</li>
+					<li>4e arc costal
+						<ul style="list-style-type:circle">
+						<li>anat:R-cote-4 .</li>
+						<li>anat:L-cote-4 .</li>
+						<li>anat:R-carti-costal-4 .</li>
+						<li>anat:L-carti-costal-4 .</li>
+						</ul>
+					</li>
+					<li>5e arc costal
+						<ul style="list-style-type:circle">
+						<li>anat:R-cote-5 .</li>
+						<li>anat:L-cote-5 .</li>
+						<li>anat:R-carti-costal-5 .</li>
+						<li>anat:L-carti-costal-5 .</li>
+						</ul>
+					</li>
+					<li>6e arc costal
+						<ul style="list-style-type:circle">
+						<li>anat:R-cote-6 .</li>
+						<li>anat:L-cote-6 .</li>
+						<li>anat:R-carti-costal-6 .</li>
+						<li>anat:L-carti-costal-6 .</li>
+						</ul>
+					</li>
+					</ul>
+				</li>
+				<li>Cage thoracique moyenne
+					<ul style="list-style-type:disc">
+					<li>Sternum</li>
+					<li>7e arc costal
+						<ul style="list-style-type:circle">
+						<li>anat:R-cote-7 .</li>
+						<li>anat:L-cote-7 .</li>
+						<li>anat:R-carti-costal-7 .</li>
+						<li>anat:L-carti-costal-7 .</li>
+						</ul>
+					</li>
+					<li>8e arc costal
+						<ul style="list-style-type:circle">
+						<li>anat:R-cote-8 .</li>
+						<li>anat:L-cote-8 .</li>
+						<li>anat:R-carti-costal-8 .</li>
+						<li>anat:L-carti-costal-8 .</li>
+						</ul>
+					</li>
+					<li>9e arc costal
+						<ul style="list-style-type:circle">
+						<li>anat:R-cote-9 .</li>
+						<li>anat:L-cote-9 .</li>
+						<li>anat:R-carti-costal-9 .</li>
+						<li>anat:L-carti-costal-9 .</li>
+						</ul>
+					</li>
+					<li>10e arc costal
+						<ul style="list-style-type:circle">
+						<li>anat:R-cote-10 .</li>
+						<li>anat:L-cote-10 .</li>
+						<li>anat:R-carti-costal-10 .</li>
+						<li>anat:L-carti-costal-10 .</li>
+						</ul>
+					</li>
+					</ul>
+				</li>
+				<li>Cage thoracique inférieure
+					<ul style="list-style-type:disc">
+					<li>11e arc costal
+						<ul style="list-style-type:circle">
+						<li>anat:R-cote-11 .</li>
+						<li>anat:L-cote-11 .</li>
+						</ul>
+					</li>
+					<li>12e arc costal
+						<ul style="list-style-type:circle">
+						<li>anat:R-cote-12 .</li>
+						<li>anat:L-cote-12 .</li>
+						</ul>
+					</li>
+					</ul>
+				</li>
+				</ul>
+			</td>
+			<td>
+				<ul style="list-style-type:disc">
+				<li>Sternum</li>
+				<li>Côtes
+					<ul style="list-style-type:circle">
+					<li>anat:R-cote-1 .</li>
+					<li>anat:R-cote-2 .</li>
+					<li>anat:R-cote-3 .</li>
+					<li>anat:R-cote-4 .</li>
+					<li>anat:R-cote-5 .</li>
+					<li>anat:R-cote-6 .</li>
+					<li>anat:R-cote-7 .</li>
+					<li>anat:R-cote-8 .</li>
+					<li>anat:R-cote-9 .</li>
+					<li>anat:R-cote-10 .</li>
+					<li>anat:R-cote-11 .</li>
+					<li>anat:R-cote-12 .</li>
+					<li>anat:L-cote-1 .</li>
+					<li>anat:L-cote-2 .</li>
+					<li>anat:L-cote-3 .</li>
+					<li>anat:L-cote-4 .</li>
+					<li>anat:L-cote-5 .</li>
+					<li>anat:L-cote-6 .</li>
+					<li>anat:L-cote-7 .</li>
+					<li>anat:L-cote-8 .</li>
+					<li>anat:L-cote-9 .</li>
+					<li>anat:L-cote-10 .</li>
+					<li>anat:L-cote-11 .</li>
+					<li>anat:L-cote-12 .</li>
+					</ul>
+				</li>
+				<li>Cartilages costaux
+					<ul style="list-style-type:circle">
+					<li>anat:R-carti-costal-1 .</li>
+					<li>anat:R-carti-costal-2 .</li>
+					<li>anat:R-carti-costal-3 .</li>
+					<li>anat:R-carti-costal-4 .</li>
+					<li>anat:R-carti-costal-5 .</li>
+					<li>anat:R-carti-costal-6 .</li>
+					<li>anat:R-carti-costal-7 .</li>
+					<li>anat:R-carti-costal-8 .</li>
+					<li>anat:R-carti-costal-9 .</li>
+					<li>anat:R-carti-costal-10 .</li>
+					<li>anat:L-carti-costal-1 .</li>
+					<li>anat:L-carti-costal-2 .</li>
+					<li>anat:L-carti-costal-3 .</li>
+					<li>anat:L-carti-costal-4 .</li>
+					<li>anat:L-carti-costal-5 .</li>
+					<li>anat:L-carti-costal-6 .</li>
+					<li>anat:L-carti-costal-7 .</li>
+					<li>anat:L-carti-costal-8 .</li>
+					<li>anat:L-carti-costal-9 .</li>
+					<li>anat:L-carti-costal-10 .</li>
+					</ul>
+				</li>
+				</ul>
+			</td>
+		</tr>
+		</table>
+		</ul>
+	</li>
+	</ul>
+
+      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="5">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse5" aria-expanded="false" aria-controls="collapse5">
+<h4 class="area">RÉGION LOMBAIRE</h4>
+        </a>
+      </h4>
+    </div>
+    <div id="collapse5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="5">
+      <div class="panel-body">
+	<ul style="list-style-type:disc">
+	<li>Colonne vertébrale lombaire
+		<ul style="list-style-type:disc">
+		<li>Colonne vertébrale lombaire supérieure
+			<ul style="list-style-type:circle">
+			<li>anat:v-L1 .</li>
+			<li>anat:v-L2 .</li>
+			<li>anat:v-L3 .</li>
+			<li>anat:div-L1-L2 .</li>
+			<li>anat:div-L2-L3 .</li>
+			</ul>
+		</li>
+		<li>Colonne vertébrale lombaire inférieure
+			<ul style="list-style-type:circle">
+			<li>anat:v-L3 .</li>
+			<li>anat:v-L4 .</li>
+			<li>anat:v-L5 .</li>
+			<li>anat:div-L3-L4 .</li>
+			<li>anat:div-L4-L5 .</li>
+			</ul>
+		</li>
+		</ul>
+	</li>
+	</ul>
+
+      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="6">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse6" aria-expanded="false" aria-controls="collapse6">
+<h4 class="area">RÉGION DU PELVIS</h4>
+        </a>
+      </h4>
+    </div>
+    <div id="collapse6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="6">
+      <div class="panel-body">
+	<ul style="list-style-type:disc">
+	<li>pelvis osseux
+		<ul style="list-style-type:circle">
+		<li>anat:sacrum .
+			<ul style="list-style-type:circle">
+			<li>anat:v-S1 .</li>
+			<li>anat:v-S2 .</li>
+			<li>anat:v-S3 .</li>
+			<li>anat:v-S4 .</li>
+			<li>anat:v-S5 .</li>
+			</ul>
+		</li>
+		<li>anat:coccyx .</li>
+		<li>anat:R-iliaque .</li>
+		<li>anat:L-iliaque .</li>
+		</ul>
+	</li>
+	<li>Disque intervertébral S5-Co</li>
+	<li>Disque interpubien</li>
+	</ul>
+
+      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="7">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse7" aria-expanded="false" aria-controls="collapse7">
+<h4 class="area">CEINTURE PELVIENNE et CEINTURE SCAPULAIRE</h4>
+        </a>
+      </h4>
+    </div>
+    <div id="collapse7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="7">
+      <div class="panel-body">
+	<ul style="list-style-type:disc">
+	<li>CEINTURE PELVIENNE
+		<ul style="list-style-type:circle">
+		<li>pelvis osseux
+			<ul style="list-style-type:circle">
+			<li>anat:sacrum .</li>
+			<li>anat:coccyx .</li>
+			<li>anat:R-iliaque .</li>
+			<li>anat:L-iliaque .</li>
+			<li>Disque intervertébral S5-Co</li>
+			<li>Disque interpubien</li>
+			</ul>
+		</li>
+		<li>anat:R-femur-epiP-sup .</li>
+		<li>Labrum acétabulaire droit</li>
+		<li>anat:L-femur-epiP-sup .</li>
+		<li>Labrum acétabulaire gauche</li>
+		</ul>
+	</li>
+	<li>CEINTURE SCAPULAIRE
+		<ul style="list-style-type:circle">
+		<li>anat:R-clavicule .</li>
+		<li>anat:L-clavicule .</li>
+		<li>anat:R-scapula .</li>
+		<li>anat:L-scapula .</li>
+		<li>Charnière cervico-thoracique
+			<ul style="list-style-type:circle">
+			<li>anat:v-C7 .</li>
+			<li>anat:v-T1 .</li>
+			<li>anat:div-C7-T1 .</li>
+			<li>anat:R-cote-1 .</li>
+			<li>anat:L-cote-1 .</li>
+			<li>anat:R-carti-costal-1 .</li>
+			<li>anat:L-carti-costal-1 .</li>
+			<li>anat:sternum-manubrium .</li>
+			</ul>
+		</li>
+	</li>
+	</ul>
+
+      </div>
+    </div>
+  </div>
+
+<h4 class="area">RÉGION DES MEMBRES INFÉRIEURS</h4>
+	<ul style="list-style-type:none">
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="8-1">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1" aria-expanded="false" aria-controls="collapse8-1">
+	<li><h4 class="subarea">MEMBRE INFÉRIEUR DROIT</h4>
+        </a>
+      </h4>
+    </div>
+    <div id="collapse8-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1">
+      <div class="panel-body">
+		<ul style="list-style-type:disc">
+		<li>RÉGION DE LA HANCHE DROITE
+			<ul style="list-style-type:circle">
+			<li>anat:R-iliaque .</li>
+			<li>anat:R-femur-epiP-sup .</li>
+			<li>Labrum acétabulaire droit</li>
+			</ul>
+		</li>
+		<li>RÉGION DE LA CUISSE DROITE
+			<ul style="list-style-type:circle">
+			<li>anat:R-femur .</li>
+			<li>anat:R-patella .</li>
+			</ul>
+		</li>
+		<li>RÉGION DU GENOU DROIT
+			<ul style="list-style-type:circle">
+			<li>anat:R-femur-epiP-inf .</li>
+			<li>anat:R-patella .</li>
+			<li>anat:R-tibia-epiP-sup .</li>
+			<li>anat:R-fibula-epiP-sup .</li>
+			<li>Ménisques tibiaux droits
+				<ul style="list-style-type:circle">
+				<li>anat:R-tibia-menisque-med .</li>
+				<li>anat:R-tibia-menisque-lat .</li>
+				</ul>
+			</li>
+			</ul>
+		</li>
+		<li>RÉGION DE LA JAMBE DROITE
+			<ul style="list-style-type:circle">
+			<li>anat:R-tibia .</li>
+			<li>anat:R-fibula .</li>
+			</ul>
+		</li>
+		<li>RÉGION DE LA CHEVILLE DROITE
+			<ul style="list-style-type:circle">
+			<li>anat:R-tibia-epiP-inf .</li>
+			<li>anat:R-fibula-epiP-inf .</li>
+			<li>Os du tarse droit
+				<ul style="list-style-type:disc">
+				<li>anat:R-tarse-post .
+					<ul style="list-style-type:circle">
+					<li>anat:R-talus .</li>
+					<li>anat:R-calca .</li>
+					</ul>
+				</li>
+				<li>anat:R-tarse-ant .
+					<ul style="list-style-type:circle">
+					<li>anat:R-navi .</li>
+					<li>anat:R-cubo .</li>
+					<li>anat:R-cune-I .</li>
+					<li>anat:R-cune-II .</li>
+					<li>anat:R-cune-III .</li>
+					</ul>
+				</li>
+				</ul>
+			</li>
+			</ul>
+		</li>
+		<li>RÉGION DU PIED DROIT
+			<ul style="list-style-type:none">
+			<table>
+			<tr>
+				<td>
+					<ul style="list-style-type:disc">
+					<li>Os du tarse droit
+						<ul style="list-style-type:disc">
+						<li>anat:R-tarse-post .
+							<ul style="list-style-type:circle">
+							<li>anat:R-talus .</li>
+							<li>anat:R-calca .</li>
+							</ul>
+						</li>
+						<li>anat:R-tarse-ant .
+							<ul style="list-style-type:circle">
+							<li>anat:R-navi .</li>
+							<li>anat:R-cubo .</li>
+							<li>anat:R-cune-I .</li>
+							<li>anat:R-cune-II .</li>
+							<li>anat:R-cune-III .</li>
+							</ul>
+						</li>
+						</ul>
+					</li>
+					<li>Os métatarses droits
+						<ul style="list-style-type:circle">
+						<li>anat:R-metaT-I .</li>
+						<li>anat:R-metaT-II .</li>
+						<li>anat:R-metaT-III .</li>
+						<li>anat:R-metaT-IV .</li>
+						<li>anat:R-metaT-V .</li>
+						</ul>
+					</li>
+					<li>Os sésamoïdes de l’hallux droit
+						<ul style="list-style-type:circle">
+						<li>anat:R-halux-sesamoide-lat .</li>
+						<li>anat:R-halux-sesamoide-med .</li>
+						</ul>
+					</li>
+					<li>Os des phalanges des orteils droits
+						<ul style="list-style-type:disc">
+						<li>anat:R-pied-phalanges-I .
+							<ul style="list-style-type:circle">
+							<li>anat:R-pied-phal-proxi-I .</li>
+							<li>anat:R-pied-phal-dist-I .</li>
+							</ul>
+						</li>
+						<li>anat:R-pied-phalanges-II .
+							<ul style="list-style-type:circle">
+							<li>anat:R-pied-phal-proxi-II .</li>
+							<li>anat:R-pied-phal-moy-II .</li>
+							<li>anat:R-pied-phal-dist-II .</li>
+							</ul>
+						</li>
+						<li>anat:R-pied-phalanges-III .
+							<ul style="list-style-type:circle">
+							<li>anat:R-pied-phal-proxi-III .</li>
+							<li>anat:R-pied-phal-moy-III .</li>
+							<li>anat:R-pied-phal-dist-III .</li>
+							</ul>
+						</li>
+						<li>anat:R-pied-phalanges-IV .
+							<ul style="list-style-type:circle">
+							<li>anat:R-pied-phal-proxi-IV .</li>
+							<li>anat:R-pied-phal-moy-IV .</li>
+							<li>anat:R-pied-phal-dist-IV .</li>
+							</ul>
+						</li>
+						<li>anat:R-pied-phalanges-V .
+							<ul style="list-style-type:circle">
+							<li>anat:R-pied-phal-proxi-V .</li>
+							<li>anat:R-pied-phal-moy-V .</li>
+							<li>anat:R-pied-phal-dist-V .</li>
+							</ul>
+						</li>
+						</ul>
+					</li>
+					</ul>
+				</td>
+				<td>
+					<ul style="list-style-type:disc">
+					<li>Os de l’arche interne du pied droit
+						<ul style="list-style-type:circle">
+						<li>anat:R-talus .</li>
+						<li>anat:R-navi .</li>
+						<li>anat:R-cune-I .</li>
+						<li>anat:R-cune-II .</li>
+						<li>anat:R-cune-III .</li>
+						<li>anat:R-metaT-I .</li>
+						<li>anat:R-metaT-II .</li>
+						<li>anat:R-metaT-III .</li>
+						<li>anat:R-pied-os-sesamoides .
+							<ul style="list-style-type:circle">
+							<li>anat:R-halux-sesamoide-lat .</li>
+							<li>anat:R-halux-sesamoide-med .</li>
+							</ul>
+						</li>
+						<li>anat:R-pied-phalanges-I .
+							<ul style="list-style-type:circle">
+							<li>anat:R-pied-phal-proxi-I .</li>
+							<li>anat:R-pied-phal-dist-I .</li>
+							</ul>
+						</li>
+						<li>anat:R-pied-phalanges-II .
+							<ul style="list-style-type:circle">
+							<li>anat:R-pied-phal-proxi-II .</li>
+							<li>anat:R-pied-phal-moy-II .</li>
+							<li>anat:R-pied-phal-dist-II .</li>
+							</ul>
+						</li>
+						<li>anat:R-pied-phalanges-III .
+							<ul style="list-style-type:circle">
+							<li>anat:R-pied-phal-proxi-III .</li>
+							<li>anat:R-pied-phal-moy-III .</li>
+							<li>anat:R-pied-phal-dist-III .</li>
+							</ul>
+						</li>
+						</ul>
+					</li>
+					<li>Os de l’arche externe du pied droit
+						<ul style="list-style-type:circle">
+						<li>anat:R-calca .</li>
+						<li>anat:R-cubo .</li>
+						<li>anat:R-metaT-IV .</li>
+						<li>anat:R-metaT-V .</li>
+						<li>anat:R-pied-phalanges-IV .
+							<ul style="list-style-type:circle">
+							<li>anat:R-pied-phal-proxi-IV .</li>
+							<li>anat:R-pied-phal-moy-IV .</li>
+							<li>anat:R-pied-phal-dist-IV .</li>
+							</ul>
+						</li>
+						<li>anat:R-pied-phalanges-V .
+							<ul style="list-style-type:circle">
+							<li>anat:R-pied-phal-proxi-V .</li>
+							<li>anat:R-pied-phal-moy-V .</li>
+							<li>anat:R-pied-phal-dist-V .</li>
+							</ul>
+						</li>
+						</ul>
+					</li>
+					</ul>
+				</td>
+			</tr>
+			</table>
+			<ul>
+		</li>
+		</ul>
+	</li>
+      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="8-2">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2" aria-expanded="false" aria-controls="collapse8-2">
+	<li><h4 class="subarea">MEMBRE INFÉRIEUR GAUCHE</h4>
+        </a>
+      </h4>
+    </div>
+    <div id="collapse8-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2">
+      <div class="panel-body">
+		<ul style="list-style-type:disc">
+		<li>RÉGION DE LA HANCHE GAUCHE
+			<ul style="list-style-type:circle">
+			<li>anat:L-iliaque .</li>
+			<li>anat:L-femur-epiP-sup .</li>
+			<li>Labrum acétabulaire gauche</li>
+			</ul>
+		</li>
+		<li>RÉGION DE LA CUISSE GAUCHE
+			<ul style="list-style-type:circle">
+			<li>anat:L-femur .</li>
+			<li>anat:L-patella .</li>
+			</ul>
+		</li>
+		<li>RÉGION DU GENOU GAUCHE
+			<ul style="list-style-type:circle">
+			<li>anat:L-femur-epiP-inf .</li>
+			<li>anat:L-patella .</li>
+			<li>anat:L-tibia-epiP-sup .</li>
+			<li>anat:L-fibula-epiP-sup .</li>
+			<li>Ménisques tibiaux gauches
+				<ul style="list-style-type:circle">
+				<li>anat:L-tibia-menisque-med .</li>
+				<li>anat:L-tibia-menisque-lat .</li>
+				</ul>
+			</li>
+			</ul>
+		</li>
+		<li>RÉGION DE LA JAMBE GAUCHE
+			<ul style="list-style-type:circle">
+			<li>anat:L-tibia .</li>
+			<li>anat:L-fibula .</li>
+			</ul>
+		</li>
+		<li>RÉGION DE LA CHEVILLE GAUCHE
+			<ul style="list-style-type:circle">
+			<li>anat:L-tibia-epiP-inf .</li>
+			<li>anat:L-fibula-epiP-inf .</li>
+			<li>Os du tarse gauche
+				<ul style="list-style-type:disc">
+				<li>anat:L-tarse-post .
+					<ul style="list-style-type:circle">
+					<li>anat:L-talus .</li>
+					<li>anat:L-calca .</li>
+					</ul>
+				</li>
+				<li>anat:L-tarse-ant .
+					<ul style="list-style-type:circle">
+					<li>anat:L-navi .</li>
+					<li>anat:L-cubo .</li>
+					<li>anat:L-cune-I .</li>
+					<li>anat:L-cune-II .</li>
+					<li>anat:L-cune-III .</li>
+					</ul>
+				</li>
+				</ul>
+			</li>
+			</ul>
+		</li>
+		<li>RÉGION DU PIED GAUCHE
+			<ul style="list-style-type:none">
+			<table>
+			<tr>
+				<td>
+					<ul style="list-style-type:disc">
+					<li>Os du tarse gauche
+						<ul style="list-style-type:disc">
+						<li>anat:L-tarse-post .
+							<ul style="list-style-type:circle">
+							<li>anat:L-talus .</li>
+							<li>anat:L-calca .</li>
+							</ul>
+						</li>
+						<li>anat:L-tarse-ant .
+							<ul style="list-style-type:circle">
+							<li>anat:L-navi .</li>
+							<li>anat:L-cubo .</li>
+							<li>anat:L-cune-I .</li>
+							<li>anat:L-cune-II .</li>
+							<li>anat:L-cune-III .</li>
+							</ul>
+						</li>
+						</ul>
+					</li>
+					<li>Os métatarses gauches
+						<ul style="list-style-type:circle">
+						<li>anat:L-metaT-I .</li>
+						<li>anat:L-metaT-II .</li>
+						<li>anat:L-metaT-III .</li>
+						<li>anat:L-metaT-IV .</li>
+						<li>anat:L-metaT-V .</li>
+						</ul>
+					</li>
+					<li>Os sésamoïdes de l’hallux gauche
+						<ul style="list-style-type:circle">
+						<li>anat:L-halux-sesamoide-lat .</li>
+						<li>anat:L-halux-sesamoide-med .</li>
+						</ul>
+					</li>
+					<li>Os des phalanges des orteils gauches
+						<ul style="list-style-type:disc">
+						<li>anat:L-pied-phalanges-I .
+							<ul style="list-style-type:circle">
+							<li>anat:L-pied-phal-proxi-I .</li>
+							<li>anat:L-pied-phal-dist-I .</li>
+							</ul>
+						</li>
+						<li>anat:L-pied-phalanges-II .
+							<ul style="list-style-type:circle">
+							<li>anat:L-pied-phal-proxi-II .</li>
+							<li>anat:L-pied-phal-moy-II .</li>
+							<li>anat:L-pied-phal-dist-II .</li>
+							</ul>
+						</li>
+						<li>anat:L-pied-phalanges-III .
+							<ul style="list-style-type:circle">
+							<li>anat:L-pied-phal-proxi-III .</li>
+							<li>anat:L-pied-phal-moy-III .</li>
+							<li>anat:L-pied-phal-dist-III .</li>
+							</ul>
+						</li>
+						<li>anat:L-pied-phalanges-IV .
+							<ul style="list-style-type:circle">
+							<li>anat:L-pied-phal-proxi-IV .</li>
+							<li>anat:L-pied-phal-moy-IV .</li>
+							<li>anat:L-pied-phal-dist-IV .</li>
+							</ul>
+						</li>
+						<li>anat:L-pied-phalanges-V .
+							<ul style="list-style-type:circle">
+							<li>anat:L-pied-phal-proxi-V .</li>
+							<li>anat:L-pied-phal-moy-V .</li>
+							<li>anat:L-pied-phal-dist-V .</li>
+							</ul>
+						</li>
+						</ul>
+					</li>
+					</ul>
+				</td>
+				<td>
+					<ul style="list-style-type:disc">
+					<li>Os de l’arche interne du pied gauche
+						<ul style="list-style-type:circle">
+						<li>anat:L-talus .</li>
+						<li>anat:L-navi .</li>
+						<li>anat:L-cune-I .</li>
+						<li>anat:L-cune-II .</li>
+						<li>anat:L-cune-III .</li>
+						<li>anat:L-metaT-I .</li>
+						<li>anat:L-metaT-II .</li>
+						<li>anat:L-metaT-III .</li>
+						<li>anat:L-pied-os-sesamoides .
+							<ul style="list-style-type:circle">
+							<li>anat:L-halux-sesamoide-lat .</li>
+							<li>anat:L-halux-sesamoide-med .</li>
+							</ul>
+						</li>
+						<li>anat:L-pied-phalanges-I .
+							<ul style="list-style-type:circle">
+							<li>anat:L-pied-phal-proxi-I .</li>
+							<li>anat:L-pied-phal-dist-I .</li>
+							</ul>
+						</li>
+						<li>anat:L-pied-phalanges-II .
+							<ul style="list-style-type:circle">
+							<li>anat:L-pied-phal-proxi-II .</li>
+							<li>anat:L-pied-phal-moy-II .</li>
+							<li>anat:L-pied-phal-dist-II .</li>
+							</ul>
+						</li>
+						<li>anat:L-pied-phalanges-III .
+							<ul style="list-style-type:circle">
+							<li>anat:L-pied-phal-proxi-III .</li>
+							<li>anat:L-pied-phal-moy-III .</li>
+							<li>anat:L-pied-phal-dist-III .</li>
+							</ul>
+						</li>
+						</ul>
+					</li>
+					<li>Os de l’arche externe du pied gauche
+						<ul style="list-style-type:circle">
+						<li>anat:L-calca .</li>
+						<li>anat:L-cubo .</li>
+						<li>anat:L-metaT-IV .</li>
+						<li>anat:L-metaT-V .</li>
+						<li>anat:L-pied-phalanges-IV .
+							<ul style="list-style-type:circle">
+							<li>anat:L-pied-phal-proxi-IV .</li>
+							<li>anat:L-pied-phal-moy-IV .</li>
+							<li>anat:L-pied-phal-dist-IV .</li>
+							</ul>
+						</li>
+						<li>anat:L-pied-phalanges-V .
+							<ul style="list-style-type:circle">
+							<li>anat:L-pied-phal-proxi-V .</li>
+							<li>anat:L-pied-phal-moy-V .</li>
+							<li>anat:L-pied-phal-dist-V .</li>
+							</ul>
+						</li>
+						</ul>
+					</li>
+					</ul>
+				</td>
+			</tr>
+			</table>
+			<ul>
+		</li>
+		</ul>
+	</li>
+      </div>
+    </div>
+  </div>
+	</ul>
+
+<h4 class="area">RÉGION DES MEMBRES SUPÉRIEURS</h4>
+	<ul style="list-style-type:none">
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="9-1">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-1" aria-expanded="false" aria-controls="collapse9-1">
+	<li><h4 class="subarea">MEMBRE SUPÉRIEUR DROIT</h4>
+        </a>
+      </h4>
+    </div>
+    <div id="collapse9-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-1">
+      <div class="panel-body">
+		<ul style="list-style-type:disc">
+		<li>RÉGION DE L'ÉPAULE DROITE
+			<ul style="list-style-type:circle">
+			<li>anat:R-clavicule .</li>
+			<li>anat:R-scapula .</li>
+			<li>anat:R-humerus-epiP-sup .</li>
+			</ul>
+		</li>
+		<li>RÉGION DU BRAS DROIT
+			<ul style="list-style-type:circle">
+			<li>anat:R-humerus .</li>
+			</ul>
+		</li>
+		<li>RÉGION DU COUDE DROIT
+			<ul style="list-style-type:circle">
+			<li>anat:R-humerus-epiP-inf .</li>
+			<li>anat:R-ulna-epiP-sup .</li>
+			<li>anat:R-radius-epiP-sup .</li>
+			</ul>
+		</li>
+		<li>RÉGION DE L'AVANT-BRAS DROIT
+			<ul style="list-style-type:circle">
+			<li>anat:R-radius .</li>
+			<li>anat:R-ulna .</li>
+			</ul>
+		</li>
+		<li>RÉGION DU POIGNET DROIT
+			<ul style="list-style-type:circle">
+			<li>anat:R-ulna-epiP-inf .</li>
+			<li>anat:R-radius-epiP-inf .</li>
+			<li>Os du carpe droit</li>
+			<li>anat:R-menisque-ulno-carpien .</li>
+			</ul>
+		</li>
+		<li>RÉGION DE LA MAIN DROITE
+			<ul style="list-style-type:disc">
+			<li>Os du carpe droit
+				<ul style="list-style-type:none">
+				<table>
+				<tr>
+					<td>
+						<ul style="list-style-type:disc">
+						<li>Os de la 1ere rangée du carpe droit
+							<ul style="list-style-type:circle">
+							<li>anat:R-scaphoide .</li>
+							<li>anat:R-lunatum .</li>
+							<li>anat:R-triquetrum .</li>
+							<li>anat:R-pisiforme .</li>
+							</ul>
+						</li>
+						<li>Os de la 2e rangée du carpe droit
+							<ul style="list-style-type:circle">
+							<li>anat:R-hamatum .</li>
+							<li>anat:R-capitatum .</li>
+							<li>anat:R-trapezoide .</li>
+							<li>anat:R-trapeze .</li>
+							</ul>
+						</li>
+						</ul>
+					</td>
+					<td>
+						<ul style="list-style-type:disc">
+						<li>Os du compartiment médial du carpe droit
+							<ul style="list-style-type:circle">
+							<li>anat:R-scaphoide .</li>
+							<li>anat:R-lunatum .</li>
+							<li>anat:R-triquetrum .</li>
+							<li>anat:R-pisiforme .</li>
+							<li>anat:R-hamatum .</li>
+							<li>anat:R-capitatum .</li>
+							</ul>
+						</li>
+						<li>Os du compartiment latéral du carpe droit
+							<ul style="list-style-type:circle">
+							<li>anat:R-trapezoide .</li>
+							<li>anat:R-trapeze .</li>
+							</ul>
+						</li>
+						</ul>
+					</td>
+				</tr>
+				</table>
+				</ul>
+			</li>
+			<li>Os métacarpes droits
+				<ul style="list-style-type:circle">
+				<li>anat:R-metaC-I .</li>
+				<li>anat:R-metaC-II .</li>
+				<li>anat:R-metaC-III .</li>
+				<li>anat:R-metaC-IV .</li>
+				<li>anat:R-metaC-V .</li>
+				</ul>
+			</li>
+			<li>Os sésamoïdes du pouce droit
+				<ul style="list-style-type:circle">
+				<li>anat:R-pouce-sesamoide-lat .</li>
+				<li>anat:R-pouce-sesamoide-med .</li>
+				</ul>
+			</li>
+			<li>Os des phalanges des doigts droits
+				<ul style="list-style-type:disc">
+				<li>anat:R-main-phalanges-I .
+					<ul style="list-style-type:circle">
+					<li>anat:R-main-phal-proxi-I .</li>
+					<li>anat:R-main-phal-dist-I .</li>
+					</ul>
+				</li>
+				<li>anat:R-main-phalanges-II .
+					<ul style="list-style-type:circle">
+					<li>anat:R-main-phal-proxi-II .</li>
+					<li>anat:R-main-phal-moy-II .</li>
+					<li>anat:R-main-phal-dist-II .</li>
+					</ul>
+				</li>
+				<li>anat:R-main-phalanges-III .
+					<ul style="list-style-type:circle">
+					<li>anat:R-main-phal-proxi-III .</li>
+					<li>anat:R-main-phal-moy-III .</li>
+					<li>anat:R-main-phal-dist-III .</li>
+					</ul>
+				</li>
+				<li>anat:R-main-phalanges-IV .
+					<ul style="list-style-type:circle">
+					<li>anat:R-main-phal-proxi-IV .</li>
+					<li>anat:R-main-phal-moy-IV .</li>
+					<li>anat:R-main-phal-dist-IV .</li>
+					</ul>
+				</li>
+				<li>anat:R-main-phalanges-V .
+					<ul style="list-style-type:circle">
+					<li>anat:R-main-phal-proxi-V .</li>
+					<li>anat:R-main-phal-moy-V .</li>
+					<li>anat:R-main-phal-dist-V .</li>
+					</ul>
+				</li>
+				</ul>
+			</li>
+			<li>Colonne du pouce droit
+				<ul style="list-style-type:circle">
+				<li>anat:R-metaC-I .</li>
+				<li>anat:R-main-phalanges-I .
+					<ul style="list-style-type:circle">
+					<li>anat:R-main-phal-proxi-I .</li>
+					<li>anat:R-main-phal-dist-I .</li>
+					</ul>
+				</li>
+				<li>Os sésamoïdes du pouce droit
+					<ul style="list-style-type:circle">
+					<li>anat:R-pouce-sesamoide-lat .</li>
+					<li>anat:R-pouce-sesamoide-med .</li>
+					</ul>
+				</li>
+				</ul>
+			</li>
+			</ul>
+		</li>
+		</ul>
+	</li>
+      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="9-2">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-2" aria-expanded="false" aria-controls="collapse9-2">
+	<li><h4 class="subarea">MEMBRE INFÉRIEUR GAUCHE</h4>
+        </a>
+      </h4>
+    </div>
+    <div id="collapse9-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-2">
+      <div class="panel-body">
+		<ul style="list-style-type:disc">
+		<li>RÉGION DE L'ÉPAULE GAUCHE
+			<ul style="list-style-type:circle">
+			<li>anat:L-clavicule .</li>
+			<li>anat:L-scapula .</li>
+			<li>anat:L-humerus-epiP-sup .</li>
+			</ul>
+		</li>
+		<li>RÉGION DU BRAS GAUCHE
+			<ul style="list-style-type:circle">
+			<li>anat:L-humerus .</li>
+			</ul>
+		</li>
+		<li>RÉGION DU COUDE GAUCHE
+			<ul style="list-style-type:circle">
+			<li>anat:L-humerus-epiP-inf .</li>
+			<li>anat:L-ulna-epiP-sup .</li>
+			<li>anat:L-radius-epiP-sup .</li>
+			</ul>
+		</li>
+		<li>RÉGION DE L'AVANT-BRAS GAUCHE
+			<ul style="list-style-type:circle">
+			<li>anat:L-radius .</li>
+			<li>anat:L-ulna .</li>
+			</ul>
+		</li>
+		<li>RÉGION DU POIGNET GAUCHE
+			<ul style="list-style-type:circle">
+			<li>anat:L-ulna-epiP-inf .</li>
+			<li>anat:L-radius-epiP-inf .</li>
+			<li>Os du carpe gauche</li>
+			<li>anat:L-menisque-ulno-carpien .</li>
+			</ul>
+		</li>
+		<li>RÉGION DE LA MAIN GAUCHE
+			<ul style="list-style-type:disc">
+			<li>Os du carpe gauche
+				<ul style="list-style-type:none">
+				<table>
+				<tr>
+					<td>
+						<ul style="list-style-type:disc">
+						<li>Os de la 1ere rangée du carpe gauche
+							<ul style="list-style-type:circle">
+							<li>anat:L-scaphoide .</li>
+							<li>anat:L-lunatum .</li>
+							<li>anat:L-triquetrum .</li>
+							<li>anat:L-pisiforme .</li>
+							</ul>
+						</li>
+						<li>Os de la 2e rangée du carpe gauche
+							<ul style="list-style-type:circle">
+							<li>anat:L-hamatum .</li>
+							<li>anat:L-capitatum .</li>
+							<li>anat:L-trapezoide .</li>
+							<li>anat:L-trapeze .</li>
+							</ul>
+						</li>
+						</ul>
+					</td>
+					<td>
+						<ul style="list-style-type:disc">
+						<li>Os du compartiment médial du carpe gauche
+							<ul style="list-style-type:circle">
+							<li>anat:L-scaphoide .</li>
+							<li>anat:L-lunatum .</li>
+							<li>anat:L-triquetrum .</li>
+							<li>anat:L-pisiforme .</li>
+							<li>anat:L-hamatum .</li>
+							<li>anat:L-capitatum .</li>
+							</ul>
+						</li>
+						<li>Os du compartiment latéral du carpe gauche
+							<ul style="list-style-type:circle">
+							<li>anat:L-trapezoide .</li>
+							<li>anat:L-trapeze .</li>
+							</ul>
+						</li>
+						</ul>
+					</td>
+				</tr>
+				</table>
+				</ul>
+			</li>
+			<li>Os métacarpes gauches
+				<ul style="list-style-type:circle">
+				<li>anat:L-metaC-I .</li>
+				<li>anat:L-metaC-II .</li>
+				<li>anat:L-metaC-III .</li>
+				<li>anat:L-metaC-IV .</li>
+				<li>anat:L-metaC-V .</li>
+				</ul>
+			</li>
+			<li>Os sésamoïdes du pouce gauche
+				<ul style="list-style-type:circle">
+				<li>anat:L-pouce-sesamoide-lat .</li>
+				<li>anat:L-pouce-sesamoide-med .</li>
+				</ul>
+			</li>
+			<li>Os des phalanges des doigts gauches
+				<ul style="list-style-type:disc">
+				<li>anat:L-main-phalanges-I .
+					<ul style="list-style-type:circle">
+					<li>anat:L-main-phal-proxi-I .</li>
+					<li>anat:L-main-phal-dist-I .</li>
+					</ul>
+				</li>
+				<li>anat:L-main-phalanges-II .
+					<ul style="list-style-type:circle">
+					<li>anat:L-main-phal-proxi-II .</li>
+					<li>anat:L-main-phal-moy-II .</li>
+					<li>anat:L-main-phal-dist-II .</li>
+					</ul>
+				</li>
+				<li>anat:L-main-phalanges-III .
+					<ul style="list-style-type:circle">
+					<li>anat:L-main-phal-proxi-III .</li>
+					<li>anat:L-main-phal-moy-III .</li>
+					<li>anat:L-main-phal-dist-III .</li>
+					</ul>
+				</li>
+				<li>anat:L-main-phalanges-IV .
+					<ul style="list-style-type:circle">
+					<li>anat:L-main-phal-proxi-IV .</li>
+					<li>anat:L-main-phal-moy-IV .</li>
+					<li>anat:L-main-phal-dist-IV .</li>
+					</ul>
+				</li>
+				<li>anat:L-main-phalanges-V .
+					<ul style="list-style-type:circle">
+					<li>anat:L-main-phal-proxi-V .</li>
+					<li>anat:L-main-phal-moy-V .</li>
+					<li>anat:L-main-phal-dist-V .</li>
+					</ul>
+				</li>
+				</ul>
+			</li>
+			<li>Colonne du pouce gauche
+				<ul style="list-style-type:circle">
+				<li>anat:L-metaC-I .</li>
+				<li>anat:L-main-phalanges-I .
+					<ul style="list-style-type:circle">
+					<li>anat:L-main-phal-proxi-I .</li>
+					<li>anat:L-main-phal-dist-I .</li>
+					</ul>
+				</li>
+				<li>Os sésamoïdes du pouce gauche
+					<ul style="list-style-type:circle">
+					<li>anat:L-pouce-sesamoide-lat .</li>
+					<li>anat:L-pouce-sesamoide-med .</li>
+					</ul>
+				</li>
+				</ul>
+			</li>
+			</ul>
+		</li>
+		</ul>
+	</li>
+      </div>
+    </div>
+  </div>
+	<ul>
+</div>

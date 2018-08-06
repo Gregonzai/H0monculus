@@ -1,0 +1,457 @@
+@prefix			rdf:				<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix			rdfs:				<http://www.w3.org/2000/01/rdf-schema#> .
+@prefix			owl:				<http://www.w3.org/2002/07/owl#> .
+@prefix			anat:				<http://anat.org/> .
+
+
+anat:anat-region			rdf:type			owl:Class .
+anat:anat-region			rdfs:label			"Region anatomique" .
+anat:anat-region-UC			rdfs:subClassOf			anat:anat-region .
+anat:anat-region-UC			rdfs:label			"Region de l'unite centrale" .
+anat:anat-sous-region-UC		rdfs:subClassOf			anat:anat-region-UC .
+anat:anat-sous-region-UC		rdfs:label			"Sous region de l'unite centrale" .
+anat:anat-region-charniere		rdfs:subClassOf			anat:anat-region-UC .
+anat:anat-region-charniere		rdfs:label			"Region charniere" .
+anat:anat-region-charniere-etendue	rdfs:subClassOf			anat:anat-region-charniere .
+anat:anat-region-charniere-etendue	rdfs:label			"Region charniere etendue" .
+anat:anat-region-ceinture		rdfs:subClassOf			anat:anat-region .
+anat:anat-region-ceinture		rdfs:label			"Region ceinture" .
+anat:anat-region-ceinture-etendue	rdfs:subClassOf			anat:anat-region-ceinture .
+anat:anat-region-ceinture-etendue	rdfs:label			"Region ceinture etendue" .
+anat:anat-region-apendiculaire		rdfs:subClassOf			anat:anat-region .
+anat:anat-region-apendiculaire		rdfs:label			"Region du systeme apendiculaire" .
+anat:anat-region-sgmt			rdfs:subClassOf			anat:anat-region-apendiculaire .
+anat:anat-region-sgmt			rdfs:label			"Region segmentaire" .
+anat:anat-region-arti			rdfs:subClassOf			anat:anat-region-apendiculaire .
+anat:anat-region-arti			rdfs:label			"Region articulaire" .
+
+anat:Sys-support-mvt			rdf:type			owl:Class .
+anat:Sys-support-mvt			rdfs:label			"Systeme de support statique, de mise en mouvement et de protection aux chocs" .
+anat:Sys-support-arti			rdfs:subClassOf			anat:Sys-support-mvt .
+anat:Sys-support-arti			rdfs:label			"Systeme articule de support statique et de protection aux chocs" .
+anat:Sys-support			rdfs:subClassOf			anat:Sys-support-arti .
+anat:Sys-support			rdfs:label			"Systeme de support statique et de protection aux chocs" .
+anat:Sys-glissement			rdfs:subClassOf			anat:Sys-support-arti .
+anat:Sys-glissement			rdfs:label			"Systeme de glissement inter osseux" .
+anat:Sys-organisation-arti		rdfs:subClassOf			anat:Sys-support-arti .
+anat:Sys-organisation-arti		rdfs:label			"Systeme d'organisation des mouvements osseux" .
+anat:Sys-mobilisateur			rdfs:subClassOf			anat:Sys-support-mvt .
+anat:Sys-mobilisateur			rdfs:label			"Systeme de mise en mouvement" .
+anat:MS-region				rdf:type			owl:Class .
+anat:MS-region				rdfs:label			"Region du systeme musculo-squelettique" .
+anat:MS-region-anat			rdfs:subClassOf			anat:MS-region .
+anat:MS-region-anat			rdfs:label			"Region anatomique du systeme musculo-squelettique" .
+anat:MS-region-paroi-cavite-ant		rdfs:subClassOf			anat:MS-region .
+anat:MS-region-paroi-cavite-ant		rdfs:label			"Paroi cavitaire avterieure" .
+anat:MS-region-paroi-cavite-post	rdfs:subClassOf			anat:MS-region .
+anat:MS-region-paroi-cavite-post	rdfs:label			"Paroi cavitaire avterieure" .
+anat:MS-region-9-cplx-arti		rdfs:subClassOf			anat:MS-region .
+anat:MS-region-9-cplx-arti		rdfs:label			"Region complexe articulaire" .
+anat:MS-region-3-membres		rdfs:subClassOf			anat:MS-region .
+anat:MS-region-3-membres		rdfs:label			"Region des 3 membres" .
+anat:MS-reg-osteo-arti			rdfs:subClassOf			anat:MS-region .
+anat:MS-reg-osteo-arti			rdfs:label			"Region osteo-articulaire" .
+anat:MS-reg-ossature			rdfs:subClassOf			anat:MS-reg-osteo-arti .
+anat:MS-reg-ossature			rdfs:label			"Region osseuse du systeme musculo-squelettique" .
+anat:MS-reg-articulations		rdfs:subClassOf			anat:MS-reg-osteo-arti .
+anat:MS-reg-articulations		rdfs:label			"Region articulaire du systeme musculo-squelettique" .
+anat:MS-reg-ligaments			rdfs:subClassOf			anat:MS-reg-osteo-arti .
+anat:MS-reg-ligaments			rdfs:label			"Region ligamentaire du systeme musculo-squelettique" .
+anat:MS-reg-muscles			rdfs:subClassOf			anat:MS-region .
+anat:MS-reg-muscles			rdfs:label			"Region musculaire du systeme musculo-squelettique" .
+#anat:MS-FASCIA				rdfs:subClassOf			anat:MS-region .
+#anat:MS-FASCIA				rdfs:label			"Region fasciale du systeme musculo-squelettique" .
+
+anat:cavite				rdf:type			owl:Class .
+anat:cavite				rdfs:label			"Cavite" .
+anat:cavite-ant				rdfs:subClassOf			anat:cavite .
+anat:cavite-ant				rdfs:label			"Cavite anterieure" .
+anat:sinus-aerien			rdfs:subClassOf			anat:cavite-ant .
+anat:sinus-aerien			rdfs:label			"Sinus aerien" .
+anat:cavite-ext				rdfs:subClassOf			anat:cavite .
+anat:cavite-ext				rdfs:label			"Cavite externe" .
+anat:cavite-post			rdfs:subClassOf			anat:cavite .
+anat:cavite-post			rdfs:label			"Cavite posterieure" .
+anat:monde-ext				rdfs:subClassOf			anat:cavite .
+anat:monde-ext				rdfs:label			"Monde exterieur" .
+
+anat:bone				rdf:type			owl:Class .
+anat:bone				rdfs:label			"Os" .
+anat:short-bone				rdfs:subClassOf			anat:bone .
+anat:short-bone				rdfs:label			"Os court" .
+anat:long-bone				rdfs:subClassOf			anat:bone .
+anat:long-bone				rdfs:label			"Os long" .
+anat:flat-bone				rdfs:subClassOf			anat:bone .
+anat:flat-bone				rdfs:label			"Os plat" .
+anat:mini-bone				rdfs:subClassOf			anat:bone .
+anat:mini-bone				rdfs:label			"Os miniature" .
+anat:sesamoid-bone			rdfs:subClassOf			anat:bone .
+anat:sesamoid-bone			rdfs:label			"Os sesamoide" .
+
+anat:dent				rdf:type			owl:Class .
+anat:dent				rdfs:label			"Dent" .
+anat:dent-groupe			rdf:type			owl:Class .
+anat:dent-groupe			rdfs:label			"Groupe de dents" .
+
+anat:bone-group				rdf:type			owl:Class .
+anat:bone-group				rdfs:label			"Groupe osseux" .
+anat:bone-structure			rdf:type			owl:Class .
+anat:bone-structure			rdfs:label			"Structure osseuse" .
+anat:bone-meta-structure		rdf:type			owl:Class .
+anat:bone-meta-structure		rdfs:label			"Meta-structure osseuse" .
+anat:bone-canal				rdf:type			owl:Class .
+anat:bone-canal				rdfs:label			"Canal osseux" .
+anat:bone-foramen			rdf:type			owl:Class .
+anat:bone-foramen			rdfs:label			"Foramen osseux" .
+anat:bone-description			rdf:type			owl:Class .
+anat:bone-description			rdfs:label			"Description de structure osseuse" .
+
+anat:carti-structure			rdf:type			owl:Class .
+anat:carti-structure			rdfs:label			"Structure cartilagineuse" .
+anat:groupe-carti-structure		rdf:type			owl:Class .
+anat:groupe-carti-structure		rdfs:label			"Groupe de structures cartilagineuses" .
+
+anat:surface-articulaire		rdf:type			owl:Class .
+anat:surface-articulaire		rdfs:label			"Surface articulaire" .
+anat:cartilage-articulaire		rdfs:subClassOf			anat:surface-articulaire .
+anat:cartilage-articulaire		rdfs:label			"Cartilage articulaire" .
+anat:surf-insrt-lgmt			rdf:type			owl:Class .
+anat:surf-insrt-lgmt			rdfs:label			"Surface d'insertion ligamentaire" .
+anat:surf-insrt-mscl			rdf:type			owl:Class .
+anat:surf-insrt-mscl			rdfs:label			"Surface d'insertion musculaire" .
+anat:surf-insrt-capsule-arti		rdf:type			owl:Class .
+anat:surf-insrt-capsule-arti		rdfs:label			"Surface d'insertion de capsule articulaire" .
+anat:surf-insrt-bourse-arti		rdf:type			owl:Class .
+anat:surf-insrt-bourse-arti		rdfs:label			"Surface d'insertion de bourse articulaire" .
+
+anat:articulation			rdf:type			owl:Class .
+anat:articulation			rdfs:label			"Articulation" .
+anat:complexe-articulaire		rdf:type			owl:Class .
+anat:complexe-articulaire		rdfs:label			"Complexe articulaire" .
+
+anat:ligament				rdf:type			owl:Class .
+anat:ligament				rdfs:label			"Ligament" .
+anat:groupe-ligamentaire		rdf:type			owl:Class .
+anat:groupe-ligamentaire		rdfs:label			"Groupe ligamentaire" .
+anat:capsule-arti			rdf:type			owl:Class .
+anat:capsule-arti			rdfs:label			"Capsule articulaire" .
+anat:bourse-synoviale			rdf:type			owl:Class .
+anat:bourse-synoviale			rdfs:label			"Bourse synoviale" .
+
+anat:structure-fibreuse			rdf:type			owl:Class .
+anat:structure-fibreuse			rdfs:label			"Structure fibreuse" .
+
+anat:muscle				rdf:type			owl:Class .
+anat:muscle				rdfs:label			"Muscle" .
+anat:chef-musculaire			rdf:type			owl:Class .
+anat:chef-musculaire			rdfs:label			"Chef musculaire" .
+anat:attache-musculaire			rdf:type			owl:Class .
+anat:attache-musculaire			rdfs:label			"Attache musculaire" .
+anat:tendon				rdf:type			owl:Class .
+anat:tendon				rdfs:label			"Tendon" .
+anat:groupe-tendineux			rdf:type			owl:Class .
+anat:groupe-tendineux			rdfs:label			"Groupe tendineux" .
+
+anat:muscle-org-visc			rdfs:subClassOf			anat:muscle .
+anat:muscle-org-visc			rdfs:label			"Muscle des organes et visceres" .
+anat:muscle-visceral			rdfs:subClassOf			anat:muscle-org-visc .
+anat:muscle-visceral			rdfs:label			"Muscle visceral" .
+anat:muscle-visceral-volontaire		rdfs:subClassOf			anat:muscle-org-visc .
+anat:muscle-visceral-volontaire		rdfs:label			"Muscle visceral volontaire" .
+anat:muscle-visc-sphincter		rdfs:subClassOf			anat:muscle-visceral .
+anat:muscle-visc-sphincter		rdfs:label			"Muscle sphincter visceral" .
+anat:muscle-visc-sphincter-cst		rdfs:subClassOf			anat:muscle-visceral .
+anat:muscle-visc-sphincter-cst		rdfs:label			"Muscle sphincter conscient" .
+
+anat:muscle-sphincter-oeil		rdfs:subClassOf			anat:muscle .
+anat:muscle-sphincter-oeil		rdfs:label			"Muscle sphincter de l'oeil" .
+
+anat:muscle-ms				rdfs:subClassOf			anat:muscle .
+anat:muscle-ms				rdfs:label			"Muscle du systeme musculo-squelettique" .
+anat:muscle-mono-arti			rdfs:subClassOf			anat:muscle-ms .
+anat:muscle-mono-arti			rdfs:label			"Muscle mono articulaire" .
+anat:muscle-poly-arti			rdfs:subClassOf			anat:muscle-ms .
+anat:muscle-poly-arti			rdfs:label			"Muscle poly articulaire" .
+anat:muscle-ms-fascia			rdfs:subClassOf			anat:muscle-ms .
+anat:muscle-ms-fascia			rdfs:label			"Muscle relie au systeme fascial" .
+
+#?anat:classe-musculaire			rdf:type			owl:Class .
+#?anat:classe-musculaire			rdfs:label			"Classe musculaire" .
+anat:groupe-musculaire			rdfs:subClassOf			anat:classe-musculaire .
+anat:groupe-musculaire			rdfs:label			"Groupe musculaire" .
+anat:chaine-musculaire			rdfs:subClassOf			anat:classe-musculaire .
+anat:chaine-musculaire			rdfs:label			"Chaine musculaire" .
+anat:str-diaphragmatiq			rdfs:subClassOf			anat:classe-musculaire .
+anat:str-diaphragmatiq			rdfs:label			"Structure diaphragmatique" .
+
+anat:muscle-CV				rdfs:subClassOf			anat:muscle .
+anat:muscle-CV				rdfs:label			"Muscle cardio vasculaire" .
+
+
+anat:fascia				rdf:type			owl:Class .
+anat:fascia				rdfs:label			"Fascia" .
+
+
+anat:has3DmodelURL			rdf:type			owl:ObjectProperty .
+anat:hasImage3D			rdf:type			owl:ObjectProperty .
+
+anat:comprend				rdf:type			owl:ObjectProperty .
+anat:comprend				rdfs:label			"comprend" .
+anat:part-comprend			rdf:type			owl:ObjectProperty .
+anat:part-comprend			rdfs:label			"comprend en partie" .
+
+anat:prolonge				rdf:type			owl:ObjectProperty .
+anat:prolonge				rdfs:label			"prolonge" .
+anat:os-prolonge			rdf:type			owl:ObjectProperty .
+anat:os-prolonge			rdfs:label			"est articule avec" .
+anat:struct-os-prolonge			rdf:type			owl:ObjectProperty .
+anat:struct-os-prolonge			rdfs:label			"prolonge" .
+anat:td-prolonge			rdf:type			owl:ObjectProperty .
+anat:td-prolonge			rdfs:label			"prolonge" .
+anat:cvt-prolonge			rdf:type			owl:ObjectProperty .
+anat:cvt-prolonge			rdfs:label			"prolonge" .
+anat:vascu-prolonge			rdf:type			owl:ObjectProperty .
+anat:vascu-prolonge			rdfs:label			"prolonge" .
+anat:lymph-prolonge			rdf:type			owl:ObjectProperty .
+anat:lymph-prolonge			rdfs:label			"prolonge" .
+anat:nf-prolonge			rdf:type			owl:ObjectProperty .
+anat:nf-prolonge			rdfs:label			"prolonge" .
+anat:organ-prolonge			rdf:type			owl:ObjectProperty .
+anat:organ-prolonge			rdfs:label			"prolonge" .
+anat:conduit-prolonge			rdf:type			owl:ObjectProperty .
+anat:conduit-prolonge			rdfs:label			"prolonge" .
+anat:system-prolonge			rdf:type			owl:ObjectProperty .
+anat:system-prolonge			rdfs:label			"prolonge" .
+anat:fascia-prolonge			rdf:type			owl:ObjectProperty .
+anat:fascia-prolonge			rdfs:label			"prolonge" .
+
+anat:compose-de				rdf:type			owl:ObjectProperty .
+anat:compose-de				rdfs:label			"est compose de" .
+
+anat:articule-avec			rdf:type			owl:ObjectProperty .
+anat:articule-avec			rdfs:label			"s'articule avec" .
+anat:indirect-articule-avec		rdf:type			owl:ObjectProperty .
+anat:indirect-articule-avec		rdfs:label			"est articule indirectement avec" .
+anat:distance-articule-avec		rdf:type			owl:ObjectProperty .
+anat:distance-articule-avec		rdfs:label			"est articule a distance avec" .
+
+anat:en-contact-avec			rdf:type			owl:ObjectProperty .
+anat:en-contact-avec			rdfs:label			"est en contact avec" .
+
+anat:limite				rdf:type			owl:ObjectProperty .
+anat:limite				rdfs:label			"limite" .
+
+anat:contient				rdf:type			owl:ObjectProperty .
+anat:contient				rdfs:label			"contient" .
+
+anat:rapport-ant-avec			rdf:type			owl:ObjectProperty .
+anat:rapport-ant-avec			rdfs:label			"Rapports anterieurs :" .
+anat:rapport-post-avec			rdf:type			owl:ObjectProperty .
+anat:rapport-post-avec			rdfs:label			"Rapports posterieurs :" .
+anat:rapport-latD-avec			rdf:type			owl:ObjectProperty .
+anat:rapport-latD-avec			rdfs:label			"Rapports lateraux droite :" .
+anat:rapport-latG-avec			rdf:type			owl:ObjectProperty .
+anat:rapport-latG-avec			rdfs:label			"Rapports lateraux gauche :" .
+anat:rapport-sup-avec			rdf:type			owl:ObjectProperty .
+anat:rapport-sup-avec			rdfs:label			"Rapports superieurs :" .
+anat:rapport-inf-avec			rdf:type			owl:ObjectProperty .
+anat:rapport-inf-avec			rdfs:label			"Rapports inferieurs :" .
+
+anat:s-insere-sur			rdf:type			owl:ObjectProperty .
+anat:s-insere-sur			rdfs:label			"s'insere sur" .
+anat:origi-insere-sur			rdf:type			owl:ObjectProperty .
+anat:origi-insere-sur			rdfs:label			"s'insere sur (origine)" .
+anat:termi-insere-sur			rdf:type			owl:ObjectProperty .
+anat:termi-insere-sur			rdfs:label			"s'insere sur (terminaison)" .
+anat:coulisse-dans			rdf:type			owl:ObjectProperty .
+anat:coulisse-dans			rdfs:label			"coulisse dans" .
+#anat:s-insere-sur			rdfs:range			anat:bone .
+#anat:s-insere-sur			rdfs:range			anat:fascia .
+#anat:s-insere-sur			rdfs:domain			anat:ligament .
+#anat:s-insere-sur			rdfs:domain			anat:muscle .
+#anat:s-insere-sur			rdfs:domain			anat:fascia .
+
+anat:muscle-circonscrit			rdf:type			owl:ObjectProperty .
+anat:muscle-circonscrit			rdfs:label			"circonscrit" .
+
+#________________________________________________________________________________________________
+
+anat:Sys-Organique			rdf:type		owl:Class .
+anat:Sys-Organique			rdfs:label		"Systeme organique" .
+anat:organe				rdf:type		owl:Class .
+anat:organe				rdfs:label		"Organe" .
+anat:viscere				rdf:type		owl:Class .
+anat:viscere				rdfs:label		"Viscere" .
+anat:conduit				rdf:type		owl:Class .
+anat:conduit				rdfs:label		"Conduit" .
+anat:conduit-visceral			rdfs:subClassOf		anat:conduit .
+anat:conduit-visceral			rdfs:label		"Conduit visceral" .
+anat:glande				rdf:type		owl:Class .
+anat:glande				rdfs:label		"Glande" .
+anat:glande-fonctionnelle		rdfs:subClassOf		anat:glande .
+anat:glande-fonctionnelle		rdfs:label		"Glande 'fonctionelle'" .
+anat:glande-dig				rdfs:subClassOf		anat:glande-fonctionnelle .
+anat:glande-dig				rdfs:label		"Glande digestive" .
+anat:glande-oeil			rdfs:subClassOf		anat:glande-fonctionnelle .
+anat:glande-oeil			rdfs:label		"Glande d'humidification de l'oeil" .
+anat:glande-repro			rdfs:subClassOf		anat:glande-fonctionnelle .
+anat:glande-repro			rdfs:label		"Glande reproductrice" .
+anat:glande-endo			rdfs:subClassOf		anat:glande .
+anat:glande-endo			rdfs:label		"Glande endocrine" .
+anat:glande-endo-ant			rdfs:subClassOf		anat:glande-endo .
+anat:glande-endo-ant			rdfs:label		"Glande endocrine anterieure" .
+anat:glande-endo-post			rdfs:subClassOf		anat:glande-endo .
+anat:glande-endo-post			rdfs:label		"Glande endocrine posterieure" .
+anat:Sys-liquidien			rdfs:subClassOf		anat:Sys-Organique .
+anat:Sys-liquidien			rdfs:label		"Systeme de circulation et de distribution liquidienne" .
+anat:circu-sanguine			rdfs:subClassOf		anat:Sys-liquidien .
+anat:circu-sanguine			rdfs:label		"Voie de circulation sanguine" .
+anat:artr-circu-sanguine		rdfs:subClassOf		anat:circu-sanguine .
+anat:artr-circu-sanguine		rdfs:label		"Voie de circulation arterielle" .
+anat:vein-circu-sanguine		rdfs:subClassOf		anat:circu-sanguine .
+anat:vein-circu-sanguine		rdfs:label		"Voie de circulation veineuse" .
+anat:capi-circu-sanguine		rdfs:subClassOf		anat:circu-sanguine .
+anat:capi-circu-sanguine		rdfs:label		"Voie de circulation capilaire" .
+anat:circu-nourriciere			rdfs:subClassOf		anat:circu-sanguine .
+anat:circu-nourriciere			rdfs:label		"Voie de circulation sanguine nourriciere" .
+anat:artr-circu-nourriciere		rdfs:subClassOf		anat:circu-nourriciere .
+anat:artr-circu-nourriciere		rdfs:label		"Voie de circulation sanguine nourriciere subdivision" .
+anat:vein-circu-nourriciere		rdfs:subClassOf		anat:circu-nourriciere .
+anat:vein-circu-nourriciere		rdfs:label		"Voie de circulation sanguine nourriciere subdivision" .
+anat:capi-circu-nourriciere		rdfs:subClassOf		anat:circu-nourriciere .
+anat:capi-circu-nourriciere		rdfs:label		"Voie de circulation sanguine nourriciere subdivision" .
+anat:circu-fonctionnelle		rdfs:subClassOf		anat:circu-sanguine .
+anat:circu-fonctionnelle		rdfs:label		"Voie de circulation sanguine fonctionnelle" .
+anat:artr-circu-fonctionnelle		rdfs:subClassOf		anat:circu-fonctionnelle .
+anat:artr-circu-fonctionnelle		rdfs:label		"Voie de circulation sanguine fonctionnelle subdivision" .
+anat:vein-circu-fonctionnelle		rdfs:subClassOf		anat:circu-fonctionnelle .
+anat:vein-circu-fonctionnelle		rdfs:label		"Voie de circulation sanguine fonctionnelle subdivision" .
+anat:capi-circu-fonctionnelle		rdfs:subClassOf		anat:circu-fonctionnelle .
+anat:capi-circu-fonctionnelle		rdfs:label		"Voie de circulation sanguine fonctionnelle subdivision" .
+anat:organe-sanguin			rdfs:subClassOf		anat:organe .
+anat:organe-sanguin			rdfs:label		"Organe sanguin" .
+anat:organe-sanguin-subdi		rdfs:subClassOf		anat:organe-sanguin .
+anat:organe-sanguin-subdi		rdfs:label		"Organe sanguin subdivision" .
+anat:vaisseau-sanguin			rdfs:subClassOf		anat:conduit .
+anat:vaisseau-sanguin			rdfs:label		"Vaisseau sanguin" .
+anat:artere				rdfs:subClassOf		anat:vaisseau-sanguin .
+anat:artere				rdfs:label		"Artere" .
+anat:veine				rdfs:subClassOf		anat:vaisseau-sanguin .
+anat:veine				rdfs:label		"Veine" .
+anat:capilaires				rdfs:subClassOf		anat:vaisseau-sanguin .
+anat:capilaires				rdfs:label		"Reseau de capilaires" .
+anat:Sys-liquidien-para			rdfs:subClassOf		anat:Sys-Organique .
+anat:Sys-liquidien-para			rdfs:label		"Systeme de circulation liquidienne parallele" .
+anat:sous-sys-liquidien-para		rdfs:subClassOf		anat:Sys-liquidien-para .
+anat:sous-sys-liquidien-para		rdfs:label		"Sous systeme de circulation liquidienne parallele" .
+anat:organe-lymph			rdfs:subClassOf		anat:organe .
+anat:organe-lymph			rdfs:label		"Organe lymphoide" .
+anat:organe-lymph-1aire			rdfs:subClassOf		anat:organe-lymph .
+anat:organe-lymph-1aire			rdfs:label		"Organe lymphoide primaire" .
+anat:organe-lymph-1aire-subdi		rdfs:subClassOf		anat:organe-lymph-1aire .
+anat:organe-lymph-1aire-subdi		rdfs:label		"Organe lymphoide primaire subdivision" .
+anat:organe-lymph-2aire			rdfs:subClassOf		anat:organe-lymph .
+anat:organe-lymph-2aire			rdfs:label		"Organe lymphoide secondaire" .
+anat:organe-lymph-2aire-subdi		rdfs:subClassOf		anat:organe-lymph-2aire .
+anat:organe-lymph-2aire-subdi		rdfs:label		"Organe lymphoide secondaire subdivision" .
+anat:ganglion-lymph			rdfs:subClassOf		anat:organe-lymph-2aire-subdi .
+anat:ganglion-lymph			rdfs:label		"Ganglion lymphatique" .
+anat:tissu-lymph-muqueuse		rdfs:subClassOf		anat:conduit .
+anat:tissu-lymph-muqueuse		rdfs:label		"Tissu lymphoide associe a une muqueuse" .
+anat:vaisseau-lymph			rdfs:subClassOf		anat:conduit .
+anat:vaisseau-lymph			rdfs:label		"Vaisseau lymphatique" .
+anat:Sys-transition			rdfs:subClassOf		anat:Sys-Organique .
+anat:Sys-transition			rdfs:label		"Systeme de transition monde exterieur/monde interieur" .
+anat:Sys-echange-gaz			rdfs:subClassOf		anat:Sys-transition .
+anat:Sys-echange-gaz			rdfs:label		"Systeme d'echange gazeux" .
+anat:sous-sys-echange-gaz		rdfs:subClassOf		anat:Sys-echange-gaz .
+anat:sous-sys-echange-gaz		rdfs:label		"Sous systeme d'echange gazeux" .
+anat:organe-respi			rdfs:subClassOf		anat:organe .
+anat:organe-respi			rdfs:label		"Organe aerien" .
+anat:organe-respi-subdi			rdfs:subClassOf		anat:organe-respi .
+anat:organe-respi-subdi			rdfs:label		"Organe aerien subdivision" .
+anat:conduit-air			rdfs:subClassOf		anat:conduit-visceral .
+anat:conduit-air			rdfs:label		"Conduit aerien" .
+anat:gd-conduit-air			rdfs:subClassOf		anat:conduit-air .
+anat:gd-conduit-air			rdfs:label		"Grand conduit aerien" .
+anat:Sys-assimilation			rdfs:subClassOf		anat:Sys-transition .
+anat:Sys-assimilation			rdfs:label		"Systeme de destruction, d'assimilation et d'evacuation de la matiere (solide et liquide)" .
+anat:sous-sys-assimilation		rdfs:subClassOf		anat:Sys-assimilation .
+anat:sous-sys-assimilation		rdfs:label		"Sous systeme de destruction, d'assimilation et d'evacuation de la matiere (solide et liquide)" .
+anat:organe-dig				rdfs:subClassOf		anat:organe .
+anat:organe-dig				rdfs:label		"Organe digestif" .
+anat:organe-dig-subdi			rdfs:subClassOf		anat:organe-dig .
+anat:organe-dig-subdi			rdfs:label		"Organe digestif subdivision" .
+anat:viscere-dig			rdfs:subClassOf		anat:viscere .
+anat:viscere-dig			rdfs:label		"Viscere digestif" .
+anat:viscere-dig-subdi			rdfs:subClassOf		anat:viscere-dig .
+anat:viscere-dig-subdi			rdfs:label		"Viscere digestif subdivision" .
+anat:conduit-dig			rdfs:subClassOf		anat:conduit-visceral .
+anat:conduit-dig			rdfs:label		"Conduit alimentaire" .
+anat:gd-conduit-dig			rdfs:subClassOf		anat:conduit-visceral .
+anat:gd-conduit-dig			rdfs:label		"Grand conduit alimentaire" .
+anat:conduit-salive			rdfs:subClassOf		anat:conduit-visceral .
+anat:conduit-salive			rdfs:label		"Conduit salivaire" .
+anat:viscere-bile			rdfs:subClassOf		anat:viscere .
+anat:viscere-bile			rdfs:label		"Viscere biliaire" .
+anat:viscere-bile-subdi			rdfs:subClassOf		anat:viscere-dig .
+anat:viscere-bile-subdi			rdfs:label		"Viscere biliaire subdivision" .
+anat:conduit-bile			rdfs:subClassOf		anat:conduit-visceral .
+anat:conduit-bile			rdfs:label		"Conduit biliaire" .
+anat:conduit-suc-pancreas		rdfs:subClassOf		anat:conduit-visceral .
+anat:conduit-suc-pancreas		rdfs:label		"Conduit du suc pancreatique" .
+anat:Sys-evacuation			rdfs:subClassOf		anat:Sys-transition .
+anat:Sys-evacuation			rdfs:label		"Systeme de nettoyage du sang" .
+anat:organe-urinaire			rdfs:subClassOf		anat:organe .
+anat:organe-urinaire			rdfs:label		"Organe urinaire" .
+anat:organe-urinaire-subdi		rdfs:subClassOf		anat:organe-urinaire .
+anat:organe-urinaire-subdi		rdfs:label		"Organe urinaire subdivision" .
+anat:viscere-urinaire			rdfs:subClassOf		anat:viscere .
+anat:viscere-urinaire			rdfs:label		"Viscere urinaire" .
+anat:conduit-urinaire			rdfs:subClassOf		anat:conduit-visceral .
+anat:conduit-urinaire			rdfs:label		"Conduit urinaire" .
+anat:gd-conduit-urinaire		rdfs:subClassOf		anat:conduit-visceral .
+anat:gd-conduit-urinaire		rdfs:label		"Grand conduit urinaire" .
+anat:conduit-urinaire-subdi		rdfs:subClassOf		anat:conduit-visceral .
+anat:conduit-urinaire-subdi		rdfs:label		"Conduit urinaire subdivision" .
+anat:Sys-creation			rdfs:subClassOf		anat:Sys-transition .
+anat:Sys-creation			rdfs:label		"Systeme de creation de la vie" .
+anat:sous-sys-creation			rdfs:subClassOf		anat:Sys-creation .
+anat:sous-sys-creation			rdfs:label		"Sous systeme de creation de la vie" .
+anat:organe-genital			rdfs:subClassOf		anat:organe .
+anat:organe-genital			rdfs:label		"Organe genital" .
+anat:viscere-genital			rdfs:subClassOf		anat:viscere .
+anat:viscere-genital			rdfs:label		"Viscere genital" .
+anat:viscere-genital-subdi		rdfs:subClassOf		anat:viscere .
+anat:viscere-genital-subdi		rdfs:label		"Viscere genital subdividion" .
+anat:conduit-genital			rdfs:subClassOf		anat:conduit-visceral .
+anat:conduit-genital			rdfs:label		"Conduit genital" .
+anat:gd-conduit-genital			rdfs:subClassOf		anat:conduit-visceral .
+anat:gd-conduit-genital			rdfs:label		"Grand conduit genital" .
+anat:Sys-vers-terre			rdfs:subClassOf		anat:Sys-transition .
+anat:Sys-vers-terre			rdfs:label		"Systeme de 'descente a la terre'" .
+
+anat:organe-vocal			rdfs:subClassOf		anat:organe .
+anat:organe-vocal			rdfs:label		"Organe de la vocalisation" .
+
+anat:VASCU-region			rdf:type		owl:Class .
+anat:VASCU-region			rdfs:label		"Region vasculaire" .
+anat:ARTR-region			rdfs:subClassOf		anat:VASCU-region .
+anat:ARTR-region			rdfs:label		"Region arterielle" .
+anat:VEIN-region			rdfs:subClassOf		anat:VASCU-region .
+anat:VEIN-region			rdfs:label		"Region veineuse" .
+anat:LYMPH-region			rdf:type		owl:Class .
+anat:LYMPH-region			rdfs:label		"Region lymphatique" .
+
+#anat:SN-Organique			rdfs:subClassOf		 .
+#anat:SN-Organique			rdfs:label		"Systeme nerveux organique" .
+
+anat:Sys-liquidien-SNC			rdf:type		owl:Class .
+anat:Sys-liquidien-SNC			rdfs:label		"Systeme de circulation liquidienne parallele" .
+anat:Sys-liquidien-intra-SNC		rdfs:subClassOf		anat:Sys-liquidien-SNC .
+anat:Sys-liquidien-intra-SNC		rdfs:label		"Systeme de circulation liquidienne intra SNC" .
+
+#________________________________________________________________________________________________
+
+
+

@@ -324,10 +324,26 @@ my $rdf = read_file($file);
 my $uri = 'file://' . File::Spec->rel2abs($file);
 $parser->parse_into_model($uri, $rdf, $model);
 
-
 get '/individuals' => sub {
 
-	
+	my $query = RDF::Query->new( 'SELECT ?subject ?surclass WHERE {
+		?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+		OPTIONAL { ?subject <http://www.w3.org/2000/01/rdf-schema#subClassOf> ?surclass }
+	}' );
+	my $iterator = $query->execute( $model );
+
+	my @classes;
+	while (my $row = $iterator->next) {
+		my $class = {};
+		$$class{subject} = $$row{subject}->as_string;
+		$$class{subject} =~ s/^<|>$//g;
+		$$class{label} = get_label("<$$class{subject}>");
+
+		add_subclasses($class);
+
+		push @classes, $class if ! $$row{surclass};
+	}
+
 	my $query2 = RDF::Query->new( 'SELECT ?subject ?type WHERE {
 		?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?type
 	}' );
@@ -354,10 +370,66 @@ get '/individuals' => sub {
 	}
 
 	template 'individuals.tt', {
+		classes => \@classes,
 		results => \@data
 	};
 };
 
+get '/classes' => sub {
+
+	my $query = RDF::Query->new( 'SELECT ?subject ?surclass WHERE {
+		?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+		OPTIONAL { ?subject <http://www.w3.org/2000/01/rdf-schema#subClassOf> ?surclass }
+	}' );
+	my $iterator = $query->execute( $model );
+
+	my @classes;
+	while (my $row = $iterator->next) {
+		my $class = {};
+		$$class{subject} = $$row{subject}->as_string;
+		$$class{subject} =~ s/^<|>$//g;
+		$$class{label} = get_label("<$$class{subject}>");
+
+		add_subclasses($class);
+
+		push @classes, $class if ! $$row{surclass};
+	}
+
+	template 'classes.tt', {
+		classes => \@classes,
+	};
+};
+
+sub count {
+	my $uri = shift;
+
+	my $query = RDF::Query->new("SELECT (COUNT(?s) AS ?count) WHERE { ?s <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> $uri }");
+	my $iterator = $query->execute($model);
+	my $row = $iterator->next;
+
+	return $$row{count}->as_string if $$row{count};
+}
+
+sub add_subclasses {
+	my $parent = shift;
+	$$parent{children} = ();
+
+	my $query = RDF::Query->new( "SELECT ?subject WHERE {
+		?subject <http://www.w3.org/2000/01/rdf-schema#subClassOf> <$$parent{subject}>
+	}" );
+	my $iterator = $query->execute( $model );
+	while (my $row = $iterator->next) {
+		my $class = {};
+		$$class{subject} = $$row{subject}->as_string;
+		$$class{instances} = count($$class{subject});
+		$$class{subject} =~ s/^<|>$//g;
+		$$class{label} = get_label("<$$class{subject}>");
+
+		add_subclasses($class);
+
+		push @{$$parent{children}}, $class;
+	}
+}
 
 get '/graph' => sub {
 

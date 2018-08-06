@@ -1,0 +1,39 @@
+Langages
+perl (langage cote serveur)
+java script (langage cote client)(ici utilise pour le graph)
+
+Langage de requettes (sert a interagir avec la base de donnees, lire, filtrer, faire des recherches...)
+sparql (correspond a SQL mais specialise pour le langage RDF)
+
+Langages de description
+description d'interface graphique :
+html
+css
+description de donnees :
+rdf
+rdfs
+owl
+
+Protocole (norme pour que differentes parties parlent entre elles, ici entre le navigateur et semantica)
+http
+
+GIT : programme qui permet de conserver un historique, des versions alternatives de code, etc.
+_____________________
+
+perl 3 structures de donnees :
+
+dictionnaires
+suite de clefs qui correspondent => a des valeurs
+
+listes
+enumeration d'elements ordonnes (qu'on peut lire dans le sens qu'on veut)
+
+scalaires
+elements de base (clefs, valeurs, elements des listes)
+
++syntaxe
+instructions : ordres (un programme dans sa forme la plus simple est considere comme une suite d'instructions)
+fonctions : compartimente en bouts de codes 
+conditions : "si ... alors ..."
+structure de controle ou boucle : mise en place d'ordres cycliques
+

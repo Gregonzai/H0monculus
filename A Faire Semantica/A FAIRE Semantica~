@@ -1,0 +1,38 @@
+A quoi sert le 2e onglet ?
+
+Onglet Individuals : selectionner une classe a gauche pour ne voir que les elements de cette classe
+
+Onglet Graph : voir le graph pour les elements selectionnes seulement (voir une partie de l'ensemble)
++ incorporer les donnees de l'ontologie au graph
+
+rendre les noeuds du graph interactifs
+
+sauvegarder, exporter le grapf (+ extraction au format svg)
+
+Nettoyer le code 
+
+
+Travailler l'acces aux donnees (ca il va falloir skyper pour mettre ca au clair a un moment)
+
+_________________________________________________________________________________________
+
+
+Affichage des grapf en 3D (ex page sacrum)
+
+Ajouter differents effets graphiques entre les donnees en fonction de leurs liens (data englobees/data liees)
+
+Changer le type graphique de l'arbre de l'ontologie (pas lisible)
+
+Incorporation d'un modele d'anatomie 3D
+
+_________________________________________________________________________________________
+
+
+Pour permettre de faire apparaitre des graph sans noeuds, il faudrait pouvoir faire apparaitre des groupes de donnees a differents points predefinis de l'ecran (les coins, les bords et le centre)
+
+De plus le graph est trop "statique". Il s'organise une fois et se fige. Si on veut ajouter des donnees il faut reinitialiser l'ensemble.
+Il faudrait pouvoir avoir un graph predefini (ex l'appareil musculo squelettique) et pouvoir faire apparaitre des donnees qui viennent s'organiser autour (ex les nerfs qui actvent es differnts muscles)
+Une fois les nerfs "en place" pouvoir relacher les points fixe pour que l'ensemble se reorganise dans l'espace.
+
+Page individuelle : sur le graph en haut il faut pvoir deselectionner un noeud pour le faire disparaitre, ou en selectionner un pour faire apparaitre les neouds en relation avec lui
+

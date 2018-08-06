@@ -1,0 +1,878 @@
+REGION DE LA TETE
+	Crâne osseux
+		Os du neurocrâne
+			Os de la base du crâne
+				anat:frontal .
+				anat:sphenoide .
+				anat:occiput .
+				anat:R-temporal .
+				anat:L-temporal .
+				anat:ethmoide .
+			Os de la voûte crânienne
+				anat:frontal .
+				anat:sphenoide .
+				anat:occiput .
+				anat:R-parietal .
+				anat:L-parietal .
+				anat:R-temporal .
+				anat:L-temporal .
+		Os du massif facial
+			Massif facial anterieur
+				anat:ethmoide .
+				anat:vomer .
+				anat:R-maxilaire .
+				anat:L-maxilaire .
+				anat:R-palatin .
+				anat:L-palatin .
+				anat:R-os-lacrimal .
+				anat:L-os-lacrimal .
+				anat:R-cornet-nasal-inf .
+				anat:L-cornet-nasal-inf .
+				anat:R-os-nasal .
+				anat:L-os-nasal .
+				anat:R-malaire .
+				anat:L-malaire .
+			Massif facial moyen
+				anat:mandibule .
+			Massif facial posterieur
+				anat:R-osselets-oreille .
+				anat:L-osselets-oreille .
+		Dents
+			Incisives
+				anat:R-incisives-sup-1 .
+				anat:R-incisives-sup-2 .
+				anat:L-incisives-sup-1 .
+				anat:L-incisives-sup-2 .
+				anat:R-incisives-inf-1 .
+				anat:R-incisives-inf-2 .
+				anat:L-incisives-inf-1 .
+				anat:L-incisives-inf-2 .
+			Canines
+				anat:R-canines-sup .
+				anat:L-canines-sup .
+				anat:R-canines-inf .
+				anat:L-canines-inf .
+			Prémolaires
+				anat:R-pre-molaire-sup-1 .
+				anat:R-pre-molaire-sup-2 .
+				anat:L-pre-molaire-sup-1 .
+				anat:L-pre-molaire-sup-2 .
+				anat:R-pre-molaire-inf-1 .
+				anat:R-pre-molaire-inf-2 .
+				anat:L-pre-molaire-inf-1 .
+				anat:L-pre-molaire-inf-2 .
+			Molaires
+				anat:R-molaire-sup-1 .
+				anat:R-molaire-sup-2 .
+				anat:L-molaire-sup-1 .
+				anat:L-molaire-sup-2 .
+				anat:R-molaire-inf-1 .
+				anat:R-molaire-inf-2 .
+				anat:L-molaire-inf-1 .
+				anat:L-molaire-inf-2 .
+			Dents de sagesse
+				anat:R-dents-sagesse-sup .
+				anat:L-dents-sagesse-sup .
+				anat:R-dents-sagesse-inf .
+				anat:L-dents-sagesse-inf .
+//		Dents
+			Dents supérieures
+				anat:R-incisives-sup-1 .
+				anat:R-incisives-sup-2 .
+				anat:L-incisives-sup-1 .
+				anat:L-incisives-sup-2 .
+				anat:R-canines-sup .
+				anat:L-canines-sup .
+				anat:R-pre-molaire-sup-1 .
+				anat:R-pre-molaire-sup-2 .
+				anat:L-pre-molaire-sup-1 .
+				anat:L-pre-molaire-sup-2 .
+				anat:R-molaire-sup-1 .
+				anat:R-molaire-sup-2 .
+				anat:L-molaire-sup-1 .
+				anat:L-molaire-sup-2 .
+				anat:R-dents-sagesse-sup .
+				anat:L-dents-sagesse-sup .
+			Dents inférieures
+				anat:R-incisives-inf-1 .
+				anat:R-incisives-inf-2 .
+				anat:L-incisives-inf-1 .
+				anat:L-incisives-inf-2 .
+				anat:R-canines-inf .
+				anat:L-canines-inf .
+				anat:R-pre-molaire-inf-1 .
+				anat:R-pre-molaire-inf-2 .
+				anat:L-pre-molaire-inf-1 .
+				anat:L-pre-molaire-inf-2 .
+				anat:R-molaire-inf-1 .
+				anat:R-molaire-inf-2 .
+				anat:L-molaire-inf-1 .
+				anat:L-molaire-inf-2 .
+				anat:R-dents-sagesse-inf .
+				anat:L-dents-sagesse-inf .
+	Menisques temporo-mandibulaires
+		anat:R-menisque-temporo-mandi .
+		anat:L-menisque-temporo-mandi .
+//	Crâne osseux
+		Crâne antérieur
+			Vertèbre crânienne antérieure
+				anat:sphenoide .
+				anat:frontal .
+			Massif facial anterieur
+				anat:ethmoide .
+				anat:vomer .
+				anat:R-maxilaire .
+				anat:L-maxilaire .
+				anat:R-palatin .
+				anat:L-palatin .
+				anat:R-os-lacrimal .
+				anat:L-os-lacrimal .
+				anat:R-cornet-nasal-inf .
+				anat:L-cornet-nasal-inf .
+				anat:R-os-nasal .
+				anat:L-os-nasal .
+				anat:R-malaire .
+				anat:L-malaire .
+			Dents supérieures
+				anat:R-incisives-sup-1 .
+				anat:R-incisives-sup-2 .
+				anat:L-incisives-sup-1 .
+				anat:L-incisives-sup-2 .
+				anat:R-canines-sup .
+				anat:L-canines-sup .
+				anat:R-pre-molaire-sup-1 .
+				anat:R-pre-molaire-sup-2 .
+				anat:L-pre-molaire-sup-1 .
+				anat:L-pre-molaire-sup-2 .
+				anat:R-molaire-sup-1 .
+				anat:R-molaire-sup-2 .
+				anat:L-molaire-sup-1 .
+				anat:L-molaire-sup-2 .
+				anat:R-dents-sagesse-sup .
+				anat:L-dents-sagesse-sup .
+		Crâne moyen
+			Vertèbre crânienne moyenne
+				anat:sphenoide .
+				anat:R-parietal .
+				anat:L-parietal .
+				anat:R-temporal .
+				anat:L-temporal .
+			Massif facial moyen
+				anat:mandibule .
+			Dents inférieures
+				anat:R-incisives-inf-1 .
+				anat:R-incisives-inf-2 .
+				anat:L-incisives-inf-1 .
+				anat:L-incisives-inf-2 .
+				anat:R-canines-inf .
+				anat:L-canines-inf .
+				anat:R-pre-molaire-inf-1 .
+				anat:R-pre-molaire-inf-2 .
+				anat:L-pre-molaire-inf-1 .
+				anat:L-pre-molaire-inf-2 .
+				anat:R-molaire-inf-1 .
+				anat:R-molaire-inf-2 .
+				anat:L-molaire-inf-1 .
+				anat:L-molaire-inf-2 .
+				anat:R-dents-sagesse-inf .
+				anat:L-dents-sagesse-inf .
+			Menisques temporo-mandibulaires
+				anat:R-menisque-temporo-mandi .
+				anat:L-menisque-temporo-mandi .
+		Crâne postérieur
+			Vertèbre crânienne postérieure
+				anat:occiput .
+				anat:R-temporal .
+				anat:L-temporal .
+			Massif facial posterieur
+				anat:R-osselets-oreille .
+					anat:R-marteau .
+					anat:R-enclume .
+					anat:R-etrier .
+				anat:L-osselets-oreille .
+					anat:L-marteau .
+					anat:L-enclume .
+					anat:L-etrier .
+
+Colonne vertébrale étendue 
+	Crane vertébral
+		Vertèbre crânienne antérieure
+			anat:sphenoide .
+			anat:frontal .
+		Vertèbre crânienne moyenne
+			anat:sphenoide .
+			anat:R-parietal .
+			anat:L-parietal .
+			anat:R-temporal .
+			anat:L-temporal .
+		Vertèbre crânienne postérieure
+			anat:occiput .
+			anat:R-temporal .
+			anat:L-temporal .
+	Colonne vertébrale
+		Colonne vertébrale cervicale
+			Colonne vertébrale cervicale supérieure
+				anat:v-C1 .
+				anat:v-C2 .
+				anat:v-C3 .
+				anat:div-C2-C3 .
+			Colonne vertébrale cervicale moyenne
+				anat:v-C3 .
+				anat:v-C4 .
+				anat:v-C5 .
+				anat:div-C3-C4 .
+				anat:div-C4-C5 .
+			Colonne vertébrale cervicale inférieure
+				anat:v-C5 .
+				anat:v-C6 .
+				anat:v-C7 .
+				anat:div-C5-C6 .
+				anat:div-C6-C7 .
+		Colonne vertébrale thoracique
+			Colonne vertébrale thoracique supérieure
+				anat:v-T1 .
+				anat:v-T2 .
+				anat:v-T3 .
+				anat:v-T4 .
+				anat:v-T5 .
+				anat:v-T6 .
+				anat:div-T1-T2 .
+				anat:div-T2-T3 .
+				anat:div-T3-T4 .
+				anat:div-T4-T5 .
+				anat:div-T5-T6 .
+			Colonne vertébrale thoracique moyenne
+				anat:v-T6 .
+				anat:v-T7 .
+				anat:v-T8 .
+				anat:v-T9 .
+				anat:v-T10 .
+				anat:div-T6-T7 .
+				anat:div-T7-T8 .
+				anat:div-T8-T9 .
+				anat:div-T9-T10 .
+			Colonne vertébrale thoracique inférieure
+				anat:v-T10 .
+				anat:v-T11 .
+				anat:v-T12 .
+				anat:div-T10-T11 .
+				anat:div-T11-T12 .
+		Colonne vertébrale lombaire
+			Colonne vertébrale lombaire supérieure
+				anat:v-L1 .
+				anat:v-L2 .
+				anat:v-L3 .
+				anat:div-L1-L2 .
+				anat:div-L2-L3 .
+			Colonne vertébrale lombaire inférieure
+				anat:v-L3 .
+				anat:v-L4 .
+				anat:v-L5 .
+				anat:div-L3-L4 .
+				anat:div-L4-L5 .
+		Colonne vertébrale pelvienne
+			Colonne vertébrale pelvienne supérieure
+				anat:v-S1 .
+				anat:v-S2 .
+			Colonne vertébrale pelvienne inférieure
+				anat:v-S3 .
+				anat:v-S4 .
+				anat:v-S5 .
+				anat:coccyx .
+				anat:div-S5-Co .
+		Charnières Vertébrales
+			Charnière C0-C1-C2
+				anat:occiput .
+				anat:v-C1 .
+				anat:v-C2 .
+			Charnière cervico-thoracique
+				anat:v-C7 .
+				anat:v-T1 .
+				anat:div-C7-T1 .
+				anat:R-cote-1 .
+				anat:L-cote-1 .
+				anat:R-carti-costal-1 .
+				anat:L-carti-costal-1 .
+				anat:sternum-manubrium .
+			Charnière thoraco-lombaire
+				anat:v-T12 .
+				anat:v-L1 .
+				anat:div-T12-L1 .
+			Charnière lombo-sacree
+				anat:v-L5 .
+				anat:v-S1 .
+				anat:div-L5-S1 .
+			Charnière sacro-coccygienne
+				anat:v-S5 .
+				anat:coccyx .
+				anat:div-S5-Co .
+//	Colonne vertébrale
+		Vertèbres
+			anat:v-C1 .
+			anat:v-C2 .
+			anat:v-C3 .
+			anat:v-C4 .
+			anat:v-C5 .
+			anat:v-C6 .
+			anat:v-C7 .
+			anat:v-T1 .
+			anat:v-T2 .
+			anat:v-T3 .
+			anat:v-T4 .
+			anat:v-T5 .
+			anat:v-T6 .
+			anat:v-T7 .
+			anat:v-T8 .
+			anat:v-T9 .
+			anat:v-T10 .
+			anat:v-T11 .
+			anat:v-T12 .
+			anat:v-L1 .
+			anat:v-L2 .
+			anat:v-L3 .
+			anat:v-L4 .
+			anat:v-L5 .
+			anat:sacrum .
+				anat:v-S1 .
+				anat:v-S2 .
+				anat:v-S3 .
+				anat:v-S4 .
+				anat:v-S5 .
+			anat:coccyx .
+		Disques intervertébraux
+			anat:div-C2-C3 .
+			anat:div-C3-C4 .
+			anat:div-C4-C5 .
+			anat:div-C5-C6 .
+			anat:div-C6-C7 .
+			anat:div-C7-T1 .
+			anat:div-T1-T2 .
+			anat:div-T2-T3 .
+			anat:div-T3-T4 .
+			anat:div-T4-T5 .
+			anat:div-T5-T6 .
+			anat:div-T6-T7 .
+			anat:div-T7-T8 .
+			anat:div-T8-T9 .
+			anat:div-T9-T10 .
+			anat:div-T10-T11 .
+			anat:div-T11-T12 .
+			anat:div-T12-L1 .
+			anat:div-L1-L2 .
+			anat:div-L2-L3 .
+			anat:div-L3-L4 .
+			anat:div-L4-L5 .
+			anat:div-L5-S1 .
+			anat:div-S5-Co .
+
+REGION DU COU
+	anat:os-hyoide .
+	Colonne vertébrale cervicale
+		Colonne vertébrale cervicale supérieure
+			anat:v-C1 .
+			anat:v-C2 .
+			anat:v-C3 .
+			anat:div-C2-C3 .
+		Colonne vertébrale cervicale moyenne
+			anat:v-C3 .
+			anat:v-C4 .
+			anat:v-C5 .
+			anat:div-C3-C4 .
+			anat:div-C4-C5 .
+		Colonne vertébrale cervicale inférieure
+			anat:v-C5 .
+			anat:v-C6 .
+			anat:v-C7 .
+			anat:div-C5-C6 .
+			anat:div-C6-C7 .
+REGION DU THORAX
+	Colonne vertébrale thoracique
+		Colonne vertébrale thoracique supérieure
+			anat:v-T1 .
+			anat:v-T2 .
+			anat:v-T3 .
+			anat:v-T4 .
+			anat:v-T5 .
+			anat:v-T6 .
+			anat:div-T1-T2 .
+			anat:div-T2-T3 .
+			anat:div-T3-T4 .
+			anat:div-T4-T5 .
+			anat:div-T5-T6 .
+		Colonne vertébrale thoracique moyenne
+			anat:v-T6 .
+			anat:v-T7 .
+			anat:v-T8 .
+			anat:v-T9 .
+			anat:v-T10 .
+			anat:div-T6-T7 .
+			anat:div-T7-T8 .
+			anat:div-T8-T9 .
+			anat:div-T9-T10 .
+		Colonne vertébrale thoracique inférieure
+			anat:v-T10 .
+			anat:v-T11 .
+			anat:v-T12 .
+			anat:div-T10-T11 .
+			anat:div-T11-T12 .
+	Cage thoracique
+		Cage thoracique supérieure
+			Sternum
+			1er arc costal
+				anat:R-cote-1 .
+				anat:L-cote-1 .
+				anat:R-carti-costal-1 .
+				anat:L-carti-costal-1 .
+			2e arc costal
+				anat:R-cote-2 .
+				anat:L-cote-2 .
+				anat:R-carti-costal-2 .
+				anat:L-carti-costal-2 .
+			3e arc costal
+				anat:R-cote-3 .
+				anat:L-cote-3 .
+				anat:R-carti-costal-3 .
+				anat:L-carti-costal-3 .
+			4e arc costal
+				anat:R-cote-4 .
+				anat:L-cote-4 .
+				anat:R-carti-costal-4 .
+				anat:L-carti-costal-4 .
+			5e arc costal
+				anat:R-cote-5 .
+				anat:L-cote-5 .
+				anat:R-carti-costal-5 .
+				anat:L-carti-costal-5 .
+			6e arc costal
+				anat:R-cote-6 .
+				anat:L-cote-6 .
+				anat:R-carti-costal-6 .
+				anat:L-carti-costal-6 .
+		Cage thoracique moyenne
+			Sternum
+			7e arc costal
+				anat:R-cote-7 .
+				anat:L-cote-7 .
+				anat:R-carti-costal-7 .
+				anat:L-carti-costal-7 .
+			8e arc costal
+				anat:R-cote-8 .
+				anat:L-cote-8 .
+				anat:R-carti-costal-8 .
+				anat:L-carti-costal-8 .
+			9e arc costal
+				anat:R-cote-9 .
+				anat:L-cote-9 .
+				anat:R-carti-costal-9 .
+				anat:L-carti-costal-9 .
+			10e arc costal
+				anat:R-cote-10 .
+				anat:L-cote-10 .
+				anat:R-carti-costal-10 .
+				anat:L-carti-costal-10 .
+		Cage thoracique inférieure
+			11e arc costal
+				anat:R-cote-11 .
+				anat:L-cote-11 .
+			12e arc costal
+				anat:R-cote-12 .
+				anat:L-cote-12 .
+//	Cage thoracique
+		Sternum
+		Côtes
+			anat:R-cote-1 .
+			anat:R-cote-2 .
+			anat:R-cote-3 .
+			anat:R-cote-4 .
+			anat:R-cote-5 .
+			anat:R-cote-6 .
+			anat:R-cote-7 .
+			anat:R-cote-8 .
+			anat:R-cote-9 .
+			anat:R-cote-10 .
+			anat:R-cote-11 .
+			anat:R-cote-12 .
+			anat:L-cote-1 .
+			anat:L-cote-2 .
+			anat:L-cote-3 .
+			anat:L-cote-4 .
+			anat:L-cote-5 .
+			anat:L-cote-6 .
+			anat:L-cote-7 .
+			anat:L-cote-8 .
+			anat:L-cote-9 .
+			anat:L-cote-10 .
+			anat:L-cote-11 .
+			anat:L-cote-12 .
+		Cartilages costaux
+			anat:R-carti-costal-1 .
+			anat:R-carti-costal-2 .
+			anat:R-carti-costal-3 .
+			anat:R-carti-costal-4 .
+			anat:R-carti-costal-5 .
+			anat:R-carti-costal-6 .
+			anat:R-carti-costal-7 .
+			anat:R-carti-costal-8 .
+			anat:R-carti-costal-9 .
+			anat:R-carti-costal-10 .
+			anat:L-carti-costal-1 .
+			anat:L-carti-costal-2 .
+			anat:L-carti-costal-3 .
+			anat:L-carti-costal-4 .
+			anat:L-carti-costal-5 .
+			anat:L-carti-costal-6 .
+			anat:L-carti-costal-7 .
+			anat:L-carti-costal-8 .
+			anat:L-carti-costal-9 .
+			anat:L-carti-costal-10 .
+
+REGION LOMBAIRE
+	Colonne vertébrale lombaire
+		Colonne vertébrale lombaire supérieure
+			anat:v-L1 .
+			anat:v-L2 .
+			anat:v-L3 .
+			anat:div-L1-L2 .
+			anat:div-L2-L3 .
+		Colonne vertébrale lombaire inférieure
+			anat:v-L3 .
+			anat:v-L4 .
+			anat:v-L5 .
+			anat:div-L3-L4 .
+			anat:div-L4-L5 .
+
+REGION DU PELVIS
+	pelvis osseux
+		anat:sacrum .
+			anat:v-S1 .
+			anat:v-S2 .
+			anat:v-S3 .
+			anat:v-S4 .
+			anat:v-S5 .
+		anat:coccyx .
+		anat:R-iliaque .
+		anat:L-iliaque .
+	Disque intervertébral S5-Co
+	Disque interpubien
+	Labrum acétabulaire droit
+	Labrum acétabulaire gauche
+
+REGION DES MEMBRES INFERIEURS
+	MEMBRE INFERIEUR DROIT
+		REGION DE LA CUISSE DROITE
+			anat:R-femur .
+			anat:R-patella .
+		REGION DE LA JAMBE DROITE
+			anat:R-tibia .
+			anat:R-fibula .
+			Ménisques tibiaux droits
+				anat:R-tibia-menisque-med .
+				anat:R-tibia-menisque-lat .
+		REGION DU PIED DROIT
+			Os du tarse droit
+				anat:R-tarse-post .
+					anat:R-talus .
+					anat:R-calca .
+				anat:R-tarse-ant .
+					anat:R-navi .
+					anat:R-cubo .
+					anat:R-cune-I .
+					anat:R-cune-II .
+					anat:R-cune-III .
+			Os métatarses droits
+				anat:R-metaT-I .
+				anat:R-metaT-II .
+				anat:R-metaT-III .
+				anat:R-metaT-IV .
+				anat:R-metaT-V .
+			Os sésamoïdes de l’hallux droit
+				anat:R-halux-sesamoide-lat .
+				anat:R-halux-sesamoide-med .
+			Os des phalanges des orteils droits
+				anat:R-pied-phalanges-I .
+					anat:R-pied-phal-proxi-I .
+					anat:R-pied-phal-dist-I .
+				anat:R-pied-phalanges-II .
+					anat:R-pied-phal-proxi-II .
+					anat:R-pied-phal-moy-II .
+					anat:R-pied-phal-dist-II .
+				anat:R-pied-phalanges-III .
+					anat:R-pied-phal-proxi-III .
+					anat:R-pied-phal-moy-III .
+					anat:R-pied-phal-dist-III .
+				anat:R-pied-phalanges-IV .
+					anat:R-pied-phal-proxi-IV .
+					anat:R-pied-phal-moy-IV .
+					anat:R-pied-phal-dist-IV .
+				anat:R-pied-phalanges-V .
+					anat:R-pied-phal-proxi-V .
+					anat:R-pied-phal-moy-V .
+					anat:R-pied-phal-dist-V .
+//		REGION DU PIED DROIT
+			Os de l’arche interne du pied droit
+				anat:R-talus .
+				anat:R-navi .
+				anat:R-cune-I .
+				anat:R-cune-II .
+				anat:R-cune-III .
+				anat:R-metaT-I .
+				anat:R-metaT-II .
+				anat:R-metaT-III .
+				anat:R-pied-os-sesamoides .
+					anat:R-halux-sesamoide-lat .
+					anat:R-halux-sesamoide-med .
+				anat:R-pied-phalanges-I .
+					anat:R-pied-phal-proxi-I .
+					anat:R-pied-phal-dist-I .
+				anat:R-pied-phalanges-II .
+					anat:R-pied-phal-proxi-II .
+					anat:R-pied-phal-moy-II .
+					anat:R-pied-phal-dist-II .
+				anat:R-pied-phalanges-III .
+					anat:R-pied-phal-proxi-III .
+					anat:R-pied-phal-moy-III .
+					anat:R-pied-phal-dist-III .
+			Os de l’arche externe du pied droit
+				anat:R-calca .
+				anat:R-cubo .
+				anat:R-metaT-IV .
+				anat:R-metaT-V .
+				anat:R-pied-phalanges-IV .
+					anat:R-pied-phal-proxi-IV .
+					anat:R-pied-phal-moy-IV .
+					anat:R-pied-phal-dist-IV .
+				anat:R-pied-phalanges-V .
+					anat:R-pied-phal-proxi-V .
+					anat:R-pied-phal-moy-V .
+					anat:R-pied-phal-dist-V .
+	MEMBRE INFERIEUR GAUCHE
+		REGION DE LA CUISSE GAUCHE
+			anat:L-femur .
+			anat:L-patella .
+		REGION DE LA JAMBE GAUCHE
+			anat:L-tibia .
+			anat:L-fibula .
+			Ménisques tibiaux gauches
+				anat:L-tibia-menisque-med .
+				anat:L-tibia-menisque-lat .
+		REGION DU PIED GAUCHE
+			Os du tarse gauche
+				anat:L-tarse-post .
+					anat:L-talus .
+					anat:L-calca .
+				anat:L-tarse-ant .
+					anat:L-navi .
+					anat:L-cubo .
+					anat:L-cune-I .
+					anat:L-cune-II .
+					anat:L-cune-III .
+			Os métatarses gauches
+				anat:L-metaT-I .
+				anat:L-metaT-II .
+				anat:L-metaT-III .
+				anat:L-metaT-IV .
+				anat:L-metaT-V .
+			Os sésamoïdes de l’hallux gauche
+				anat:L-halux-sesamoide-lat .
+				anat:L-halux-sesamoide-med .
+			Os des phalanges des orteils gauches
+				anat:L-pied-phalanges-I .
+					anat:L-pied-phal-proxi-I .
+					anat:L-pied-phal-dist-I .
+				anat:L-pied-phalanges-II .
+					anat:L-pied-phal-proxi-II .
+					anat:L-pied-phal-moy-II .
+					anat:L-pied-phal-dist-II .
+				anat:L-pied-phalanges-III .
+					anat:L-pied-phal-proxi-III .
+					anat:L-pied-phal-moy-III .
+					anat:L-pied-phal-dist-III .
+				anat:L-pied-phalanges-IV .
+					anat:L-pied-phal-proxi-IV .
+					anat:L-pied-phal-moy-IV .
+					anat:L-pied-phal-dist-IV .
+				anat:L-pied-phalanges-V .
+					anat:L-pied-phal-proxi-V .
+					anat:L-pied-phal-moy-V .
+					anat:L-pied-phal-dist-V .
+//		REGION DU PIED GAUCHE
+			Os de l’arche interne du pied gauche
+				anat:L-talus .
+				anat:L-navi .
+				anat:L-cune-I .
+				anat:L-cune-II .
+				anat:L-cune-III .
+				anat:L-metaT-I .
+				anat:L-metaT-II .
+				anat:L-metaT-III .
+				anat:L-pied-os-sesamoides .
+					anat:L-halux-sesamoide-lat .
+					anat:L-halux-sesamoide-med .
+				anat:L-pied-phalanges-I .
+					anat:L-pied-phal-proxi-I .
+					anat:L-pied-phal-dist-I .
+				anat:L-pied-phalanges-II .
+					anat:L-pied-phal-proxi-II .
+					anat:L-pied-phal-moy-II .
+					anat:L-pied-phal-dist-II .
+				anat:L-pied-phalanges-III .
+					anat:L-pied-phal-proxi-III .
+					anat:L-pied-phal-moy-III .
+					anat:L-pied-phal-dist-III .
+			Os de l’arche externe du pied gauche
+				anat:L-calca .
+				anat:L-cubo .
+				anat:L-metaT-IV .
+				anat:L-metaT-V .
+				anat:L-pied-phalanges-IV .
+					anat:L-pied-phal-proxi-IV .
+					anat:L-pied-phal-moy-IV .
+					anat:L-pied-phal-dist-IV .
+				anat:L-pied-phalanges-V .
+					anat:L-pied-phal-proxi-V .
+					anat:L-pied-phal-moy-V .
+					anat:L-pied-phal-dist-V .
+
+REGION DES MEMBRES SUPERIEURS
+	MEMBRE SUPERIEUR DROIT
+		REGION DE L'EPAULE DROITE
+			anat:R-clavicule .
+			anat:R-scapula .
+			anat:R-humerus-epiP-sup .
+		REGION DU BRAS DROIT
+			anat:R-humerus .
+		REGION DE L'AVANT-BRAS DROIT
+			anat:R-radius .
+			anat:R-ulna .
+			anat:R-menisque-ulno-carpien .
+		REGION DE LA MAIN DROITE
+			Os du carpe droit
+				Os de la 1ere rangée du carpe droit
+					anat:R-scaphoide .
+					anat:R-lunatum .
+					anat:R-triquetrum .
+					anat:R-pisiforme .
+				Os de la 2e rangée du carpe droit
+					anat:R-hamatum .
+					anat:R-capitatum .
+					anat:R-trapezoide .
+					anat:R-trapeze .
+//			Os du carpe droit
+				Os du compartiment médial du carpe droit
+					anat:R-scaphoide .
+					anat:R-lunatum .
+					anat:R-triquetrum .
+					anat:R-pisiforme .
+					anat:R-hamatum .
+					anat:R-capitatum .
+				Os du compartiment latéral du carpe droit
+					anat:R-trapezoide .
+					anat:R-trapeze .
+			Os métacarpes droits
+				anat:R-metaC-I .
+				anat:R-metaC-II .
+				anat:R-metaC-III .
+				anat:R-metaC-IV .
+				anat:R-metaC-V .
+			Os sésamoïdes du pouce droit
+				anat:R-pouce-sesamoide-lat .
+				anat:R-pouce-sesamoide-med .
+			Os des phalanges des doigts droits
+				anat:R-main-phalanges-I .
+					anat:R-main-phal-proxi-I .
+					anat:R-main-phal-dist-I .
+				anat:R-main-phalanges-II .
+					anat:R-main-phal-proxi-II .
+					anat:R-main-phal-moy-II .
+					anat:R-main-phal-dist-II .
+				anat:R-main-phalanges-III .
+					anat:R-main-phal-proxi-III .
+					anat:R-main-phal-moy-III .
+					anat:R-main-phal-dist-III .
+				anat:R-main-phalanges-IV .
+					anat:R-main-phal-proxi-IV .
+					anat:R-main-phal-moy-IV .
+					anat:R-main-phal-dist-IV .
+				anat:R-main-phalanges-V .
+					anat:R-main-phal-proxi-V .
+					anat:R-main-phal-moy-V .
+					anat:R-main-phal-dist-V .
+			Colonne du pouce droit
+				anat:R-metaC-I .
+				anat:R-main-phalanges-I .
+					anat:R-main-phal-proxi-I .
+					anat:R-main-phal-dist-I .
+				Os sésamoïdes du pouce droit
+					anat:R-pouce-sesamoide-lat .
+					anat:R-pouce-sesamoide-med .
+	MEMBRE SUPERIEUR GAUCHE
+		REGION DE L'EPAULE GAUCHE
+			anat:L-clavicule .
+			anat:L-scapula .
+			anat:L-humerus-epiP-sup .
+		REGION DU BRAS GAUCHE
+			anat:L-humerus .
+		REGION DE L'AVANT-BRAS GAUCHE
+			anat:L-radius .
+			anat:L-ulna .
+			anat:L-menisque-ulno-carpien .
+		REGION DE LA MAIN GAUCHE
+			Os du carpe gauche
+				Os de la 1ere rangée du carpe gauche
+					anat:L-scaphoide .
+					anat:L-lunatum .
+					anat:L-triquetrum .
+					anat:L-pisiforme .
+				Os de la 2e rangée du carpe gauche
+					anat:L-hamatum .
+					anat:L-capitatum .
+					anat:L-trapezoide .
+					anat:L-trapeze .
+//			Os du carpe gauche
+				Os du compartiment médial du carpe gauche
+					anat:L-scaphoide .
+					anat:L-lunatum .
+					anat:L-triquetrum .
+					anat:L-pisiforme .
+					anat:L-hamatum .
+					anat:L-capitatum .
+				Os du compartiment latéral du carpe gauche
+					anat:L-trapezoide .
+					anat:L-trapeze .
+			Os métacarpes gauches
+				anat:L-metaC-I .
+				anat:L-metaC-II .
+				anat:L-metaC-III .
+				anat:L-metaC-IV .
+				anat:L-metaC-V .
+			Os sésamoïdes du pouce gauche
+				anat:L-pouce-sesamoide-lat .
+				anat:L-pouce-sesamoide-med .
+			Os des phalanges des doigts gauches
+				anat:L-main-phalanges-I .
+					anat:L-main-phal-proxi-I .
+					anat:L-main-phal-dist-I .
+				anat:L-main-phalanges-II .
+					anat:L-main-phal-proxi-II .
+					anat:L-main-phal-moy-II .
+					anat:L-main-phal-dist-II .
+				anat:L-main-phalanges-III .
+					anat:L-main-phal-proxi-III .
+					anat:L-main-phal-moy-III .
+					anat:L-main-phal-dist-III .
+				anat:L-main-phalanges-IV .
+					anat:L-main-phal-proxi-IV .
+					anat:L-main-phal-moy-IV .
+					anat:L-main-phal-dist-IV .
+				anat:L-main-phalanges-V .
+					anat:L-main-phal-proxi-V .
+					anat:L-main-phal-moy-V .
+					anat:L-main-phal-dist-V .
+			Colonne du pouce gauche
+				anat:L-metaC-I .
+				anat:L-main-phal-proxi-I .
+				anat:L-main-phal-dist-I .
+				Os sésamoïdes du pouce gauche
+					anat:L-pouce-sesamoide-lat .
+					anat:L-pouce-sesamoide-med .
+

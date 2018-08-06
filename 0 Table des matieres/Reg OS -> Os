@@ -1,0 +1,217 @@
+anat:OS-unite-centrale	
+	anat:grande-colone-v .
+	anat:cage-thoracique .
+	anat:pelvis-osseux .
+	anat:disque-interpubien .
+anat:OS-tronc	
+	anat:colone-v .
+	anat:cage-thoracique .
+	anat:pelvis-osseux .
+	anat:disque-interpubien .
+anat:OS-tete	
+	anat:os-crane .
+	anat:crane-v .
+anat:OS-cou	
+	anat:cv-cervicale .
+	anat:os-hyoide .
+anat:OS-thorax	
+	anat:cv-thoraciq .
+	anat:cage-thoracique .
+anat:OS-abdomen	
+	anat:cv-lombaire .
+anat:OS-pelvis	
+	anat:pelvis-osseux .
+	anat:div-S5-Co .
+	anat:disque-interpubien .
+	anat:R-labrum-acetabulaire .
+	anat:L-labrum-acetabulaire .
+anat:OS-dos
+	anat:colone-v .
+	COTES
+	anat:R-iliaque .
+	anat:L-iliaque .
+anat:OS-dos-cervi
+	anat:cv-cervicale .
+anat:OS-dos-thorax
+	anat:cv-thoraciq .
+	COTES
+anat:OS-dos-lombaire
+	anat:cv-lombaire .
+anat:OS-dos-pelvis
+	anat:cv-pelvienne .
+	anat:R-iliaque .
+	anat:L-iliaque .
+anat:OS-charn-C0-C1-C2
+	anat:occiput .
+	anat:v-C1 .
+	anat:v-C2 .
+	anat:div-C2-C3 .
+anat:OS-charn-C-T
+	anat:v-C7 .
+	anat:v-T1 .
+	anat:div-C7-T1 .
+	anat:R-cote-1 .
+	anat:L-cote-1 .
+	anat:R-carti-costal-1 .
+	anat:L-carti-costal-1 .
+#	anat:sternum-manubrium .
+anat:OS-charn-T-L
+	anat:v-T12 .
+	anat:v-L1 .
+	anat:div-T12-L1 .
+anat:OS-charn-L-S
+	anat:v-L5 .
+	anat:v-S1 .
+	anat:div-L5-S1 .
+anat:OS-charn-S-Co
+	anat:v-S5 .
+	anat:coccyx .
+	anat:div-S5-Co .
+anat:OS-tete-ant
+	anat:crane-vertebral-ant .
+	MASSIF FACIAL ANTERIEUR
+	anat:dents-sup .
+anat:OS-tete-moy
+	anat:crane-vertebral-moy .
+	MASSIF FACIAL MOYEN.
+	anat:dents-inf .
+	anat:R-menisque-temporo-mandi .
+	anat:L-menisque-temporo-mandi .
+anat:OS-tete-post
+	anat:crane-vertebral-post .
+	MASSIF FACIAL POSTERIEUR
+anat:OS-cou-sup
+	anat:cv-cervicale-sup .
+	anat:os-hyoide .
+anat:OS-cou-moy
+	anat:cv-cervicale-moy .
+anat:OS-cou-inf
+	anat:cv-cervicale-inf .
+anat:OS-thorax-sup
+	anat:cv-thoraciq-sup .
+	anat:cage-thoracique-sup .
+	anat:sternum .
+anat:OS-thorax-moy
+	anat:cv-thoraciq-moy .
+anat:OS-thorax-inf
+	anat:cv-thoraciq-inf .
+anat:OS-abdomen-sup
+	anat:cv-lombaire-sup .
+anat:OS-abdomen-inf
+	anat:cv-lombaire-inf .
+anat:OS-pelvis-sup
+	anat:cv-pelvienne-sup .
+	anat:R-iliaque .
+	anat:L-iliaque .
+#anat:OS-pelvis-sup
+#	anat:R-aile-iliaque .
+#	anat:R-port-acetabulaire .
+#	anat:L-aile-iliaque .
+#	anat:L-port-acetabulaire .
+#anat:OS-pelvis-inf
+#	anat:cv-pelvienne-inf .
+#	anat:R-port-acetabulaire .
+#	anat:R-port-pourtour-foramen .
+#	anat:L-port-acetabulaire .
+#	anat:L-port-pourtour-foramen .
+anat:OS-R-bras
+	anat:R-humerus .
+anat:OS-L-bras
+	anat:L-humerus .
+anat:OS-R-avt-bras
+	anat:R-radius .
+	anat:R-ulna .
+	anat:R-menisque-ulno-carpien .
+anat:OS-L-avt-bras
+	anat:L-radius .
+	anat:L-ulna .
+	anat:L-menisque-ulno-carpien .
+anat:OS-R-main
+	anat:R-os-carpe .
+	anat:R-meta-carpe .
+	anat:R-main-phalanges .
+	anat:R-main-os-sesamoides .
+anat:OS-L-main
+	anat:L-os-carpe .
+	anat:L-meta-carpe .
+	anat:L-main-phalanges .
+	anat:L-main-os-sesamoides .
+anat:OS-R-cuisse
+	anat:R-femur .
+	anat:R-patella .
+anat:OS-L-cuisse
+	anat:L-femur .
+	anat:L-patella .
+anat:OS-R-jambe
+	anat:R-tibia .
+	anat:R-fibula .
+	anat:R-tibia-menisque-med .
+	anat:R-tibia-menisque-lat .
+anat:OS-L-jambe
+	anat:L-tibia .
+	anat:L-fibula .
+	anat:L-tibia-menisque-med .
+	anat:L-tibia-menisque-lat .
+anat:OS-R-pied
+	anat:R-os-tarse .
+	anat:R-meta-tarse .
+	anat:R-pied-phalanges .
+	anat:R-pied-os-sesamoides .
+	anat:R-os-arche-int .
+	anat:R-os-arche-ext .
+anat:OS-L-pied
+	anat:L-os-tarse .
+	anat:L-meta-tarse .
+	anat:L-pied-phalanges .
+	anat:L-pied-os-sesamoides .
+	anat:L-os-arche-int .
+	anat:L-os-arche-ext .
+anat:OS-R-epaule
+	anat:R-clavicule .
+	anat:R-scapula .
+#	anat:R-humerus-epiP-sup .
+anat:OS-L-epaule
+	anat:L-clavicule .
+	anat:L-scapula .
+#	anat:L-humerus-epiP-sup .
+#anat:OS-R-coude
+#	anat:R-humerus-epiP-inf .
+#	anat:R-ulna-epiP-sup .
+#	anat:R-radius-epiP-sup .
+#anat:OS-L-coude
+#	anat:L-humerus-epiP-inf .
+#	anat:L-ulna-epiP-sup .
+#	anat:L-radius-epiP-sup .
+#anat:OS-R-poignet
+#	anat:R-ulna-epiP-inf .
+#	anat:R-radius-epiP-inf .
+#	anat:R-os-carpe .
+#anat:OS-L-poignet
+#	anat:L-ulna-epiP-inf .
+#	anat:L-radius-epiP-inf .
+#	anat:L-os-carpe .
+#anat:OS-R-hanche
+#	anat:R-iliaque .
+#	anat:R-femur-epiP-sup .
+#anat:OS-L-hanche
+#	anat:L-iliaque .
+#	anat:L-femur-epiP-sup .
+#anat:OS-R-genou
+#	anat:R-femur-epiP-inf .
+#	anat:R-patella .
+#	anat:R-tibia-epiP-sup .
+#	anat:R-fibula-epiP-sup .
+#anat:OS-L-genou
+#	anat:L-femur-epiP-inf .
+#	anat:L-patella .
+#	anat:L-tibia-epiP-sup .
+#	anat:L-fibula-epiP-sup .
+#anat:OS-R-cheville
+#	anat:R-tibia-epiP-inf .
+#	anat:R-fibula-epiP-inf .
+#	anat:R-os-tarse .
+#anat:OS-L-cheville
+#	anat:L-tibia-epiP-inf .
+#	anat:L-fibula-epiP-inf .
+#	anat:L-os-tarse .
+

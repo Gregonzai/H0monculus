@@ -1,0 +1,42 @@
+AVANT PROPOS :
+use strict; (force a faire du code propre, declarer les variables)
+use warnings; (affiche s'il y a des choses etranges meme si ca fonctionne)
+
+#BASES D'ECRITURE#
+fin de ligne ;
+saut de ligne \n
+
+print "Hello World\n";
+
+Appeler une variable $
+Declarer (ex une variable) my
+(ex) 
+my $txt;
+$txt="Bonjour";
+(peut s'ecrire directement) my $txt="Bonjour";
+
+le double quote " permet d'interpreter ce qu'il entoure
+print "$txt\n" va ecrire Bonjour
+le simple quote ' va directement ecrire ce qu'il entoure sans rien interpreter
+print '$txt\n' va ecrire $txt\n
+
+Concatenation (joindre plusieurs chaines au sein d'une meme chaine de caracteres)
+my $txt="Bonjour";
+my $phrase=$txt Jajah;
+(pour concatener)
+my $phrase="$txt Jajah";
+(ou)
+my $phrase=$txt."Jajah";
+print "Cette personne a dit $phrase\n";
+
+#Bases de calcul#
+my $nb=X;
+my $calcul=$nb+Y
+	   $nb-Y
+	   $nb*Y
+	   $nb/Y;
+print "Le calcul vaut $calcul\n";
+
+Incrementer/Decrementer (augmenter/diminuer une variable avec une valeur fixee)
+
+

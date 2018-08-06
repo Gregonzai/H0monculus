@@ -59,18 +59,7 @@
       <div class="panel-body">
 
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/os-base-crane">Os de la base du crâne</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-1-1-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1-1-1" aria-expanded="false" aria-controls="collapse1-1-1-1">
-	▼
-        </a>
-    </div>
-    <div id="collapse1-1-1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1-1-1">
-      <div class="panel-body">
-
-						<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/os-base-crane">Os de la base du crâne</a>						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/frontal">Os frontal</a></li>
 						<li><a href="/desc/http://anat.org/sphenoide">Os sphénoïde</a></li>
 						<li><a href="/desc/http://anat.org/occiput">Os occiput</a></li>
@@ -78,21 +67,8 @@
 						<li><a href="/desc/http://anat.org/L-temporal">Os temporal gauche</a></li>
 						<li><a href="/desc/http://anat.org/ethmoide">Os ethmoïde</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
-
-					<li><a href="/desc/http://anat.org/os-voute-crane">Os de la voûte crânienne</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-1-1-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1-1-2" aria-expanded="false" aria-controls="collapse1-1-1-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-1-1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1-1-2">
-      <div class="panel-body">
-
+					</li>
+					<li><a href="/desc/http://anat.org/os-voute-crane">Os de la voûte crânienne</a>
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/frontal">Os frontal</a></li>
 						<li><a href="/desc/http://anat.org/sphenoide">Os sphénoïde</a></li>
@@ -102,10 +78,7 @@
 						<li><a href="/desc/http://anat.org/R-temporal">Os temporal droit</a></li>
 						<li><a href="/desc/http://anat.org/L-temporal">Os temporal gauche</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
-
+					</li>
 					</ul>
       </div>
     </div>
@@ -123,17 +96,7 @@
       <div class="panel-body">
 
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/massif-facial-ant">Os du massif facial antérieur</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-1-2-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1-2-1" aria-expanded="false" aria-controls="collapse1-1-2-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-1-2-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1-2-1">
-      <div class="panel-body">
-
+					<li><a href="/desc/http://anat.org/massif-facial-ant">Os du massif facial antérieur</a>
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/ethmoide">Os ethmoïde</a></li>
 						<li><a href="/desc/http://anat.org/vomer">Os vomer</a></li>
@@ -150,59 +113,54 @@
 						<li><a href="/desc/http://anat.org/R-malaire">Os malaire droit</a></li>
 						<li><a href="/desc/http://anat.org/L-malaire">Os malaire gauche</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
-
-					<li><a href="/desc/http://anat.org/massif-facial-moy">Os du massif facial moyen</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-1-2-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1-2-2" aria-expanded="false" aria-controls="collapse1-1-2-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-1-2-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1-2-2">
-      <div class="panel-body">
-
+					</li>
+					<li><a href="/desc/http://anat.org/massif-facial-moy">Os du massif facial moyen</a>
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/mandibule">Mandibule</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
-
-					<li><a href="/desc/http://anat.org/massif-facial-post">Os du massif facial postérieur</a></li>
+					</li>
+					<li><a href="/desc/http://anat.org/massif-facial-post">Os du massif facial postérieur</a>
+						<ul style="list-style-type:disc">
+						<li><a href="/desc/http://anat.org/R-osselets-oreille">Osselets de l'oreille droite</a></li>
 
   <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-1-2-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1-2-3" aria-expanded="false" aria-controls="collapse1-1-2-3">
+    <div class="panel-heading" role="tab" id="1-1-2-3-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1-2-3-1" aria-expanded="false" aria-controls="collapse1-1-2-3-1">
 	▼ 
         </a>
     </div>
-    <div id="collapse1-1-2-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1-2-3">
+    <div id="collapse1-1-2-3-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1-2-3-1">
       <div class="panel-body">
 
-						<ul style="list-style-type:disc">
-						<li><a href="/desc/http://anat.org/R-osselets-oreille">Osselets de l'oreille droite</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-marteau">Malleus droit</a></li>
 							<li><a href="/desc/http://anat.org/R-enclume">Incus droit</a></li>
 							<li><a href="/desc/http://anat.org/R-etrier">Stapes droit</a></li>
 							</ul>
-						</li>
-						<li><a href="/desc/http://anat.org/L-osselets-oreille">Osselets de l'oreille gauche</a>
+      </div>
+    </div>
+  </div>
+						<li><a href="/desc/http://anat.org/L-osselets-oreille">Osselets de l'oreille gauche</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="1-1-2-3-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1-2-3-2" aria-expanded="false" aria-controls="collapse1-1-2-3-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapse1-1-2-3-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1-2-3-2">
+      <div class="panel-body">
+
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/L-marteau">Malleus gauche</a></li>
 							<li><a href="/desc/http://anat.org/L-enclume">Incus gauche</a></li>
 							<li><a href="/desc/http://anat.org/L-etrier">Stapes gauche</a></li>
 							</ul>
-						</li>
-						</ul>
       </div>
     </div>
   </div>
-
+						</ul>
+					</li>
 					</ul>
       </div>
     </div>
@@ -243,36 +201,13 @@
       <div class="panel-body">
 
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/crane-vertebral-ant">Vertèbre crânienne antérieure</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-1-4-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1-4-1" aria-expanded="false" aria-controls="collapse1-1-4-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-1-4-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1-4-1">
-      <div class="panel-body">
-
+					<li><a href="/desc/http://anat.org/crane-vertebral-ant">Vertèbre crânienne antérieure</a>
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/sphenoide">Os sphénoïde</a></li>
 						<li><a href="/desc/http://anat.org/frontal">Os frontal</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
-
-					<li><a href="/desc/http://anat.org/massif-facial-ant">Os du massif facial antérieur</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-1-4-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1-4-2" aria-expanded="false" aria-controls="collapse1-1-4-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-1-4-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1-4-2">
-      <div class="panel-body">
-
+					</li>
+					<li><a href="/desc/http://anat.org/massif-facial-ant">Os du massif facial antérieur</a>
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/ethmoide">Os ethmoïde</a></li>
 						<li><a href="/desc/http://anat.org/vomer">Os vomer</a></li>
@@ -289,10 +224,7 @@
 						<li><a href="/desc/http://anat.org/R-malaire">Os malaire droit</a></li>
 						<li><a href="/desc/http://anat.org/L-malaire">Os malaire gauche</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
-
+					</li>
 					<li><a href="/desc/http://anat.org/dents-sup">Dents supérieures</a></li>
 
   <div class="panel panel-default">
@@ -343,46 +275,25 @@
       <div class="panel-body">
 
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/crane-vertebral-moy">Vertèbre crânienne moyenne</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-1-5-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1-5-1" aria-expanded="false" aria-controls="collapse1-1-5-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-1-5-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1-5-1">
-      <div class="panel-body">
-
-						<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/crane-vertebral-moy">Vertèbre crânienne moyenne</a>						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/sphenoide">Os sphénoïde</a></li>
 						<li><a href="/desc/http://anat.org/R-parietal">Os pariétal droit</a></li>
 						<li><a href="/desc/http://anat.org/L-parietal">Os pariétal gauche</a></li>
 						<li><a href="/desc/http://anat.org/R-temporal">Os temporal droit</a></li>
 						<li><a href="/desc/http://anat.org/L-temporal">Os temporal gauche</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
-
-					<li><a href="/desc/http://anat.org/massif-facial-moy">Os du massif facial moyen</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-1-5-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1-5-2" aria-expanded="false" aria-controls="collapse1-1-5-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-1-5-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1-5-2">
-      <div class="panel-body">
-
+					</li>
+					<li><a href="/desc/http://anat.org/massif-facial-moy">Os du massif facial moyen</a>
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/mandibule">Mandibule</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
-
+					</li>
+					<li><a href="/desc/http://anat.org/menisques-temporo-mandibulaires">Ménisques temporo-mandibulaires</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-menisque-temporo-mandi">Ménisque temporo-mandibulaire droit</a></li>
+						<li><a href="/desc/http://anat.org/L-menisque-temporo-mandi">Ménisque temporo-mandibulaire gauche</a></li>
+						</ul>
+					</li>
 					<li><a href="/desc/http://anat.org/dents-inf">Dents inférieures</a></li>
 
   <div class="panel panel-default">
@@ -416,24 +327,6 @@
     </div>
   </div>
 
-					<li><a href="/desc/http://anat.org/menisques-temporo-mandibulaires">Ménisques temporo-mandibulaires</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-1-5-4">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1-5-4" aria-expanded="false" aria-controls="collapse1-1-5-4">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-1-5-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1-5-4">
-      <div class="panel-body">
-						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-menisque-temporo-mandi">Ménisque temporo-mandibulaire droit</a></li>
-						<li><a href="/desc/http://anat.org/L-menisque-temporo-mandi">Ménisque temporo-mandibulaire gauche</a></li>
-						</ul>
-      </div>
-    </div>
-  </div>
-
 					</ul>
       </div>
     </div>
@@ -451,37 +344,14 @@
       <div class="panel-body">
 
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/crane-vertebral-post">Vertèbre crânienne postérieure</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-1-6-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1-6-1" aria-expanded="false" aria-controls="collapse1-1-6-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-1-6-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1-6-1">
-      <div class="panel-body">
-
+					<li><a href="/desc/http://anat.org/crane-vertebral-post">Vertèbre crânienne postérieure</a>
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/occiput">Os occiput</a></li>
 						<li><a href="/desc/http://anat.org/R-temporal">Os temporal droit</a></li>
 						<li><a href="/desc/http://anat.org/L-temporal">Os temporal gauche</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
-
-					<li><a href="/desc/http://anat.org/massif-facial-post">Os du massif facial postérieur</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-1-6-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1-6-2" aria-expanded="false" aria-controls="collapse1-1-6-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-1-6-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1-6-2">
-      <div class="panel-body">
-
+					</li>
+					<li><a href="/desc/http://anat.org/massif-facial-post">Os du massif facial postérieur</a>
 						<ul style="list-style-type:disc">
 						<li><a href="/desc/http://anat.org/R-osselets-oreille">Osselets de l'oreille droite</a>
 							<ul style="list-style-type:circle">
@@ -498,10 +368,7 @@
 							</ul>
 						</li>
 						</ul>
-      </div>
-    </div>
-  </div>
-
+					</li>
 					</ul>
       </div>
     </div>
@@ -757,36 +624,13 @@
       <div class="panel-body">
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/crane-vertebral-ant">Vertèbre crânienne antérieure</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="2-1-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2-1-1" aria-expanded="false" aria-controls="collapse2-1-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse2-1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2-1-1">
-      <div class="panel-body">
-
+		<li><a href="/desc/http://anat.org/crane-vertebral-ant">Vertèbre crânienne antérieure</a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/sphenoide">Os sphénoïde</a></li>
 			<li><a href="/desc/http://anat.org/frontal">Os frontal</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
-
-		<li><a href="/desc/http://anat.org/crane-vertebral-moy">Vertèbre crânienne moyenne</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="2-1-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2-1-2" aria-expanded="false" aria-controls="collapse2-1-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse2-1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2-1-2">
-      <div class="panel-body">
-
+		</li>
+		<li><a href="/desc/http://anat.org/crane-vertebral-moy">Vertèbre crânienne moyenne</a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/sphenoide">Os sphénoïde</a></li>
 			<li><a href="/desc/http://anat.org/R-parietal">Os pariétal droit</a></li>
@@ -794,30 +638,14 @@
 			<li><a href="/desc/http://anat.org/R-temporal">Os temporal droit</a></li>
 			<li><a href="/desc/http://anat.org/L-temporal">Os temporal gauche</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
-
-		<li><a href="/desc/http://anat.org/crane-vertebral-post">Vertèbre crânienne postérieure</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="2-1-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2-1-3" aria-expanded="false" aria-controls="collapse2-1-3">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse2-1-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2-1-3">
-      <div class="panel-body">
-
+		</li>
+		<li><a href="/desc/http://anat.org/crane-vertebral-post">Vertèbre crânienne postérieure</a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/occiput">Os occiput</a></li>
 			<li><a href="/desc/http://anat.org/R-temporal">Os temporal droit</a></li>
 			<li><a href="/desc/http://anat.org/L-temporal">Os temporal gauche</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
-
+		</li>
 		</ul>
       </div>
     </div>
@@ -851,38 +679,15 @@
       <div class="panel-body">
 
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/cv-cervicale-sup">Colonne vertébrale cervicale supérieure</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="2-2-1-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2-2-1-1" aria-expanded="false" aria-controls="collapse2-2-1-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse2-2-1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2-2-1-1">
-      <div class="panel-body">
-
+					<li><a href="/desc/http://anat.org/cv-cervicale-sup">Colonne vertébrale cervicale supérieure</a>
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/v-C1">Vertèbre C1</a></li>
 						<li><a href="/desc/http://anat.org/v-C2">Vertèbre C2</a></li>
 						<li><a href="/desc/http://anat.org/v-C3">Vertèbre C3</a></li>
 						<li><a href="/desc/http://anat.org/div-C2-C3">Disque intervertébral C2-C3</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
-
-					<li><a href="/desc/http://anat.org/cv-cervicale-moy">Colonne vertébrale cervicale moyenne</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="2-2-1-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2-2-1-2" aria-expanded="false" aria-controls="collapse2-2-1-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse2-2-1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2-2-1-2">
-      <div class="panel-body">
-
+					</li>
+					<li><a href="/desc/http://anat.org/cv-cervicale-moy">Colonne vertébrale cervicale moyenne</a>
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/v-C3">Vertèbre C3</a></li>
 						<li><a href="/desc/http://anat.org/v-C4">Vertèbre C4</a></li>
@@ -890,21 +695,8 @@
 						<li><a href="/desc/http://anat.org/div-C3-C4">Disque intervertébral C3-C4</a></li>
 						<li><a href="/desc/http://anat.org/div-C4-C5">Disque intervertébral C4-C5</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
-
-					<li><a href="/desc/http://anat.org/cv-cervicale-inf">Colonne vertébrale cervicale inférieure</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="2-2-1-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2-2-1-3" aria-expanded="false" aria-controls="collapse2-2-1-3">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse2-2-1-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2-2-1-3">
-      <div class="panel-body">
-
+					</li>
+					<li><a href="/desc/http://anat.org/cv-cervicale-inf">Colonne vertébrale cervicale inférieure</a>
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/v-C5">Vertèbre C5</a></li>
 						<li><a href="/desc/http://anat.org/v-C6">Vertèbre C6</a></li>
@@ -912,10 +704,7 @@
 						<li><a href="/desc/http://anat.org/div-C5-C6">Disque intervertébral C5-C6</a></li>
 						<li><a href="/desc/http://anat.org/div-C6-C7">Disque intervertébral C6-C7</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
-
+					</li>
 					</ul>
       </div>
     </div>
@@ -933,17 +722,7 @@
       <div class="panel-body">
 
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/cv-thoraciq-sup">Colonne vertébrale thoracique supérieure</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="2-2-2-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2-2-2-1" aria-expanded="false" aria-controls="collapse2-2-2-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse2-2-2-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2-2-2-1">
-      <div class="panel-body">
-
+					<li><a href="/desc/http://anat.org/cv-thoraciq-sup">Colonne vertébrale thoracique supérieure</a>
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/v-T1">Vertèbre T1</a></li>
 						<li><a href="/desc/http://anat.org/v-T2">Vertèbre T2</a></li>
@@ -957,21 +736,8 @@
 						<li><a href="/desc/http://anat.org/div-T4-T5">Disque intervertébral T4-T5</a></li>
 						<li><a href="/desc/http://anat.org/div-T5-T6">Disque intervertébral T5-T6</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
-
-					<li><a href="/desc/http://anat.org/cv-thoraciq-moy">Colonne vertébrale thoracique moyenne</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="2-2-2-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2-2-2-2" aria-expanded="false" aria-controls="collapse2-2-2-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse2-2-2-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2-2-2-2">
-      <div class="panel-body">
-
+					</li>
+					<li><a href="/desc/http://anat.org/cv-thoraciq-moy">Colonne vertébrale thoracique moyenne</a>
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/v-T6">Vertèbre T6</a></li>
 						<li><a href="/desc/http://anat.org/v-T7">Vertèbre T7</a></li>
@@ -983,21 +749,8 @@
 						<li><a href="/desc/http://anat.org/div-T8-T9">Disque intervertébral T8-T9</a></li>
 						<li><a href="/desc/http://anat.org/div-T9-T10">Disque intervertébral T9-T10</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
-
-					<li><a href="/desc/http://anat.org/cv-thoraciq-inf">Colonne vertébrale thoracique inférieure</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="2-2-2-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2-2-2-3" aria-expanded="false" aria-controls="collapse2-2-2-3">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse2-2-2-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2-2-2-3">
-      <div class="panel-body">
-
+					</li>
+					<li><a href="/desc/http://anat.org/cv-thoraciq-inf">Colonne vertébrale thoracique inférieure</a>
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/v-T10">Vertèbre T10</a></li>
 						<li><a href="/desc/http://anat.org/v-T11">Vertèbre T11</a></li>
@@ -1005,10 +758,7 @@
 						<li><a href="/desc/http://anat.org/div-T10-T11">Disque intervertébral T10-T11</a></li>
 						<li><a href="/desc/http://anat.org/div-T11-T12">Disque intervertébral T11-T12</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
-
+					</li>
 					</ul>
       </div>
     </div>
@@ -1026,17 +776,7 @@
       <div class="panel-body">
 
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/cv-lombaire-sup">Colonne vertébrale lombaire supérieure</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="2-2-3-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2-2-3-1" aria-expanded="false" aria-controls="collapse2-2-3-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse2-2-3-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2-2-3-1">
-      <div class="panel-body">
-
+					<li><a href="/desc/http://anat.org/cv-lombaire-sup">Colonne vertébrale lombaire supérieure</a>
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/v-L1">Vertèbre L1</a></li>
 						<li><a href="/desc/http://anat.org/v-L2">Vertèbre L2</a></li>
@@ -1044,21 +784,8 @@
 						<li><a href="/desc/http://anat.org/div-L1-L2">Disque intervertébral L1-L2</a></li>
 						<li><a href="/desc/http://anat.org/div-L2-L3">Disque intervertébral L2-L3</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
-
-					<li><a href="/desc/http://anat.org/cv-lombaire-inf">Colonne vertébrale lombaire inférieure</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="2-2-3-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2-2-3-2" aria-expanded="false" aria-controls="collapse2-2-3-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse2-2-3-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2-2-3-2">
-      <div class="panel-body">
-
+					</li>
+					<li><a href="/desc/http://anat.org/cv-lombaire-inf">Colonne vertébrale lombaire inférieure</a>
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/v-L3">Vertèbre L3</a></li>
 						<li><a href="/desc/http://anat.org/v-L4">Vertèbre L4</a></li>
@@ -1066,10 +793,7 @@
 						<li><a href="/desc/http://anat.org/div-L3-L4">Disque intervertébral L3-L4</a></li>
 						<li><a href="/desc/http://anat.org/div-L4-L5">Disque intervertébral L4-L5</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
-
+					</li>
 					</ul>
       </div>
     </div>
@@ -1087,36 +811,13 @@
       <div class="panel-body">
 
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/cv-pelvienne-sup">Colonne vertébrale pelvienne supérieure</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="2-2-4-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2-2-4-1" aria-expanded="false" aria-controls="collapse2-2-4-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse2-2-4-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2-2-4-1">
-      <div class="panel-body">
-
+					<li><a href="/desc/http://anat.org/cv-pelvienne-sup">Colonne vertébrale pelvienne supérieure</a>
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/v-S1">Vertèbre S1</a></li>
 						<li><a href="/desc/http://anat.org/v-S2">Vertèbre S2</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
-
-					<li><a href="/desc/http://anat.org/cv-pelvienne-inf">Colonne vertébrale pelvienne inférieure</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="2-2-4-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2-2-4-2" aria-expanded="false" aria-controls="collapse2-2-4-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse2-2-4-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2-2-4-2">
-      <div class="panel-body">
-
+					</li>
+					<li><a href="/desc/http://anat.org/cv-pelvienne-inf">Colonne vertébrale pelvienne inférieure</a>
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/v-S3">Vertèbre S3</a></li>
 						<li><a href="/desc/http://anat.org/v-S4">Vertèbre S4</a></li>
@@ -1124,10 +825,7 @@
 						<li><a href="/desc/http://anat.org/coccyx">Coccyx</a></li>
 						<li><a href="/desc/http://anat.org/div-S5-Co">Disque intervertébral S5-Co</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
-
+					</li>
 					</ul>
       </div>
     </div>
@@ -1250,37 +948,13 @@
       <div class="panel-body">
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/charniere-C0-C1-C2">Charnière C0-C1-C2</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="2-3-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2-3-1" aria-expanded="false" aria-controls="collapse2-3-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse2-3-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2-3-1">
-      <div class="panel-body">
-
-			<ul style="list-style-type:circle">
+		<li><a href="/desc/http://anat.org/charniere-C0-C1-C2">Charnière C0-C1-C2</a>			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/occiput">Os occiput</a></li>
 			<li><a href="/desc/http://anat.org/v-C1">Vertèbre C1</a></li>
 			<li><a href="/desc/http://anat.org/v-C2">Vertèbre C2</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
-
-		<li><a href="/desc/http://anat.org/charniere-cervico-thoracique">Charnière cervico-thoracique</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="2-3-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2-3-2" aria-expanded="false" aria-controls="collapse2-3-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse2-3-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2-3-2">
-      <div class="panel-body">
-
+		</li>
+		<li><a href="/desc/http://anat.org/charniere-cervico-thoracique">Charnière cervico-thoracique</a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/v-C7">Vertèbre C7</a></li>
 			<li><a href="/desc/http://anat.org/v-T1">Vertèbre T1</a></li>
@@ -1290,70 +964,28 @@
 			<li><a href="/desc/http://anat.org/R-carti-costal-1">1er cartilage costal droit</a></li>
 			<li><a href="/desc/http://anat.org/L-carti-costal-1">1er cartilage costal gauche</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
-
-		<li><a href="/desc/http://anat.org/charniere-thoraco-lombaire">Charnière thoraco-lombaire</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="2-3-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2-3-3" aria-expanded="false" aria-controls="collapse2-3-3">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse2-3-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2-3-3">
-      <div class="panel-body">
-
+		</li>
+		<li><a href="/desc/http://anat.org/charniere-thoraco-lombaire">Charnière thoraco-lombaire</a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/v-T12">Vertèbre T12</a></li>
 			<li><a href="/desc/http://anat.org/v-L1">Vertèbre L1</a></li>
 			<li><a href="/desc/http://anat.org/div-T12-L1">Disque intervertébral T12-L1</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
-
-		<li><a href="/desc/http://anat.org/charniere-lombo-sacree">Charnière lombo-sacrée</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="2-3-4">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2-3-4" aria-expanded="false" aria-controls="collapse2-3-4">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse2-3-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2-3-4">
-      <div class="panel-body">
-
+		</li>
+		<li><a href="/desc/http://anat.org/charniere-lombo-sacree">Charnière lombo-sacrée</a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/v-L5">Vertèbre L5</a></li>
 			<li><a href="/desc/http://anat.org/v-S1">Vertèbre S1</a></li>
 			<li><a href="/desc/http://anat.org/div-L5-S1">Disque intervertébral L5-S1</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
-
-		<li><a href="/desc/http://anat.org/charniere-sacro-coccygienne">Charnière sacro-coccygienne</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="2-3-5">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2-3-5" aria-expanded="false" aria-controls="collapse2-3-5">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse2-3-5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2-3-5">
-      <div class="panel-body">
-
+		</li>
+		<li><a href="/desc/http://anat.org/charniere-sacro-coccygienne">Charnière sacro-coccygienne</a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/v-S5">Vertèbre S5</a></li>
 			<li><a href="/desc/http://anat.org/coccyx">Coccyx</a></li>
 			<li><a href="/desc/http://anat.org/div-S5-Co">Disque intervertébral S5-Co</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
-
+		</li>
 		</ul>
       </div>
     </div>
@@ -1388,38 +1020,15 @@
       <div class="panel-body">
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/cv-cervicale-sup">Colonne vertébrale cervicale supérieure</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="3-1-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3-1-1" aria-expanded="false" aria-controls="collapse3-1-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse3-1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="3-1-1">
-      <div class="panel-body">
-
+		<li><a href="/desc/http://anat.org/cv-cervicale-sup">Colonne vertébrale cervicale supérieure</a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/v-C1">Vertèbre C1</a></li>
 			<li><a href="/desc/http://anat.org/v-C2">Vertèbre C2</a></li>
 			<li><a href="/desc/http://anat.org/v-C3">Vertèbre C3</a></li>
 			<li><a href="/desc/http://anat.org/div-C2-C3">Disque intervertébral C2-C3</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
-
-		<li><a href="/desc/http://anat.org/cv-cervicale-moy">Colonne vertébrale cervicale moyenne</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="3-1-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3-1-2" aria-expanded="false" aria-controls="collapse3-1-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse3-1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="3-1-2">
-      <div class="panel-body">
-
+		</li>
+		<li><a href="/desc/http://anat.org/cv-cervicale-moy">Colonne vertébrale cervicale moyenne</a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/v-C3">Vertèbre C3</a></li>
 			<li><a href="/desc/http://anat.org/v-C4">Vertèbre C4</a></li>
@@ -1427,21 +1036,8 @@
 			<li><a href="/desc/http://anat.org/div-C3-C4">Disque intervertébral C3-C4</a></li>
 			<li><a href="/desc/http://anat.org/div-C4-C5">Disque intervertébral C4-C5</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
-
-		<li><a href="/desc/http://anat.org/cv-cervicale-inf">Colonne vertébrale cervicale inférieure</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="3-1-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3-1-3" aria-expanded="false" aria-controls="collapse3-1-3">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse3-1-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="3-1-3">
-      <div class="panel-body">
-
+		</li>
+		<li><a href="/desc/http://anat.org/cv-cervicale-inf">Colonne vertébrale cervicale inférieure</a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/v-C5">Vertèbre C5</a></li>
 			<li><a href="/desc/http://anat.org/v-C6">Vertèbre C6</a></li>
@@ -1483,17 +1079,7 @@
       <div class="panel-body">
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/cv-thoraciq-sup">Colonne vertébrale thoracique supérieure</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="4-1-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4-1-1" aria-expanded="false" aria-controls="collapse4-1-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse4-1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="4-1-1">
-      <div class="panel-body">
-
+		<li><a href="/desc/http://anat.org/cv-thoraciq-sup">Colonne vertébrale thoracique supérieure</a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/v-T1">Vertèbre T1</a></li>
 			<li><a href="/desc/http://anat.org/v-T2">Vertèbre T2</a></li>
@@ -1507,21 +1093,8 @@
 			<li><a href="/desc/http://anat.org/div-T4-T5">Disque intervertébral T4-T5</a></li>
 			<li><a href="/desc/http://anat.org/div-T5-T6">Disque intervertébral T5-T6</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
-
-		<li><a href="/desc/http://anat.org/cv-thoraciq-moy">Colonne vertébrale thoracique moyenne</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="4-1-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4-1-2" aria-expanded="false" aria-controls="collapse4-1-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse4-1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="4-1-2">
-      <div class="panel-body">
-
+		</li>
+		<li><a href="/desc/http://anat.org/cv-thoraciq-moy">Colonne vertébrale thoracique moyenne</a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/v-T6">Vertèbre T6</a></li>
 			<li><a href="/desc/http://anat.org/v-T7">Vertèbre T7</a></li>
@@ -1533,21 +1106,8 @@
 			<li><a href="/desc/http://anat.org/div-T8-T9">Disque intervertébral T8-T9</a></li>
 			<li><a href="/desc/http://anat.org/div-T9-T10">Disque intervertébral T9-T10</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
-
-		<li><a href="/desc/http://anat.org/cv-thoraciq-inf">Colonne vertébrale thoracique inférieure</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="4-1-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4-1-3" aria-expanded="false" aria-controls="collapse4-1-3">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse4-1-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="4-1-3">
-      <div class="panel-body">
-
+		</li>
+		<li><a href="/desc/http://anat.org/cv-thoraciq-inf">Colonne vertébrale thoracique inférieure</a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/v-T10">Vertèbre T10</a></li>
 			<li><a href="/desc/http://anat.org/v-T11">Vertèbre T11</a></li>
@@ -1555,10 +1115,7 @@
 			<li><a href="/desc/http://anat.org/div-T10-T11">Disque intervertébral T10-T11</a></li>
 			<li><a href="/desc/http://anat.org/div-T11-T12">Disque intervertébral T11-T12</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
-
+		</li>
 		</ul>
       </div>
     </div>
@@ -1992,26 +1549,16 @@
 	<li><a href="/desc/http://anat.org/cv-lombaire">COLONNE VERTÉBRALE LOMBAIRE</a></li>
 
   <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="4-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4-1" aria-expanded="false" aria-controls="collapse4-1">
+    <div class="panel-heading" role="tab" id="5-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse5-1" aria-expanded="false" aria-controls="collapse5-1">
 	▼ 
         </a>
     </div>
-    <div id="collapse4-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="4-1">
+    <div id="collapse5-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="5-1">
       <div class="panel-body">
 
 		<ul style="list-style-type:disc">
 		<li><a href="/desc/http://anat.org/cv-lombaire-sup">Colonne vertébrale lombaire supérieure</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="4-1-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4-1-1" aria-expanded="false" aria-controls="collapse4-1-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse4-1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="4-1-1">
-      <div class="panel-body">
-
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/v-L1">Vertèbre L1</a></li>
 			<li><a href="/desc/http://anat.org/v-L2">Vertèbre L2</a></li>
@@ -2019,21 +1566,8 @@
 			<li><a href="/desc/http://anat.org/div-L1-L2">Disque intervertébral L1-L2</a></li>
 			<li><a href="/desc/http://anat.org/div-L2-L3">Disque intervertébral L2-L3</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
-
-		<li><a href="/desc/http://anat.org/cv-lombaire-inf">Colonne vertébrale lombaire inférieure</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="4-1-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4-1-2" aria-expanded="false" aria-controls="collapse4-1-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse4-1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="4-1-2">
-      <div class="panel-body">
-
+		</li>
+		<li><a href="/desc/http://anat.org/cv-lombaire-inf">Colonne vertébrale lombaire inférieure</a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/v-L3">Vertèbre L3</a></li>
 			<li><a href="/desc/http://anat.org/v-L4">Vertèbre L4</a></li>
@@ -2041,10 +1575,7 @@
 			<li><a href="/desc/http://anat.org/div-L3-L4">Disque intervertébral L3-L4</a></li>
 			<li><a href="/desc/http://anat.org/div-L4-L5">Disque intervertébral L4-L5</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
-
+		</li>
 		</ul>
       </div>
     </div>
@@ -2125,46 +1656,20 @@
       <div class="panel-body">
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/OS-R-hanche">OS DE LA HANCHE DROITE</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="7-1-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse7-1-1" aria-expanded="false" aria-controls="collapse7-1-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse7-1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="7-1-1">
-      <div class="panel-body">
-
+		<li><a href="/desc/http://anat.org/OS-R-hanche">OS DE LA HANCHE DROITE</a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/R-iliaque">Os coxal (iliaque) droit</a></li>
 			<li><a href="/desc/http://anat.org/R-femur-epiP-sup">Épiphyse supérieure du fémur droit</a></li>
 			<li><a href="/desc/http://anat.org/R-labrum-acetabulaire">Labrum acétabulaire droit</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
-
-		<li><a href="/desc/http://anat.org/OS-L-hanche">OS DE LA HANCHE GAUCHE</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="7-1-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse7-1-2" aria-expanded="false" aria-controls="collapse7-1-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse7-1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="7-1-2">
-      <div class="panel-body">
-
+		</li>
+		<li><a href="/desc/http://anat.org/OS-L-hanche">OS DE LA HANCHE GAUCHE</a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/L-iliaque">Os coxal (iliaque) gauche</a></li>
 			<li><a href="/desc/http://anat.org/L-femur-epiP-sup">Épiphyse supérieure du fémur gauche</a></li>
 			<li><a href="/desc/http://anat.org/L-labrum-acetabulaire">Labrum acétabulaire gauche</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
-
+		</li>
 		<li><a href="/desc/http://anat.org/disque-interpubien">Disque interpubien</a></li>
 		<li><a href="/desc/http://anat.org/sacrum">Sacrum</a></li>
 		<li><a href="/desc/http://anat.org/coccyx">Coccyx</a></li>
@@ -2186,48 +1691,22 @@
       <div class="panel-body">
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/OS-R-epaule">OS DE LA ÉPAULE DROITE</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="7-2-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse7-2-1" aria-expanded="false" aria-controls="collapse7-2-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse7-2-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="7-2-1">
-      <div class="panel-body">
-
+		<li><a href="/desc/http://anat.org/OS-R-epaule">OS DE LA ÉPAULE DROITE</a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/R-clavicule">Clavicule droite</a></li>
 			<li><a href="/desc/http://anat.org/R-scapula">Scapula droite</a></li>
 			<li><a href="/desc/http://anat.org/R-humerus-epiP-sup">Épiphyse supérieure de l'humérus droit</a></li>
-			<li><a href="/desc/http://anat.org/L-labrum-glenoidal">Labrum glénoïdal gauche</a></li>
+			<li><a href="/desc/http://anat.org/R-labrum-glenoidal">Labrum glénoïdal droit</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
-
-		<li><a href="/desc/http://anat.org/OS-L-epaule">OS DE LA ÉPAULE GAUCHE</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="7-2-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse7-2-2" aria-expanded="false" aria-controls="collapse7-2-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse7-2-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="7-2-2">
-      <div class="panel-body">
-
+		</li>
+		<li><a href="/desc/http://anat.org/OS-L-epaule">OS DE LA ÉPAULE GAUCHE</a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/L-clavicule">Clavicule gauche</a></li>
 			<li><a href="/desc/http://anat.org/L-scapula">Scapula gauche</a></li>
 			<li><a href="/desc/http://anat.org/L-humerus-epiP-sup">Épiphyse supérieure de l'humérus gauche</a></li>
 			<li><a href="/desc/http://anat.org/L-labrum-glenoidal">Labrum glénoïdal gauche</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
-
+		</li>
 		<li><a href="/desc/http://anat.org/sternum-manubrium">Manubrium sternal</a></li>
 		</ul>
       </div>
@@ -2308,25 +1787,12 @@
 			<li><a href="/desc/http://anat.org/R-patella">Patella (anc. rotule) droite</a></li>
 			<li><a href="/desc/http://anat.org/R-tibia-epiP-sup">Épiphyse supérieure du tibia droit</a></li>
 			<li><a href="/desc/http://anat.org/R-fibula-epiP-sup">Épiphyse supérieure de la fibula (anc. péroné) droite</a></li>
-			<li><a href="/desc/http://anat.org/R-tibia-menisques">Ménisques tibiaux droits</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-3-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-3-1" aria-expanded="false" aria-controls="collapse8-1-3-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-3-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-3-1">
-      <div class="panel-body">
-
+			<li><a href="/desc/http://anat.org/R-tibia-menisques">Ménisques tibiaux droits</a>
 				<ul style="list-style-type:circle">
 				<li><a href="/desc/http://anat.org/R-tibia-menisque-med">Ménisque tibial médial droit</a></li>
 				<li><a href="/desc/http://anat.org/R-tibia-menisque-lat">Ménisque tibial latéral droit</a></li>
 				</ul>
-      </div>
-    </div>
-  </div>
-
+			</li>
 			</ul>
       </div>
     </div>
@@ -2377,36 +1843,13 @@
       <div class="panel-body">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-tarse-post">Os du tarse postérieur droit</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-5-1-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-5-1-1" aria-expanded="false" aria-controls="collapse8-1-5-1-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-5-1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-5-1-1">
-      <div class="panel-body">
-
+				<li><a href="/desc/http://anat.org/R-tarse-post">Os du tarse postérieur droit</a>
 					<ul style="list-style-type:circle">
 					<li><a href="/desc/http://anat.org/R-talus">Talus (anc. astragal) droit</a></li>
 					<li><a href="/desc/http://anat.org/R-calca">Calcanéus (anc. calcanéum) droit</a></li>
 					</ul>
-      </div>
-    </div>
-  </div>
-
-				<li><a href="/desc/http://anat.org/R-tarse-ant">Os du tarse antérieur droit</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-5-1-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-5-1-2" aria-expanded="false" aria-controls="collapse8-1-5-1-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-5-1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-5-1-2">
-      <div class="panel-body">
-
+				</li>
+				<li><a href="/desc/http://anat.org/R-tarse-ant">Os du tarse antérieur droit</a>
 					<ul style="list-style-type:circle">
 					<li><a href="/desc/http://anat.org/R-navi">Os naviculaire (anc. scaphoïde tarsien) droit</a></li>
 					<li><a href="/desc/http://anat.org/R-cubo">Os cuboïde droit</a></li>
@@ -2414,10 +1857,7 @@
 					<li><a href="/desc/http://anat.org/R-cune-II">2e os cunéiforme droit</a></li>
 					<li><a href="/desc/http://anat.org/R-cune-III">3e os cunéiforme droit</a></li>
 					</ul>
-      </div>
-    </div>
-  </div>
-
+				</li>
 				</ul>
       </div>
     </div>
@@ -2456,36 +1896,13 @@
       <div class="panel-body">
 
 						<ul style="list-style-type:disc">
-						<li><a href="/desc/http://anat.org/R-tarse-post">Os du tarse postérieur droit</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-6-1-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-6-1-1" aria-expanded="false" aria-controls="collapse8-1-6-1-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-6-1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-6-1-1">
-      <div class="panel-body">
-
+						<li><a href="/desc/http://anat.org/R-tarse-post">Os du tarse postérieur droit</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-talus">Talus (anc. astragal) droit</a></li>
 							<li><a href="/desc/http://anat.org/R-calca">Calcanéus (anc. calcanéum) droit</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
-						<li><a href="/desc/http://anat.org/R-tarse-ant">Os du tarse antérieur droit</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-6-1-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-6-1-2" aria-expanded="false" aria-controls="collapse8-1-6-1-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-6-1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-6-1-2">
-      <div class="panel-body">
-
+						</li>
+						<li><a href="/desc/http://anat.org/R-tarse-ant">Os du tarse antérieur droit</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-navi">Os naviculaire (anc. scaphoïde tarsien) droit</a></li>
 							<li><a href="/desc/http://anat.org/R-cubo">Os cuboïde droit</a></li>
@@ -2493,10 +1910,7 @@
 							<li><a href="/desc/http://anat.org/R-cune-II">2e os cunéiforme droit</a></li>
 							<li><a href="/desc/http://anat.org/R-cune-III">3e os cunéiforme droit</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
+						</li>
 						</ul>
       </div>
     </div>
@@ -2555,105 +1969,40 @@
       <div class="panel-body">
 
 						<ul style="list-style-type:disc">
-						<li><a href="/desc/http://anat.org/R-pied-phalanges-I">Os des phalanges de l’hallux droit</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-6-4-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-6-4-1" aria-expanded="false" aria-controls="collapse8-1-6-4-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-6-4-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-6-4-1">
-      <div class="panel-body">
-
+						<li><a href="/desc/http://anat.org/R-pied-phalanges-I">Os des phalanges de l’hallux droit</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-pied-phal-proxi-I">Phalange proximale de l’hallux droit</a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-dist-I">Phalange distale de l’hallux droit</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
-						<li><a href="/desc/http://anat.org/R-pied-phalanges-II">Os des phalanges du 2e orteil droit</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-6-4-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-6-4-2" aria-expanded="false" aria-controls="collapse8-1-6-4-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-6-4-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-6-4-2">
-      <div class="panel-body">
-
+						</li>
+						<li><a href="/desc/http://anat.org/R-pied-phalanges-II">Os des phalanges du 2e orteil droit</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-pied-phal-proxi-II">Phalange proximale du 2e orteil droit</a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-moy-II">Phalange moyenne du 2e orteil droit</a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-dist-II">Phalange distale du 2e orteil droit</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
-						<li><a href="/desc/http://anat.org/R-pied-phalanges-III">Os des phalanges du 3e orteil droit</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-6-4-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-6-4-3" aria-expanded="false" aria-controls="collapse8-1-6-4-3">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-6-4-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-6-4-3">
-      <div class="panel-body">
-
+						</li>
+						<li><a href="/desc/http://anat.org/R-pied-phalanges-III">Os des phalanges du 3e orteil droit</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-pied-phal-proxi-III">Phalange proximale du 3e orteil droit</a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-moy-III">Phalange moyenne du 3e orteil droit</a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-dist-III">Phalange distale du 3e orteil droit</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
-						<li><a href="/desc/http://anat.org/R-pied-phalanges-IV">Os des phalanges du 4e orteil droit</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-6-4-4">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-6-4-4" aria-expanded="false" aria-controls="collapse8-1-6-4-4">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-6-4-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-6-4-4">
-      <div class="panel-body">
-
+						</li>
+						<li><a href="/desc/http://anat.org/R-pied-phalanges-IV">Os des phalanges du 4e orteil droit</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-pied-phal-proxi-IV">Phalange proximale du 4e orteil droit</a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-moy-IV">Phalange moyenne du 4e orteil droit</a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-dist-IV">Phalange distale du 4e orteil droit</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
-						<li><a href="/desc/http://anat.org/R-pied-phalanges-V">Os des phalanges du 5e orteil droit</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-6-4-5">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-6-4-5" aria-expanded="false" aria-controls="collapse8-1-6-4-5">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-6-4-5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-6-4-5">
-      <div class="panel-body">
-
+						</li>
+						<li><a href="/desc/http://anat.org/R-pied-phalanges-V">Os des phalanges du 5e orteil droit</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-pied-phal-proxi-V">Phalange proximale du 5e orteil droit</a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-moy-V">Phalange moyenne du 5e orteil droit</a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-dist-V">Phalange distale du 5e orteil droit</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
+						</li>
 						</ul>
       </div>
     </div>
@@ -2683,84 +2032,32 @@
 						<li><a href="/desc/http://anat.org/R-metaT-I">1er os métatarse droit</a></li>
 						<li><a href="/desc/http://anat.org/R-metaT-II">2e os métatarse droit</a></li>
 						<li><a href="/desc/http://anat.org/R-metaT-III">3e os métatarse droit</a></li>
-						<li><a href="/desc/http://anat.org/R-pied-os-sesamoides">Os sésamoïdes de l’hallux droit</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-6-5-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-6-5-1" aria-expanded="false" aria-controls="collapse8-1-6-5-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-6-5-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-6-5-1">
-      <div class="panel-body">
-
+						<li><a href="/desc/http://anat.org/R-pied-os-sesamoides">Os sésamoïdes de l’hallux droit</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-halux-sesamoide-lat">Os sésamoïde latéral de l’hallux droit</a></li>
 							<li><a href="/desc/http://anat.org/R-halux-sesamoide-med">Os sésamoïde médial de l’hallux droit</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
-						<li><a href="/desc/http://anat.org/R-pied-phalanges-I">Os des phalanges de l’hallux droit</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-6-5-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-6-5-2" aria-expanded="false" aria-controls="collapse8-1-6-5-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-6-5-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-6-5-2">
-      <div class="panel-body">
-
+						</li>
+						<li><a href="/desc/http://anat.org/R-pied-phalanges-I">Os des phalanges de l’hallux droit</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-pied-phal-proxi-I">Phalange proximale de l’hallux droit</a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-dist-I">Phalange distale de l’hallux droit</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
-						<li><a href="/desc/http://anat.org/R-pied-phalanges-II">Os des phalanges du 2e orteil droit</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-6-5-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-6-5-3" aria-expanded="false" aria-controls="collapse8-1-6-5-3">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-6-5-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-6-5-3">
-      <div class="panel-body">
-
+						</li>
+						<li><a href="/desc/http://anat.org/R-pied-phalanges-II">Os des phalanges du 2e orteil droit</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-pied-phal-proxi-II">Phalange proximale du 2e orteil droit</a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-moy-II">Phalange moyenne du 2e orteil droit</a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-dist-II">Phalange distale du 2e orteil droit</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
-						<li><a href="/desc/http://anat.org/R-pied-phalanges-III">Os des phalanges du 3e orteil droit</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-6-5-4">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-6-5-4" aria-expanded="false" aria-controls="collapse8-1-6-5-4">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-6-5-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-6-5-4">
-      <div class="panel-body">
-
+						</li>
+						<li><a href="/desc/http://anat.org/R-pied-phalanges-III">Os des phalanges du 3e orteil droit</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-pied-phal-proxi-III">Phalange proximale du 3e orteil droit</a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-moy-III">Phalange moyenne du 3e orteil droit</a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-dist-III">Phalange distale du 3e orteil droit</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
+						</li>
 						</ul>
       </div>
     </div>
@@ -2782,46 +2079,20 @@
 						<li><a href="/desc/http://anat.org/R-cubo">Os cuboïde droit</a></li>
 						<li><a href="/desc/http://anat.org/R-metaT-IV">4e os métatarse droit</a></li>
 						<li><a href="/desc/http://anat.org/R-metaT-V">5e os métatarse droit</a></li>
-						<li><a href="/desc/http://anat.org/R-pied-phalanges-IV">Os des phalanges du 4e orteil droit</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-6-6-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-6-6-1" aria-expanded="false" aria-controls="collapse8-1-6-6-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-6-6-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-6-6-1">
-      <div class="panel-body">
-
+						<li><a href="/desc/http://anat.org/R-pied-phalanges-IV">Os des phalanges du 4e orteil droit</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-pied-phal-proxi-IV">Phalange proximale du 4e orteil droit</a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-moy-IV">Phalange moyenne du 4e orteil droit</a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-dist-IV">Phalange distale du 4e orteil droit</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
-						<li><a href="/desc/http://anat.org/R-pied-phalanges-V">Os des phalanges du 5e orteil droit</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-6-6-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-6-6-2" aria-expanded="false" aria-controls="collapse8-1-6-6-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-6-6-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-6-6-2">
-      <div class="panel-body">
-
+						</li>
+						<li><a href="/desc/http://anat.org/R-pied-phalanges-V">Os des phalanges du 5e orteil droit</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-pied-phal-proxi-V">Phalange proximale du 5e orteil droit</a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-moy-V">Phalange moyenne du 5e orteil droit</a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-dist-V">Phalange distale du 5e orteil droit</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
+						</li>
 						</ul>
       </div>
     </div>
@@ -2907,25 +2178,12 @@
 			<li><a href="/desc/http://anat.org/L-patella">Patella (anc. rotule) gauche</a></li>
 			<li><a href="/desc/http://anat.org/L-tibia-epiP-sup">Épiphyse supérieure du tibia gauche</a></li>
 			<li><a href="/desc/http://anat.org/L-fibula-epiP-sup">Épiphyse supérieure de la fibula (anc. péroné) gauche</a></li>
-			<li><a href="/desc/http://anat.org/L-tibia-menisques">Ménisques tibiaux gauche</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-3-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-3-1" aria-expanded="false" aria-controls="collapse8-2-3-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-3-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-3-1">
-      <div class="panel-body">
-
+			<li><a href="/desc/http://anat.org/L-tibia-menisques">Ménisques tibiaux gauche</a>
 				<ul style="list-style-type:circle">
 				<li><a href="/desc/http://anat.org/L-tibia-menisque-med">Ménisque tibial médial gauche</a></li>
 				<li><a href="/desc/http://anat.org/L-tibia-menisque-lat">Ménisque tibial latéral gauche</a></li>
 				</ul>
-      </div>
-    </div>
-  </div>
-
+			</li>
 			</ul>
       </div>
     </div>
@@ -2976,36 +2234,13 @@
       <div class="panel-body">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/L-tarse-post">Os du tarse postérieur gauche</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-5-1-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-5-1-1" aria-expanded="false" aria-controls="collapse8-2-5-1-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-5-1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-5-1-1">
-      <div class="panel-body">
-
+				<li><a href="/desc/http://anat.org/L-tarse-post">Os du tarse postérieur gauche</a>
 					<ul style="list-style-type:circle">
 					<li><a href="/desc/http://anat.org/L-talus">Talus (anc. astragal) gauche</a></li>
 					<li><a href="/desc/http://anat.org/L-calca">Calcanéus (anc. calcanéum) gauche</a></li>
 					</ul>
-      </div>
-    </div>
-  </div>
-
-				<li><a href="/desc/http://anat.org/L-tarse-ant">Os du tarse antérieur gauche</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-5-1-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-5-1-2" aria-expanded="false" aria-controls="collapse8-2-5-1-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-5-1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-5-1-2">
-      <div class="panel-body">
-
+				</li>
+				<li><a href="/desc/http://anat.org/L-tarse-ant">Os du tarse antérieur gauche</a>
 					<ul style="list-style-type:circle">
 					<li><a href="/desc/http://anat.org/L-navi">Os naviculaire (anc. scaphoïde tarsien) gauche</a></li>
 					<li><a href="/desc/http://anat.org/L-cubo">Os cuboïde gauche</a></li>
@@ -3013,10 +2248,7 @@
 					<li><a href="/desc/http://anat.org/L-cune-II">2e os cunéiforme gauche</a></li>
 					<li><a href="/desc/http://anat.org/L-cune-III">3e os cunéiforme gauche</a></li>
 					</ul>
-      </div>
-    </div>
-  </div>
-
+				</li>
 				</ul>
       </div>
     </div>
@@ -3055,47 +2287,20 @@
       <div class="panel-body">
 
 						<ul style="list-style-type:disc">
-						<li><a href="/desc/http://anat.org/L-tarse-post">Os du tarse postérieur gauche</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-6-1-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-6-1-1" aria-expanded="false" aria-controls="collapse8-2-6-1-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-6-1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-6-1-1">
-      <div class="panel-body">
-
+						<li><a href="/desc/http://anat.org/L-tarse-post">Os du tarse postérieur gauche</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/L-talus">Talus (anc. astragal) gauche</a></li>
 							<li><a href="/desc/http://anat.org/L-calca">Calcanéus (anc. calcanéum) gauche</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
-						<li><a href="/desc/http://anat.org/L-tarse-ant">Os du tarse antérieur gauche</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-6-1-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-6-1-2" aria-expanded="false" aria-controls="collapse8-2-6-1-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-6-1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-6-1-2">
-      <div class="panel-body">
-
-							<ul style="list-style-type:circle">
+						</li>
+						<li><a href="/desc/http://anat.org/L-tarse-ant">Os du tarse antérieur gauche</a>							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/L-navi">Os naviculaire (anc. scaphoïde tarsien) gauche</a></li>
 							<li><a href="/desc/http://anat.org/L-cubo">Os cuboïde gauche</a></li>
 							<li><a href="/desc/http://anat.org/L-cune-I">1er os cunéiforme gauche</a></li>
 							<li><a href="/desc/http://anat.org/L-cune-II">2e os cunéiforme gauche</a></li>
 							<li><a href="/desc/http://anat.org/L-cune-III">3e os cunéiforme gauche</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
+						</li>
 						</ul>
       </div>
     </div>
@@ -3154,105 +2359,40 @@
       <div class="panel-body">
 
 						<ul style="list-style-type:disc">
-						<li><a href="/desc/http://anat.org/L-pied-phalanges-I">Os des phalanges de l’hallux gauche</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-6-4-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-6-4-1" aria-expanded="false" aria-controls="collapse8-2-6-4-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-6-4-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-6-4-1">
-      <div class="panel-body">
-
+						<li><a href="/desc/http://anat.org/L-pied-phalanges-I">Os des phalanges de l’hallux gauche</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/L-pied-phal-proxi-I">Phalange proximale de l’hallux gauche</a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-dist-I">Phalange distale de l’hallux gauche</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
-						<li><a href="/desc/http://anat.org/L-pied-phalanges-II">Os des phalanges du 2e orteil gauche</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-6-4-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-6-4-2" aria-expanded="false" aria-controls="collapse8-2-6-4-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-6-4-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-6-4-2">
-      <div class="panel-body">
-
+						</li>
+						<li><a href="/desc/http://anat.org/L-pied-phalanges-II">Os des phalanges du 2e orteil gauche</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/L-pied-phal-proxi-II">Phalange proximale du 2e orteil gauche</a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-moy-II">Phalange moyenne du 2e orteil gauche</a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-dist-II">Phalange distale du 2e orteil gauche</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
-						<li><a href="/desc/http://anat.org/L-pied-phalanges-III">Os des phalanges du 3e orteil gauche</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-6-4-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-6-4-3" aria-expanded="false" aria-controls="collapse8-2-6-4-3">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-6-4-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-6-4-3">
-      <div class="panel-body">
-
+						</li>
+						<li><a href="/desc/http://anat.org/L-pied-phalanges-III">Os des phalanges du 3e orteil gauche</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/L-pied-phal-proxi-III">Phalange proximale du 3e orteil gauche</a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-moy-III">Phalange moyenne du 3e orteil gauche</a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-dist-III">Phalange distale du 3e orteil gauche</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
-						<li><a href="/desc/http://anat.org/L-pied-phalanges-IV">Os des phalanges du 4e orteil gauche</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-6-4-4">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-6-4-4" aria-expanded="false" aria-controls="collapse8-2-6-4-4">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-6-4-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-6-4-4">
-      <div class="panel-body">
-
+						</li>
+						<li><a href="/desc/http://anat.org/L-pied-phalanges-IV">Os des phalanges du 4e orteil gauche</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/L-pied-phal-proxi-IV">Phalange proximale du 4e orteil gauche</a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-moy-IV">Phalange moyenne du 4e orteil gauche</a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-dist-IV">Phalange distale du 4e orteil gauche</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
-						<li><a href="/desc/http://anat.org/L-pied-phalanges-V">Os des phalanges du 5e orteil gauche</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-6-4-5">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-6-4-5" aria-expanded="false" aria-controls="collapse8-2-6-4-5">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-6-4-5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-6-4-5">
-      <div class="panel-body">
-
+						</li>
+						<li><a href="/desc/http://anat.org/L-pied-phalanges-V">Os des phalanges du 5e orteil gauche</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/L-pied-phal-proxi-V">Phalange proximale du 5e orteil gauche</a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-moy-V">Phalange moyenne du 5e orteil gauche</a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-dist-V">Phalange distale du 5e orteil gauche</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
+						</li>
 						</ul>
       </div>
     </div>
@@ -3282,84 +2422,32 @@
 						<li><a href="/desc/http://anat.org/L-metaT-I">1er os métatarse gauche</a></li>
 						<li><a href="/desc/http://anat.org/L-metaT-II">2e os métatarse gauche</a></li>
 						<li><a href="/desc/http://anat.org/L-metaT-III">3e os métatarse gauche</a></li>
-						<li><a href="/desc/http://anat.org/L-pied-os-sesamoides">Os sésamoïdes de l’hallux gauche</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-6-5-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-6-5-1" aria-expanded="false" aria-controls="collapse8-2-6-5-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-6-5-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-6-5-1">
-      <div class="panel-body">
-
+						<li><a href="/desc/http://anat.org/L-pied-os-sesamoides">Os sésamoïdes de l’hallux gauche</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/L-halux-sesamoide-lat">Os sésamoïde latéral de l’hallux gauche</a></li>
 							<li><a href="/desc/http://anat.org/L-halux-sesamoide-med">Os sésamoïde médial de l’hallux gauche</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
-						<li><a href="/desc/http://anat.org/L-pied-phalanges-I">Os des phalanges de l’hallux gauche</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-6-5-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-6-5-2" aria-expanded="false" aria-controls="collapse8-2-6-5-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-6-5-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-6-5-2">
-      <div class="panel-body">
-
+						</li>
+						<li><a href="/desc/http://anat.org/L-pied-phalanges-I">Os des phalanges de l’hallux gauche</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/L-pied-phal-proxi-I">Phalange proximale de l’hallux gauche</a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-dist-I">Phalange distale de l’hallux gauche</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
-						<li><a href="/desc/http://anat.org/L-pied-phalanges-II">Os des phalanges du 2e orteil gauche</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-6-5-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-6-5-3" aria-expanded="false" aria-controls="collapse8-2-6-5-3">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-6-5-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-6-5-3">
-      <div class="panel-body">
-
+ 						</li>
+						<li><a href="/desc/http://anat.org/L-pied-phalanges-II">Os des phalanges du 2e orteil gauche</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/L-pied-phal-proxi-II">Phalange proximale du 2e orteil gauche</a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-moy-II">Phalange moyenne du 2e orteil gauche</a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-dist-II">Phalange distale du 2e orteil gauche</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
-						<li><a href="/desc/http://anat.org/L-pied-phalanges-III">Os des phalanges du 3e orteil gauche</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-6-5-4">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-6-5-4" aria-expanded="false" aria-controls="collapse8-2-6-5-4">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-6-5-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-6-5-4">
-      <div class="panel-body">
-
+						</li>
+						<li><a href="/desc/http://anat.org/L-pied-phalanges-III">Os des phalanges du 3e orteil gauche</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/L-pied-phal-proxi-III">Phalange proximale du 3e orteil gauche</a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-moy-III">Phalange moyenne du 3e orteil gauche</a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-dist-III">Phalange distale du 3e orteil gauche</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
+						</li>
 						</ul>
       </div>
     </div>
@@ -3381,46 +2469,20 @@
 						<li><a href="/desc/http://anat.org/L-cubo">Os cuboïde gauche</a></li>
 						<li><a href="/desc/http://anat.org/L-metaT-IV">4e os métatarse gauche</a></li>
 						<li><a href="/desc/http://anat.org/L-metaT-V">5e os métatarse gauche</a></li>
-						<li><a href="/desc/http://anat.org/L-pied-phalanges-IV">Os des phalanges du 4e orteil gauche</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-6-6-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-6-6-1" aria-expanded="false" aria-controls="collapse8-2-6-6-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-6-6-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-6-6-1">
-      <div class="panel-body">
-
+						<li><a href="/desc/http://anat.org/L-pied-phalanges-IV">Os des phalanges du 4e orteil gauche</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/L-pied-phal-proxi-IV">Phalange proximale du 4e orteil gauche</a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-moy-IV">Phalange moyenne du 4e orteil gauche</a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-dist-IV">Phalange distale du 4e orteil gauche</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
-						<li><a href="/desc/http://anat.org/L-pied-phalanges-V">Os des phalanges du 5e orteil gauche</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-6-6-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-6-6-2" aria-expanded="false" aria-controls="collapse8-2-6-6-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-6-6-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-6-6-2">
-      <div class="panel-body">
-
+						</li>
+						<li><a href="/desc/http://anat.org/L-pied-phalanges-V">Os des phalanges du 5e orteil gauche</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/L-pied-phal-proxi-V">Phalange proximale du 5e orteil gauche</a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-moy-V">Phalange moyenne du 5e orteil gauche</a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-dist-V">Phalange distale du 5e orteil gauche</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
+						</li>
 						</ul>
       </div>
     </div>
@@ -3583,63 +2645,27 @@
 				<tr>
 					<td>
 						<ul style="list-style-type:disc">
-						<li><a href="/desc/http://anat.org/R-1e-rangee-carpe">Os de la 1ere rangée du carpe droit</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-1-6-1-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-1-6-1-1" aria-expanded="false" aria-controls="collapse9-1-6-1-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse9-1-6-1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-1-6-1-1">
-      <div class="panel-body">
-
+						<li><a href="/desc/http://anat.org/R-1e-rangee-carpe">Os de la 1ere rangée du carpe droit</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-scaphoide">Os scaphoïde (anc. os naviculaire carpien) droit</a></li>
 							<li><a href="/desc/http://anat.org/R-lunatum">Os lunatum (anc. os semi-lunaire) droit</a></li>
 							<li><a href="/desc/http://anat.org/R-triquetrum">Os triquetrum (anc. os pyramidal) droit</a></li>
 							<li><a href="/desc/http://anat.org/R-pisiforme">Os pisiforme droit</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
-						<li><a href="/desc/http://anat.org/R-2e-rangee-carpe">Os de la 2e rangée du carpe droit</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-1-6-1-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-1-6-1-2" aria-expanded="false" aria-controls="collapse9-1-6-1-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse9-1-6-1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-1-6-1-2">
-      <div class="panel-body">
-
+						</li>
+						<li><a href="/desc/http://anat.org/R-2e-rangee-carpe">Os de la 2e rangée du carpe droit</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-hamatum">Os hamatum (anc. os crochu) droit</a></li>
 							<li><a href="/desc/http://anat.org/R-capitatum">Os capitatum (anc. grand os de la main) droit</a></li>
 							<li><a href="/desc/http://anat.org/R-trapezoide">Os trapézoïde droit</a></li>
 							<li><a href="/desc/http://anat.org/R-trapeze">Os trapèze droit</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
+						</li>
 						</ul>
 					</td>
 					<td>
 						<ul style="list-style-type:disc">
-						<li><a href="/desc/http://anat.org/R-os-carpe-comparti-med">Os du compartiment médial du carpe droit</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-1-6-1-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-1-6-1-3" aria-expanded="false" aria-controls="collapse9-1-6-1-3">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse9-1-6-1-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-1-6-1-3">
-      <div class="panel-body">
-
+						<li><a href="/desc/http://anat.org/R-os-carpe-comparti-med">Os du compartiment médial du carpe droit</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-scaphoide">Os scaphoïde (anc. os naviculaire carpien) droit</a></li>
 							<li><a href="/desc/http://anat.org/R-lunatum">Os lunatum (anc. os semi-lunaire) droit</a></li>
@@ -3648,29 +2674,13 @@
 							<li><a href="/desc/http://anat.org/R-hamatum">Os hamatum (anc. os crochu) droit</a></li>
 							<li><a href="/desc/http://anat.org/R-capitatum">Os capitatum (anc. grand os de la main) droit</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
-						<li><a href="/desc/http://anat.org/R-os-carpe-comparti-lat">Os du compartiment latéral du carpe droit</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-1-6-1-4">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-1-6-1-4" aria-expanded="false" aria-controls="collapse9-1-6-1-4">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse9-1-6-1-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-1-6-1-4">
-      <div class="panel-body">
-
+						</li>
+						<li><a href="/desc/http://anat.org/R-os-carpe-comparti-lat">Os du compartiment latéral du carpe droit</a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-trapezoide">Os trapézoïde droit</a></li>
 							<li><a href="/desc/http://anat.org/R-trapeze">Os trapèze droit</a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
-
+						</li>
 						</ul>
 					</td>
 				</tr>
@@ -3825,42 +2835,127 @@
       <div class="panel-body">
 		<ul style="list-style-type:square">
 		<li><a href="/desc/http://anat.org/OS-L-epaule">OS DE L'ÉPAULE GAUCHE</a>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="9-2-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-2-1" aria-expanded="false" aria-controls="collapse9-2-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapse9-2-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-2-1">
+      <div class="panel-body">
+
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/L-clavicule">Clavicule gauche</a></li>
 			<li><a href="/desc/http://anat.org/L-scapula">Scapula (anc. omoplate) gauche</a></li>
-			<li><a href="/desc/http://anat.org/L-humerus-epiP-sup">épiphyse supérieure de l'humérus gauche</a></li>
+			<li><a href="/desc/http://anat.org/L-humerus-epiP-sup">Épiphyse supérieure de l'humérus gauche</a></li>
 			<li><a href="/desc/http://anat.org/L-labrum-glenoidal">Labrum glénoïdal gauche</a></li>
 			</ul>
-		</li>
-		<li><a href="/desc/http://anat.org/OS-L-bras">OS DU BRAS GAUCHE</a>
+      </div>
+    </div>
+  </div>
+
+		<li><a href="/desc/http://anat.org/OS-L-bras">OS DU BRAS GAUCHE</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="9-2-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-2-2" aria-expanded="false" aria-controls="collapse9-2-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapse9-2-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-2-2">
+      <div class="panel-body">
+
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/L-humerus">Humérus gauche</a></li>
 			</ul>
-		</li>
-		<li><a href="/desc/http://anat.org/OS-L-coude">OS DU COUDE GAUCHE</a>
+      </div>
+    </div>
+  </div>
+
+		<li><a href="/desc/http://anat.org/OS-L-coude">OS DU COUDE GAUCHE</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="9-2-3">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-2-3" aria-expanded="false" aria-controls="collapse9-2-3">
+	▼ 
+        </a>
+    </div>
+    <div id="collapse9-2-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-2-3">
+      <div class="panel-body">
+
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/L-humerus-epiP-inf">épiphyse inférieure de l'humérus gauche</a></li>
-			<li><a href="/desc/http://anat.org/L-ulna-epiP-sup">épiphyse supérieure de l'ulna (anc. cubitus) gauche</a></li>
-			<li><a href="/desc/http://anat.org/L-radius-epiP-sup">épiphyse supérieure du radius gauche</a></li>
+			<li><a href="/desc/http://anat.org/L-humerus-epiP-inf">Épiphyse inférieure de l'humérus gauche</a></li>
+			<li><a href="/desc/http://anat.org/L-ulna-epiP-sup">Épiphyse supérieure de l'ulna (anc. cubitus) gauche</a></li>
+			<li><a href="/desc/http://anat.org/L-radius-epiP-sup">Épiphyse supérieure du radius gauche</a></li>
 			</ul>
-		</li>
-		<li><a href="/desc/http://anat.org/OS-L-avt-bras">OS DE L'AVANT-BRAS GAUCHE</a>
+      </div>
+    </div>
+  </div>
+
+		<li><a href="/desc/http://anat.org/OS-L-avt-bras">OS DE L'AVANT-BRAS GAUCHE</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="9-2-4">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-2-4" aria-expanded="false" aria-controls="collapse9-2-4">
+	▼ 
+        </a>
+    </div>
+    <div id="collapse9-2-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-2-4">
+      <div class="panel-body">
+
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/L-radius">Radius gauche</a></li>
 			<li><a href="/desc/http://anat.org/L-ulna">Ulna (anc. cubitus) gauche</a></li>
 			</ul>
-		</li>
-		<li><a href="/desc/http://anat.org/OS-L-poignet">OS DU POIGNET GAUCHE</a>
+      </div>
+    </div>
+  </div>
+
+		<li><a href="/desc/http://anat.org/OS-L-poignet">OS DU POIGNET GAUCHE</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="9-2-5">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-2-5" aria-expanded="false" aria-controls="collapse9-2-5">
+	▼ 
+        </a>
+    </div>
+    <div id="collapse9-2-5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-2-5">
+      <div class="panel-body">
+
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/L-ulna-epiP-inf">épiphyse inférieure de l'ulna (anc. cubitus) gauche</a></li>
 			<li><a href="/desc/http://anat.org/L-radius-epiP-inf">épiphyse inférieure du radius gauche</a></li>
 			<li><a href="/desc/http://anat.org/L-os-carpe">Os du carpe gauche</a></li>
 			<li><a href="/desc/http://anat.org/L-menisque-ulno-carpien">Ménisque ulno-carpien gauche</a></li>
 			</ul>
-		</li>
-		<li><a href="/desc/http://anat.org/OS-L-main">OS DE LA MAIN GAUCHE</a>
+      </div>
+    </div>
+  </div>
+
+		<li><a href="/desc/http://anat.org/OS-L-main">OS DE LA MAIN GAUCHE</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="9-2-6">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-2-6" aria-expanded="false" aria-controls="collapse9-2-6">
+	▼ 
+        </a>
+    </div>
+    <div id="collapse9-2-6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-2-6">
+      <div class="panel-body">
+
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/L-os-carpe">Os du carpe gauche</a>
+			<li><a href="/desc/http://anat.org/L-os-carpe">Os du carpe gauche</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="9-2-6-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-2-6-1" aria-expanded="false" aria-controls="collapse9-2-6-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapse9-2-6-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-2-6-1">
+      <div class="panel-body">
+
 				<ul style="list-style-type:none">
 				<table>
 				<tr>
@@ -3907,8 +3002,21 @@
 				</tr>
 				</table>
 				</ul>
-			</li>
-			<li><a href="/desc/http://anat.org/L-meta-carpe">Os métacarpes gauches</a>
+      </div>
+    </div>
+  </div>
+
+			<li><a href="/desc/http://anat.org/L-meta-carpe">Os métacarpes gauches</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="9-2-6-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-2-6-2" aria-expanded="false" aria-controls="collapse9-2-6-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapse9-2-6-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-2-6-2">
+      <div class="panel-body">
+
 				<ul style="list-style-type:circle">
 				<li><a href="/desc/http://anat.org/L-metaC-I">1er os métacarpe gauche</a></li>
 				<li><a href="/desc/http://anat.org/L-metaC-II">2e os métacarpe gauche</a></li>
@@ -3916,14 +3024,40 @@
 				<li><a href="/desc/http://anat.org/L-metaC-IV">4e os métacarpe gauche</a></li>
 				<li><a href="/desc/http://anat.org/L-metaC-V">5e os métacarpe gauche</a></li>
 				</ul>
-			</li>
-			<li><a href="/desc/http://anat.org/L-main-os-sesamoides">Os sésamoïdes du pouce gauche</a>
+      </div>
+    </div>
+  </div>
+
+			<li><a href="/desc/http://anat.org/L-main-os-sesamoides">Os sésamoïdes du pouce gauche</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="9-2-6-3">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-2-6-3" aria-expanded="false" aria-controls="collapse9-2-6-3">
+	▼ 
+        </a>
+    </div>
+    <div id="collapse9-2-6-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-2-6-3">
+      <div class="panel-body">
+
 				<ul style="list-style-type:circle">
 				<li><a href="/desc/http://anat.org/L-pouce-sesamoide-lat">Os sésamoïde latéral du pouce gauche</a></li>
 				<li><a href="/desc/http://anat.org/L-pouce-sesamoide-med">Os sésamoïde médial du pouce gauche</a></li>
 				</ul>
-			</li>
-			<li><a href="/desc/http://anat.org/R-main-phalanges">Os des phalanges des doigts gauches</a>
+      </div>
+    </div>
+  </div>
+
+			<li><a href="/desc/http://anat.org/L-main-phalanges">Os des phalanges des doigts gauches</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="9-2-6-4">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-2-6-4" aria-expanded="false" aria-controls="collapse9-2-6-4">
+	▼ 
+        </a>
+    </div>
+    <div id="collapse9-2-6-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-2-6-4">
+      <div class="panel-body">
+
 				<ul style="list-style-type:disc">
 				<li><a href="/desc/http://anat.org/L-main-phalanges-I">Os des phalanges du pouce gauche</a>
 					<ul style="list-style-type:circle">
@@ -3960,8 +3094,21 @@
 					</ul>
 				</li>
 				</ul>
-			</li>
-			<li><a href="/desc/http://anat.org/L-colonne-du-pouce">Colonne du pouce gauche</a>
+      </div>
+    </div>
+  </div>
+
+			<li><a href="/desc/http://anat.org/L-colonne-du-pouce">Colonne du pouce gauche</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="9-2-6-5">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-2-6-5" aria-expanded="false" aria-controls="collapse9-2-6-5">
+	▼ 
+        </a>
+    </div>
+    <div id="collapse9-2-6-5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-2-6-5">
+      <div class="panel-body">
+
 				<ul style="list-style-type:circle">
 				<li><a href="/desc/http://anat.org/L-metaC-I">1er os métacarpe gauche</a></li>
 				<li><a href="/desc/http://anat.org/L-main-phalanges-I">Os des phalanges du pouce gauche
@@ -3978,9 +3125,15 @@
 					</ul>
 				</li>
 				</ul>
-			</li>
+      </div>
+    </div>
+  </div>
+
 			</ul>
-		</li>
+      </div>
+    </div>
+  </div>
+
 		</ul>
 	</li>
       </div>

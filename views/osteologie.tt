@@ -24,7 +24,7 @@
     <div class="panel-heading" role="tab" id="1">
       <h4 class="panel-title">
         <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="false" aria-controls="collapse1">
-<h4 class="area">RÉGION DE LA TETE</h4>
+<h4 class="area">RÉGION DE LA TÊTE</h4>
         </a>
       </h4>
     </div>
@@ -110,8 +110,8 @@
 						<li><a href="/desc/http://anat.org/L-cornet-nasal-inf">Os cornet nasal inférieur gauche</a></li>
 						<li><a href="/desc/http://anat.org/R-os-nasal">Os nasal droit</a></li>
 						<li><a href="/desc/http://anat.org/L-os-nasal">Os nasal gauche</a></li>
-						<li><a href="/desc/http://anat.org/R-malaire">Os malaire droit</a></li>
-						<li><a href="/desc/http://anat.org/L-malaire">Os malaire gauche</a></li>
+						<li><a href="/desc/http://anat.org/R-malaire">Os malaire (anc. zygomatique) droit</a></li>
+						<li><a href="/desc/http://anat.org/L-malaire">Os malaire (anc. zygomatique) gauche</a></li>
 						</ul>
 					</li>
 					<li><a href="/desc/http://anat.org/massif-facial-moy">Os du massif facial moyen</a>
@@ -133,9 +133,9 @@
       <div class="panel-body">
 
 							<ul style="list-style-type:circle">
-							<li><a href="/desc/http://anat.org/R-marteau">Malleus droit</a></li>
-							<li><a href="/desc/http://anat.org/R-enclume">Incus droit</a></li>
-							<li><a href="/desc/http://anat.org/R-etrier">Stapes droit</a></li>
+							<li><a href="/desc/http://anat.org/R-marteau">Malleus (anc. marteau) droit</a></li>
+							<li><a href="/desc/http://anat.org/R-enclume">Incus (anc. enclume) droit</a></li>
+							<li><a href="/desc/http://anat.org/R-etrier">Stapes (anc. étrier) droit</a></li>
 							</ul>
       </div>
     </div>
@@ -152,9 +152,9 @@
       <div class="panel-body">
 
 							<ul style="list-style-type:circle">
-							<li><a href="/desc/http://anat.org/L-marteau">Malleus gauche</a></li>
-							<li><a href="/desc/http://anat.org/L-enclume">Incus gauche</a></li>
-							<li><a href="/desc/http://anat.org/L-etrier">Stapes gauche</a></li>
+							<li><a href="/desc/http://anat.org/L-marteau">Malleus (anc. marteau) gauche</a></li>
+							<li><a href="/desc/http://anat.org/L-enclume">Incus (anc. enclume) gauche</a></li>
+							<li><a href="/desc/http://anat.org/L-etrier">Stapes (anc. étrier) gauche</a></li>
 							</ul>
       </div>
     </div>
@@ -221,8 +221,8 @@
 						<li><a href="/desc/http://anat.org/L-cornet-nasal-inf">Os cornet nasal inférieur gauche</a></li>
 						<li><a href="/desc/http://anat.org/R-os-nasal">Os nasal droit</a></li>
 						<li><a href="/desc/http://anat.org/L-os-nasal">Os nasal gauche</a></li>
-						<li><a href="/desc/http://anat.org/R-malaire">Os malaire droit</a></li>
-						<li><a href="/desc/http://anat.org/L-malaire">Os malaire gauche</a></li>
+						<li><a href="/desc/http://anat.org/R-malaire">Os malaire (anc. zygomatique) droit</a></li>
+						<li><a href="/desc/http://anat.org/L-malaire">Os malaire (anc. zygomatique) gauche</a></li>
 						</ul>
 					</li>
 					<li><a href="/desc/http://anat.org/dents-sup">Dents supérieures</a></li>
@@ -355,16 +355,16 @@
 						<ul style="list-style-type:disc">
 						<li><a href="/desc/http://anat.org/R-osselets-oreille">Osselets de l'oreille droite</a>
 							<ul style="list-style-type:circle">
-							<li><a href="/desc/http://anat.org/R-marteau">Malleus droit</a></li>
-							<li><a href="/desc/http://anat.org/R-enclume">Incus droit</a></li>
-							<li><a href="/desc/http://anat.org/R-etrier">Stapes droit</a></li>
+							<li><a href="/desc/http://anat.org/R-marteau">Malleus (anc. marteau) droit</a></li>
+							<li><a href="/desc/http://anat.org/R-enclume">Incus (anc. enclume) droit</a></li>
+							<li><a href="/desc/http://anat.org/R-etrier">Stapes (anc. étrier) droit</a></li>
 							</ul>
 						</li>
 						<li><a href="/desc/http://anat.org/L-osselets-oreille">Osselets de l'oreille gauche</a>
 							<ul style="list-style-type:circle">
-							<li><a href="/desc/http://anat.org/L-marteau">Malleus gauche</a></li>
-							<li><a href="/desc/http://anat.org/L-enclume">Incus gauche</a></li>
-							<li><a href="/desc/http://anat.org/L-etrier">Stapes gauche</a></li>
+							<li><a href="/desc/http://anat.org/L-marteau">Malleus (anc. marteau) gauche</a></li>
+							<li><a href="/desc/http://anat.org/L-enclume">Incus (anc. enclume) gauche</a></li>
+							<li><a href="/desc/http://anat.org/L-etrier">Stapes (anc. étrier) gauche</a></li>
 							</ul>
 						</li>
 						</ul>
@@ -2505,7 +2505,7 @@
 
 	</ul>
 
-<h4 class="area">OS DES MEMBRES SUPÉRIEURS</h4>
+<h4 class="area">RÉGION DES MEMBRES SUPÉRIEURS</h4>
 	<ul style="list-style-type:none">
   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="9-1">

@@ -3095,12 +3095,12 @@ anat:L-malaire	rdfs:label	"Os malaire (zygomatique) gauche" .
 anat:mandibule	rdfs:label	"Mandibule (os mandibulaire)" .
 anat:R-osselets-oreille	rdfs:label	"Osselets de l’oreille droite" .
 anat:L-osselets-oreille	rdfs:label	"Osselets de l’oreille gauche" .
-anat:R-marteau	rdfs:label	"Malleus (marteau) droit" .
-anat:L-marteau	rdfs:label	"Malleus (marteau) gauche" .
-anat:R-enclume	rdfs:label	"Incus (enclume) droit" .
-anat:L-enclume	rdfs:label	"Incus (enclume) gauche" .
-anat:R-etrier	rdfs:label	"Stapes (étrier) droit" .
-anat:L-etrier	rdfs:label	"Stapes (étrier) gauche" .
+anat:R-marteau	rdfs:label	"Malleus (anc. marteau) droit" .
+anat:L-marteau	rdfs:label	"Malleus (anc. marteau) gauche" .
+anat:R-enclume	rdfs:label	"Incus (anc. enclume) droit" .
+anat:L-enclume	rdfs:label	"Incus (anc. enclume) gauche" .
+anat:R-etrier	rdfs:label	"Stapes (anc. étrier) droit" .
+anat:L-etrier	rdfs:label	"Stapes (anc. étrier) gauche" .
 anat:menisques-temporo-mandibulaires	rdfs:label	"Ménisques temporo-mandibulaires" .
 anat:R-menisque-temporo-mandi	rdfs:label	"Ménisque temporo-mandibulaire droit" .
 anat:L-menisque-temporo-mandi	rdfs:label	"Ménisque temporo-mandibulaire gauche" .
@@ -3548,4 +3548,1568 @@ anat:L-ulna-epiP-sup	rdfs:label	"Épiphyse supérieure de l'ulna (anc. cubitus) 
 anat:L-ulna-epiP-inf	rdfs:label	"Épiphyse inférieure de l'ulna (anc. cubitus) gauche" .
 anat:L-radius-epiP-sup	rdfs:label	"Épiphyse supérieure du radius gauche" .
 anat:L-radius-epiP-inf	rdfs:label	"Épiphyse inférieure du radius gauche" .
+
+anat:muscles-masticateurs	rdf:type	anat:groupe-musculaire .
+anat:muscles-temporaux	rdf:type	anat:muscle .
+anat:R-mscl-temporal	rdf:type	anat:muscle .
+anat:L-mscl-temporal	rdf:type	anat:muscle .
+anat:muscles-masseter	rdf:type	anat:muscle .
+anat:R-mscl-masseter	rdf:type	anat:muscle .
+anat:R-mscl-masseter-fx-supL	rdf:type	anat:chef-musculaire .
+anat:R-mscl-masseter-fx-pfd	rdf:type	anat:chef-musculaire .
+anat:L-mscl-masseter	rdf:type	anat:muscle .
+anat:L-mscl-masseter-fx-supL	rdf:type	anat:chef-musculaire .
+anat:L-mscl-masseter-fx-pfd	rdf:type	anat:chef-musculaire .
+anat:muscles-pterigoidien-lat	rdf:type	anat:muscle .
+anat:R-mscl-pterigoidien-lat	rdf:type	anat:muscle .
+anat:R-mscl-pterigoidien-lat-fx-sup	rdf:type	anat:chef-musculaire .
+anat:R-mscl-pterigoidien-lat-fx-inf	rdf:type	anat:chef-musculaire .
+anat:L-mscl-pterigoidien-lat	rdf:type	anat:muscle .
+anat:L-mscl-pterigoidien-lat-fx-sup	rdf:type	anat:chef-musculaire .
+anat:L-mscl-pterigoidien-lat-fx-inf	rdf:type	anat:chef-musculaire .
+anat:muscles-pterigoidien-med	rdf:type	anat:muscle .
+anat:R-mscl-pterigoidien-med	rdf:type	anat:muscle .
+anat:L-mscl-pterigoidien-med	rdf:type	anat:muscle .
+		
+anat:muscles-masticateurs	anat:comprend	anat:muscles-temporaux .
+anat:muscles-masticateurs	anat:comprend	anat:muscles-masseter .
+anat:muscles-masticateurs	anat:comprend	anat:muscles-pterigoidien-lat .
+anat:muscles-masticateurs	anat:comprend	anat:muscles-pterigoidien-med .
+anat:muscles-temporaux	anat:comprend	anat:R-mscl-temporal .
+anat:muscles-temporaux	anat:comprend	anat:L-mscl-temporal .
+anat:muscles-masseter	anat:comprend	anat:R-mscl-masseter .
+anat:muscles-masseter	anat:comprend	anat:L-mscl-masseter .
+anat:R-mscl-masseter	anat:comprend	anat:R-mscl-masseter-fx-supL .
+anat:R-mscl-masseter	anat:comprend	anat:R-mscl-masseter-fx-pfd .
+anat:L-mscl-masseter	anat:comprend	anat:L-mscl-masseter-fx-supL .
+anat:L-mscl-masseter	anat:comprend	anat:L-mscl-masseter-fx-pfd .
+anat:muscles-pterigoidien-lat	anat:comprend	anat:R-mscl-pterigoidien-lat .
+anat:muscles-pterigoidien-lat	anat:comprend	anat:L-mscl-pterigoidien-lat .
+anat:R-mscl-pterigoidien-lat	anat:comprend	anat:R-mscl-pterigoidien-lat-fx-sup .
+anat:R-mscl-pterigoidien-lat	anat:comprend	anat:R-mscl-pterigoidien-lat-fx-inf .
+anat:L-mscl-pterigoidien-lat	anat:comprend	anat:L-mscl-pterigoidien-lat-fx-sup .
+anat:L-mscl-pterigoidien-lat	anat:comprend	anat:L-mscl-pterigoidien-lat-fx-inf .
+anat:muscles-pterigoidien-med	anat:comprend	anat:R-mscl-pterigoidien-med .
+anat:muscles-pterigoidien-med	anat:comprend	anat:L-mscl-pterigoidien-med .
+
+anat:R-mscl-temporal	anat:origi-insere-sur	anat:frontal .
+anat:R-mscl-temporal	anat:origi-insere-sur	anat:sphenoide .
+anat:R-mscl-temporal	anat:origi-insere-sur	anat:R-parietal .
+anat:R-mscl-temporal	anat:origi-insere-sur	anat:R-temporal .
+anat:R-mscl-temporal	anat:termi-insere-sur	anat:mandibule .
+anat:R-mscl-masseter	anat:origi-insere-sur	anat:R-temporal .
+anat:R-mscl-masseter	anat:origi-insere-sur	anat:R-malaire .
+anat:R-mscl-masseter	anat:termi-insere-sur	anat:mandibule .
+anat:R-mscl-masseter-fx-supL	anat:origi-insere-sur	anat:R-temporal .
+anat:R-mscl-masseter-fx-supL	anat:origi-insere-sur	anat:R-malaire .
+anat:R-mscl-masseter-fx-pfd	anat:origi-insere-sur	anat:R-temporal .
+anat:R-mscl-masseter-fx-supL	anat:termi-insere-sur	anat:mandibule .
+anat:R-mscl-masseter-fx-pfd	anat:termi-insere-sur	anat:mandibule .
+anat:R-mscl-pterigoidien-lat-fx-sup	anat:origi-insere-sur	anat:sphenoide .
+anat:R-mscl-pterigoidien-lat-fx-inf	anat:origi-insere-sur	anat:sphenoide .
+anat:R-mscl-pterigoidien-lat	anat:origi-insere-sur	anat:sphenoide .
+anat:R-mscl-pterigoidien-lat	anat:termi-insere-sur	anat:mandibule .
+anat:R-mscl-pterigoidien-lat	anat:termi-insere-sur	anat:R-menisque-temporo-mandi .
+anat:R-mscl-pterigoidien-lat	anat:termi-insere-sur	anat:R-capsule-arti-ATM .
+anat:R-mscl-pterigoidien-med	anat:origi-insere-sur	anat:sphenoide .
+anat:R-mscl-pterigoidien-med	anat:origi-insere-sur	anat:R-maxilaire .
+anat:R-mscl-pterigoidien-med	anat:origi-insere-sur	anat:R-palatin .
+anat:R-mscl-pterigoidien-med	anat:termi-insere-sur	anat:mandibule .
+anat:L-mscl-temporal	anat:origi-insere-sur	anat:frontal .
+anat:L-mscl-temporal	anat:origi-insere-sur	anat:sphenoide .
+anat:L-mscl-temporal	anat:origi-insere-sur	anat:L-parietal .
+anat:L-mscl-temporal	anat:origi-insere-sur	anat:L-temporal .
+anat:L-mscl-temporal	anat:termi-insere-sur	anat:mandibule .
+anat:L-mscl-masseter	anat:origi-insere-sur	anat:L-temporal .
+anat:L-mscl-masseter	anat:origi-insere-sur	anat:L-malaire .
+anat:L-mscl-masseter	anat:termi-insere-sur	anat:mandibule .
+anat:L-mscl-masseter-fx-supL	anat:origi-insere-sur	anat:L-temporal .
+anat:L-mscl-masseter-fx-supL	anat:origi-insere-sur	anat:L-malaire .
+anat:L-mscl-masseter-fx-pfd	anat:origi-insere-sur	anat:L-temporal .
+anat:L-mscl-masseter-fx-supL	anat:termi-insere-sur	anat:mandibule .
+anat:L-mscl-masseter-fx-pfd	anat:termi-insere-sur	anat:mandibule .
+anat:L-mscl-pterigoidien-lat-fx-sup	anat:origi-insere-sur	anat:sphenoide .
+anat:L-mscl-pterigoidien-lat-fx-inf	anat:origi-insere-sur	anat:sphenoide .
+anat:L-mscl-pterigoidien-lat	anat:origi-insere-sur	anat:sphenoide .
+anat:L-mscl-pterigoidien-lat	anat:termi-insere-sur	anat:mandibule .
+anat:L-mscl-pterigoidien-lat	anat:termi-insere-sur	anat:L-menisque-temporo-mandi .
+anat:L-mscl-pterigoidien-lat	anat:termi-insere-sur	anat:L-capsule-arti-ATM .
+anat:L-mscl-pterigoidien-med	anat:origi-insere-sur	anat:sphenoide .
+anat:L-mscl-pterigoidien-med	anat:origi-insere-sur	anat:L-maxilaire .
+anat:L-mscl-pterigoidien-med	anat:origi-insere-sur	anat:L-palatin .
+anat:L-mscl-pterigoidien-med	anat:termi-insere-sur	anat:mandibule .
+		
+anat:muscles-masticateurs	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ruO1nGmWT1zSaCGjiSjaeeW9> .
+anat:muscles-temporaux	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=beKz81bWrum8mOL951Ci095X> .
+anat:R-mscl-temporal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=GLremqbG1jSviuqeObHHvauS> .
+anat:L-mscl-temporal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=iyGHbKGrSD411D0rimDCGDqC> .
+anat:muscles-masseter	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=49nimqTnqi0H599ri4LHHbm4> .
+anat:R-mscl-masseter	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=bauu8r0LX55TOb0vSziuqW9H> .
+anat:R-mscl-masseter-fx-supL	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=umSjii1jSXveqWT5fKXXDKrm> .
+anat:R-mscl-masseter-fx-pfd	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=imeWvaaeCGj0me85nKCGreOr> .
+anat:L-mscl-masseter	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=PH95X1C0Lfeq4LDC0nimSjeW> .
+anat:L-mscl-masseter-fx-supL	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=WfSzCeWfqu8vHXDeKjvKH9vu> .
+anat:L-mscl-masseter-fx-pfd	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=mWDG1vuCGXP9zamy0Tr8LnGX> .
+anat:muscles-pterigoidien-lat	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=LXrCyu51rOLnmeSPnKquyuqu> .
+anat:R-mscl-pterigoidien-lat	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ODGvKfS51P1jTDS1DCbGL1zW> .
+anat:R-mscl-pterigoidien-lat-fx-sup	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=y81jGH1DO1j0eSnmSTGXPPvW> .
+anat:R-mscl-pterigoidien-lat-fx-inf	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=a89HzuHDmOva1bCSvKOnmKfK> .
+anat:L-mscl-pterigoidien-lat	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=byCyKnOTDCyym85zOP4jemy0> .
+anat:L-mscl-pterigoidien-lat-fx-sup	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=HrmC8fvu0v8vfmKXjO1rKDSL> .
+anat:L-mscl-pterigoidien-lat-fx-inf	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=fGLvS14ri8nKPTrKXbOfeC41> .
+anat:muscles-pterigoidien-med	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=yKLvyOySfO9jDC8r0j8raem8> .
+anat:R-mscl-pterigoidien-med	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=1vm0H5b49j8vequ41TeKv05b> .
+anat:L-mscl-pterigoidien-med	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=GfeOfOjeu4LjSr8TP9DKjOn8> .
+anat:muscles-masticateurs	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=rCSzCizO1L9nDCKjmKyeS5v0> .
+anat:muscles-temporaux	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=zK15TzvyKz8L0LPT1D4TniOT> .
+anat:R-mscl-temporal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Tn01jCXzeuWjjObmaGX5bGPL> .
+anat:L-mscl-temporal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=WzOP9T8TTj89jqqKPL9HvG59> .
+anat:muscles-masseter	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=5veWHbnSzCGjemKba8OLDCyy> .
+anat:R-mscl-masseter	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=OL9DiuriOvO5DW1Tf0ruGnqK> .
+anat:R-mscl-masseter-fx-supL	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=XTXrWLuCyCOvrKrCai1HziOD> .
+anat:R-mscl-masseter-fx-pfd	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=aqeSbCXvO5HznuC4158Damya> .
+anat:L-mscl-masseter	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=r01rSHGrGvayGjuWDene4viC> .
+anat:L-mscl-masseter-fx-supL	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=T5Hb8fjyW5X9jqeyGHv8LvCK> .
+anat:L-mscl-masseter-fx-pfd	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=m8fqSn5zuKnGjO59b0n05faG> .
+anat:muscles-pterigoidien-lat	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=0naaamiSfiiqXXrO9LqeOrOb> .
+anat:R-mscl-pterigoidien-lat	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=KfGrqOObaW9ryS5rqCXP9Lzy> .
+anat:R-mscl-pterigoidien-lat-fx-sup	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=4999XDTXL199rSTLLL9n8bmi> .
+anat:R-mscl-pterigoidien-lat-fx-inf	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=8nmqae0vOni45jyOTrPD8P9v> .
+anat:L-mscl-pterigoidien-lat	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Hf4ri8fymaK1zuaeyiuq4Tnu> .
+anat:L-mscl-pterigoidien-lat-fx-sup	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=uuyiuiHbqmWbeemCyaKzGDe0> .
+anat:L-mscl-pterigoidien-lat-fx-inf	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=aqmSzOmGD8zqruyKDir4Lba0> .
+anat:muscles-pterigoidien-med	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=0XjCGHraGzymWTXTDOqGfWzm> .
+anat:R-mscl-pterigoidien-med	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=9jui09DqiWbmqumKziG5DOj4> .
+anat:L-mscl-pterigoidien-med	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=naKbiyim4Tz4TXLLP9fKb8zW> .
+
+anat:muscles-masticateurs	rdfs:label	"Muscles masticateurs" .
+anat:R-mscl-temporal	rdfs:label	"Muscle temporal droit" .
+anat:R-mscl-masseter	rdfs:label	"Muscle masseter droit" .
+anat:R-mscl-masseter-fx-supL	rdfs:label	"Faisceau superficiel du muscle masseter droit" .
+anat:R-mscl-masseter-fx-pfd	rdfs:label	"Faisceau profond du muscle masseter droit" .
+anat:R-mscl-pterigoidien-lat	rdfs:label	"Muscle ptérigoïdien latéral droit" .
+anat:R-mscl-pterigoidien-lat-fx-sup	rdfs:label	"Faisceau superficiel du muscle ptérigoïdien latéral droit" .
+anat:R-mscl-pterigoidien-lat-fx-inf	rdfs:label	"Faisceau profond du muscle ptérigoïdien latéral droit" .
+anat:R-mscl-pterigoidien-med	rdfs:label	"Muscle ptérigoïdien médial droit" .
+anat:L-mscl-temporal	rdfs:label	"Muscle temporal gauche" .
+anat:L-mscl-masseter	rdfs:label	"Muscle masseter gauche" .
+anat:L-mscl-masseter-fx-supL	rdfs:label	"Faisceau superficiel du muscle masseter gauche" .
+anat:L-mscl-masseter-fx-pfd	rdfs:label	"Faisceau profond du muscle masseter gauche" .
+anat:L-mscl-pterigoidien-lat	rdfs:label	"Muscle ptérigoïdien latéral gauche" .
+anat:L-mscl-pterigoidien-lat-fx-sup	rdfs:label	"Faisceau superficiel du muscle ptérigoïdien latéral gauche" .
+anat:L-mscl-pterigoidien-lat-fx-inf	rdfs:label	"Faisceau profond du muscle ptérigoïdien latéral gauche" .
+anat:L-mscl-pterigoidien-med	rdfs:label	"Muscle ptérigoïdien médial gauche" .
+anat:muscles-temporaux	rdfs:label	"Muscles temporaux" .
+anat:muscles-masseter	rdfs:label	"Muscles masseters" .
+anat:muscles-pterigoidien-lat	rdfs:label	"Muscles ptérigoïdiens latéraux" .
+anat:muscles-pterigoidien-med	rdfs:label	"Muscles ptérigoïdiens médiaux" .
+		
+anat:muscles-expressions-faciales	rdf:type	anat:groupe-musculaire .
+anat:muscle-epicranien	rdf:type	anat:muscle .
+anat:muscle-occipito-frontal	rdf:type	anat:chef-musculaire .
+anat:muscle-occipito-frontal-ventre-frontal	rdf:type	anat:chef-musculaire .
+anat:muscle-occipito-frontal-ventre-occipital	rdf:type	anat:chef-musculaire .
+anat:R-muscle-temporo-parietal	rdf:type	anat:chef-musculaire .
+anat:L-muscle-temporo-parietal	rdf:type	anat:chef-musculaire .
+anat:aponevrose-epicranienne	rdf:type	anat:structure-fibreuse .
+anat:muscles-auriculaires	rdf:type	anat:groupe-musculaire .
+anat:R-muscles-auriculaires	rdf:type	anat:groupe-musculaire .
+anat:R-muscles-extrinseq-pavillon	rdf:type	anat:groupe-musculaire .
+anat:R-mscl-auriculR-ant	rdf:type	anat:muscle .
+anat:R-mscl-auriculR-sup	rdf:type	anat:muscle .
+anat:R-mscl-auriculR-post	rdf:type	anat:muscle .
+anat:R-muscles-intrinseq-pavillon	rdf:type	anat:groupe-musculaire .
+anat:R-muscle-epine-de-l-helix	rdf:type	anat:muscle .
+anat:R-muscle-pt-de-l-helix	rdf:type	anat:muscle .
+anat:R-muscle-du-tragus	rdf:type	anat:muscle .
+anat:R-muscle-de-l-anti-tragus	rdf:type	anat:muscle .
+anat:L-muscles-auriculaires	rdf:type	anat:groupe-musculaire .
+anat:L-muscles-extrinseq-pavillon	rdf:type	anat:groupe-musculaire .
+anat:L-mscl-auriculR-ant	rdf:type	anat:muscle .
+anat:L-mscl-auriculR-sup	rdf:type	anat:muscle .
+anat:L-mscl-auriculR-post	rdf:type	anat:muscle .
+anat:L-muscles-intrinseq-pavillon	rdf:type	anat:groupe-musculaire .
+anat:L-muscle-epine-de-l-helix	rdf:type	anat:muscle .
+anat:L-muscle-pt-de-l-helix	rdf:type	anat:muscle .
+anat:L-muscle-du-tragus	rdf:type	anat:muscle .
+anat:L-muscle-de-l-anti-tragus	rdf:type	anat:muscle .
+anat:muscles-face	rdf:type	anat:groupe-musculaire .
+anat:muscles-orbitaires	rdf:type	anat:groupe-musculaire .
+anat:R-muscles-orbitaires	rdf:type	anat:groupe-musculaire .
+anat:R-mscl-orbiculaire-oeil	rdf:type	anat:muscle .
+anat:R-mscl-orbiculaire-oeil-partie-palpebrale	rdf:type	anat:chef-musculaire .
+anat:R-mscl-orbiculaire-oeil-partie-orbitaire	rdf:type	anat:chef-musculaire .
+anat:R-mscl-orbiculaire-oeil-partie-lacrymale	rdf:type	anat:chef-musculaire .
+anat:R-mscl-corrugatR-sourcil	rdf:type	anat:muscle .
+anat:R-mscl-abaissR-sourcil	rdf:type	anat:muscle .
+anat:L-muscles-orbitaires	rdf:type	anat:groupe-musculaire .
+anat:L-mscl-orbiculaire-oeil	rdf:type	anat:muscle .
+anat:L-mscl-orbiculaire-oeil-partie-palpebrale	rdf:type	anat:chef-musculaire .
+anat:L-mscl-orbiculaire-oeil-partie-orbitaire	rdf:type	anat:chef-musculaire .
+anat:L-mscl-orbiculaire-oeil-partie-lacrymale	rdf:type	anat:chef-musculaire .
+anat:L-mscl-corrugatR-sourcil	rdf:type	anat:muscle .
+anat:L-mscl-abaissR-sourcil	rdf:type	anat:muscle .
+anat:muscles-nez	rdf:type	anat:groupe-musculaire .
+anat:muscles-procerus	rdf:type	anat:muscle .
+anat:R-mscl-procerus	rdf:type	anat:muscle .
+anat:L-mscl-procerus	rdf:type	anat:muscle .
+anat:muscles-nasal	rdf:type	anat:muscle .
+anat:R-mscl-nasal	rdf:type	anat:muscle .
+anat:R-mscl-nasal-partie-trsv	rdf:type	anat:chef-musculaire .
+anat:R-mscl-nasal-partie-alaire	rdf:type	anat:chef-musculaire .
+anat:L-mscl-nasal	rdf:type	anat:muscle .
+anat:L-mscl-nasal-partie-trsv	rdf:type	anat:chef-musculaire .
+anat:L-mscl-nasal-partie-alaire	rdf:type	anat:chef-musculaire .
+anat:muscles-abaissR-septum-nasal	rdf:type	anat:muscle .
+anat:R-mscl-abaissR-septum-nasal	rdf:type	anat:muscle .
+anat:L-mscl-abaissR-septum-nasal	rdf:type	anat:muscle .
+anat:muscles-elevatR-naso-labial	rdf:type	anat:muscle .
+anat:R-mscl-elevatR-naso-labial	rdf:type	anat:muscle .
+anat:L-mscl-elevatR-naso-labial	rdf:type	anat:muscle .
+anat:muscles-bouche	rdf:type	anat:groupe-musculaire .
+anat:mscl-orbiculR-bouche	rdf:type	anat:muscle .
+anat:muscles-abaissR-angle-bouche	rdf:type	anat:muscle .
+anat:R-mscl-abaissR-angle-bouche	rdf:type	anat:muscle .
+anat:L-mscl-abaissR-angle-bouche	rdf:type	anat:muscle .
+anat:muscles-trsv-menton	rdf:type	anat:muscle .
+anat:R-mscl-trsv-menton	rdf:type	anat:muscle .
+anat:L-mscl-trsv-menton	rdf:type	anat:muscle .
+anat:muscles-risorius	rdf:type	anat:muscle .
+anat:R-mscl-risorius	rdf:type	anat:muscle .
+anat:L-mscl-risorius	rdf:type	anat:muscle .
+anat:muscles-zygomatique	rdf:type	anat:groupe-musculaire .
+anat:muscles-pt-zygomatique	rdf:type	anat:muscle .
+anat:R-mscl-pt-zygomatique	rdf:type	anat:muscle .
+anat:L-mscl-pt-zygomatique	rdf:type	anat:muscle .
+anat:muscles-gd-zygomatique	rdf:type	anat:muscle .
+anat:R-mscl-gd-zygomatique	rdf:type	anat:muscle .
+anat:L-mscl-gd-zygomatique	rdf:type	anat:muscle .
+anat:muscles-elevatR-levre-sup	rdf:type	anat:muscle .
+anat:R-mscl-elevatR-levre-sup	rdf:type	anat:muscle .
+anat:L-mscl-elevatR-levre-sup	rdf:type	anat:muscle .
+anat:muscles-abaissR-levre-inf	rdf:type	anat:muscle .
+anat:R-mscl-abaissR-levre-inf	rdf:type	anat:muscle .
+anat:L-mscl-abaissR-levre-inf	rdf:type	anat:muscle .
+anat:muscles-elevatR-angle-bouche	rdf:type	anat:muscle .
+anat:R-mscl-elevatR-angle-bouche	rdf:type	anat:muscle .
+anat:L-mscl-elevatR-angle-bouche	rdf:type	anat:muscle .
+anat:muscles-buccinatR	rdf:type	anat:muscle .
+anat:R-mscl-buccinatR	rdf:type	anat:muscle .
+anat:L-mscl-buccinatR	rdf:type	anat:muscle .
+anat:muscles-mentonnier	rdf:type	anat:muscle .
+anat:R-mscl-mentonnier	rdf:type	anat:muscle .
+anat:L-mscl-mentonnier	rdf:type	anat:muscle .
+		
+anat:muscles-expressions-faciales	anat:comprend	anat:muscle-epicranien .
+anat:muscles-expressions-faciales	anat:comprend	anat:muscles-auriculaires .
+anat:muscles-expressions-faciales	anat:comprend	anat:muscles-face .
+anat:muscle-epicranien	anat:comprend	anat:muscle-occipito-frontal .
+anat:muscle-epicranien	anat:comprend	anat:R-muscle-temporo-parietal .
+anat:muscle-epicranien	anat:comprend	anat:L-muscle-temporo-parietal .
+anat:muscle-epicranien	anat:comprend	anat:aponevrose-epicranienne .
+anat:muscle-occipito-frontal	anat:comprend	anat:muscle-occipito-frontal-ventre-frontal .
+anat:muscle-occipito-frontal	anat:comprend	anat:muscle-occipito-frontal-ventre-occipital .
+anat:muscles-auriculaires	anat:comprend	anat:R-muscles-auriculaires .
+anat:muscles-auriculaires	anat:comprend	anat:L-muscles-auriculaires .
+anat:R-muscles-auriculaires	anat:comprend	anat:R-muscles-extrinseq-pavillon .
+anat:R-muscles-auriculaires	anat:comprend	anat:R-muscles-intrinseq-pavillon .
+anat:R-muscles-extrinseq-pavillon	anat:comprend	anat:R-mscl-auriculR-ant .
+anat:R-muscles-extrinseq-pavillon	anat:comprend	anat:R-mscl-auriculR-sup .
+anat:R-muscles-extrinseq-pavillon	anat:comprend	anat:R-mscl-auriculR-post .
+anat:R-muscles-intrinseq-pavillon	anat:comprend	anat:R-muscle-epine-de-l-helix .
+anat:R-muscles-intrinseq-pavillon	anat:comprend	anat:R-muscle-pt-de-l-helix .
+anat:R-muscles-intrinseq-pavillon	anat:comprend	anat:R-muscle-du-tragus .
+anat:R-muscles-intrinseq-pavillon	anat:comprend	anat:R-muscle-de-l-anti-tragus .
+anat:L-muscles-auriculaires	anat:comprend	anat:L-muscles-extrinseq-pavillon .
+anat:L-muscles-auriculaires	anat:comprend	anat:L-muscles-intrinseq-pavillon .
+anat:L-muscles-extrinseq-pavillon	anat:comprend	anat:L-mscl-auriculR-ant .
+anat:L-muscles-extrinseq-pavillon	anat:comprend	anat:L-mscl-auriculR-sup .
+anat:L-muscles-extrinseq-pavillon	anat:comprend	anat:L-mscl-auriculR-post .
+anat:L-muscles-intrinseq-pavillon	anat:comprend	anat:L-muscle-epine-de-l-helix .
+anat:L-muscles-intrinseq-pavillon	anat:comprend	anat:L-muscle-pt-de-l-helix .
+anat:L-muscles-intrinseq-pavillon	anat:comprend	anat:L-muscle-du-tragus .
+anat:L-muscles-intrinseq-pavillon	anat:comprend	anat:L-muscle-de-l-anti-tragus .
+anat:muscles-face	anat:comprend	anat:muscles-orbitaires .
+anat:muscles-face	anat:comprend	anat:muscles-nez .
+anat:muscles-face	anat:comprend	anat:muscles-bouche .
+anat:muscles-orbitaires	anat:comprend	anat:R-muscles-orbitaires .
+anat:muscles-orbitaires	anat:comprend	anat:L-muscles-orbitaires .
+anat:R-muscles-orbitaires	anat:comprend	anat:R-mscl-orbiculaire-oeil .
+anat:R-muscles-orbitaires	anat:comprend	anat:R-mscl-corrugatR-sourcil .
+anat:R-muscles-orbitaires	anat:comprend	anat:R-mscl-abaissR-sourcil .
+anat:R-mscl-orbiculaire-oeil	anat:comprend	anat:R-mscl-orbiculaire-oeil-partie-palpebrale .
+anat:R-mscl-orbiculaire-oeil	anat:comprend	anat:R-mscl-orbiculaire-oeil-partie-orbitaire .
+anat:R-mscl-orbiculaire-oeil	anat:comprend	anat:R-mscl-orbiculaire-oeil-partie-lacrymale .
+anat:L-muscles-orbitaires	anat:comprend	anat:L-mscl-orbiculaire-oeil .
+anat:L-muscles-orbitaires	anat:comprend	anat:L-mscl-corrugatR-sourcil .
+anat:L-muscles-orbitaires	anat:comprend	anat:L-mscl-abaissR-sourcil .
+anat:L-mscl-orbiculaire-oeil	anat:comprend	anat:L-mscl-orbiculaire-oeil-partie-palpebrale .
+anat:L-mscl-orbiculaire-oeil	anat:comprend	anat:L-mscl-orbiculaire-oeil-partie-orbitaire .
+anat:L-mscl-orbiculaire-oeil	anat:comprend	anat:L-mscl-orbiculaire-oeil-partie-lacrymale .
+anat:muscles-nez	anat:comprend	anat:muscles-procerus .
+anat:muscles-nez	anat:comprend	anat:muscles-nasal .
+anat:muscles-nez	anat:comprend	anat:muscles-abaissR-septum-nasal .
+anat:muscles-nez	anat:comprend	anat:muscles-elevatR-naso-labial .
+anat:muscles-procerus	anat:comprend	anat:R-mscl-procerus .
+anat:muscles-procerus	anat:comprend	anat:L-mscl-procerus .
+anat:muscles-nasal	anat:comprend	anat:R-mscl-nasal .
+anat:muscles-nasal	anat:comprend	anat:L-mscl-nasal .
+anat:muscles-abaissR-septum-nasal	anat:comprend	anat:R-mscl-abaissR-septum-nasal .
+anat:muscles-abaissR-septum-nasal	anat:comprend	anat:L-mscl-abaissR-septum-nasal .
+anat:muscles-elevatR-naso-labial	anat:comprend	anat:R-mscl-elevatR-naso-labial .
+anat:muscles-elevatR-naso-labial	anat:comprend	anat:L-mscl-elevatR-naso-labial .
+anat:R-mscl-nasal	anat:comprend	anat:R-mscl-nasal-partie-trsv .
+anat:R-mscl-nasal	anat:comprend	anat:R-mscl-nasal-partie-alaire .
+anat:L-mscl-nasal	anat:comprend	anat:L-mscl-nasal-partie-trsv .
+anat:L-mscl-nasal	anat:comprend	anat:L-mscl-nasal-partie-alaire .
+anat:muscles-bouche	anat:comprend	anat:mscl-orbiculR-bouche .
+anat:muscles-bouche	anat:comprend	anat:muscles-elevatR-naso-labial .
+anat:muscles-bouche	anat:comprend	anat:muscles-abaissR-angle-bouche .
+anat:muscles-bouche	anat:comprend	anat:muscles-trsv-menton .
+anat:muscles-bouche	anat:comprend	anat:muscles-risorius .
+anat:muscles-bouche	anat:comprend	anat:muscles-zygomatique .
+anat:muscles-bouche	anat:comprend	anat:muscles-elevatR-levre-sup .
+anat:muscles-bouche	anat:comprend	anat:muscles-abaissR-levre-inf .
+anat:muscles-bouche	anat:comprend	anat:muscles-elevatR-angle-bouche .
+anat:muscles-bouche	anat:comprend	anat:muscles-buccinatR .
+anat:muscles-bouche	anat:comprend	anat:muscles-mentonnier .
+anat:muscles-zygomatique	anat:comprend	anat:muscles-pt-zygomatique .
+anat:muscles-zygomatique	anat:comprend	anat:muscles-gd-zygomatique .
+anat:muscles-abaissR-angle-bouche	anat:comprend	anat:R-mscl-abaissR-angle-bouche .
+anat:muscles-abaissR-angle-bouche	anat:comprend	anat:L-mscl-abaissR-angle-bouche .
+anat:muscles-trsv-menton	anat:comprend	anat:R-mscl-trsv-menton .
+anat:muscles-trsv-menton	anat:comprend	anat:L-mscl-trsv-menton .
+anat:muscles-risorius	anat:comprend	anat:R-mscl-risorius .
+anat:muscles-risorius	anat:comprend	anat:L-mscl-risorius .
+anat:muscles-pt-zygomatique	anat:comprend	anat:R-mscl-pt-zygomatique .
+anat:muscles-pt-zygomatique	anat:comprend	anat:L-mscl-pt-zygomatique .
+anat:muscles-gd-zygomatique	anat:comprend	anat:R-mscl-gd-zygomatique .
+anat:muscles-gd-zygomatique	anat:comprend	anat:L-mscl-gd-zygomatique .
+anat:muscles-elevatR-levre-sup	anat:comprend	anat:R-mscl-elevatR-levre-sup .
+anat:muscles-elevatR-levre-sup	anat:comprend	anat:L-mscl-elevatR-levre-sup .
+anat:muscles-abaissR-levre-inf	anat:comprend	anat:R-mscl-abaissR-levre-inf .
+anat:muscles-abaissR-levre-inf	anat:comprend	anat:L-mscl-abaissR-levre-inf .
+anat:muscles-elevatR-angle-bouche	anat:comprend	anat:R-mscl-elevatR-angle-bouche .
+anat:muscles-elevatR-angle-bouche	anat:comprend	anat:L-mscl-elevatR-angle-bouche .
+anat:muscles-buccinatR	anat:comprend	anat:R-mscl-buccinatR .
+anat:muscles-buccinatR	anat:comprend	anat:L-mscl-buccinatR .
+anat:muscles-mentonnier	anat:comprend	anat:R-mscl-mentonnier .
+anat:muscles-mentonnier	anat:comprend	anat:L-mscl-mentonnier .
+		
+anat:muscle-occipito-frontal-ventre-frontal	anat:origi-insere-sur	anat:aponevrose-epicranienne .
+anat:muscle-occipito-frontal-ventre-frontal	anat:termi-insere-sur	anat:R-mscl-abaissR-sourcil .
+anat:muscle-occipito-frontal-ventre-frontal	anat:termi-insere-sur	anat:L-mscl-abaissR-sourcil .
+anat:muscle-occipito-frontal-ventre-frontal	anat:termi-insere-sur	anat:R-mscl-procerus .
+anat:muscle-occipito-frontal-ventre-frontal	anat:termi-insere-sur	anat:L-mscl-procerus .
+anat:muscle-occipito-frontal-ventre-frontal	anat:termi-insere-sur	anat:R-mscl-orbiculaire-oeil .
+anat:muscle-occipito-frontal-ventre-frontal	anat:termi-insere-sur	anat:L-mscl-orbiculaire-oeil .
+anat:muscle-occipito-frontal-ventre-frontal	anat:termi-insere-sur	anat:R-derme-supraorbitR .
+anat:muscle-occipito-frontal-ventre-frontal	anat:termi-insere-sur	anat:L-derme-supraorbitR .
+anat:muscle-occipito-frontal-ventre-occipital	anat:origi-insere-sur	anat:aponevrose-epicranienne .
+anat:muscle-occipito-frontal-ventre-occipital	anat:termi-insere-sur	anat:occiput .
+anat:muscle-occipito-frontal-ventre-occipital	anat:termi-insere-sur	anat:R-temporal .
+anat:muscle-occipito-frontal-ventre-occipital	anat:termi-insere-sur	anat:L-temporal .
+anat:R-muscle-temporo-parietal	anat:origi-insere-sur	anat:aponevrose-epicranienne .
+anat:R-muscle-temporo-parietal	anat:termi-insere-sur	anat:R-portion-peau-ant-auricule .
+anat:L-muscle-temporo-parietal	anat:origi-insere-sur	anat:aponevrose-epicranienne .
+anat:L-muscle-temporo-parietal	anat:termi-insere-sur	anat:L-portion-peau-ant-auricule .
+anat:R-mscl-auriculR-ant	anat:origi-insere-sur	anat:R-fascia-temporal .
+anat:R-mscl-auriculR-ant	anat:termi-insere-sur	anat:R-epine-helix .
+anat:R-mscl-auriculR-sup	anat:origi-insere-sur	anat:aponevrose-epicranienne .
+anat:R-mscl-auriculR-sup	anat:termi-insere-sur	anat:R-eminence-triangulR .
+anat:R-mscl-auriculR-post	anat:origi-insere-sur	anat:R-temporal .
+anat:R-mscl-auriculR-post	anat:termi-insere-sur	anat:R-ponticulus .
+anat:R-mscl-orbiculaire-oeil	anat:origi-insere-sur	anat:R-os-lacrimal .
+anat:R-mscl-orbiculaire-oeil	anat:origi-insere-sur	anat:R-maxilaire .
+anat:R-mscl-orbiculaire-oeil	anat:origi-insere-sur	anat:frontal .
+anat:R-mscl-orbiculaire-oeil	anat:origi-insere-sur	anat:R-lgmt-palpebral-med .
+anat:R-mscl-orbiculaire-oeil	anat:termi-insere-sur	anat:R-raphe-palpebral-lateral .
+anat:R-mscl-orbiculaire-oeil	anat:termi-insere-sur	anat:R-tarse-sup-oeil .
+anat:R-mscl-orbiculaire-oeil	anat:termi-insere-sur	anat:R-tarse-inf-oeil .
+anat:R-mscl-orbiculaire-oeil-partie-palpebrale	anat:origi-insere-sur	anat:R-os-lacrimal .
+anat:R-mscl-orbiculaire-oeil-partie-palpebrale	anat:origi-insere-sur	anat:R-lgmt-palpebral-med .
+anat:R-mscl-orbiculaire-oeil-partie-palpebrale	anat:termi-insere-sur	anat:R-raphe-palpebral-lateral .
+anat:R-mscl-orbiculaire-oeil-partie-orbitaire	anat:origi-insere-sur	anat:R-lgmt-palpebral-med .
+anat:R-mscl-orbiculaire-oeil-partie-orbitaire	anat:origi-insere-sur	anat:R-maxilaire .
+anat:R-mscl-orbiculaire-oeil-partie-orbitaire	anat:origi-insere-sur	anat:frontal .
+anat:R-mscl-orbiculaire-oeil-partie-lacrymale	anat:origi-insere-sur	anat:R-os-lacrimal .
+anat:R-mscl-orbiculaire-oeil-partie-lacrymale	anat:termi-insere-sur	anat:R-tarse-sup-oeil .
+anat:R-mscl-orbiculaire-oeil-partie-lacrymale	anat:termi-insere-sur	anat:R-tarse-inf-oeil .
+anat:R-mscl-corrugatR-sourcil	anat:origi-insere-sur	anat:frontal .
+anat:R-mscl-corrugatR-sourcil	anat:origi-insere-sur	anat:R-mscl-orbiculaire-oeil .
+anat:R-mscl-corrugatR-sourcil	anat:termi-insere-sur	anat:R-portion-peau-sourcil .
+anat:R-mscl-abaissR-sourcil	anat:origi-insere-sur	anat:R-maxilaire .
+anat:R-mscl-abaissR-sourcil	anat:termi-insere-sur	anat:R-portion-peau-glabelle .
+anat:R-mscl-procerus	anat:origi-insere-sur	anat:R-os-nasal .
+anat:R-mscl-procerus	anat:termi-insere-sur	anat:R-portion-peau-intersourciliR .
+anat:R-mscl-nasal	anat:origi-insere-sur	anat:R-portion-peau-jugum-canin .
+anat:R-mscl-nasal	anat:termi-insere-sur	anat:arete-du-nez .
+anat:R-mscl-nasal	anat:termi-insere-sur	anat:L-mscl-nasal .
+anat:R-mscl-nasal	anat:termi-insere-sur	anat:R-gd-carti-alaire-nez .
+anat:R-mscl-nasal-partie-trsv	anat:origi-insere-sur	anat:R-portion-peau-jugum-canin .
+anat:R-mscl-nasal-partie-trsv	anat:termi-insere-sur	anat:arete-du-nez .
+anat:R-mscl-nasal-partie-trsv	anat:termi-insere-sur	anat:L-mscl-nasal-partie-trsv .
+anat:R-mscl-nasal-partie-alaire	anat:origi-insere-sur	anat:R-portion-peau-jugum-canin .
+anat:R-mscl-nasal-partie-alaire	anat:termi-insere-sur	anat:R-gd-carti-alaire-nez .
+anat:R-mscl-abaissR-septum-nasal	anat:origi-insere-sur	anat:R-maxilaire .
+anat:R-mscl-abaissR-septum-nasal	anat:termi-insere-sur	anat:R-portion-peau-cloison-du-nez .
+anat:R-mscl-elevatR-naso-labial	anat:origi-insere-sur	anat:R-maxilaire .
+anat:R-mscl-elevatR-naso-labial	anat:termi-insere-sur	anat:R-gd-carti-alaire-nez .
+anat:R-mscl-elevatR-naso-labial	anat:termi-insere-sur	anat:R-portion-peau-aile-du-nez .
+anat:R-mscl-elevatR-naso-labial	anat:termi-insere-sur	anat:R-portion-peau-levre-sup .
+anat:R-mscl-elevatR-naso-labial	anat:termi-insere-sur	anat:mscl-orbiculR-bouche .
+anat:mscl-orbiculR-bouche	anat:origi-insere-sur	anat:poutour-levre-sup .
+anat:mscl-orbiculR-bouche	anat:origi-insere-sur	anat:poutour-levre-inf .
+anat:mscl-orbiculR-bouche	anat:termi-insere-sur	anat:R-mscl-buccinatR .
+anat:mscl-orbiculR-bouche	anat:termi-insere-sur	anat:L-mscl-buccinatR .
+anat:R-mscl-abaissR-angle-bouche	anat:origi-insere-sur	anat:mandibule .
+anat:R-mscl-abaissR-angle-bouche	anat:termi-insere-sur	anat:R-commissure-labiale .
+anat:R-mscl-abaissR-angle-bouche	anat:termi-insere-sur	anat:R-portion-levre-inf .
+anat:R-mscl-trsv-menton	anat:origi-insere-sur	anat:mandibule .
+anat:R-mscl-trsv-menton	anat:termi-insere-sur	anat:L-mscl-trsv-menton .
+anat:R-mscl-risorius	anat:origi-insere-sur	anat:R-fascia-masseterique .
+anat:R-mscl-risorius	anat:termi-insere-sur	anat:R-portion-peau-angle-bouche .
+anat:R-mscl-pt-zygomatique	anat:origi-insere-sur	anat:R-malaire .
+anat:R-mscl-pt-zygomatique	anat:termi-insere-sur	anat:R-portion-levre-sup .
+anat:R-mscl-gd-zygomatique	anat:origi-insere-sur	anat:R-malaire .
+anat:R-mscl-gd-zygomatique	anat:termi-insere-sur	anat:R-portion-peau-angle-bouche .
+anat:R-mscl-elevatR-levre-sup	anat:origi-insere-sur	anat:R-maxilaire .
+anat:R-mscl-elevatR-levre-sup	anat:origi-insere-sur	anat:R-malaire .
+anat:R-mscl-elevatR-levre-sup	anat:termi-insere-sur	anat:R-portion-levre-sup .
+anat:R-mscl-abaissR-levre-inf	anat:origi-insere-sur	anat:mandibule .
+anat:R-mscl-abaissR-levre-inf	anat:origi-insere-sur	anat:R-mscl-platysma .
+anat:R-mscl-abaissR-levre-inf	anat:termi-insere-sur	anat:R-portion-levre-inf .
+anat:R-mscl-elevatR-angle-bouche	anat:origi-insere-sur	anat:R-maxilaire .
+anat:R-mscl-elevatR-angle-bouche	anat:termi-insere-sur	anat:R-portion-peau-angle-bouche .
+anat:R-mscl-buccinatR	anat:origi-insere-sur	anat:mandibule .
+anat:R-mscl-buccinatR	anat:origi-insere-sur	anat:R-raphe-ptergo-mandibulR .
+anat:R-mscl-buccinatR	anat:origi-insere-sur	anat:R-maxilaire .
+anat:R-mscl-buccinatR	anat:termi-insere-sur	anat:R-portion-peau-angle-bouche .
+anat:R-mscl-mentonnier	anat:origi-insere-sur	anat:mandibule .
+anat:R-mscl-mentonnier	anat:termi-insere-sur	anat:R-portion-peau-menton .
+anat:L-mscl-auriculR-ant	anat:origi-insere-sur	anat:L-fascia-temporal .
+anat:L-mscl-auriculR-ant	anat:termi-insere-sur	anat:L-epine-helix .
+anat:L-mscl-auriculR-sup	anat:origi-insere-sur	anat:aponevrose-epicranienne .
+anat:L-mscl-auriculR-sup	anat:termi-insere-sur	anat:L-eminence-triangulR .
+anat:L-mscl-auriculR-post	anat:origi-insere-sur	anat:L-temporal .
+anat:L-mscl-auriculR-post	anat:termi-insere-sur	anat:L-ponticulus .
+anat:L-mscl-orbiculaire-oeil	anat:origi-insere-sur	anat:L-os-lacrimal .
+anat:L-mscl-orbiculaire-oeil	anat:origi-insere-sur	anat:L-maxilaire .
+anat:L-mscl-orbiculaire-oeil	anat:origi-insere-sur	anat:frontal .
+anat:L-mscl-orbiculaire-oeil	anat:origi-insere-sur	anat:L-lgmt-palpebral-med .
+anat:L-mscl-orbiculaire-oeil	anat:termi-insere-sur	anat:L-raphe-palpebral-lateral .
+anat:L-mscl-orbiculaire-oeil	anat:termi-insere-sur	anat:L-tarse-sup-oeil .
+anat:L-mscl-orbiculaire-oeil	anat:termi-insere-sur	anat:L-tarse-inf-oeil .
+anat:L-mscl-orbiculaire-oeil-partie-palpebrale	anat:origi-insere-sur	anat:L-os-lacrimal .
+anat:L-mscl-orbiculaire-oeil-partie-palpebrale	anat:origi-insere-sur	anat:L-lgmt-palpebral-med .
+anat:L-mscl-orbiculaire-oeil-partie-palpebrale	anat:termi-insere-sur	anat:L-raphe-palpebral-lateral .
+anat:L-mscl-orbiculaire-oeil-partie-orbitaire	anat:origi-insere-sur	anat:L-lgmt-palpebral-med .
+anat:L-mscl-orbiculaire-oeil-partie-orbitaire	anat:origi-insere-sur	anat:L-maxilaire .
+anat:L-mscl-orbiculaire-oeil-partie-orbitaire	anat:origi-insere-sur	anat:frontal .
+anat:L-mscl-orbiculaire-oeil-partie-lacrymale	anat:origi-insere-sur	anat:L-os-lacrimal .
+anat:L-mscl-orbiculaire-oeil-partie-lacrymale	anat:termi-insere-sur	anat:L-tarse-sup-oeil .
+anat:L-mscl-orbiculaire-oeil-partie-lacrymale	anat:termi-insere-sur	anat:L-tarse-inf-oeil .
+anat:L-mscl-corrugatR-sourcil	anat:origi-insere-sur	anat:frontal .
+anat:L-mscl-corrugatR-sourcil	anat:origi-insere-sur	anat:L-mscl-orbiculaire-oeil .
+anat:L-mscl-corrugatR-sourcil	anat:termi-insere-sur	anat:L-portion-peau-sourcil .
+anat:L-mscl-abaissR-sourcil	anat:origi-insere-sur	anat:L-maxilaire .
+anat:L-mscl-abaissR-sourcil	anat:termi-insere-sur	anat:L-portion-peau-glabelle .
+anat:L-mscl-procerus	anat:origi-insere-sur	anat:L-os-nasal .
+anat:L-mscl-procerus	anat:termi-insere-sur	anat:L-portion-peau-intersourciliR .
+anat:L-mscl-nasal	anat:origi-insere-sur	anat:L-portion-peau-jugum-canin .
+anat:L-mscl-nasal	anat:termi-insere-sur	anat:arete-du-nez .
+anat:L-mscl-nasal	anat:termi-insere-sur	anat:R-mscl-nasal .
+anat:L-mscl-nasal	anat:termi-insere-sur	anat:L-gd-carti-alaire-nez .
+anat:L-mscl-nasal-partie-trsv	anat:origi-insere-sur	anat:L-portion-peau-jugum-canin .
+anat:L-mscl-nasal-partie-trsv	anat:termi-insere-sur	anat:arete-du-nez .
+anat:L-mscl-nasal-partie-trsv	anat:termi-insere-sur	anat:R-mscl-nasal-partie-trsv .
+anat:L-mscl-nasal-partie-alaire	anat:origi-insere-sur	anat:L-portion-peau-jugum-canin .
+anat:L-mscl-nasal-partie-alaire	anat:termi-insere-sur	anat:L-gd-carti-alaire-nez .
+anat:L-mscl-abaissR-septum-nasal	anat:origi-insere-sur	anat:L-maxilaire .
+anat:L-mscl-abaissR-septum-nasal	anat:termi-insere-sur	anat:L-portion-peau-cloison-du-nez .
+anat:L-mscl-elevatR-naso-labial	anat:origi-insere-sur	anat:L-maxilaire .
+anat:L-mscl-elevatR-naso-labial	anat:termi-insere-sur	anat:L-gd-carti-alaire-nez .
+anat:L-mscl-elevatR-naso-labial	anat:termi-insere-sur	anat:L-portion-peau-aile-du-nez .
+anat:L-mscl-elevatR-naso-labial	anat:termi-insere-sur	anat:L-portion-peau-levre-sup .
+anat:L-mscl-elevatR-naso-labial	anat:termi-insere-sur	anat:mscl-orbiculR-bouche .
+anat:L-mscl-abaissR-angle-bouche	anat:origi-insere-sur	anat:mandibule .
+anat:L-mscl-abaissR-angle-bouche	anat:termi-insere-sur	anat:L-commissure-labiale .
+anat:L-mscl-abaissR-angle-bouche	anat:termi-insere-sur	anat:L-portion-levre-inf .
+anat:L-mscl-trsv-menton	anat:origi-insere-sur	anat:mandibule .
+anat:L-mscl-trsv-menton	anat:termi-insere-sur	anat:R-mscl-trsv-menton .
+anat:L-mscl-risorius	anat:origi-insere-sur	anat:L-fascia-masseterique .
+anat:L-mscl-risorius	anat:termi-insere-sur	anat:L-portion-peau-angle-bouche .
+anat:L-mscl-pt-zygomatique	anat:origi-insere-sur	anat:L-malaire .
+anat:L-mscl-pt-zygomatique	anat:termi-insere-sur	anat:L-portion-levre-sup .
+anat:L-mscl-gd-zygomatique	anat:origi-insere-sur	anat:L-malaire .
+anat:L-mscl-gd-zygomatique	anat:termi-insere-sur	anat:L-portion-peau-angle-bouche .
+anat:L-mscl-elevatR-levre-sup	anat:origi-insere-sur	anat:L-maxilaire .
+anat:L-mscl-elevatR-levre-sup	anat:origi-insere-sur	anat:L-malaire .
+anat:L-mscl-elevatR-levre-sup	anat:termi-insere-sur	anat:L-portion-levre-sup .
+anat:L-mscl-abaissR-levre-inf	anat:origi-insere-sur	anat:mandibule .
+anat:L-mscl-abaissR-levre-inf	anat:origi-insere-sur	anat:L-mscl-platysma .
+anat:L-mscl-abaissR-levre-inf	anat:termi-insere-sur	anat:L-portion-levre-inf .
+anat:L-mscl-elevatR-angle-bouche	anat:origi-insere-sur	anat:L-maxilaire .
+anat:L-mscl-elevatR-angle-bouche	anat:termi-insere-sur	anat:L-portion-peau-angle-bouche .
+anat:L-mscl-buccinatR	anat:origi-insere-sur	anat:mandibule .
+anat:L-mscl-buccinatR	anat:origi-insere-sur	anat:L-raphe-ptergo-mandibulR .
+anat:L-mscl-buccinatR	anat:origi-insere-sur	anat:L-maxilaire .
+anat:L-mscl-buccinatR	anat:termi-insere-sur	anat:L-portion-peau-angle-bouche .
+anat:L-mscl-mentonnier	anat:origi-insere-sur	anat:mandibule .
+anat:L-mscl-mentonnier	anat:termi-insere-sur	anat:L-portion-peau-menton .
+		
+anat:muscles-expressions-faciales	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=85LTrWaeKTvq055X1vDiea4P> .
+anat:muscle-epicranien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=9bSbySvCOvS11zCKrqqODe4r> .
+anat:muscle-occipito-frontal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=famWHHbymKf0LXHvyi9jyi0r> .
+anat:muscle-occipito-frontal-ventre-frontal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=qaSnWzzaGjamHHHLzmKX9Hzu> .
+anat:muscle-occipito-frontal-ventre-occipital	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=W99jKXC0vGnq0XPnaWTP9nWv> .
+anat:R-muscle-temporo-parietal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=0D0bOnm8f8TnHzyqKLKvqqWH> .
+anat:L-muscle-temporo-parietal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=yWLbyaH5r0nOXPLbmqmGn8ry> .
+anat:aponevrose-epicranienne	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=a4bCC49DayeOXzyCC4Dya0bC> .
+anat:muscles-auriculaires	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=iW1nqmvODS5jaCqKzyWri05v> .
+anat:R-muscles-auriculaires	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Ov0XbeD4XjKXqa4PXrymeO95> .
+anat:R-mscl-auriculR-ant	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ri8ve0Hj4vSDnO1LbS0DS1L5> .
+anat:R-mscl-auriculR-sup	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=raKfmyz4jKnmn0ze8L01zmOf> .
+anat:R-mscl-auriculR-post	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=LvOXjmCSLPD8K9jWzmi4DiGj> .
+anat:L-muscles-auriculaires	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=euquGfLfyCaiLfaSnyWbqae0> .
+anat:L-mscl-auriculR-ant	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=HvmWPLquySveW5PDKfeWfaKz> .
+anat:L-mscl-auriculR-sup	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=8fuiaabWjauG4z8buSPL9fuW> .
+anat:L-mscl-auriculR-post	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=LbSPPbHL15zayuuOTr4n0HbS> .
+anat:muscles-face	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=4Xr0TX1fayK1PXvC0Lj0rmS9> .
+anat:muscles-orbitaires	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=b89zWHGnqy8jmKLTPPSruCWn> .
+anat:R-muscles-orbitaires	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=KPHneW0fSrKD4rW5r081THTL> .
+anat:R-mscl-orbiculaire-oeil	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=4jy05vnKr4jSrKDWbGDqeeSP> .
+anat:R-mscl-orbiculaire-oeil-partie-palpebrale	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=n81DS9999TzCO1bCuGv8bWLX> .
+anat:R-mscl-orbiculaire-oeil-partie-orbitaire	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=LHDO1HWDiy0LzeOvi08v4jaC> .
+#anat:R-mscl-orbiculaire-oeil-partie-lacrymale	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=C8n8zGDK519Dzum4raHzy4fO> .
+anat:R-mscl-corrugatR-sourcil	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=eOzeua9HnKDiPfqiOvK1n4bO> .
+#anat:R-mscl-abaissR-sourcil	anat:hasImage3D	<> .
+anat:L-muscles-orbitaires	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=iGnCqiT9PH5bDGriuKnW9HbC> .
+anat:L-mscl-orbiculaire-oeil	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=DKXPPjT9DqCynObya01bi05T> .
+anat:L-mscl-orbiculaire-oeil-partie-palpebrale	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=z4jGLPWPzaSDWTni4DzOTH1v> .
+anat:L-mscl-orbiculaire-oeil-partie-orbitaire	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=rqeSXDSrmaayiKTv4baSvmSj> .
+#anat:L-mscl-orbiculaire-oeil-partie-lacrymale	anat:hasImage3D	<> .
+anat:L-mscl-corrugatR-sourcil	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=OTXH1TDeODGnKXrme8CiGDa8> .
+#anat:L-mscl-abaissR-sourcil	anat:hasImage3D	<> .
+anat:muscles-nez	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=fWn4DquKruyqjmu09n4zG5f0> .
+anat:R-mscl-procerus	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=81HHnu5T9b8HLT5THrTDSL9X> .
+anat:R-mscl-nasal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=HrmCaCfSnKbOn0bKzei8nWbi> .
+#anat:R-mscl-nasal-partie-trsv	anat:hasImage3D	<> .
+#anat:R-mscl-nasal-partie-alaire	anat:hasImage3D	<> .
+anat:R-mscl-abaissR-septum-nasal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=a0LHb8aKzqCyvWLz4L5Pb4rG> .
+anat:R-mscl-elevatR-naso-labial	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=CWLL9zaCuuCGGzy8T9uyOLb8> .
+anat:L-mscl-procerus	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=055TjGuSLX1XHXjCyqGziKPT> .
+anat:L-mscl-nasal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=OXjmu8OPj0rmyyi0XHj0Lrmu> .
+#anat:L-mscl-nasal-partie-trsv	anat:hasImage3D	<> .
+#anat:L-mscl-nasal-partie-alaire	anat:hasImage3D	<> .
+anat:L-mscl-abaissR-septum-nasal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=LDuWPHaeqCWnKj459DXHDWTD> .
+anat:L-mscl-elevatR-naso-labial	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=imWbGPLvSTfCfayKriuaW9Di> .
+anat:muscles-bouche	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=9ru4vG9TjOziWfieCmj8PjWT> .
+anat:mscl-orbiculR-bouche	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=9bmODabS15Dqyiua0rbuCKvi> .
+anat:R-mscl-abaissR-angle-bouche	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=yaKjium4rySrryaeqe1fae8r> .
+#anat:R-mscl-trsv-menton	anat:hasImage3D	<> .
+anat:R-mscl-risorius	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=m01DWjSHrimCvu89zSLLHDai> .
+anat:R-mscl-pt-zygomatique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=mCK9nm1rW5nq0T1bqqj8b4fG> .
+anat:R-mscl-gd-zygomatique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ya0TD4GPDO1TPn8XfOPX5T15> .
+anat:R-mscl-elevatR-levre-sup	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=SLbCaGei8XXrWXLHfG9LjKnG> .
+anat:R-mscl-abaissR-levre-inf	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=mG1LX9CWfeqqHfmKvuDaKHDW> .
+anat:R-mscl-elevatR-angle-bouche	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=S91j4jHPz855Ofy0z08faGDq> .
+anat:R-mscl-buccinatR	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=81rG1zuW1rqabGvqeGz05LTv> .
+anat:R-mscl-mentonnier	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=bKnK9zvODuiqO9DGXTriOrmS> .
+anat:L-mscl-abaissR-angle-bouche	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=q4jSL9XDKfaiC8femaOLLzGL> .
+#anat:L-mscl-trsv-menton	anat:hasImage3D	<> .
+anat:L-mscl-risorius	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=15rGb0KbeieurCumqq9fi4T5> .
+anat:L-mscl-pt-zygomatique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=jeSDmu9bu0fyHXT1TjXfaaOv> .
+anat:L-mscl-gd-zygomatique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=TbaS5vGvuye4i85Pzqm05Dmq> .
+anat:L-mscl-elevatR-levre-sup	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=eS1TLXyie81HfOTrKPmqeO9v> .
+anat:L-mscl-abaissR-levre-inf	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=WT5b4Tj8LXrqyOnuCy9j011H> .
+anat:L-mscl-elevatR-angle-bouche	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=jW9HD8GnCW9PLXLv4XqumyK5> .
+anat:L-mscl-buccinatR	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=XLz0HLf8f0T98zmO55e85Hnm> .
+anat:L-mscl-mentonnier	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=uKLre0ruO9DqyODWn4CeaSPH> .
+anat:muscles-procerus	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=vieuuK4DKP5vTjCyKL4jSfaW> .
+anat:muscles-nasal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=CqeiS9fGnimSHf8Hbm49zWPn> .
+anat:muscles-abaissR-septum-nasal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=51jyOXSzaGDGqi4LbqrS9XDa> .
+anat:muscles-elevatR-naso-labial	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=zOfiCGD8jWTbnyGDyerOnSTf> .
+anat:muscles-abaissR-angle-bouche	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=CCSbiuWvGnu80bGbGrj0Diay> .
+#anat:muscles-trsv-menton	anat:hasImage3D	<> .
+anat:muscles-risorius	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=PDW11HHz0v0HWHLP1X8nGXje> .
+anat:muscles-zygomatique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Xbiyy0buiuey1v0LD0eCe4zK> .
+anat:muscles-pt-zygomatique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=GL5zquDO9r8bLji41f1ruG1z> .
+anat:muscles-gd-zygomatique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=4PHfOD19jiuCnKnG9bu4Hnuy> .
+anat:muscles-elevatR-levre-sup	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=uGz4za8THXHTm0Pj41W5PPT5> .
+anat:muscles-abaissR-levre-inf	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=WbaayaeuueqCqeuKTfLPXray> .
+anat:muscles-elevatR-angle-bouche	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=G5LnemWTDCWrzSH1vy1TX9ze> .
+anat:muscles-buccinatR	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=XHnWXDXHjiqOnGL15TH9rq4f> .
+anat:muscles-mentonnier	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=bKnK9zvODuiqO9DGXTriOrmS> .
+anat:muscles-expressions-faciales	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Dm0XHzHL5Xz4jCWr4nSTzOnK> .
+anat:muscle-epicranien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=yy0nqmSXzOHPfu0PHrLnOPHj> .
+anat:muscle-occipito-frontal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Sn89vmGbWfaCL1j4fu5rSXvi> .
+anat:muscle-occipito-frontal-ventre-frontal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Tnaq4z4j4fKT9nWPPzyObqqi> .
+anat:muscle-occipito-frontal-ventre-occipital	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=DmemaqvWjqmGTvW5bKPn85fi> .
+anat:R-muscle-temporo-parietal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=maObK9GzGPXPr8Pnaiuyai0r> .
+anat:L-muscle-temporo-parietal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=85XnSLfuGPLbvqGbayDeymKT> .
+anat:aponevrose-epicranienne	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=DqGjC8ii89PzaODi8j5buSXz> .
+anat:muscles-auriculaires	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=DmS5rqOrqObqOXbGTXeuGnyi> .
+anat:R-muscles-auriculaires	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=ua8v0fuieK5Xi8THP9CO9Pn8> .
+anat:R-mscl-auriculR-ant	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=LnOrO9KLbKfy5LLjWr8fu8fe> .
+anat:R-mscl-auriculR-sup	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=q4ryWv0XHreSvOvuaSH5jOLT> .
+anat:R-mscl-auriculR-post	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=SDWrm80rSP1TuOXT1fWzeGXP> .
+anat:L-muscles-auriculaires	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=PTDyyaLryyWfm8z4neqmO9bO> .
+anat:L-mscl-auriculR-ant	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=G5v0ziiieC0fa0zW9XKbGLf0> .
+anat:L-mscl-auriculR-sup	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=qmaeauHfKDKTPnC0DqPb8jui> .
+anat:L-mscl-auriculR-post	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=uGLnCmv4vuim5vCqCyTDKjmu> .
+anat:muscles-face	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Wb8ryC9HniWzOf4fKD9X11zG> .
+anat:muscles-orbitaires	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=uSLTDSPnyyqSbqOXbWTHTbey> .
+anat:R-muscles-orbitaires	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=bCq8XrqmG5nWT5ve0vSXHTH1> .
+anat:R-mscl-orbiculaire-oeil	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=XHTz0L4veye8byGLvy19rGjq> .
+anat:R-mscl-orbiculaire-oeil-partie-palpebrale	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=biSf0HammKrajq4DObWTbGXH> .
+anat:R-mscl-orbiculaire-oeil-partie-orbitaire	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=XH5zCKu8nm4f8nGH9jmGrWL5> .
+#anat:R-mscl-orbiculaire-oeil-partie-lacrymale	anat:has3DmodelURL	<> .
+anat:R-mscl-corrugatR-sourcil	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=GTrm4vzuGnuy5jmqS5SzGrGP> .
+#anat:R-mscl-abaissR-sourcil	anat:has3DmodelURL	<> .
+anat:L-muscles-orbitaires	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=DmSvmufSvW9bqiyWLT4HjuGX> .
+anat:L-mscl-orbiculaire-oeil	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=aKXbaajySjSz095bqqXruiu4> .
+anat:L-mscl-orbiculaire-oeil-partie-palpebrale	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=05LTPzbG5vWX055rGb9LnmOv> .
+anat:L-mscl-orbiculaire-oeil-partie-orbitaire	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Tb0PPrGPD0rq9beOHr5veWr0> .
+#anat:L-mscl-orbiculaire-oeil-partie-lacrymale	anat:has3DmodelURL	<> .
+anat:L-mscl-corrugatR-sourcil	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=KXDu859Hziy4maqe0vSHDCi8> .
+#anat:L-mscl-abaissR-sourcil	anat:has3DmodelURL	<> .
+anat:muscles-nez	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=K1rqi40HL5LDaeSTXn85PvaW> .
+anat:R-muscles-nez	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=45ba0Ty455TjX5Di0n1PHPDS> .
+anat:R-mscl-procerus	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Gn49HjPrSbmuKHr0bC0bi8T1> .
+anat:R-mscl-nasal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=WfKHjeO11raGDeOvmSPfmCi0> .
+#anat:R-mscl-nasal-partie-trsv	anat:has3DmodelURL	<> .
+#anat:R-mscl-nasal-partie-alaire	anat:has3DmodelURL	<> .
+anat:R-mscl-abaissR-septum-nasal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=meaKXDHv8LTDO9Lj8HLzGL5P> .
+anat:R-mscl-elevatR-naso-labial	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=4TPf8LjSrmOrmC4XvKHj4v0D> .
+anat:L-muscles-nez	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=aGHX1nvS5515feyuiWjKT51j> .
+anat:L-mscl-procerus	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=vmi4fmPvyK5zeO999LP1PrO5> .
+anat:L-mscl-nasal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=1PDeeSPL1Tvy8Du0fK0191Pf> .
+#anat:L-mscl-nasal-partie-trsv	anat:has3DmodelURL	<> .
+#anat:L-mscl-nasal-partie-alaire	anat:has3DmodelURL	<> .
+anat:L-mscl-abaissR-septum-nasal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=45P9zyGvWfCSi8n0f41nmyyu> .
+anat:L-mscl-elevatR-naso-labial	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=jOjeKf1PTrO1CCmWzCyeuODi> .
+anat:muscles-bouche	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=K19Xv0jyS1b0iyyKP5GnuCOH> .
+anat:mscl-orbiculR-bouche	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=8j4rOT1jamyyXfqGviGfemeW> .
+anat:R-muscles-bouche	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=ru4DW19jK5XnfGrqeu4PbOne> .
+anat:R-mscl-abaissR-angle-bouche	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=DGbeqWKnmyiKeqm8vqaCyuO1> .
+#anat:R-mscl-trsv-menton	anat:has3DmodelURL	<> .
+anat:R-mscl-risorius	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=5TbqSf9PnGDCXPjOL18DKzm4> .
+anat:R-mscl-pt-zygomatique	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=STfSbGX9vCGLqeyyKnfmaWPz> .
+anat:R-mscl-gd-zygomatique	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=8jOPveH5bmueaiKDaSWfuyKf> .
+anat:R-mscl-elevatR-levre-sup	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=iuS9DuTPHXD0nWj0b4OXrSze> .
+anat:R-mscl-abaissR-levre-inf	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=OvO9z4iKHDWnCOz0vuDWLzuO> .
+anat:R-mscl-elevatR-angle-bouche	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=fiaiW58Tr8jeruWTrG8LT1X1> .
+anat:R-mscl-buccinatR	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=biqqqKiqCayCySDWbqWvOHPf> .
+anat:R-mscl-mentonnier	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=HnGnuyTPbeueXLzKL1PTDayK> .
+anat:L-muscles-bouche	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=jquCOrPDyS1Tja8DeefmeOX9> .
+anat:L-mscl-abaissR-angle-bouche	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=ySryS9mmWnSr1DSPzmLHLP1j> .
+#anat:L-mscl-trsv-menton	anat:has3DmodelURL	<> .
+anat:L-mscl-risorius	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=yuqGbyX5bGPfj0n8Pni4f49z> .
+anat:L-mscl-pt-zygomatique	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=naWbuyy4PTbGOfaimqCeOHvy> .
+anat:L-mscl-gd-zygomatique	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=iu0PfayK5Hjaam0bWDaaWHLL> .
+anat:L-mscl-elevatR-levre-sup	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=fuiKfyLrOPPXWfyK1rTTHP5v> .
+anat:L-mscl-abaissR-levre-inf	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Wz4D81zKbG59DuK1TbL9rGbm> .
+anat:L-mscl-elevatR-angle-bouche	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=WLfK5XPfGHDSH911bS8Dymye> .
+anat:L-mscl-buccinatR	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=mGr8PjqSHPT1H9bqWDmyeWjq> .
+anat:L-mscl-mentonnier	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=XXjGPHfuuieC81vK55n0zyqi> .
+anat:muscles-procerus	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=49bW91WbiyOTbOfeuWWT5fqG> .
+anat:muscles-nasal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=1Pf0HvaiSvKrnOnuq0LDmWDG> .
+anat:muscles-abaissR-septum-nasal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=zWHj45z8r8D0jKDW1b9bu8b4> .
+anat:muscles-elevatR-naso-labial	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=W9XvGTmuamaS111Pra0bKPPr> .
+anat:muscles-abaissR-angle-bouche	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=19TPXDKPHzymTLX1DS9jm09L> .
+#anat:muscles-trsv-menton	anat:has3DmodelURL	<> .
+anat:muscles-risorius	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=z0PfWfXfuKXjbqW5zKT5TraK> .
+anat:muscles-zygomatique	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=DSj8XDLnuK5jemyq4L5fmyme> .
+anat:muscles-pt-zygomatique	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=aCS5rijyCyaumKbq01y8Diqe> .
+anat:muscles-gd-zygomatique	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=ODG1zOaO19XvXf4vSDP5fGrG> .
+anat:muscles-elevatR-levre-sup	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=8fyCaC51TbOHW51faWC0DWXX> .
+anat:muscles-abaissR-levre-inf	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=uSjSTfjaiO1bPLfGTrmCuOj0> .
+anat:muscles-elevatR-angle-bouche	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=y41jiGSPzSnuTvaq4fOjGvi0> .
+anat:muscles-buccinatR	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=9X1nODnGvOfW5Di8H5XvC8LX> .
+anat:muscles-mentonnier	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=fObqObq0155LPzWDGDTfiiiK> .
+
+anat:muscles-expressions-faciales	rdfs:label	"Muscles des expressions faciales" .
+anat:muscle-epicranien	rdfs:label	"Muscle épicrânien" .
+anat:muscle-occipito-frontal	rdfs:label	"Muscle occipito-frontal" .
+anat:muscle-occipito-frontal-ventre-frontal	rdfs:label	"Ventre frontal du muscle occipito-frontal" .
+anat:muscle-occipito-frontal-ventre-occipital	rdfs:label	"Ventre occipital du muscle occipito-frontal" .
+anat:R-muscle-temporo-parietal	rdfs:label	"Muscle temporo-parietal droit" .
+anat:L-muscle-temporo-parietal	rdfs:label	"Muscle temporo-parietal gauche" .
+anat:aponevrose-epicranienne	rdfs:label	"Aponévrose épicrânienne" .
+anat:muscles-auriculaires	rdfs:label	"Muscles auriculaires" .
+anat:R-muscles-auriculaires	rdfs:label	"Muscles auriculaires droits" .
+anat:R-muscles-extrinseq-pavillon	rdfs:label	"Muscles extrinsèques du pavillon de l’oreille droite" .
+anat:R-mscl-auriculR-ant	rdfs:label	"Muscle auriculaire antérieur droit" .
+anat:R-mscl-auriculR-sup	rdfs:label	"Muscle auriculaire supérieur droit" .
+anat:R-mscl-auriculR-post	rdfs:label	"Muscle auriculaire postérieur droit" .
+anat:R-muscles-intrinseq-pavillon	rdfs:label	"Muscles intrinsèques du pavillon de l’oreille droite" .
+anat:R-muscle-epine-de-l-helix	rdfs:label	"Muscle de l’épine de l’hélix droit" .
+anat:R-muscle-pt-de-l-helix	rdfs:label	"Petit muscle de l’hélix droit" .
+anat:R-muscle-du-tragus	rdfs:label	"Muscle du tragus de l’oreille droite" .
+anat:R-muscle-de-l-anti-tragus	rdfs:label	"Muscle de l’anti-tragus de l’oreille droite" .
+anat:L-muscles-auriculaires	rdfs:label	"Muscles auriculaires gauches" .
+anat:L-muscles-extrinseq-pavillon	rdfs:label	"Muscles extrinsèques du pavillon de l’oreille gauche" .
+anat:L-mscl-auriculR-ant	rdfs:label	"Muscle auriculaire antérieur gauche" .
+anat:L-mscl-auriculR-sup	rdfs:label	"Muscle auriculaire supérieur gauche" .
+anat:L-mscl-auriculR-post	rdfs:label	"Muscle auriculaire postérieur gauche" .
+anat:L-muscles-intrinseq-pavillon	rdfs:label	"Muscles intrinsèques du pavillon de l’oreille gauche" .
+anat:L-muscle-epine-de-l-helix	rdfs:label	"Muscle de l’épine de l’hélix gauche" .
+anat:L-muscle-pt-de-l-helix	rdfs:label	"Petit muscle de l’hélix gauche" .
+anat:L-muscle-du-tragus	rdfs:label	"Muscle du tragus de l’oreille gauche" .
+anat:L-muscle-de-l-anti-tragus	rdfs:label	"Muscle de l’anti-tragus de l’oreille gauche" .
+anat:muscles-face	rdfs:label	"Muscles faciaux" .
+anat:muscles-orbitaires	rdfs:label	"Muscles orbitaires" .
+anat:R-muscles-orbitaires	rdfs:label	"Muscles orbitaires droits" .
+anat:R-mscl-orbiculaire-oeil	rdfs:label	"Muscle orbiculaire de l’œil droit" .
+anat:R-mscl-orbiculaire-oeil-partie-palpebrale	rdfs:label	"Partie palpébrale du muscle orbiculaire de l’œil droit" .
+anat:R-mscl-orbiculaire-oeil-partie-orbitaire	rdfs:label	"Partie orbitaire du muscle orbiculaire de l’œil droit" .
+anat:R-mscl-orbiculaire-oeil-partie-lacrymale	rdfs:label	"Partie lacrymale du muscle orbiculaire de l’œil droit" .
+anat:R-mscl-corrugatR-sourcil	rdfs:label	"Muscle corrugateur du sourcil droit" .
+anat:R-mscl-abaissR-sourcil	rdfs:label	"Muscle abaisseur du sourcil droit" .
+anat:L-muscles-orbitaires	rdfs:label	"Muscles orbitaires gauches" .
+anat:L-mscl-orbiculaire-oeil	rdfs:label	"Muscle orbiculaire de l’œil gauche" .
+anat:L-mscl-orbiculaire-oeil-partie-palpebrale	rdfs:label	"Partie palpébrale du muscle orbiculaire de l’œil gauche" .
+anat:L-mscl-orbiculaire-oeil-partie-orbitaire	rdfs:label	"Partie orbitaire du muscle orbiculaire de l’œil gauche" .
+anat:L-mscl-orbiculaire-oeil-partie-lacrymale	rdfs:label	"Partie lacrymale du muscle orbiculaire de l’œil gauche" .
+anat:L-mscl-corrugatR-sourcil	rdfs:label	"Muscle corrugateur du sourcil gauche" .
+anat:L-mscl-abaissR-sourcil	rdfs:label	"Muscle abaisseur du sourcil gauche" .
+anat:muscles-nez	rdfs:label	"Muscles du nez" .
+anat:R-mscl-procerus	rdfs:label	"Muscle procérus droit" .
+anat:R-mscl-nasal	rdfs:label	"Muscle nasal droit" .
+anat:R-mscl-nasal-partie-trsv	rdfs:label	"Partie transverse du muscle nasal droit" .
+anat:R-mscl-nasal-partie-alaire	rdfs:label	"Partie alaire du muscle nasal droit" .
+anat:R-mscl-abaissR-septum-nasal	rdfs:label	"Muscle abaisseur du septum nasal droit" .
+anat:R-mscl-elevatR-naso-labial	rdfs:label	"Muscle élévateur naso-labial droit" .
+anat:L-mscl-procerus	rdfs:label	"Muscle procérus gauche" .
+anat:L-mscl-nasal	rdfs:label	"Muscle nasal gauche" .
+anat:L-mscl-nasal-partie-trsv	rdfs:label	"Partie transverse du muscle nasal gauche" .
+anat:L-mscl-nasal-partie-alaire	rdfs:label	"Partie alaire du muscle nasal gauche" .
+anat:L-mscl-abaissR-septum-nasal	rdfs:label	"Muscle abaisseur du septum nasal gauche" .
+anat:L-mscl-elevatR-naso-labial	rdfs:label	"Muscle élévateur naso-labial gauche" .
+anat:muscles-bouche	rdfs:label	"Muscles de la bouche" .
+anat:mscl-orbiculR-bouche	rdfs:label	"Muscle orbiculaire de la bouche" .
+anat:R-muscles-bouche	rdfs:label	"Muscles de la bouche droits" .
+anat:R-mscl-abaissR-angle-bouche	rdfs:label	"Muscle abaisseur de l’angle droit de la bouche" .
+anat:R-mscl-trsv-menton	rdfs:label	"Muscle transverse du menton droit" .
+anat:R-mscl-risorius	rdfs:label	"Muscle risorius droit" .
+anat:R-mscl-pt-zygomatique	rdfs:label	"Muscle petit zygomatique droit" .
+anat:R-mscl-gd-zygomatique	rdfs:label	"Muscle grand zygomatique droit" .
+anat:R-mscl-elevatR-levre-sup	rdfs:label	"Muscle élévateur de la lèvre supérieure droit" .
+anat:R-mscl-abaissR-levre-inf	rdfs:label	"Muscle abaisseur de la lèvre inférieure droit" .
+anat:R-mscl-elevatR-angle-bouche	rdfs:label	"Muscle élévateur de l’angle droit de la bouche" .
+anat:R-mscl-buccinatR	rdfs:label	"Muscle buccinateur droit" .
+anat:R-mscl-mentonnier	rdfs:label	"Muscle mentonnier droit" .
+anat:L-muscles-bouche	rdfs:label	"Muscles de la bouche gauches" .
+anat:L-mscl-abaissR-angle-bouche	rdfs:label	"Muscle abaisseur de l’angle gauche de la bouche" .
+anat:L-mscl-trsv-menton	rdfs:label	"Muscle transverse du menton gauche" .
+anat:L-mscl-risorius	rdfs:label	"Muscle risorius gauche" .
+anat:L-mscl-pt-zygomatique	rdfs:label	"Muscle petit zygomatique gauche" .
+anat:L-mscl-gd-zygomatique	rdfs:label	"Muscle grand zygomatique gauche" .
+anat:L-mscl-elevatR-levre-sup	rdfs:label	"Muscle élévateur de la lèvre supérieure gauche" .
+anat:L-mscl-abaissR-levre-inf	rdfs:label	"Muscle abaisseur de la lèvre inférieure gauche" .
+anat:L-mscl-elevatR-angle-bouche	rdfs:label	"Muscle élévateur de l’angle gauche de la bouche" .
+anat:L-mscl-buccinatR	rdfs:label	"Muscle buccinateur gauche" .
+anat:L-mscl-mentonnier	rdfs:label	"Muscle mentonnier gauche" .
+anat:muscles-procerus	rdfs:label	"Muscles proceri" .
+anat:muscles-nasal	rdfs:label	"Muscles nasaux" .
+anat:muscles-abaissR-septum-nasal	rdfs:label	"Muscles abaisseurs du septum nasal" .
+anat:muscles-elevatR-naso-labial	rdfs:label	"Muscles élévateurs naso-labiaux" .
+anat:muscles-abaissR-angle-bouche	rdfs:label	"Muscles abaisseurs des angles de la bouche" .
+anat:muscles-trsv-menton	rdfs:label	"Muscles transverses du menton" .
+anat:muscles-risorius	rdfs:label	"Muscles risorius" .
+anat:muscles-zygomatique	rdfs:label	"Muscles zygomatiques" .
+anat:muscles-pt-zygomatique	rdfs:label	"Muscles petits zygomatiques" .
+anat:muscles-gd-zygomatique	rdfs:label	"Muscles grands zygomatiques" .
+anat:muscles-elevatR-levre-sup	rdfs:label	"Muscles élévateurs de la lèvre supérieure" .
+anat:muscles-abaissR-levre-inf	rdfs:label	"Muscles abaisseurs de la lèvre inférieure" .
+anat:muscles-elevatR-angle-bouche	rdfs:label	"Muscles élévateurs des angles de la bouche" .
+anat:muscles-buccinatR	rdfs:label	"Muscles buccinateurs" .
+anat:muscles-mentonnier	rdfs:label	"Muscles mentonniers" .
+
+anat:muscles-yeux	rdf:type	anat:groupe-musculaire .
+anat:muscles-peri-bulbe-yeux	rdf:type	anat:groupe-musculaire .
+anat:muscles-bulbe-yeux	rdf:type	anat:groupe-musculaire .
+anat:muscles-orbiculaire-oeil	rdf:type	anat:muscle .
+anat:muscles-elevatR-paupiere-sup	rdf:type	anat:muscle .
+anat:muscles-tarsal-sup-oeil	rdf:type	anat:muscle .
+anat:muscles-tarsal-inf-oeil	rdf:type	anat:muscle .
+anat:muscles-drt-sup-oeil	rdf:type	anat:muscle .
+anat:muscles-drt-inf-oeil	rdf:type	anat:muscle .
+anat:muscles-drt-med-oeil	rdf:type	anat:muscle .
+anat:muscles-drt-lat-oeil	rdf:type	anat:muscle .
+anat:muscles-obliq-sup-oeil	rdf:type	anat:muscle .
+anat:muscles-obliq-inf-oeil	rdf:type	anat:muscle .
+anat:R-mscl-elevatR-paupiere-sup	rdf:type	anat:muscle .
+anat:R-mscl-tarsal-sup-oeil	rdf:type	anat:muscle .
+anat:R-mscl-tarsal-inf-oeil	rdf:type	anat:muscle .
+anat:R-mscl-drt-sup-oeil	rdf:type	anat:muscle .
+anat:R-mscl-drt-inf-oeil	rdf:type	anat:muscle .
+anat:R-mscl-drt-med-oeil	rdf:type	anat:muscle .
+anat:R-mscl-drt-lat-oeil	rdf:type	anat:muscle .
+anat:R-mscl-obliq-sup-oeil	rdf:type	anat:muscle .
+anat:R-mscl-obliq-inf-oeil	rdf:type	anat:muscle .
+anat:L-mscl-elevatR-paupiere-sup	rdf:type	anat:muscle .
+anat:L-mscl-tarsal-sup-oeil	rdf:type	anat:muscle .
+anat:L-mscl-tarsal-inf-oeil	rdf:type	anat:muscle .
+anat:L-mscl-drt-sup-oeil	rdf:type	anat:muscle .
+anat:L-mscl-drt-inf-oeil	rdf:type	anat:muscle .
+anat:L-mscl-drt-med-oeil	rdf:type	anat:muscle .
+anat:L-mscl-drt-lat-oeil	rdf:type	anat:muscle .
+anat:L-mscl-obliq-sup-oeil	rdf:type	anat:muscle .
+anat:L-mscl-obliq-inf-oeil	rdf:type	anat:muscle .
+anat:R-anneau-Zinn	rdf:type	anat:tendon .
+anat:L-anneau-Zinn	rdf:type	anat:tendon .
+anat:R-trochlee-fb-carti-mscl-obliq-sup-oeil	rdf:type	anat:structure-fibreuse .
+anat:L-trochlee-fb-carti-mscl-obliq-sup-oeil	rdf:type	anat:structure-fibreuse .
+		
+anat:muscles-yeux	anat:comprend	anat:muscles-peri-bulbe-yeux .
+anat:muscles-yeux	anat:comprend	anat:muscles-bulbe-yeux .
+anat:muscles-peri-bulbe-yeux	anat:comprend	anat:muscles-orbiculaire-oeil .
+anat:muscles-peri-bulbe-yeux	anat:comprend	anat:muscles-elevatR-paupiere-sup .
+anat:muscles-peri-bulbe-yeux	anat:comprend	anat:muscles-tarsal-sup-oeil .
+anat:muscles-peri-bulbe-yeux	anat:comprend	anat:muscles-tarsal-inf-oeil .
+anat:muscles-bulbe-yeux	anat:comprend	anat:muscles-drt-sup-oeil .
+anat:muscles-bulbe-yeux	anat:comprend	anat:muscles-drt-inf-oeil .
+anat:muscles-bulbe-yeux	anat:comprend	anat:muscles-drt-med-oeil .
+anat:muscles-bulbe-yeux	anat:comprend	anat:muscles-drt-lat-oeil .
+anat:muscles-bulbe-yeux	anat:comprend	anat:muscles-obliq-sup-oeil .
+anat:muscles-bulbe-yeux	anat:comprend	anat:muscles-obliq-inf-oeil .
+anat:muscles-orbiculaire-oeil	anat:comprend	anat:R-mscl-orbiculaire-oeil .
+anat:muscles-orbiculaire-oeil	anat:comprend	anat:L-mscl-orbiculaire-oeil .
+anat:muscles-elevatR-paupiere-sup	anat:comprend	anat:R-mscl-elevatR-paupiere-sup .
+anat:muscles-elevatR-paupiere-sup	anat:comprend	anat:L-mscl-elevatR-paupiere-sup .
+anat:muscles-tarsal-sup-oeil	anat:comprend	anat:R-mscl-tarsal-sup-oeil .
+anat:muscles-tarsal-sup-oeil	anat:comprend	anat:L-mscl-tarsal-sup-oeil .
+anat:muscles-tarsal-inf-oeil	anat:comprend	anat:R-mscl-tarsal-inf-oeil .
+anat:muscles-tarsal-inf-oeil	anat:comprend	anat:L-mscl-tarsal-inf-oeil .
+anat:muscles-drt-sup-oeil	anat:comprend	anat:R-mscl-drt-sup-oeil .
+anat:muscles-drt-sup-oeil	anat:comprend	anat:L-mscl-drt-sup-oeil .
+anat:muscles-drt-inf-oeil	anat:comprend	anat:R-mscl-drt-inf-oeil .
+anat:muscles-drt-inf-oeil	anat:comprend	anat:L-mscl-drt-inf-oeil .
+anat:muscles-drt-med-oeil	anat:comprend	anat:R-mscl-drt-med-oeil .
+anat:muscles-drt-med-oeil	anat:comprend	anat:L-mscl-drt-med-oeil .
+anat:muscles-drt-lat-oeil	anat:comprend	anat:R-mscl-drt-lat-oeil .
+anat:muscles-drt-lat-oeil	anat:comprend	anat:L-mscl-drt-lat-oeil .
+anat:muscles-obliq-sup-oeil	anat:comprend	anat:R-mscl-obliq-sup-oeil .
+anat:muscles-obliq-sup-oeil	anat:comprend	anat:L-mscl-obliq-sup-oeil .
+anat:muscles-obliq-inf-oeil	anat:comprend	anat:R-mscl-obliq-inf-oeil .
+anat:muscles-obliq-inf-oeil	anat:comprend	anat:L-mscl-obliq-inf-oeil .
+		
+anat:R-mscl-elevatR-paupiere-sup	anat:origi-insere-sur	anat:sphenoide .
+anat:R-mscl-elevatR-paupiere-sup	anat:termi-insere-sur	anat:R-peau-paupiere-sup .
+anat:R-mscl-elevatR-paupiere-sup	anat:termi-insere-sur	anat:R-tarse-sup-oeil .
+anat:R-mscl-elevatR-paupiere-sup	anat:termi-insere-sur	anat:R-fornix-sup-oeil .
+anat:R-mscl-elevatR-paupiere-sup	anat:termi-insere-sur	anat:R-conjonctive-oeil .
+anat:R-mscl-elevatR-paupiere-sup	anat:termi-insere-sur	anat:R-orbite-oeil .
+anat:R-mscl-tarsal-sup-oeil	anat:origi-insere-sur	anat:R-mscl-elevatR-paupiere-sup .
+anat:R-mscl-tarsal-sup-oeil	anat:termi-insere-sur	anat:R-fornix-sup-oeil .
+anat:R-mscl-tarsal-inf-oeil	anat:origi-insere-sur	anat:R-mscl-drt-inf-oeil .
+anat:R-mscl-tarsal-inf-oeil	anat:termi-insere-sur	anat:R-fornix-inf-oeil .
+anat:R-anneau-Zinn	anat:s-insere-sur	anat:sphenoide .
+anat:R-mscl-drt-sup-oeil	anat:origi-insere-sur	anat:R-anneau-Zinn .
+anat:R-mscl-drt-sup-oeil	anat:termi-insere-sur	anat:R-bulbe-oeil .
+anat:R-mscl-drt-inf-oeil	anat:origi-insere-sur	anat:R-anneau-Zinn .
+anat:R-mscl-drt-inf-oeil	anat:termi-insere-sur	anat:R-bulbe-oeil .
+anat:R-mscl-drt-med-oeil	anat:origi-insere-sur	anat:R-anneau-Zinn .
+anat:R-mscl-drt-med-oeil	anat:termi-insere-sur	anat:R-bulbe-oeil .
+anat:R-mscl-drt-lat-oeil	anat:origi-insere-sur	anat:R-anneau-Zinn .
+anat:R-mscl-drt-lat-oeil	anat:termi-insere-sur	anat:R-bulbe-oeil .
+anat:R-mscl-obliq-sup-oeil	anat:origi-insere-sur	anat:sphenoide .
+anat:R-mscl-obliq-sup-oeil	anat:coulisse-dans	anat:R-trochlee-fb-carti-mscl-obliq-sup-oeil .
+anat:R-mscl-obliq-sup-oeil	anat:termi-insere-sur	anat:R-bulbe-oeil .
+anat:R-mscl-obliq-inf-oeil	anat:origi-insere-sur	anat:R-maxilaire .
+anat:R-mscl-obliq-inf-oeil	anat:termi-insere-sur	anat:R-bulbe-oeil .
+anat:R-trochlee-fb-carti-mscl-obliq-sup-oeil	anat:s-insere-sur	anat:frontal .
+anat:L-mscl-elevatR-paupiere-sup	anat:origi-insere-sur	anat:sphenoide .
+anat:L-mscl-elevatR-paupiere-sup	anat:termi-insere-sur	anat:L-peau-paupiere-sup .
+anat:L-mscl-elevatR-paupiere-sup	anat:termi-insere-sur	anat:L-tarse-sup-oeil .
+anat:L-mscl-elevatR-paupiere-sup	anat:termi-insere-sur	anat:L-fornix-sup-oeil .
+anat:L-mscl-elevatR-paupiere-sup	anat:termi-insere-sur	anat:L-conjonctive-oeil .
+anat:L-mscl-elevatR-paupiere-sup	anat:termi-insere-sur	anat:L-orbite-oeil .
+anat:L-mscl-tarsal-sup-oeil	anat:origi-insere-sur	anat:L-mscl-elevatR-paupiere-sup .
+anat:L-mscl-tarsal-sup-oeil	anat:termi-insere-sur	anat:L-fornix-sup-oeil .
+anat:L-mscl-tarsal-inf-oeil	anat:origi-insere-sur	anat:L-mscl-drt-inf-oeil .
+anat:L-mscl-tarsal-inf-oeil	anat:termi-insere-sur	anat:L-fornix-inf-oeil .
+anat:L-anneau-Zinn	anat:s-insere-sur	anat:sphenoide .
+anat:L-mscl-drt-sup-oeil	anat:origi-insere-sur	anat:L-anneau-Zinn .
+anat:L-mscl-drt-sup-oeil	anat:termi-insere-sur	anat:L-bulbe-oeil .
+anat:L-mscl-drt-inf-oeil	anat:origi-insere-sur	anat:L-anneau-Zinn .
+anat:L-mscl-drt-inf-oeil	anat:termi-insere-sur	anat:L-bulbe-oeil .
+anat:L-mscl-drt-med-oeil	anat:origi-insere-sur	anat:L-anneau-Zinn .
+anat:L-mscl-drt-med-oeil	anat:termi-insere-sur	anat:L-bulbe-oeil .
+anat:L-mscl-drt-lat-oeil	anat:origi-insere-sur	anat:L-anneau-Zinn .
+anat:L-mscl-drt-lat-oeil	anat:termi-insere-sur	anat:L-bulbe-oeil .
+anat:L-mscl-obliq-sup-oeil	anat:origi-insere-sur	anat:sphenoide .
+anat:L-mscl-obliq-sup-oeil	anat:coulisse-dans	anat:L-trochlee-fb-carti-mscl-obliq-sup-oeil .
+anat:L-mscl-obliq-sup-oeil	anat:termi-insere-sur	anat:L-bulbe-oeil .
+anat:L-mscl-obliq-inf-oeil	anat:origi-insere-sur	anat:L-maxilaire .
+anat:L-mscl-obliq-inf-oeil	anat:termi-insere-sur	anat:L-bulbe-oeil .
+anat:L-trochlee-fb-carti-mscl-obliq-sup-oeil	anat:s-insere-sur	anat:frontal .
+		
+anat:muscles-yeux	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ze0D8z5ziyuKfOXHP9TzOnmS> .
+#anat:muscles-peri-bulbe-yeux	anat:hasImage3D	<> .
+anat:muscles-bulbe-yeux	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=TL5rmyT5zWjmCWfG9H15bSHX> .
+anat:muscles-orbiculaire-oeil	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=zC8j4jimuOvqruqKnmCWjWXD> .
+anat:muscles-elevatR-paupiere-sup	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=mqqWz4ym4z89T9HbuyTDmqye> .
+#anat:muscles-tarsal-sup-oeil	anat:hasImage3D	<> .
+#anat:muscles-tarsal-inf-oeil	anat:hasImage3D	<> .
+anat:muscles-drt-sup-oeil	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ni4XzCL5jiiibi4LDSKLPXvS> .
+anat:muscles-drt-inf-oeil	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=DKzKLHnaeiSnfSva0z5vOb4j> .
+anat:muscles-drt-med-oeil	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=GjuyWvXDS5DOiyOTPbruy0ne> .
+anat:muscles-drt-lat-oeil	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Tj4fGrGDCy8fimueCa4bWTLb> .
+anat:muscles-obliq-sup-oeil	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=eqy0n0DeSTD85bCCuCXrCu8T> .
+anat:muscles-obliq-inf-oeil	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=9rO1LvPf8bmiCu4rm8OTTTfq> .
+anat:R-mscl-elevatR-paupiere-sup	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=zaGv8rKTTXjm4reeCCyOzaOf> .
+#anat:R-mscl-tarsal-sup-oeil	anat:hasImage3D	<> .
+#anat:R-mscl-tarsal-inf-oeil	anat:hasImage3D	<> .
+anat:R-mscl-drt-sup-oeil	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=T1jqyK0XDu0TeOf0DCXHHDmy> .
+anat:R-mscl-drt-inf-oeil	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=8LzmKz8LLLX9aiSX5DTnWHPn> .
+anat:R-mscl-drt-med-oeil	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=9reKDCiaOTv4ju4fiiHjSXrO> .
+anat:R-mscl-drt-lat-oeil	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=GzCGTPLDuqOz0T15P5Du41HL> .
+anat:R-mscl-obliq-sup-oeil	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=uqGje0SjWjKzjSXHjq8zqqii> .
+anat:R-mscl-obliq-inf-oeil	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=TPHbeS9DieeeX99H1HjaS111> .
+anat:L-mscl-elevatR-paupiere-sup	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=a8THv4yy0XvWeODS5zPfiuqS> .
+#anat:L-mscl-tarsal-sup-oeil	anat:hasImage3D	<> .
+#anat:L-mscl-tarsal-inf-oeil	anat:hasImage3D	<> .
+anat:L-mscl-drt-sup-oeil	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=m8HbG585j01v459fme81Dy0H> .
+anat:L-mscl-drt-inf-oeil	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=mKHbyWyuCW55n899nmDKPTvC> .
+anat:L-mscl-drt-med-oeil	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=nmK5LbzOHjCe9T9fa0XjuCOT> .
+anat:L-mscl-drt-lat-oeil	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=z4rG9bOze4j8rCOn45LbOjWT> .
+anat:L-mscl-obliq-sup-oeil	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=OvC4v0859TXLHbiKz8nK95D4> .
+anat:L-mscl-obliq-inf-oeil	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=0Xra8PK1LruyimGzKrnCG5vi> .
+anat:R-anneau-Zinn	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=yayCaGaWbyODzimyie1HbODW> .
+anat:L-anneau-Zinn	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=8zeCmqz4P9bi4nCm0bei0z0H> .
+anat:R-trochlee-fb-carti-mscl-obliq-sup-oeil	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=8rqCaaDSbmaSba4P1jCieyqO> .
+anat:L-trochlee-fb-carti-mscl-obliq-sup-oeil	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=eGbWT5Gj0fCKL5niKnG5TTPz> .
+anat:muscles-yeux	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=jiS5XXfaGXTHjiqWHrO1zCm8> .
+#anat:muscles-peri-bulbe-yeux	anat:has3DmodelURL	<> .
+anat:muscles-bulbe-yeux	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=P91rK159baKfCiyO1jbqSD0X> .
+anat:muscles-orbiculaire-oeil	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=quKD0vPP5j4L4D4jKn8bySfi> .
+anat:muscles-elevatR-paupiere-sup	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=GPnq0z4Ljq0LaSzC0vX1juCu> .
+#anat:muscles-tarsal-sup-oeil	anat:has3DmodelURL	<> .
+#anat:muscles-tarsal-inf-oeil	anat:has3DmodelURL	<> .
+anat:muscles-drt-sup-oeil	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=bSPbOHmaea4vaiuu0zXvqqWL> .
+anat:muscles-drt-inf-oeil	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=O9zmq8TrWT5DTHbqueLL9TTH> .
+anat:muscles-drt-med-oeil	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=TfG9bu1X1fKTn8DmeWnqauu0> .
+anat:muscles-drt-lat-oeil	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=4XP9Diq45viuy4baWXfmaOT5> .
+anat:muscles-obliq-sup-oeil	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=vym4j8OniaCaD8PPvmOb4vGz> .
+anat:muscles-obliq-inf-oeil	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=LHLvm8CCKDeCy8zK9Tf09XbC> .
+anat:R-mscl-elevatR-paupiere-sup	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=zWH191KvyGzunSTXTT0fmGzq> .
+#anat:R-mscl-tarsal-sup-oeil	anat:has3DmodelURL	<> .
+#anat:R-mscl-tarsal-inf-oeil	anat:has3DmodelURL	<> .
+anat:R-mscl-drt-sup-oeil	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=GbGLX5qGDu8Pb0nK9njOfiOf> .
+anat:R-mscl-drt-inf-oeil	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Kfem0jqWLPT5nWPnCayuWvWj> .
+anat:R-mscl-drt-med-oeil	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=99XHjCDOnGziz8vWDKKTv4vq> .
+anat:R-mscl-drt-lat-oeil	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=b8L9Ljb4zGP9iO9LHvfSTfSj> .
+anat:R-mscl-obliq-sup-oeil	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=1DKXfOWTfKLbyumSjCT9jKzu> .
+anat:R-mscl-obliq-inf-oeil	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=ieWja8CGL99rPfaa4jn4TT1P> .
+anat:L-mscl-elevatR-paupiere-sup	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=qGXPfOj811Lj4X5DSna8fyyu> .
+#anat:L-mscl-tarsal-sup-oeil	anat:has3DmodelURL	<> .
+#anat:L-mscl-tarsal-inf-oeil	anat:has3DmodelURL	<> .
+anat:L-mscl-drt-sup-oeil	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Dy0L1LCyqSvSOLDmGXnmyuq4> .
+anat:L-mscl-drt-inf-oeil	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=4vWDmm8DmeqmXLXTvGb4HfOb> .
+anat:L-mscl-drt-med-oeil	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=HvWTPPGPnKbCriyC8rPTnKLf> .
+anat:L-mscl-drt-lat-oeil	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=miaKjCmi8D8P1fmCmKHzyeCe> .
+anat:L-mscl-obliq-sup-oeil	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=9Xruye9Hv4DuTrO9zS51L9rq> .
+anat:L-mscl-obliq-inf-oeil	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=baK1D0ayqK9vTjGbCezeia81> .
+anat:R-anneau-Zinn	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=0rOjqWT9XryeCO99TjPL99rG> .
+anat:L-anneau-Zinn	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=e0vmSXjOrCGby4v4HnLLLD0v> .
+anat:R-trochlee-fb-carti-mscl-obliq-sup-oeil	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=TTbODqeSLr0LfGXTH5HrS9PP> .
+anat:L-trochlee-fb-carti-mscl-obliq-sup-oeil	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Sf4HXjeKbyye91T5f4nGzy81> .
+
+anat:muscles-yeux	rdfs:label	"Muscles des yeux" .
+anat:muscles-peri-bulbe-yeux	rdfs:label	"Muscles périphériques du bulbe des yeux" .
+anat:muscles-bulbe-yeux	rdfs:label	"Muscles du bulbe des yeux" .
+anat:muscles-orbiculaire-oeil	rdfs:label	"Muscles orbiculaires des yeux" .
+anat:muscles-elevatR-paupiere-sup	rdfs:label	"Muscles élévateurs des paupières supérieures" .
+anat:muscles-tarsal-sup-oeil	rdfs:label	"Muscles tarsaux supérieurs des yeux" .
+anat:muscles-tarsal-inf-oeil	rdfs:label	"Muscles tarsaux inférieurs des yeux" .
+anat:muscles-drt-sup-oeil	rdfs:label	"Muscles droits supérieurs des yeux" .
+anat:muscles-drt-inf-oeil	rdfs:label	"Muscles droits inférieurs des yeux" .
+anat:muscles-drt-med-oeil	rdfs:label	"Muscles droits médiaux des yeux" .
+anat:muscles-drt-lat-oeil	rdfs:label	"Muscles droits latéraux des yeux" .
+anat:muscles-obliq-sup-oeil	rdfs:label	"Muscles obliques supérieurs des yeux" .
+anat:muscles-obliq-inf-oeil	rdfs:label	"Muscles obliques inférieurs des yeux" .
+anat:R-mscl-elevatR-paupiere-sup	rdfs:label	"Muscle élévateur de la paupière supérieure droite" .
+#anat:R-aponevrose-elevatR-paupiere	rdfs:label	"" .
+#anat:R-aponevrose-elevatR-paupiere-lame-sup	rdfs:label	"" .
+#anat:R-aponevrose-elevatR-paupiere-lame-pfde	rdfs:label	"" .
+#anat:R-aponevrose-elevatR-paupiere-lame-lat	rdfs:label	"" .
+#anat:R-aponevrose-elevatR-paupiere-lame-med	rdfs:label	"" .
+anat:R-mscl-tarsal-sup-oeil	rdfs:label	"Muscle tarsal supérieur de l’œil droit" .
+anat:R-mscl-tarsal-inf-oeil	rdfs:label	"Muscle tarsal inférieur de l’œil droit" .
+anat:R-mscl-drt-sup-oeil	rdfs:label	"Muscle droit supérieur de l’œil droit" .
+anat:R-mscl-drt-inf-oeil	rdfs:label	"Muscle droit inférieur de l’œil droit" .
+anat:R-mscl-drt-med-oeil	rdfs:label	"Muscle droit médial de l’œil droit" .
+anat:R-mscl-drt-lat-oeil	rdfs:label	"Muscle droit latéral de l’œil droit" .
+anat:R-mscl-obliq-sup-oeil	rdfs:label	"Muscle oblique supérieur de l’œil droit" .
+anat:R-mscl-obliq-inf-oeil	rdfs:label	"Muscle oblique inférieur de l’œil droit" .
+anat:L-mscl-elevatR-paupiere-sup	rdfs:label	"Muscle élévateur de la paupière supérieure gauche" .
+#anat:L-aponevrose-elevatR-paupiere	rdfs:label	"" .
+#anat:L-aponevrose-elevatR-paupiere-lame-sup	rdfs:label	"" .
+#anat:L-aponevrose-elevatR-paupiere-lame-pfde	rdfs:label	"" .
+#anat:L-aponevrose-elevatR-paupiere-lame-lat	rdfs:label	"" .
+#anat:L-aponevrose-elevatR-paupiere-lame-med	rdfs:label	"" .
+anat:L-mscl-tarsal-sup-oeil	rdfs:label	"Muscle tarsal supérieur de l’œil gauche" .
+anat:L-mscl-tarsal-inf-oeil	rdfs:label	"Muscle tarsal inférieur de l’œil gauche" .
+anat:L-mscl-drt-sup-oeil	rdfs:label	"Muscle droit supérieur de l’œil gauche" .
+anat:L-mscl-drt-inf-oeil	rdfs:label	"Muscle droit inférieur de l’œil gauche" .
+anat:L-mscl-drt-med-oeil	rdfs:label	"Muscle droit médial de l’œil gauche" .
+anat:L-mscl-drt-lat-oeil	rdfs:label	"Muscle droit latéral de l’œil gauche" .
+anat:L-mscl-obliq-sup-oeil	rdfs:label	"Muscle oblique supérieur de l’œil gauche" .
+anat:L-mscl-obliq-inf-oeil	rdfs:label	"Muscle oblique inférieur de l’œil gauche" .
+anat:R-anneau-Zinn	rdfs:label	"Tendon (anneau) de Zinn droit" .
+anat:L-anneau-Zinn	rdfs:label	"Tendon (anneau) de Zinn gauche" .
+anat:R-trochlee-fb-carti-mscl-obliq-sup-oeil	rdfs:label	"Trochlee fibro-cartilagineuse du muscle oblique supérieur de l’œil droit" .
+anat:L-trochlee-fb-carti-mscl-obliq-sup-oeil	rdfs:label	"Trochlee fibro-cartilagineuse du muscle oblique supérieur de l’œil gauche" .
+
+anat:muscles-langue	rdf:type	anat:groupe-musculaire .
+anat:langue	rdf:type	anat:muscle-visceral-volontaire .
+anat:muscles-extrinseques-langue	rdf:type	anat:groupe-musculaire .
+anat:muscles-intrinseques-langue	rdf:type	anat:groupe-musculaire .
+anat:muscles-genioglosse	rdf:type	anat:muscle .
+anat:muscles-hyoglosse	rdf:type	anat:muscle .
+anat:muscles-chondroglosse	rdf:type	anat:muscle .
+anat:muscles-stiloglosse	rdf:type	anat:muscle .
+anat:muscles-lgtudinal-sup-langue	rdf:type	anat:muscle .
+anat:muscles-lgtudinal-inf-langue	rdf:type	anat:muscle .
+anat:muscles-trsv-langue	rdf:type	anat:muscle .
+anat:muscles-verti-langue	rdf:type	anat:muscle .
+anat:R-mscl-genioglosse	rdf:type	anat:muscle .
+anat:R-mscl-hyoglosse	rdf:type	anat:muscle .
+anat:R-mscl-chondroglosse	rdf:type	anat:muscle .
+anat:R-mscl-stiloglosse	rdf:type	anat:muscle .
+anat:R-mscl-lgtudinal-sup-langue	rdf:type	anat:muscle .
+anat:R-mscl-lgtudinal-inf-langue	rdf:type	anat:muscle .
+anat:R-mscl-trsv-langue	rdf:type	anat:muscle .
+anat:R-mscl-verti-langue	rdf:type	anat:muscle .
+anat:L-mscl-genioglosse	rdf:type	anat:muscle .
+anat:L-mscl-hyoglosse	rdf:type	anat:muscle .
+anat:L-mscl-chondroglosse	rdf:type	anat:muscle .
+anat:L-mscl-stiloglosse	rdf:type	anat:muscle .
+anat:L-mscl-lgtudinal-sup-langue	rdf:type	anat:muscle .
+anat:L-mscl-lgtudinal-inf-langue	rdf:type	anat:muscle .
+anat:L-mscl-trsv-langue	rdf:type	anat:muscle .
+anat:L-mscl-verti-langue	rdf:type	anat:muscle .
+		
+anat:muscles-langue	anat:comprend	anat:langue .
+anat:muscles-langue	anat:comprend	anat:muscles-extrinseques-langue .
+anat:muscles-langue	anat:comprend	anat:muscles-intrinseques-langue .
+anat:langue	anat:comprend	anat:muscles-intrinseques-langue .
+anat:muscles-extrinseques-langue	anat:comprend	anat:muscles-genioglosse .
+anat:muscles-extrinseques-langue	anat:comprend	anat:muscles-hyoglosse .
+anat:muscles-extrinseques-langue	anat:comprend	anat:muscles-chondroglosse .
+anat:muscles-extrinseques-langue	anat:comprend	anat:muscles-stiloglosse .
+anat:muscles-extrinseques-langue	anat:comprend	anat:arc-palatoglosse .
+anat:muscles-intrinseques-langue	anat:comprend	anat:muscles-lgtudinal-sup-langue .
+anat:muscles-intrinseques-langue	anat:comprend	anat:muscles-lgtudinal-inf-langue .
+anat:muscles-intrinseques-langue	anat:comprend	anat:muscles-trsv-langue .
+anat:muscles-intrinseques-langue	anat:comprend	anat:muscles-verti-langue .
+anat:muscles-genioglosse	anat:comprend	anat:R-mscl-genioglosse .
+anat:muscles-genioglosse	anat:comprend	anat:L-mscl-genioglosse .
+anat:muscles-hyoglosse	anat:comprend	anat:R-mscl-hyoglosse .
+anat:muscles-hyoglosse	anat:comprend	anat:L-mscl-hyoglosse .
+anat:muscles-chondroglosse	anat:comprend	anat:R-mscl-chondroglosse .
+anat:muscles-chondroglosse	anat:comprend	anat:L-mscl-chondroglosse .
+anat:muscles-stiloglosse	anat:comprend	anat:R-mscl-stiloglosse .
+anat:muscles-stiloglosse	anat:comprend	anat:L-mscl-stiloglosse .
+anat:muscles-lgtudinal-sup-langue	anat:comprend	anat:R-mscl-lgtudinal-sup-langue .
+anat:muscles-lgtudinal-sup-langue	anat:comprend	anat:L-mscl-lgtudinal-sup-langue .
+anat:muscles-lgtudinal-inf-langue	anat:comprend	anat:R-mscl-lgtudinal-inf-langue .
+anat:muscles-lgtudinal-inf-langue	anat:comprend	anat:L-mscl-lgtudinal-inf-langue .
+anat:muscles-trsv-langue	anat:comprend	anat:R-mscl-trsv-langue .
+anat:muscles-trsv-langue	anat:comprend	anat:L-mscl-trsv-langue .
+anat:muscles-verti-langue	anat:comprend	anat:R-mscl-verti-langue .
+anat:muscles-verti-langue	anat:comprend	anat:L-mscl-verti-langue .
+		
+anat:R-mscl-genioglosse	anat:origi-insere-sur	anat:mandibule .
+anat:R-mscl-genioglosse	anat:termi-insere-sur	anat:langue .
+anat:R-mscl-genioglosse	anat:termi-insere-sur	anat:membrane-hyoglossienne .
+anat:R-mscl-hyoglosse	anat:origi-insere-sur	anat:os-hyoide .
+anat:R-mscl-hyoglosse	anat:termi-insere-sur	anat:langue .
+anat:R-mscl-chondroglosse	anat:origi-insere-sur	anat:os-hyoide .
+anat:R-mscl-chondroglosse	anat:termi-insere-sur	anat:langue .
+anat:R-mscl-chondroglosse	anat:termi-insere-sur	anat:R-mscl-genioglosse .
+anat:R-mscl-stiloglosse	anat:origi-insere-sur	anat:R-temporal .
+anat:R-mscl-stiloglosse	anat:origi-insere-sur	anat:R-lgmt-stilomandibulaire  .
+anat:R-mscl-stiloglosse	anat:termi-insere-sur	anat:langue .
+anat:R-mscl-lgtudinal-sup-langue	anat:origi-insere-sur	anat:os-hyoide .
+anat:R-mscl-lgtudinal-sup-langue	anat:termi-insere-sur	anat:muqueuse-apex-langue .
+anat:R-mscl-lgtudinal-inf-langue	anat:origi-insere-sur	anat:os-hyoide .
+anat:R-mscl-lgtudinal-inf-langue	anat:termi-insere-sur	anat:muqueuse-apex-langue .
+anat:R-mscl-trsv-langue	anat:origi-insere-sur	anat:septum-lingual .
+anat:R-mscl-trsv-langue	anat:termi-insere-sur	anat:R-muqueuse-bord-langue .
+anat:L-mscl-genioglosse	anat:origi-insere-sur	anat:mandibule .
+anat:L-mscl-genioglosse	anat:termi-insere-sur	anat:langue .
+anat:L-mscl-genioglosse	anat:termi-insere-sur	anat:membrane-hyoglossienne .
+anat:L-mscl-hyoglosse	anat:origi-insere-sur	anat:os-hyoide .
+anat:L-mscl-hyoglosse	anat:termi-insere-sur	anat:langue .
+anat:L-mscl-chondroglosse	anat:origi-insere-sur	anat:os-hyoide .
+anat:L-mscl-chondroglosse	anat:termi-insere-sur	anat:langue .
+anat:L-mscl-chondroglosse	anat:termi-insere-sur	anat:L-mscl-genioglosse .
+anat:L-mscl-stiloglosse	anat:origi-insere-sur	anat:L-temporal .
+anat:L-mscl-stiloglosse	anat:origi-insere-sur	anat:L-lgmt-stilomandibulaire  .
+anat:L-mscl-stiloglosse	anat:termi-insere-sur	anat:langue .
+anat:L-mscl-lgtudinal-sup-langue	anat:origi-insere-sur	anat:os-hyoide .
+anat:L-mscl-lgtudinal-sup-langue	anat:termi-insere-sur	anat:muqueuse-apex-langue .
+anat:L-mscl-lgtudinal-inf-langue	anat:origi-insere-sur	anat:os-hyoide .
+anat:L-mscl-lgtudinal-inf-langue	anat:termi-insere-sur	anat:muqueuse-apex-langue .
+anat:L-mscl-trsv-langue	anat:origi-insere-sur	anat:septum-lingual .
+anat:L-mscl-trsv-langue	anat:termi-insere-sur	anat:L-muqueuse-bord-langue .
+		
+anat:muscles-langue	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=beKXLDL9fKPrrKb4vieCa0jK> .
+anat:langue	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=C8Da455fqqSD8Xvu4XfWr0rS> .
+anat:muscles-extrinseques-langue	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=P9DKbejee8jCKrq85fueSHT5> .
+anat:muscles-intrinseques-langue	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=uumOXbCeSraSq0HPvmX515HT> .
+anat:muscles-genioglosse	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ry89b81vOrmmyuGjyOuqSz8n> .
+anat:muscles-hyoglosse	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=n0femWqyeueq8HDuu48jGDWf> .
+#anat:muscles-chondroglosse	anat:hasImage3D	<> .
+anat:muscles-stiloglosse	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=rWbCyCa8zimSC8X1nGObS5D0> .
+anat:muscles-lgtudinal-sup-langue	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=W9LTjGOv8X1D0jOPLfeiaqCS> .
+anat:muscles-lgtudinal-inf-langue	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=05XD4fbKPj4Lyi0LXbuy89Hb> .
+anat:muscles-trsv-langue	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=CiKn0Tny8bWfvuCCiuLn8T55> .
+anat:muscles-verti-langue	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=mOny85Daaa8X8rmOHr4LTHXn> .
+anat:R-mscl-genioglosse	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=zeuKH9ym8b8bai0vWrPL9LPL> .
+anat:R-mscl-hyoglosse	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=bequ4TTXPf4bL5DqCaWHTL1X> .
+#anat:R-mscl-chondroglosse	anat:hasImage3D	<> .
+anat:R-mscl-stiloglosse	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=1Xvqiuee4DC8bi0D0f4Hr8nK> .
+anat:R-mscl-lgtudinal-sup-langue	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=SrmCyWSzmOf8uiuaauGf0bGT> .
+anat:R-mscl-lgtudinal-inf-langue	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=TDKjeeqa81bG9XfaOf9v4jSL> .
+anat:R-mscl-trsv-langue	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=yGnCSbf0jiuWDe8b0PbyiG9z> .
+anat:R-mscl-verti-langue	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=PX9rWzCWfSri4Hr899euaKz8> .
+anat:L-mscl-genioglosse	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ym4TbKqeW5DiGzC0biLLT5HD> .
+anat:L-mscl-hyoglosse	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=01bOnGGjaqayXD8LXjuuSz4n> .
+#anat:L-mscl-chondroglosse	anat:hasImage3D	<> .
+anat:L-mscl-stiloglosse	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=bmSbGL4fmG5HDuaSreTnGDOT> .
+anat:L-mscl-lgtudinal-sup-langue	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=KzeumuriiSPjOL1zyqCq8Xba> .
+anat:L-mscl-lgtudinal-inf-langue	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=95PHzW1ve05zGP9faObyGzGT> .
+anat:L-mscl-trsv-langue	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=99XLPrm01fS5aemi85HT1PnO> .
+anat:L-mscl-verti-langue	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Hz89XTueyCqGTfyqGvWrW9zy> .
+anat:muscles-langue	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=LDmm49yKfKj4WPbS911TPTn8> .
+anat:langue	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=aymme0P5f0veDamWHL5v01ny> .
+anat:muscles-extrinseques-langue	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=eOTfqav8b8PreO1j814XjyOb> .
+anat:muscles-intrinseques-langue	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=WLbuam8XfW9jmeaCWrbGL1jy> .
+anat:muscles-genioglosse	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=zqCOH5WX9vWH4T1P91OHv4fu> .
+anat:muscles-hyoglosse	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=PPvumi559jGbOzCyCKyGrKv8> .
+#anat:muscles-chondroglosse	anat:has3DmodelURL	<> .
+anat:muscles-stiloglosse	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=5vq4zy1HD4fu5nGrGzrKPbqO> .
+anat:muscles-lgtudinal-sup-langue	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=CKLnGLiO1f85iKbyeC5bqCey> .
+anat:muscles-lgtudinal-inf-langue	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=ii49Dq8TTD0DjC0naKaSXPvq> .
+anat:muscles-trsv-langue	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=j4XrKfCaqyGLmm89zW0D8n4H> .
+anat:muscles-verti-langue	anat:has3DmodelURL	<> .
+anat:R-mscl-genioglosse	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=1beG5DOTDeue8XPzGP8H1DGf> .
+anat:R-mscl-hyoglosse	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=19nWTn1T5fKTC8DS1TrSHbCK> .
+#anat:R-mscl-chondroglosse	anat:has3DmodelURL	<> .
+anat:R-mscl-stiloglosse	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=PPPrCOqG9vCO1nW15bmeGfuW> .
+anat:R-mscl-lgtudinal-sup-langue	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=auWXX5vmqm8beGLfWzfeG51f> .
+anat:R-mscl-lgtudinal-inf-langue	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=STLjq8e0vG9fPnq0jemaaWL9> .
+anat:R-mscl-trsv-langue	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=1DiiCau0fGLf85DWTnz0bWH5> .
+anat:R-mscl-verti-langue	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=8rWDO9GHrq05DSnqumu0Pzuq> .
+anat:L-mscl-genioglosse	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=TvKj8PT9DSD0OfS5PHSHPLzy> .
+anat:L-mscl-hyoglosse	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=SjyamSb4jCuaOvKfWXeu0rS1> .
+#anat:L-mscl-chondroglosse	anat:has3DmodelURL	<> .
+anat:L-mscl-stiloglosse	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=qGTzSPieWvmm1L9ja8eCCGjq> .
+anat:L-mscl-lgtudinal-sup-langue	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=naWnyaqye4zy0jmeKHKLT1fq> .
+anat:L-mscl-lgtudinal-inf-langue	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=DKj8LLKHv41La8HDGLnuumei> .
+anat:L-mscl-trsv-langue	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=GTDGf0bayWXL5rGDWfvami85> .
+anat:L-mscl-verti-langue	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=nG99vqm4ba4bG95X5DzCWvqG> .
+
+anat:muscles-langue	rdfs:label	"Muscles de la langue" .
+anat:langue	rdfs:label	"Langue" .
+anat:muscles-extrinseques-langue	rdfs:label	"Muscles extrinsèques de la langue" .
+anat:muscles-intrinseques-langue	rdfs:label	"Muscles intrinsèques de la langue" .
+anat:muscles-genioglosse	rdfs:label	"Muscles genioglosses" .
+anat:muscles-hyoglosse	rdfs:label	"Muscles hyoglosses" .
+anat:muscles-chondroglosse	rdfs:label	"Muscles chondroglosses" .
+anat:muscles-stiloglosse	rdfs:label	"Muscles stiloglosses" .
+anat:muscles-lgtudinal-sup-langue	rdfs:label	"Muscles longitudinaux supérieurs de la langue" .
+anat:muscles-lgtudinal-inf-langue	rdfs:label	"Muscles longitudinaux inférieurs de la langue" .
+anat:muscles-trsv-langue	rdfs:label	"Muscles transversaux de la langue" .
+anat:muscles-verti-langue	rdfs:label	"Muscles verticaux de la langue" .
+anat:R-mscl-genioglosse	rdfs:label	"Muscle genioglosse droit" .
+anat:R-mscl-hyoglosse	rdfs:label	"Muscle hyoglosse droit" .
+anat:R-mscl-chondroglosse	rdfs:label	"Muscle chondroglosse droit" .
+anat:R-mscl-stiloglosse	rdfs:label	"Muscle stiloglosse droit" .
+anat:R-mscl-lgtudinal-sup-langue	rdfs:label	"Muscle longitudinal supérieur droit de la langue" .
+anat:R-mscl-lgtudinal-inf-langue	rdfs:label	"Muscle longitudinal inférieur droit de la langue" .
+anat:R-mscl-trsv-langue	rdfs:label	"Muscle transversal droit de la langue" .
+anat:R-mscl-verti-langue	rdfs:label	"Muscle longitudinal droit de la langue" .
+anat:L-mscl-genioglosse	rdfs:label	"Muscle genioglosse gauche" .
+anat:L-mscl-hyoglosse	rdfs:label	"Muscle hyoglosse gauche" .
+anat:L-mscl-chondroglosse	rdfs:label	"Muscle chondroglosse gauche" .
+anat:L-mscl-stiloglosse	rdfs:label	"Muscle stiloglosse gauche" .
+anat:L-mscl-lgtudinal-sup-langue	rdfs:label	"Muscle longitudinal supérieur gauche de la langue" .
+anat:L-mscl-lgtudinal-inf-langue	rdfs:label	"Muscle longitudinal inférieur gauche de la langue" .
+anat:L-mscl-trsv-langue	rdfs:label	"Muscle transversal gauche de la langue" .
+anat:L-mscl-verti-langue	rdfs:label	"Muscle longitudinal gauche de la langue" .
+
+anat:muscles-palais	rdf:type	anat:groupe-musculaire .
+anat:muscles-elevatR-voile-palais	rdf:type	anat:muscle .
+anat:muscles-tenseur-voile-palais	rdf:type	anat:muscle .
+anat:muscles-uvulaire	rdf:type	anat:muscle .
+anat:arc-palatoglosse	rdf:type	anat:muscle .
+anat:arc-palatopharyngien	rdf:type	anat:muscle .
+anat:R-mscl-elevatR-voile-palais	rdf:type	anat:muscle .
+anat:R-mscl-tenseur-voile-palais	rdf:type	anat:muscle .
+anat:R-mscl-uvulaire	rdf:type	anat:muscle .
+anat:R-mscl-palatoglosse	rdf:type	anat:muscle .
+anat:R-mscl-palatopharyngien	rdf:type	anat:muscle .
+anat:L-mscl-elevatR-voile-palais	rdf:type	anat:muscle .
+anat:L-mscl-tenseur-voile-palais	rdf:type	anat:muscle .
+anat:L-mscl-uvulaire	rdf:type	anat:muscle .
+anat:L-mscl-palatoglosse	rdf:type	anat:muscle .
+anat:L-mscl-palatopharyngien	rdf:type	anat:muscle .
+		
+anat:muscles-palais	anat:comprend	anat:muscles-elevatR-voile-palais .
+anat:muscles-palais	anat:comprend	anat:muscles-tenseur-voile-palais .
+anat:muscles-palais	anat:comprend	anat:muscles-uvulaire .
+anat:muscles-palais	anat:comprend	anat:arc-palatoglosse .
+anat:muscles-palais	anat:comprend	anat:arc-palatopharyngien .
+anat:muscles-elevatR-voile-palais	anat:comprend	anat:R-mscl-elevatR-voile-palais .
+anat:muscles-elevatR-voile-palais	anat:comprend	anat:L-mscl-elevatR-voile-palais .
+anat:muscles-tenseur-voile-palais	anat:comprend	anat:R-mscl-tenseur-voile-palais .
+anat:muscles-tenseur-voile-palais	anat:comprend	anat:L-mscl-tenseur-voile-palais .
+anat:muscles-uvulaire	anat:comprend	anat:R-mscl-uvulaire .
+anat:muscles-uvulaire	anat:comprend	anat:L-mscl-uvulaire .
+anat:arc-palatopharyngien	anat:comprend	anat:R-mscl-palatopharyngien .
+anat:arc-palatopharyngien	anat:comprend	anat:L-mscl-palatopharyngien .
+anat:arc-palatoglosse	anat:comprend	anat:R-mscl-palatoglosse .
+anat:arc-palatoglosse	anat:comprend	anat:L-mscl-palatoglosse .
+		
+anat:R-mscl-elevatR-voile-palais	anat:origi-insere-sur	anat:R-temporal .
+anat:R-mscl-elevatR-voile-palais	anat:origi-insere-sur	anat:R-trompe-eustache .
+anat:R-mscl-elevatR-voile-palais	anat:termi-insere-sur	anat:R-aponevrose-palatine  .
+anat:R-mscl-tenseur-voile-palais	anat:origi-insere-sur	anat:sphenoide .
+anat:R-mscl-tenseur-voile-palais	anat:origi-insere-sur	anat:R-trompe-eustache .
+anat:R-mscl-tenseur-voile-palais	anat:termi-insere-sur	anat:R-aponevrose-palatine  .
+anat:R-mscl-uvulaire	anat:origi-insere-sur	anat:R-palatin .
+anat:R-mscl-uvulaire	anat:origi-insere-sur	anat:R-aponevrose-palatine  .
+anat:R-mscl-uvulaire	anat:termi-insere-sur	anat:uvule-palatine  .
+anat:R-mscl-palatoglosse	anat:origi-insere-sur	anat:R-aponevrose-palatine  .
+anat:R-mscl-palatoglosse	anat:termi-insere-sur	anat:langue .
+anat:R-mscl-palatopharyngien	anat:origi-insere-sur	anat:sphenoide .
+anat:R-mscl-palatopharyngien	anat:origi-insere-sur	anat:R-trompe-eustache .
+anat:R-mscl-palatopharyngien	anat:origi-insere-sur	anat:R-aponevrose-palatine  .
+anat:R-mscl-palatopharyngien	anat:termi-insere-sur	anat:pharynx .
+anat:R-mscl-palatopharyngien	anat:termi-insere-sur	anat:cartilage-thyroide .
+anat:L-mscl-elevatR-voile-palais	anat:origi-insere-sur	anat:L-temporal .
+anat:L-mscl-elevatR-voile-palais	anat:origi-insere-sur	anat:L-trompe-eustache .
+anat:L-mscl-elevatR-voile-palais	anat:termi-insere-sur	anat:L-aponevrose-palatine  .
+anat:L-mscl-tenseur-voile-palais	anat:origi-insere-sur	anat:sphenoide .
+anat:L-mscl-tenseur-voile-palais	anat:origi-insere-sur	anat:L-trompe-eustache .
+anat:L-mscl-tenseur-voile-palais	anat:termi-insere-sur	anat:L-aponevrose-palatine  .
+anat:L-mscl-uvulaire	anat:origi-insere-sur	anat:L-palatin .
+anat:L-mscl-uvulaire	anat:origi-insere-sur	anat:L-aponevrose-palatine  .
+anat:L-mscl-uvulaire	anat:termi-insere-sur	anat:uvule-palatine  .
+anat:L-mscl-palatoglosse	anat:origi-insere-sur	anat:L-aponevrose-palatine  .
+anat:L-mscl-palatoglosse	anat:termi-insere-sur	anat:langue .
+anat:L-mscl-palatopharyngien	anat:origi-insere-sur	anat:sphenoide .
+anat:L-mscl-palatopharyngien	anat:origi-insere-sur	anat:L-trompe-eustache .
+anat:L-mscl-palatopharyngien	anat:origi-insere-sur	anat:L-aponevrose-palatine  .
+anat:L-mscl-palatopharyngien	anat:termi-insere-sur	anat:pharynx .
+anat:L-mscl-palatopharyngien	anat:termi-insere-sur	anat:cartilage-thyroide .
+		
+anat:muscles-palais	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=S5LjmCC8zOTTGPrem4Xzqiau> .
+anat:muscles-elevatR-voile-palais	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=8LjyS10PHPbm0niKfCz0Xf4j> .
+anat:muscles-tenseur-voile-palais	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=uqGTby19LbSDXzKXLDyC0TXP> .
+anat:muscles-uvulaire	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=WHniWjfCS9fyuWrWTnb0THL1> .
+anat:arc-palatoglosse	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=LHPv4z4nqSbqaW9L9zLn4119> .
+anat:arc-palatopharyngien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ziC0r8CO1fe4vyiGX1eeCyGD> .
+anat:R-mscl-elevatR-voile-palais	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Lz41vqGPLneqaOXXLjCCyume> .
+anat:R-mscl-tenseur-voile-palais	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=LrqG1X1v01XD4bi0P9WXLvae> .
+anat:R-mscl-uvulaire	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=5LHj4v0fqueiDW1fuKiSP15j> .
+anat:R-mscl-palatoglosse	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=0T1bO955HfaW1HnaWDW5TbS9> .
+anat:R-mscl-palatopharyngien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=LnyKf4aeeiG999THTTfK15XX> .
+anat:L-mscl-elevatR-voile-palais	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=mieW19W59DyK0j4fWXe091XL> .
+anat:L-mscl-tenseur-voile-palais	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=XLrCambKf8vi19HvemDKPrqG> .
+anat:L-mscl-uvulaire	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Gve4D4b01D4Te05P9XObqSXT> .
+anat:L-mscl-palatoglosse	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=GHTP9L5PnSrqrSfGX5bmGzqW> .
+anat:L-mscl-palatopharyngien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=GXD4jCKHzSfKq4neSL1n4v4T> .
+anat:muscles-palais	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=SjGjmujyWnODC0jWLbaSDG15> .
+anat:muscles-elevatR-voile-palais	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=4neu0fSvmuumP9zy0rDyWH55> .
+anat:muscles-tenseur-voile-palais	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Sj8PbmLv0jem9Lnee4buuSTv> .
+anat:muscles-uvulaire	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=v8rmSrLza8LzP1XnOD4byOja> .
+anat:arc-palatoglosse	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=SLf8TjieaiuunGzGrqyOLL5r> .
+anat:arc-palatopharyngien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=1n8959iiWvuuf8TjS5CS1zai> .
+anat:R-mscl-elevatR-voile-palais	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=mWvaa4Xv0fKTveSnSfnWnquu> .
+anat:R-mscl-tenseur-voile-palais	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=HPr8DizyWDeuTnOr4jP5XX9f> .
+anat:R-mscl-uvulaire	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=LLXjK9yiG1TLOPXHT1TDSnG1> .
+anat:R-mscl-palatoglosse	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=OfSbSrzKvaqG9f4f0znyeemS> .
+anat:R-mscl-palatopharyngien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=a4vieieSr4z8XDqqmiqGLT1f> .
+anat:L-mscl-elevatR-voile-palais	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=ruei0jWrCeS5uGrumuqKPbOf> .
+anat:L-mscl-tenseur-voile-palais	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=fKHf0znS1XHDv8zOXfamm09z> .
+anat:L-mscl-uvulaire	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=GDuq0LLjmyyqjS19rmTfK11f> .
+anat:L-mscl-palatoglosse	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=iKvOL90PzWL1Ce4buSiCOnS9> .
+anat:L-mscl-palatopharyngien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Ori8HzuKfGPPrCe4LLH1DyeG> .
+
+anat:muscles-palais	rdfs:label	"Muscles du palais" .
+anat:muscles-elevatR-voile-palais	rdfs:label	"Muscles élévateurs du voile du palais" .
+anat:muscles-tenseur-voile-palais	rdfs:label	"Muscles tenseurs du voile du palais" .
+anat:muscles-uvulaire	rdfs:label	"Muscles uvulaires" .
+anat:arc-palatoglosse	rdfs:label	"Arc palatoglosse" .
+anat:arc-palatopharyngien	rdfs:label	"Arc palatopharyngien" .
+anat:R-mscl-elevatR-voile-palais	rdfs:label	"Muscle élévateur du voile du palais droit" .
+anat:R-mscl-tenseur-voile-palais	rdfs:label	"Muscle tenseur du voile du palais droit" .
+anat:R-mscl-uvulaire	rdfs:label	"Muscle uvulaire droit" .
+anat:R-mscl-palatoglosse	rdfs:label	"Muscle palatoglosse droit" .
+anat:R-mscl-palatopharyngien	rdfs:label	"Muscle palatopharyngien droit" .
+anat:L-mscl-elevatR-voile-palais	rdfs:label	"Muscle élévateur du voile du palais gauche" .
+anat:L-mscl-tenseur-voile-palais	rdfs:label	"Muscle tenseur du voile du palais gauche" .
+anat:L-mscl-uvulaire	rdfs:label	"Muscle uvulaire gauche" .
+anat:L-mscl-palatoglosse	rdfs:label	"Muscle palatoglosse gauche" .
+anat:L-mscl-palatopharyngien	rdfs:label	"Muscle palatopharyngien gauche" .
+
+anat:muscles-verniers	rdf:type	anat:groupe-musculaire .
+anat:muscles-droit-ant-tete	rdf:type	anat:muscle .
+anat:muscles-droit-lat-tete	rdf:type	anat:muscle .
+anat:muscles-gd-droit-post-tete	rdf:type	anat:muscle .
+anat:muscles-pt-droit-post-tete	rdf:type	anat:muscle .
+anat:muscles-oblique-sup-tete	rdf:type	anat:muscle .
+anat:muscles-oblique-inf-tete	rdf:type	anat:muscle .
+anat:R-mscl-droit-ant-tete	rdf:type	anat:muscle .
+anat:R-mscl-droit-lat-tete	rdf:type	anat:muscle .
+anat:R-mscl-gd-droit-post-tete	rdf:type	anat:muscle .
+anat:R-mscl-pt-droit-post-tete	rdf:type	anat:muscle .
+anat:R-mscl-oblique-sup-tete	rdf:type	anat:muscle .
+anat:R-mscl-oblique-inf-tete	rdf:type	anat:muscle .
+anat:L-mscl-droit-ant-tete	rdf:type	anat:muscle .
+anat:L-mscl-droit-lat-tete	rdf:type	anat:muscle .
+anat:L-mscl-gd-droit-post-tete	rdf:type	anat:muscle .
+anat:L-mscl-pt-droit-post-tete	rdf:type	anat:muscle .
+anat:L-mscl-oblique-sup-tete	rdf:type	anat:muscle .
+anat:L-mscl-oblique-inf-tete	rdf:type	anat:muscle .
+		
+anat:muscles-verniers	anat:comprend	anat:muscles-droit-ant-tete .
+anat:muscles-verniers	anat:comprend	anat:muscles-droit-lat-tete .
+anat:muscles-verniers	anat:comprend	anat:muscles-gd-droit-post-tete .
+anat:muscles-verniers	anat:comprend	anat:muscles-pt-droit-post-tete .
+anat:muscles-verniers	anat:comprend	anat:muscles-oblique-sup-tete .
+anat:muscles-verniers	anat:comprend	anat:muscles-oblique-inf-tete .
+anat:muscles-droit-ant-tete	anat:comprend	anat:R-mscl-droit-ant-tete .
+anat:muscles-droit-ant-tete	anat:comprend	anat:L-mscl-droit-ant-tete .
+anat:muscles-droit-lat-tete	anat:comprend	anat:R-mscl-droit-lat-tete .
+anat:muscles-droit-lat-tete	anat:comprend	anat:L-mscl-droit-lat-tete .
+anat:muscles-gd-droit-post-tete	anat:comprend	anat:R-mscl-gd-droit-post-tete .
+anat:muscles-gd-droit-post-tete	anat:comprend	anat:L-mscl-gd-droit-post-tete .
+anat:muscles-pt-droit-post-tete	anat:comprend	anat:R-mscl-pt-droit-post-tete .
+anat:muscles-pt-droit-post-tete	anat:comprend	anat:L-mscl-pt-droit-post-tete .
+anat:muscles-oblique-sup-tete	anat:comprend	anat:R-mscl-oblique-sup-tete .
+anat:muscles-oblique-sup-tete	anat:comprend	anat:L-mscl-oblique-sup-tete .
+anat:muscles-oblique-inf-tete	anat:comprend	anat:R-mscl-oblique-inf-tete .
+anat:muscles-oblique-inf-tete	anat:comprend	anat:L-mscl-oblique-inf-tete .
+		
+anat:R-mscl-droit-ant-tete	anat:origi-insere-sur	anat:v-C1 .
+anat:R-mscl-droit-ant-tete	anat:termi-insere-sur	anat:occiput .
+anat:R-mscl-droit-lat-tete	anat:origi-insere-sur	anat:v-C1 .
+anat:R-mscl-droit-lat-tete	anat:termi-insere-sur	anat:occiput .
+anat:R-mscl-gd-droit-post-tete	anat:origi-insere-sur	anat:v-C2 .
+anat:R-mscl-gd-droit-post-tete	anat:termi-insere-sur	anat:occiput .
+anat:R-mscl-pt-droit-post-tete	anat:origi-insere-sur	anat:v-C1 .
+anat:R-mscl-pt-droit-post-tete	anat:termi-insere-sur	anat:occiput .
+anat:R-mscl-oblique-sup-tete	anat:origi-insere-sur	anat:v-C1 .
+anat:R-mscl-oblique-sup-tete	anat:termi-insere-sur	anat:occiput .
+anat:R-mscl-oblique-inf-tete	anat:origi-insere-sur	anat:v-C2 .
+anat:R-mscl-oblique-inf-tete	anat:termi-insere-sur	anat:occiput .
+anat:L-mscl-droit-ant-tete	anat:origi-insere-sur	anat:v-C1 .
+anat:L-mscl-droit-ant-tete	anat:termi-insere-sur	anat:occiput .
+anat:L-mscl-droit-lat-tete	anat:origi-insere-sur	anat:v-C1 .
+anat:L-mscl-droit-lat-tete	anat:termi-insere-sur	anat:occiput .
+anat:L-mscl-gd-droit-post-tete	anat:origi-insere-sur	anat:v-C2 .
+anat:L-mscl-gd-droit-post-tete	anat:termi-insere-sur	anat:occiput .
+anat:L-mscl-pt-droit-post-tete	anat:origi-insere-sur	anat:v-C1 .
+anat:L-mscl-pt-droit-post-tete	anat:termi-insere-sur	anat:occiput .
+anat:L-mscl-oblique-sup-tete	anat:origi-insere-sur	anat:v-C1 .
+anat:L-mscl-oblique-sup-tete	anat:termi-insere-sur	anat:occiput .
+anat:L-mscl-oblique-inf-tete	anat:origi-insere-sur	anat:v-C2 .
+anat:L-mscl-oblique-inf-tete	anat:termi-insere-sur	anat:occiput .
+		
+anat:muscles-verniers	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ru4T5bHfeKLDfWLDG9TzKrW5> .
+anat:muscles-droit-ant-tete	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=CKL1zyGTHnGLKzG95fPbiSP9> .
+anat:muscles-droit-lat-tete	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=9XzuSrneG5TPbe0nua1X951b> .
+anat:muscles-gd-droit-post-tete	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=jSfCm8a4r01TWvWPfmyKrOni> .
+anat:muscles-pt-droit-post-tete	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=vC4X9rLvCGbG1Du0LLiKr815> .
+anat:muscles-oblique-sup-tete	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=uumOrG0T9beGeiGHDOPfyyO5> .
+anat:muscles-oblique-inf-tete	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=buKfKTL5ruG1b8Hz0veiWDeu> .
+anat:R-mscl-droit-ant-tete	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=uiCyyaGrKrO1PP9zuCOvKDmi> .
+anat:R-mscl-droit-lat-tete	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=naCyuevqOfmmrGHf4jGHze4r> .
+anat:R-mscl-gd-droit-post-tete	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=uCKfGDCumOnCbyiiWvyOvSju> .
+anat:R-mscl-pt-droit-post-tete	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=PzCCC0rSrymi9X95n8zmqmOH> .
+anat:R-mscl-oblique-sup-tete	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=SjG1LXm4vWXnfCKLTruGXDeq> .
+anat:R-mscl-oblique-inf-tete	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=TriC4TyeqC8vey0HXrrquy0z> .
+anat:L-mscl-droit-ant-tete	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=GbGjia9reeKLaOXfeuz4nm4z> .
+anat:L-mscl-droit-lat-tete	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=CCSrW5bKb4P9f85vuGmCaKnO> .
+anat:L-mscl-gd-droit-post-tete	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ue4DOnyq4vSL9fyKjWXDGXL1> .
+anat:L-mscl-pt-droit-post-tete	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=1fe0595r8fGPjGr0DWrSXnWb> .
+anat:L-mscl-oblique-sup-tete	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=q8rWbCjimGHX5LzWDW59n4jC> .
+anat:L-mscl-oblique-inf-tete	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=j0rOrSqiaGPLWDOreqDOfeGT> .
+anat:muscles-verniers	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=8Pb45rj8XD8PreaODev0bOf0> .
+anat:muscles-droit-ant-tete	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=ODCaS1CSbeaC4r851fLXbKri> .
+anat:muscles-droit-lat-tete	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=iimC0TDKb8zuvmKr0L91zGfK> .
+anat:muscles-gd-droit-post-tete	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=qODC0PCmSj8ry0fGTXKjmau0> .
+anat:muscles-pt-droit-post-tete	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=OLni45qeWvqKC0b4v0OvOrOP> .
+anat:muscles-oblique-sup-tete	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=SH1jq4GjKn8fL1XnC0equGzK> .
+anat:muscles-oblique-inf-tete	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=eamO5f8Xn0niW1jKXP1XPzSf> .
+anat:R-mscl-droit-ant-tete	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=aKHnOjXzaaqu9nW595PTDOD4> .
+anat:R-mscl-droit-lat-tete	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=CKv0r4GLLPPHq4Hny4iaSvOn> .
+anat:R-mscl-gd-droit-post-tete	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=4LPDOvWzuSfSLbm4vKyyiq0D> .
+anat:R-mscl-pt-droit-post-tete	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=KbSLHvTDqC4jCueSD8C8zO1P> .
+anat:R-mscl-oblique-sup-tete	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=1T5bmOPr85DSe45z0bmaS9Xv> .
+anat:R-mscl-oblique-inf-tete	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=5fOb4jOj8vqa8fSzGbz8vi4f> .
+anat:L-mscl-droit-ant-tete	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=uiGH1j0rODq0XvGLTjr8reKP> .
+anat:L-mscl-droit-lat-tete	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=1LLzuW5PfemiGb8f4fKjiOD0> .
+anat:L-mscl-gd-droit-post-tete	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=vOH1DiTrGbKvbieCmiuiGbOj> .
+anat:L-mscl-pt-droit-post-tete	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Dm4PvWPzW5XzWTLTvKjKrS1z> .
+anat:L-mscl-oblique-sup-tete	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=151DCqqeCSXjHvOrSHbWz01v> .
+anat:L-mscl-oblique-inf-tete	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=jiqKHj1nmy8f0XXv0DDSXTHL> .
+
+anat:muscles-verniers	rdfs:label	"Muscles verniers (sous-occipitaux)" .
+anat:muscles-droit-ant-tete	rdfs:label	"Muscles droits antérieurs de la tête" .
+anat:muscles-droit-lat-tete	rdfs:label	"Muscles droits latéraux de la tête" .
+anat:muscles-gd-droit-post-tete	rdfs:label	"Muscles grands droits postérieurs de la tête" .
+anat:muscles-pt-droit-post-tete	rdfs:label	"Muscles petits droits postérieurs de la tête" .
+anat:muscles-oblique-sup-tete	rdfs:label	"Muscles obliques supérieurs de la tête" .
+anat:muscles-oblique-inf-tete	rdfs:label	"Muscles obliques inférieurs de la tête" .
+anat:R-mscl-droit-ant-tete	rdfs:label	"Muscle droit antérieur de la tête droit" .
+anat:R-mscl-droit-lat-tete	rdfs:label	"Muscle droit latéral de la tête droit" .
+anat:R-mscl-gd-droit-post-tete	rdfs:label	"Muscle grand droit postérieur de la tête droit" .
+anat:R-mscl-pt-droit-post-tete	rdfs:label	"Muscle petit droit postérieur de la tête droit" .
+anat:R-mscl-oblique-sup-tete	rdfs:label	"Muscle oblique supérieur de la tête droit" .
+anat:R-mscl-oblique-inf-tete	rdfs:label	"Muscle oblique inférieur de la tête droit" .
+anat:L-mscl-droit-ant-tete	rdfs:label	"Muscle droit antérieur de la tête gauche" .
+anat:L-mscl-droit-lat-tete	rdfs:label	"Muscle droit latéral de la tête gauche" .
+anat:L-mscl-gd-droit-post-tete	rdfs:label	"Muscle grand droit postérieur de la tête gauche" .
+anat:L-mscl-pt-droit-post-tete	rdfs:label	"Muscle petit droit postérieur de la tête gauche" .
+anat:L-mscl-oblique-sup-tete	rdfs:label	"Muscle oblique supérieur de la tête gauche" .
+anat:L-mscl-oblique-inf-tete	rdfs:label	"Muscle oblique inférieur de la tête gauche".
+
+anat:pharynx	rdf:type	anat:muscle-visceral-volontaire .
+anat:muscles-constricteurs-pharynx	rdf:type	anat:groupe-musculaire .
+anat:muscles-constricteur-sup-pharynx	rdf:type	anat:muscle .
+anat:muscles-constricteur-moy-pharynx	rdf:type	anat:muscle .
+anat:muscles-constricteur-inf-pharynx	rdf:type	anat:muscle .
+anat:muscles-stylopharyngien	rdf:type	anat:muscle .
+anat:muscles-salpingopharyngien	rdf:type	anat:muscle .
+anat:R-mscl-constricteur-sup-pharynx	rdf:type	anat:muscle .
+anat:R-mscl-constricteur-moy-pharynx	rdf:type	anat:muscle .
+anat:R-mscl-constricteur-inf-pharynx	rdf:type	anat:muscle .
+anat:R-mscl-stylopharyngien	rdf:type	anat:muscle .
+anat:R-mscl-salpingopharyngien	rdf:type	anat:muscle .
+anat:L-mscl-constricteur-sup-pharynx	rdf:type	anat:muscle .
+anat:L-mscl-constricteur-moy-pharynx	rdf:type	anat:muscle .
+anat:L-mscl-constricteur-inf-pharynx	rdf:type	anat:muscle .
+anat:L-mscl-stylopharyngien	rdf:type	anat:muscle .
+anat:L-mscl-salpingopharyngien	rdf:type	anat:muscle .
+anat:raphe-pharynx	rdf:type	anat:structure-fibreuse .
+		
+anat:pharynx	anat:comprend	anat:muscles-constricteurs-pharynx .
+anat:pharynx	anat:comprend	anat:muscles-stylopharyngien .
+anat:pharynx	anat:comprend	anat:muscles-salpingopharyngien .
+anat:pharynx	anat:comprend	anat:arc-palatopharyngien .
+anat:pharynx	anat:comprend	anat:raphe-pharynx .
+anat:muscles-constricteurs-pharynx	anat:comprend	anat:muscles-constricteur-sup-pharynx .
+anat:muscles-constricteurs-pharynx	anat:comprend	anat:muscles-constricteur-moy-pharynx .
+anat:muscles-constricteurs-pharynx	anat:comprend	anat:muscles-constricteur-inf-pharynx .
+anat:muscles-constricteur-sup-pharynx	anat:comprend	anat:R-mscl-constricteur-sup-pharynx .
+anat:muscles-constricteur-sup-pharynx	anat:comprend	anat:L-mscl-constricteur-sup-pharynx .
+anat:muscles-constricteur-moy-pharynx	anat:comprend	anat:R-mscl-constricteur-moy-pharynx .
+anat:muscles-constricteur-moy-pharynx	anat:comprend	anat:L-mscl-constricteur-moy-pharynx .
+anat:muscles-constricteur-inf-pharynx	anat:comprend	anat:R-mscl-constricteur-inf-pharynx .
+anat:muscles-constricteur-inf-pharynx	anat:comprend	anat:L-mscl-constricteur-inf-pharynx .
+anat:muscles-stylopharyngien	anat:comprend	anat:R-mscl-stylopharyngien .
+anat:muscles-stylopharyngien	anat:comprend	anat:L-mscl-stylopharyngien .
+anat:muscles-salpingopharyngien	anat:comprend	anat:R-mscl-salpingopharyngien .
+anat:muscles-salpingopharyngien	anat:comprend	anat:L-mscl-salpingopharyngien .
+		
+anat:raphe-pharynx	anat:origi-insere-sur	anat:occiput .
+anat:R-mscl-constricteur-sup-pharynx	anat:origi-insere-sur	anat:sphenoide .
+anat:R-mscl-constricteur-sup-pharynx	anat:origi-insere-sur	anat:mandibule .
+anat:R-mscl-constricteur-sup-pharynx	anat:origi-insere-sur	anat:R-raphe-pterigomandibulR .
+anat:R-mscl-constricteur-sup-pharynx	anat:origi-insere-sur	anat:langue .
+anat:R-mscl-constricteur-sup-pharynx	anat:termi-insere-sur	anat:raphe-pharynx .
+anat:R-mscl-constricteur-moy-pharynx	anat:origi-insere-sur	anat:os-hyoide .
+anat:R-mscl-constricteur-moy-pharynx	anat:origi-insere-sur	anat:R-lgmt-stilohyoidien .
+anat:R-mscl-constricteur-moy-pharynx	anat:termi-insere-sur	anat:raphe-pharynx .
+anat:R-mscl-constricteur-inf-pharynx	anat:origi-insere-sur	anat:cartilage-thyroide .
+anat:R-mscl-constricteur-inf-pharynx	anat:origi-insere-sur	anat:cartilage-cricoide .
+anat:R-mscl-constricteur-inf-pharynx	anat:termi-insere-sur	anat:raphe-pharynx .
+anat:R-mscl-stylopharyngien	anat:origi-insere-sur	anat:R-temporal .
+anat:R-mscl-stylopharyngien	anat:origi-insere-sur	anat:R-fascia-pterigobasilR .
+anat:R-mscl-stylopharyngien	anat:termi-insere-sur	anat:epiglote .
+anat:R-mscl-stylopharyngien	anat:termi-insere-sur	anat:cartilage-thyroide .
+anat:R-mscl-salpingopharyngien	anat:origi-insere-sur	anat:R-cartilage-tubaire .
+anat:R-mscl-salpingopharyngien	anat:termi-insere-sur	anat:cartilage-thyroide .
+anat:L-mscl-constricteur-sup-pharynx	anat:origi-insere-sur	anat:sphenoide .
+anat:L-mscl-constricteur-sup-pharynx	anat:origi-insere-sur	anat:mandibule .
+anat:L-mscl-constricteur-sup-pharynx	anat:origi-insere-sur	anat:L-raphe-pterigomandibulR .
+anat:L-mscl-constricteur-sup-pharynx	anat:origi-insere-sur	anat:langue .
+anat:L-mscl-constricteur-sup-pharynx	anat:termi-insere-sur	anat:raphe-pharynx .
+anat:L-mscl-constricteur-moy-pharynx	anat:origi-insere-sur	anat:os-hyoide .
+anat:L-mscl-constricteur-moy-pharynx	anat:origi-insere-sur	anat:L-lgmt-stilohyoidien .
+anat:L-mscl-constricteur-moy-pharynx	anat:termi-insere-sur	anat:raphe-pharynx .
+anat:L-mscl-constricteur-inf-pharynx	anat:origi-insere-sur	anat:cartilage-thyroide .
+anat:L-mscl-constricteur-inf-pharynx	anat:origi-insere-sur	anat:cartilage-cricoide .
+anat:L-mscl-constricteur-inf-pharynx	anat:termi-insere-sur	anat:raphe-pharynx .
+anat:L-mscl-stylopharyngien	anat:origi-insere-sur	anat:L-temporal .
+anat:L-mscl-stylopharyngien	anat:origi-insere-sur	anat:L-fascia-pterigobasilR .
+anat:L-mscl-stylopharyngien	anat:termi-insere-sur	anat:epiglote .
+anat:L-mscl-stylopharyngien	anat:termi-insere-sur	anat:cartilage-thyroide .
+anat:L-mscl-salpingopharyngien	anat:origi-insere-sur	anat:L-cartilage-tubaire .
+anat:L-mscl-salpingopharyngien	anat:termi-insere-sur	anat:cartilage-thyroide .
+		
+anat:pharynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=zq8veueuqST5z0H5nGzCi8PD> .
+anat:muscles-constricteurs-pharynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Hviee8O1feGTD4PXz4j4nCCO> .
+anat:muscles-constricteur-sup-pharynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=P5HnC8vuKLzGqq0vu48TT9bm> .
+anat:muscles-constricteur-moy-pharynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=W11vSPrCC4Hvjiq45bjeaCKn> .
+anat:muscles-constricteur-inf-pharynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=vSrmSziWrGbmeeye4nHDKn4n> .
+anat:muscles-stylopharyngien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=qmWXfO05DiC8mG1TrGDSHHbK> .
+anat:muscles-salpingopharyngien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=eqa09P1zmqG5HPT1LTOXbuuC> .
+anat:R-mscl-constricteur-sup-pharynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=mG9vqibauOHDCiCy0PPbOvW5> .
+anat:R-mscl-constricteur-moy-pharynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=CSD0rGHruOXf9jeG991XvCKH> .
+anat:R-mscl-constricteur-inf-pharynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=C8naOXuC4L1TP1PveCjGLfW1> .
+anat:R-mscl-stylopharyngien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=HrSHXXXXn4DyeeK9HzPLbau4> .
+anat:R-mscl-salpingopharyngien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=iCim89eWHjCeKPf0zqzOny0j> .
+anat:L-mscl-constricteur-sup-pharynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Kjy0T9eqymuSSfmmam8DqqeO> .
+anat:L-mscl-constricteur-moy-pharynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=aKniy8jKry4nPvaWzGuOr0zS> .
+anat:L-mscl-constricteur-inf-pharynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=umKT9r4bSTzGTHf8DCKXDyyG> .
+anat:L-mscl-stylopharyngien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=GvOn8niiy8Tjf4reyq1PHDSb> .
+anat:L-mscl-salpingopharyngien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=9Tbamej899fGbSjqeGimO1LP> .
+anat:raphe-pharynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=LfCeuurGzqKnP1Hj0raaaGHn> .
+anat:pharynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=z4jm45naCGzyqeSvCe19bCSD> .
+anat:muscles-constricteurs-pharynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=r4nKfSz4Dy0v4PXPvG8HjOvy> .
+anat:muscles-constricteur-sup-pharynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Ca4TXPKDSHP50DuqiWOPjOLD> .
+anat:muscles-constricteur-moy-pharynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=viaS959zeeSDn8naC84nOD4T> .
+anat:muscles-constricteur-inf-pharynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=CKzeCOvSb0vGTvCue0GHXDOb> .
+anat:muscles-stylopharyngien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=5rCK51ri4jSz1rKTbOrayu4X> .
+anat:muscles-salpingopharyngien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=DOrueSDWX5na1Tf8HLLTLjym> .
+anat:R-mscl-constricteur-sup-pharynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=z4jui04v4zqWCWXfWPDGX1vG> .
+anat:R-mscl-constricteur-moy-pharynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=qiu09DyKLfSfWTfSzWGvKfGH> .
+anat:R-mscl-constricteur-inf-pharynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=OHfWbmW9Tj8nWHXryKHPHzuC> .
+anat:R-mscl-stylopharyngien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=H9HzaqPHP5zyae0Xjmbu0fOH> .
+anat:R-mscl-salpingopharyngien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=ruKrCq1T11Pb4LDuGznyCyq4> .
+anat:L-mscl-constricteur-sup-pharynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=KH11buDODm8vrqiGzOvaWDOj> .
+anat:L-mscl-constricteur-moy-pharynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=19vmeO8XrWX5umqK99z8PvKz> .
+anat:L-mscl-constricteur-inf-pharynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=i4DO9vfeKLfGmK9z85LbaGjG> .
+anat:L-mscl-stylopharyngien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=9H5XDWD0r8vO4TvqaW0viWjy> .
+anat:L-mscl-salpingopharyngien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=T9jK9Pi8Xz4zX5HvmS9zaGna> .
+anat:raphe-pharynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=a01fye8vyamWeW5LP1LPb01L> .
+
+anat:pharynx	rdfs:label	"Muscles du pharynx" .
+anat:muscles-constricteurs-pharynx	rdfs:label	"Muscles constricteurs du pharynx" .
+anat:muscles-constricteur-sup-pharynx	rdfs:label	"Muscles constricteurs supérieurs du pharynx" .
+anat:muscles-constricteur-moy-pharynx	rdfs:label	"Muscles constricteurs moyens du pharynx" .
+anat:muscles-constricteur-inf-pharynx	rdfs:label	"Muscles constricteurs inférieurs du pharynx" .
+anat:muscles-stylopharyngien	rdfs:label	"Muscles stylo-pharyngiens" .
+anat:muscles-salpingopharyngien	rdfs:label	"Muscles salpingo-pharyngiens" .
+anat:R-mscl-constricteur-sup-pharynx	rdfs:label	"Muscle constricteur supérieur du pharynx droit" .
+anat:R-mscl-constricteur-moy-pharynx	rdfs:label	"Muscle constricteur moyen du pharynx droit" .
+anat:R-mscl-constricteur-inf-pharynx	rdfs:label	"Muscle constricteur inférieur du pharynx droit" .
+anat:R-mscl-stilopharyngien	rdfs:label	"Muscle stylo-pharyngien droit" .
+anat:R-mscl-salpingopharyngien	rdfs:label	"Muscle salpingo-pharyngien droit" .
+anat:L-mscl-constricteur-sup-pharynx	rdfs:label	"Muscle constricteur supérieur du pharynx gauche" .
+anat:L-mscl-constricteur-moy-pharynx	rdfs:label	"Muscle constricteur moyen du pharynx gauche" .
+anat:L-mscl-constricteur-inf-pharynx	rdfs:label	"Muscle constricteur inférieur du pharynx gauche" .
+anat:L-mscl-stylopharyngien	rdfs:label	"Muscle stylo-pharyngien gauche" .
+anat:L-mscl-salpingopharyngien	rdfs:label	"Muscle salpingo-pharyngien gauche" .
+anat:raphe-pharynx	rdfs:label	"Raphé du pharynx" .
 

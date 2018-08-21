@@ -31,35 +31,27 @@
     <div id="collapse1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1">
       <div class="panel-body">
 	<ul style="list-style-type:square">
-	<li><a href="/desc/http://anat.org/os-crane">CRÂNE OSSEUX</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1" aria-expanded="false" aria-controls="collapse1-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1">
-      <div class="panel-body">
+	<li><a href="/desc/http://anat.org/os-crane">CRÂNE OSSEUX</a>
 
 		<ul style="list-style-type:none">
 		<table>
 		<tr>
 			<td>
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/os-neurocrane">Os du neurocrâne</a></li>
+				<li><a href="/desc/http://anat.org/os-neurocrane">Os du neurocrâne</a>
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/os-base-crane">Os de la base du crâne</a></li>
 
   <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-1-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1-1" aria-expanded="false" aria-controls="collapse1-1-1">
+    <div class="panel-heading" role="tab" id="1-1-1-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1-1-1" aria-expanded="false" aria-controls="collapse1-1-1-1">
 	▼ 
         </a>
     </div>
-    <div id="collapse1-1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1-1">
+    <div id="collapse1-1-1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1-1-1">
       <div class="panel-body">
 
-					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/os-base-crane">Os de la base du crâne</a>						<ul style="list-style-type:circle">
+						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/frontal">Os frontal</a></li>
 						<li><a href="/desc/http://anat.org/sphenoide">Os sphénoïde</a></li>
 						<li><a href="/desc/http://anat.org/occiput">Os occiput</a></li>
@@ -67,8 +59,22 @@
 						<li><a href="/desc/http://anat.org/L-temporal">Os temporal gauche</a></li>
 						<li><a href="/desc/http://anat.org/ethmoide">Os ethmoïde</a></li>
 						</ul>
-					</li>
-					<li><a href="/desc/http://anat.org/os-voute-crane">Os de la voûte crânienne</a>
+
+      </div>
+    </div>
+  </div>
+
+					<li><a href="/desc/http://anat.org/os-voute-crane">Os de la voûte crânienne</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="1-1-1-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1-1-2" aria-expanded="false" aria-controls="collapse1-1-1-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapse1-1-1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1-1-2">
+      <div class="panel-body">
+
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/frontal">Os frontal</a></li>
 						<li><a href="/desc/http://anat.org/sphenoide">Os sphénoïde</a></li>
@@ -78,12 +84,13 @@
 						<li><a href="/desc/http://anat.org/R-temporal">Os temporal droit</a></li>
 						<li><a href="/desc/http://anat.org/L-temporal">Os temporal gauche</a></li>
 						</ul>
-					</li>
-					</ul>
+
       </div>
     </div>
   </div>
 
+					</ul>
+				</li>
 				<li><a href="/desc/http://anat.org/massif-facial">Os du massif facial</a></li>
 
   <div class="panel panel-default">
@@ -380,20 +387,8 @@
 		</table>
 		</ul>
 
-      </div>
-    </div>
-  </div>
 	</li>
-	<li><a href="/desc/http://anat.org/dents">DENTS</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-2" aria-expanded="false" aria-controls="collapse1-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-2">
-      <div class="panel-body">
+	<li><a href="/desc/http://anat.org/dents">DENTS</a>
 
 		<ul style="list-style-type:none">
 		<table>
@@ -592,9 +587,7 @@
 		</tr>
 		</table>
 		</ul>
-      </div>
-    </div>
-  </div>
+
 	</li>
 	</ul>
 
@@ -651,16 +644,7 @@
     </div>
   </div>
 
-	<li><a href="/desc/http://anat.org/colonne-v">COLONNE VERTÉBRALE</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="2-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2-2" aria-expanded="false" aria-controls="collapse2-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse2-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2-2">
-      <div class="panel-body">
+	<li><a href="/desc/http://anat.org/colonne-v">COLONNE VERTÉBRALE</a>
 
 		<ul style="list-style-type:none">
 		<table>
@@ -932,10 +916,7 @@
 		</tr>
 		</table>
 		</ul>
-      </div>
-    </div>
-  </div>
-
+	</li>
 	<li><a href="/desc/http://anat.org/charnieres-vertebrales">CHARNIÈRES VERTÉBRALES</a></li>
 
   <div class="panel panel-default">

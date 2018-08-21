@@ -624,7 +624,7 @@
 			<li><a href="/desc/http://anat.org/L-mscl-palatoglosse">Muscle palatoglosse gauche</a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/arc-palatopharyngien">Arc palatopharyngien</a>
+		<li><a href="/desc/http://anat.org/arc-palatopharyngien">Arc palato-pharyngien</a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/R-mscl-palatopharyngien">Muscle palatopharyngien droit</a></li>
 			<li><a href="/desc/http://anat.org/L-mscl-palatopharyngien">Muscle palatopharyngien gauche</a></li>
@@ -734,6 +734,12 @@
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/R-mscl-salpingopharyngien">Muscle salpingo-pharyngien droit</a></li>
 			<li><a href="/desc/http://anat.org/L-mscl-salpingopharyngien">Muscle salpingo-pharyngien gauche</a></li>
+			</ul>
+		</li>
+		<li><a href="/desc/http://anat.org/arc-palatopharyngien">Arc palato-pharyngien</a>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/R-mscl-palatopharyngien">Muscle palatopharyngien droit</a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-palatopharyngien">Muscle palatopharyngien gauche</a></li>
 			</ul>
 		</li>
 		<li><a href="/desc/http://anat.org/raphe-pharynx">Raphé du pharynx</a></li>
@@ -861,6 +867,12 @@
 			<li><a href="/desc/http://anat.org/L-mscl-salpingopharyngien">Muscle salpingo-pharyngien gauche</a></li>
 			</ul>
 		</li>
+		<li><a href="/desc/http://anat.org/arc-palatopharyngien">Arc palato-pharyngien</a>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/R-mscl-palatopharyngien">Muscle palatopharyngien droit</a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-palatopharyngien">Muscle palatopharyngien gauche</a></li>
+			</ul>
+		</li>
 		<li><a href="/desc/http://anat.org/raphe-pharynx">Raphé du pharynx</a></li>
 		</ul>
 
@@ -868,8 +880,615 @@
     </div>
   </div>
 
-	<li><a href="/desc/http://anat.org/larynx">Muscles du larynx</a></li>
+	<li><a href="/desc/http://anat.org/complexe-larynx">Complexe du larynx</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo2-3">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo2-3" aria-expanded="false" aria-controls="collapseMyo2-3">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo2-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo2-3">
+      <div class="panel-body">
+
+		<ul style="list-style-type:square">
+		<li><a href="/desc/http://anat.org/cartilages-larynx">Structures cartilagineuses du larynx</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo2-3-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo2-3-1" aria-expanded="false" aria-controls="collapseMyo2-3-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo2-3-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo2-3-1">
+      <div class="panel-body">
+
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/cartilage-thyroide">Cartilage thyroïde</a></li>
+			<li><a href="/desc/http://anat.org/cartilage-cricoide">Cartilage cricoïde</a></li>
+			<li><a href="/desc/http://anat.org/cartilage-epiglotique">Cartilage épiglotique</a></li>
+			<li><a href="/desc/http://anat.org/R-cartilage-arytenoide">Cartilage aryténoïde droit</a></li>
+			<li><a href="/desc/http://anat.org/L-cartilage-arytenoide">Cartilage aryténoïde gauche</a></li>
+			<li><a href="/desc/http://anat.org/R-cartilage-cornicule">Cartilage corniculé droit</a></li>
+			<li><a href="/desc/http://anat.org/L-cartilage-cornicule">Cartilage corniculé gauche</a></li>
+			<li><a href="/desc/http://anat.org/R-cartilage-cuneiforme">Cartilage cunéiforme droit</a></li>
+			<li><a href="/desc/http://anat.org/L-cartilage-cuneiforme">Cartilage cunéiforme gauche</a></li>
+			</ul>
+
+      </div>
+    </div>
+  </div>
+
+		<li><a href="/desc/http://anat.org/articulations-larynx">Articulations du larynx</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo2-3-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo2-3-2" aria-expanded="false" aria-controls="collapseMyo2-3-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo2-3-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo2-3-2">
+      <div class="panel-body">
+
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/R-arti-cricothyroidienne">Articulation crico-thyroïdienne droite</a></li>
+			<li><a href="/desc/http://anat.org/L-arti-cricothyroidienne">Articulation crico-thyroïdienne gauche</a></li>
+			<li><a href="/desc/http://anat.org/R-arti-cricoarytenoidienne">Articulation crico-aryténoïdienne droite</a></li>
+			<li><a href="/desc/http://anat.org/L-arti-cricoarytenoidienne">Articulation crico-aryténoïdienne gauche</a></li>
+			</ul>
+
+      </div>
+    </div>
+  </div>
+
+		<li><a href="/desc/http://anat.org/ligaments-larynx">Ligaments du larynx</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo2-3-3">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo2-3-3" aria-expanded="false" aria-controls="collapseMyo2-3-3">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo2-3-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo2-3-3">
+      <div class="panel-body">
+
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/ligaments-thyrohyoidiens">Ligaments thyro-hyoïdiens</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/mb-thyrohyoidienne">Membrane thyro-hyoïdienne</a></li>
+				<li><a href="/desc/http://anat.org/lgmt-thyrohyoidien-med">Ligament thyro-hyoïdien médial</a></li>
+				<li><a href="/desc/http://anat.org/R-lgmt-thyrohyoidien-lat">Ligament thyro-hyoïdien latéral droit</a></li>
+				<li><a href="/desc/http://anat.org/L-lgmt-thyrohyoidien-lat">Ligament thyro-hyoïdien latéral gauche</a></li>
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/lgmt-cricothyroidien">Ligament crico-thyroïdien</a></li>
+			<li><a href="/desc/http://anat.org/ligaments-epiglote">Ligaments de l'épiglotte</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/lgmt-hyoepiglotique">Ligament hyo-épiglottique</a></li>
+				<li><a href="/desc/http://anat.org/lgmt-thyroepiglotique">Ligament thyro-épiglottique</a></li>
+				</ul>
+			</li>
+			<li>Ligaments articulaires
+				<ul style="list-style-type:circle">
+				<li>Ligaments articulaires crico-thyroïdiens droits
+					<ul style="list-style-type:circle">
+					<li>Ligament articulaire crico-thyroïdien médial droit</li>
+					<li>Ligament articulaire crico-thyroïdien latéral droit</li>
+					<li>Ligament articulaire crico-thyroïdien antérieur droit</li>
+					<li>Ligament articulaire crico-thyroïdien postérieur droit</li>
+					</ul>
+				</li>
+				<li>Ligaments articulaires crico-thyroïdiens gauches
+					<ul style="list-style-type:circle">
+					<li>Ligament articulaire crico-thyroïdien médial gauche</li>
+					<li>Ligament articulaire crico-thyroïdien latéral gauche</li>
+					<li>Ligament articulaire crico-thyroïdien antérieur gauche</li>
+					<li>Ligament articulaire crico-thyroïdien postérieur gauche</li>
+					</ul>
+				</li>
+				<li>Ligament articulaire crico-aryténoïdien droit</li>
+				<li>Ligament articulaire crico-aryténoïdien gauche</li>
+				</ul>
+			</li>
+			</ul>
+
+      </div>
+    </div>
+  </div>
+
+		<li><a href="/desc/http://anat.org/mb-fibroelastique-larynx">Membrane fibro-élastique du larynx</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo2-3-4">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo2-3-4" aria-expanded="false" aria-controls="collapseMyo2-3-4">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo2-3-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo2-3-4">
+      <div class="panel-body">
+
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/R-mb-fibroelastique-larynx">Membrane fibro-élastique du larynx droite</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mb-quadrangulaire-larynx">Membrane quadrilataire du larynx droite</a></li>
+				<li><a href="/desc/http://anat.org/R-lgmt-vestibulaire">Ligament vestibulaire droit</a></li>
+				<li><a href="/desc/http://anat.org/R-lgmt-vocal">Ligament vocal droit</a></li>
+				<li><a href="/desc/http://anat.org/R-cone-elastique-larynx">Cône élastique du larynx droit</a></li>
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/L-mb-fibroelastique-larynx">Membrane fibro-élastique du larynx gauche</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/L-mb-quadrangulaire-larynx">Membrane quadrilataire du larynx gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-lgmt-vestibulaire">Ligament vestibulaire gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-lgmt-vocal">Ligament vocal gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-cone-elastique-larynx">Cône élastique du larynx gauche</a></li>
+				</ul>
+			</li>
+			</ul>
+
+      </div>
+    </div>
+  </div>
+
+		<li><a href="/desc/http://anat.org/muscles-larynx">Muscles du larynx</a>
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/muscles-extrinseq-larynx">Muscles extrinsèques du larynx</a>
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/muscles-elevatR-larynx">Muscles élévateurs du larynx</a>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo2-3-5-1-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo2-3-5-1-1" aria-expanded="false" aria-controls="collapseMyo2-3-5-1-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo2-3-5-1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo2-3-5-1-1">
+      <div class="panel-body">
+
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/muscles-thyrohyoidien">Muscles thyro-hyoïdiens</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-thyrohyoidien">Muscle thyro-hyoïdien droit</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-thyrohyoidien">Muscle thyro-hyoïdien gauche</a></li>
+						</ul>
+					</li>
+					<li><a href="/desc/http://anat.org/muscles-digastrique">Muscles digastriques</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-digastrique">Muscle digastrique droit</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-digastrique">Muscle digastrique gauche</a></li>
+						</ul>
+					</li>
+					<li><a href="/desc/http://anat.org/muscles-stylohyoidien">Muscles stylo-hyoïdiens</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-stylohyoidien">Muscle stylo-hyoïdien droit</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-stylohyoidien">Muscle stylo-hyoïdien gauche</a></li>
+						</ul>
+					</li>
+					<li><a href="/desc/http://anat.org/muscles-mylohyoidien">Muscles mylo-hyoïdiens</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-mylohyoidien">Muscle mylo-hyoïdien droit</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-mylohyoidien">Muscle mylo-hyoïdien gauche</a></li>
+						</ul>
+					</li>
+					<li><a href="/desc/http://anat.org/muscles-stylopharyngien">Muscles stylo-pharyngiens</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-stylopharyngien">Muscle stylo-pharyngien droit</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-stylopharyngien">Muscle stylo-pharyngien gauche</a></li>
+						</ul>
+					</li>
+					<li><a href="/desc/http://anat.org/arc-palatopharyngien">Arc palato-pharyngien</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-palatopharyngien">Muscle palato-pharyngien droit</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-palatopharyngien">Muscle palato-pharyngien gauche</a></li>
+						</ul>
+					</li>
+					</ul>
+
+      </div>
+    </div>
+  </div>
+
+				<li><a href="/desc/http://anat.org/muscles-abaissR-larynx">Muscles abaisseurs du larynx</a>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo2-3-5-1-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo2-3-5-1-2" aria-expanded="false" aria-controls="collapseMyo2-3-5-1-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo2-3-5-1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo2-3-5-1-2">
+      <div class="panel-body">
+
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/muscles-sternohyoidien">Muscles sterno-hyoïdiens</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-sternohyoidien">Muscle sterno-hyoïdien droit</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-sternohyoidien">Muscle sterno-hyoïdien gauche</a></li>
+						</ul>
+					</li>
+					<li><a href="/desc/http://anat.org/muscles-omohyoidien">Muscles omo-hyoïdiens</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-omohyoidien">Muscle omo-hyoïdien droit</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-omohyoidien">Muscle omo-hyoïdien gauche</a></li>
+						</ul>
+					</li>
+					<li><a href="/desc/http://anat.org/muscles-sternothyroidien">Muscles sterno-thyroïdiens</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-sternothyroidien">Muscle sterno-thyroïdien droit</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-sternothyroidien">Muscle sterno-thyroïdien gauche</a></li>
+						</ul>
+					</li>
+					</ul>
+
+      </div>
+    </div>
+  </div>
+
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/muscles-intrinseq-larynx">Muscles intrinsèques du larynx</a>
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/muscles-aditus-larynge">Muscles de l'aditus laryngé</a>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo2-3-5-2-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo2-3-5-2-1" aria-expanded="false" aria-controls="collapseMyo2-3-5-2-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo2-3-5-2-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo2-3-5-2-1">
+      <div class="panel-body">
+
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/muscles-aryepiglotique">Muscles ary-épiglottiques</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-aryepiglotique">Muscle ary-épiglottique droit</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-aryepiglotique">Muscle ary-épiglottique gauche</a></li>
+						</ul>
+					</li>
+					<li><a href="/desc/http://anat.org/muscles-thyroepiglotique">Muscles thyro-épiglottiques</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-thyroepiglotique">Muscle thyro-épiglottique droit</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-thyroepiglotique">Muscle thyro-épiglottique gauche</a></li>
+						</ul>
+					</li>
+					</ul>
+
+      </div>
+    </div>
+  </div>
+
+				<li><a href="/desc/http://anat.org/muscles-addR-intra-larynx">Muscles adducteurs intrinsèques du larynx</a>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo2-3-5-2-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo2-3-5-2-2" aria-expanded="false" aria-controls="collapseMyo2-3-5-2-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo2-3-5-2-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo2-3-5-2-2">
+      <div class="panel-body">
+
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/mscl-arytenoidien-trsv">Muscle aryténoïdien transverse</a></li>
+					<li><a href="/desc/http://anat.org/mscl-arytenoidien-obliq">Muscle aryténoïdien oblique</a></li>
+					<li><a href="/desc/http://anat.org/muscles-cricoarytenoidien-lat">Muscles crico-aryténoïdiens latéraux</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-cricoarytenoidien-lat">Muscle crico-aryténoïdien latéral droit</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-cricoarytenoidien-lat">Muscle crico-aryténoïdien latéral gauche</a></li>
+						</ul>
+					</li>
+					<li><a href="/desc/http://anat.org/muscles-thyroarytenoidien">Muscles thyro-aryténoïdiens</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-thyroarytenoidien">Muscle thyro-aryténoïdien latéral droit</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-thyroarytenoidien">Muscle thyro-aryténoïdien latéral gauche</a></li>
+						</ul>
+					</li>
+					</ul>
+
+      </div>
+    </div>
+  </div>
+
+				<li><a href="/desc/http://anat.org/muscles-abdR-intra-larynx">Muscles abducteurs intrinsèques du larynx</a>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo2-3-5-2-3">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo2-3-5-2-3" aria-expanded="false" aria-controls="collapseMyo2-3-5-2-3">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo2-3-5-2-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo2-3-5-2-3">
+      <div class="panel-body">
+
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/muscles-cricoarytenoidien-post">Muscles crico-aryténoïdiens postérieurs</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-cricoarytenoidien-post">Muscle crico-aryténoïdien postérieur droit</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-cricoarytenoidien-post">Muscle crico-aryténoïdien postérieur gauche</a></li>
+						</ul>
+					</li>
+					</ul>
+
+      </div>
+    </div>
+  </div>
+
+				<li><a href="/desc/http://anat.org/muscles-tenseurs-lgmts-vocaux">Muscles tenseurs des ligaments vocaux</a>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo2-3-5-2-4">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo2-3-5-2-4" aria-expanded="false" aria-controls="collapseMyo2-3-5-2-4">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo2-3-5-2-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo2-3-5-2-4">
+      <div class="panel-body">
+
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/muscles-cricothyroidien">Muscles crico-thyroïdiens</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-cricothyroidien">Muscle crico-thyroïdien droit</a>
+							<ul style="list-style-type:circle">
+							<li><a href="/desc/http://anat.org/R-mscl-cricothyroidien-chef-droit">Chef droit du muscle crico-thyroïdien droit</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-cricothyroidien-chef-obliq">Chef oblique du muscle crico-thyroïdien droit</a></li>
+							</ul>
+						</li>
+						<li><a href="/desc/http://anat.org/L-mscl-cricothyroidien">Muscle crico-thyroïdien gauche</a>
+							<ul style="list-style-type:circle">
+							<li><a href="/desc/http://anat.org/L-mscl-cricothyroidien-chef-droit">Chef droit du muscle crico-thyroïdien gauche</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-cricothyroidien-chef-obliq">Chef oblique du muscle crico-thyroïdien gauche</a></li>
+							</ul>
+						</li>
+						</ul>
+					</li>
+					<li><a href="/desc/http://anat.org/muscles-vocal">Muscles vocaux</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-vocal">Muscle vocal droit</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-vocal">Muscle vocal gauche</a></li>
+						</ul>
+					</li>
+					</ul>
+
+      </div>
+    </div>
+  </div>
+
+				</ul>
+			</li>
+			</ul>
+		</li>
+		</ul>
+
+      </div>
+    </div>
+  </div>
+
 	<li><a href="/desc/http://anat.org/muscles-cou">Muscles du cou</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo2-4">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo2-4" aria-expanded="false" aria-controls="collapseMyo2-4">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo2-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo2-4">
+      <div class="panel-body">
+
+		<ul style="list-style-type:square">
+		<li><a href="/desc/http://anat.org/muscles-supL-cou">Muscles superficiels du cou</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo2-4-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo2-4-1" aria-expanded="false" aria-controls="collapseMyo2-4-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo2-4-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo2-4-1">
+      <div class="panel-body">
+
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/muscles-platysma">Muscles platysmas</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-platysma">Muscle platysma droit</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-platysma">Muscle platysma gauche</a></li>
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/muscles-scom">Muscles sterno-cléido-mastoïdiens</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-scom">Muscle sterno-cléido-mastoïdien droit</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-scom-chef-sternal">Chef sternal du muscle sterno-cléido-mastoïdien droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-scom-chef-claviculR">Chef claviculaire du muscle sterno-cléido-mastoïdien droit</a></li>
+					</ul>
+				<li><a href="/desc/http://anat.org/L-mscl-scom">Muscle sterno-cléido-mastoïdien gauche</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/L-mscl-scom-chef-sternal">Chef sternal du muscle sterno-cléido-mastoïdien gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-scom-chef-claviculR">Chef claviculaire du muscle sterno-cléido-mastoïdien gauche</a></li>
+					</ul>
+				</ul>
+			</li>
+			</ul>
+      </div>
+    </div>
+  </div>
+
+		<li><a href="/desc/http://anat.org/muscles-intermed-cou">Muscles intermédiaires du cou</a></li>
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/muscles-supra-hyoidiens">Muscles supra hyoïdiens</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo2-4-2-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo2-4-2-1" aria-expanded="false" aria-controls="collapseMyo2-4-2-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo2-4-2-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo2-4-2-1">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/muscles-digastrique">Muscles digastriques</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-digastrique">Muscle digastrique droit</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-digastrique-fx-post">Faisceau postérieur du muscle digastrique droit</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-digastrique-fx-ant">Faisceau antérieur du muscle digastrique droit</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-digastrique-td-central">Tendon central du muscle digastrique droit</a></li>
+						<li><a href="/desc/http://anat.org/R-poulie-fbse-mscl-digastrique">Poulie fibreuse du muscle digastrique droit</a></li>
+						</ul>
+					<li><a href="/desc/http://anat.org/L-mscl-digastrique">Muscle digastrique gauche</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/L-mscl-digastrique-fx-post">Faisceau postérieur du muscle digastrique gauche</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-digastrique-fx-ant">Faisceau antérieur du muscle digastrique gauche</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-digastrique-td-central">Tendon central du muscle digastrique gauche</a></li>
+						<li><a href="/desc/http://anat.org/L-poulie-fbse-mscl-digastrique">Poulie fibreuse du muscle digastrique gauche</a></li>
+						</ul>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-stylohyoidien">Muscles stylo-hyoïdiens</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-stylohyoidien">Muscle stylo-hyoïdien droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-stylohyoidien">Muscle stylo-hyoïdien gauche</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-mylohyoidien">Muscles mylo-hyoïdiens</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-mylohyoidien">Muscle mylo-hyoïdien droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-mylohyoidien">Muscle mylo-hyoïdien gauche</a></li>
+					<li><a href="/desc/http://anat.org/raphe-median-mylohyoidien">Raphé médian des muscles mylo-hyoïdiens</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-geniohyoidien">Muscles genio-hyoïdiens</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-geniohyoidien">Muscle genio-hyoïdien droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-geniohyoidien">Muscle genio-hyoïdien gauche</a></li>
+					<li><a href="/desc/http://anat.org/septum-inter-geniohyoidien">Septum intergenio-hyoïdien</a></li>
+					</ul>
+				</li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			<li><a href="/desc/http://anat.org/muscles-infra-hyoidiens">Muscles infra hyoïdiens</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo2-4-2-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo2-4-2-2" aria-expanded="false" aria-controls="collapseMyo2-4-2-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo2-4-2-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo2-4-2-2">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/muscles-sternohyoidien">Muscles sterno-hyoïdiens</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-sternohyoidien">Muscle sterno-hyoïdien droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-sternohyoidien">Muscle sterno-hyoïdien gauche</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-omohyoidien">Muscles omo-hyoïdiens</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-omohyoidien">Muscle omo-hyoïdien droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-omohyoidien">Muscle omo-hyoïdien gauche</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-sternothyroidien">Muscles sterno-thyroïdiens</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-sternothyroidien">Muscle sterno-thyroïdien droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-sternothyroidien">Muscle sterno-thyroïdien gauche</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-thyrohyoidien">Muscles thyro-hyoïdiens</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-thyrohyoidien">Muscle thyro-hyoïdien droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-thyrohyoidien">Muscle thyro-hyoïdien gauche</a></li>
+					</ul>
+				</li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			</ul>
+		</li>
+		<li><a href="/desc/http://anat.org/muscles-pfd-cou">Muscles profonds du cou</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo2-4-3">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo2-4-3" aria-expanded="false" aria-controls="collapseMyo2-4-3">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo2-4-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo2-4-3">
+      <div class="panel-body">
+
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/muscles-lg-cou">Muscles longs du cou</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-lg-cou">Muscle long du cou droit</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-lg-cou-fx-med">Faisceau médian du muscle long du cou droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-lg-cou-fx-obliq-cranial">Faisceau oblique crânial du muscle long du cou droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-lg-cou-fx-obliq-caudal">Faisceau oblique caudal du muscle long du cou droit</a></li>
+					</ul>
+				<li><a href="/desc/http://anat.org/L-mscl-lg-cou">Muscle long du cou gauche</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/L-mscl-lg-cou-fx-med">Faisceau médian du muscle long du cou gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-lg-cou-fx-obliq-cranial">Faisceau oblique crânial du muscle long du cou gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-lg-cou-fx-obliq-caudal">Faisceau oblique caudal du muscle long du cou gauche</a></li>
+					</ul>
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/muscles-lg-tete">Muscles longs de la tête</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-lg-tete">Muscle long de la tête gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-lg-tete">Muscle long de la tête gauche</a></li>
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/muscles-scalenes">Muscles scalènes</a>
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/muscles-scalene-ant">Muscles scalènes antérieurs</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-scalene-ant">Muscle scalène antérieur droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-scalene-ant">Muscle scalène antérieur gauche</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-scalene-moy">Muscles scalènes moyens</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-scalene-moy">Muscle scalène moyen droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-scalene-moy">Muscle scalène moyen gauche</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-scalene-post">Muscles scalènes postérieurs</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-scalene-post">Muscle scalène postérieur droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-scalene-post">Muscle scalène postérieur gauche</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-pt-scalene">Muscles petits scalènes</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-pt-scalene">Muscle petit scalène droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-pt-scalene">Muscle petit scalène gauche</a></li>
+					</ul>
+				</li>
+				</ul>
+			</li>
+			</ul>
+
+      </div>
+    </div>
+  </div>
+
+		</ul>
+
+      </div>
+    </div>
+  </div>
+
 	</ul>
 
       </div>

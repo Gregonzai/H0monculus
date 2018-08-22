@@ -6025,7 +6025,7 @@ anat:muscles-abaissR-larynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/an
 anat:muscles-intrinseq-larynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=0L5DWXaeGXjeaSD891y8Hf8j> .
 anat:muscles-aditus-larynge	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=XH5Tfy1nuyODea4ve8CGT19j> .
 anat:muscles-aryepiglottique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=j8rmeKyS1XXzeiia8jnCeGTv> .
-anat:muscles-thyroepiglottique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ieGjCuO9PnOnym8Deu9zeWLH > .
+anat:muscles-thyroepiglottique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ieGjCuO9PnOnym8Deu9zeWLH> .
 anat:R-mscl-aryepiglottique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=vqSXjijea0TbrO5bK5TnCWDi> .
 anat:R-mscl-thyroepiglottique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=v091jaiy4LTP5r89bCbC4PrG> .
 anat:L-mscl-aryepiglottique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Dmu4raeay8PrqGP1HTPLT1DC> .

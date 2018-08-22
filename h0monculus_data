@@ -4571,7 +4571,7 @@ anat:muscles-intrinseques-langue	rdf:type	anat:groupe-musculaire .
 anat:muscles-genioglosse	rdf:type	anat:muscle .
 anat:muscles-hyoglosse	rdf:type	anat:muscle .
 anat:muscles-chondroglosse	rdf:type	anat:muscle .
-anat:muscles-stiloglosse	rdf:type	anat:muscle .
+anat:muscles-styloglosse	rdf:type	anat:muscle .
 anat:muscles-lgtudinal-sup-langue	rdf:type	anat:muscle .
 anat:muscles-lgtudinal-inf-langue	rdf:type	anat:muscle .
 anat:muscles-trsv-langue	rdf:type	anat:muscle .
@@ -4579,7 +4579,7 @@ anat:muscles-verti-langue	rdf:type	anat:muscle .
 anat:R-mscl-genioglosse	rdf:type	anat:muscle .
 anat:R-mscl-hyoglosse	rdf:type	anat:muscle .
 anat:R-mscl-chondroglosse	rdf:type	anat:muscle .
-anat:R-mscl-stiloglosse	rdf:type	anat:muscle .
+anat:R-mscl-styloglosse	rdf:type	anat:muscle .
 anat:R-mscl-lgtudinal-sup-langue	rdf:type	anat:muscle .
 anat:R-mscl-lgtudinal-inf-langue	rdf:type	anat:muscle .
 anat:R-mscl-trsv-langue	rdf:type	anat:muscle .
@@ -4587,7 +4587,7 @@ anat:R-mscl-verti-langue	rdf:type	anat:muscle .
 anat:L-mscl-genioglosse	rdf:type	anat:muscle .
 anat:L-mscl-hyoglosse	rdf:type	anat:muscle .
 anat:L-mscl-chondroglosse	rdf:type	anat:muscle .
-anat:L-mscl-stiloglosse	rdf:type	anat:muscle .
+anat:L-mscl-styloglosse	rdf:type	anat:muscle .
 anat:L-mscl-lgtudinal-sup-langue	rdf:type	anat:muscle .
 anat:L-mscl-lgtudinal-inf-langue	rdf:type	anat:muscle .
 anat:L-mscl-trsv-langue	rdf:type	anat:muscle .
@@ -4600,7 +4600,7 @@ anat:langue	anat:comprend	anat:muscles-intrinseques-langue .
 anat:muscles-extrinseques-langue	anat:comprend	anat:muscles-genioglosse .
 anat:muscles-extrinseques-langue	anat:comprend	anat:muscles-hyoglosse .
 anat:muscles-extrinseques-langue	anat:comprend	anat:muscles-chondroglosse .
-anat:muscles-extrinseques-langue	anat:comprend	anat:muscles-stiloglosse .
+anat:muscles-extrinseques-langue	anat:comprend	anat:muscles-styloglosse .
 anat:muscles-extrinseques-langue	anat:comprend	anat:arc-palatoglosse .
 anat:muscles-intrinseques-langue	anat:comprend	anat:muscles-lgtudinal-sup-langue .
 anat:muscles-intrinseques-langue	anat:comprend	anat:muscles-lgtudinal-inf-langue .
@@ -4612,8 +4612,8 @@ anat:muscles-hyoglosse	anat:comprend	anat:R-mscl-hyoglosse .
 anat:muscles-hyoglosse	anat:comprend	anat:L-mscl-hyoglosse .
 anat:muscles-chondroglosse	anat:comprend	anat:R-mscl-chondroglosse .
 anat:muscles-chondroglosse	anat:comprend	anat:L-mscl-chondroglosse .
-anat:muscles-stiloglosse	anat:comprend	anat:R-mscl-stiloglosse .
-anat:muscles-stiloglosse	anat:comprend	anat:L-mscl-stiloglosse .
+anat:muscles-styloglosse	anat:comprend	anat:R-mscl-styloglosse .
+anat:muscles-styloglosse	anat:comprend	anat:L-mscl-styloglosse .
 anat:muscles-lgtudinal-sup-langue	anat:comprend	anat:R-mscl-lgtudinal-sup-langue .
 anat:muscles-lgtudinal-sup-langue	anat:comprend	anat:L-mscl-lgtudinal-sup-langue .
 anat:muscles-lgtudinal-inf-langue	anat:comprend	anat:R-mscl-lgtudinal-inf-langue .
@@ -4631,9 +4631,9 @@ anat:R-mscl-hyoglosse	anat:termi-insere-sur	anat:langue .
 anat:R-mscl-chondroglosse	anat:origi-insere-sur	anat:os-hyoide .
 anat:R-mscl-chondroglosse	anat:termi-insere-sur	anat:langue .
 anat:R-mscl-chondroglosse	anat:termi-insere-sur	anat:R-mscl-genioglosse .
-anat:R-mscl-stiloglosse	anat:origi-insere-sur	anat:R-temporal .
-anat:R-mscl-stiloglosse	anat:origi-insere-sur	anat:R-lgmt-stilomandibulaire  .
-anat:R-mscl-stiloglosse	anat:termi-insere-sur	anat:langue .
+anat:R-mscl-styloglosse	anat:origi-insere-sur	anat:R-temporal .
+anat:R-mscl-styloglosse	anat:origi-insere-sur	anat:R-lgmt-stylomandibulaire  .
+anat:R-mscl-styloglosse	anat:termi-insere-sur	anat:langue .
 anat:R-mscl-lgtudinal-sup-langue	anat:origi-insere-sur	anat:os-hyoide .
 anat:R-mscl-lgtudinal-sup-langue	anat:termi-insere-sur	anat:muqueuse-apex-langue .
 anat:R-mscl-lgtudinal-inf-langue	anat:origi-insere-sur	anat:os-hyoide .
@@ -4648,9 +4648,9 @@ anat:L-mscl-hyoglosse	anat:termi-insere-sur	anat:langue .
 anat:L-mscl-chondroglosse	anat:origi-insere-sur	anat:os-hyoide .
 anat:L-mscl-chondroglosse	anat:termi-insere-sur	anat:langue .
 anat:L-mscl-chondroglosse	anat:termi-insere-sur	anat:L-mscl-genioglosse .
-anat:L-mscl-stiloglosse	anat:origi-insere-sur	anat:L-temporal .
-anat:L-mscl-stiloglosse	anat:origi-insere-sur	anat:L-lgmt-stilomandibulaire  .
-anat:L-mscl-stiloglosse	anat:termi-insere-sur	anat:langue .
+anat:L-mscl-styloglosse	anat:origi-insere-sur	anat:L-temporal .
+anat:L-mscl-styloglosse	anat:origi-insere-sur	anat:L-lgmt-stylomandibulaire  .
+anat:L-mscl-styloglosse	anat:termi-insere-sur	anat:langue .
 anat:L-mscl-lgtudinal-sup-langue	anat:origi-insere-sur	anat:os-hyoide .
 anat:L-mscl-lgtudinal-sup-langue	anat:termi-insere-sur	anat:muqueuse-apex-langue .
 anat:L-mscl-lgtudinal-inf-langue	anat:origi-insere-sur	anat:os-hyoide .
@@ -4665,7 +4665,7 @@ anat:muscles-intrinseques-langue	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/A
 anat:muscles-genioglosse	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ry89b81vOrmmyuGjyOuqSz8n> .
 anat:muscles-hyoglosse	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=n0femWqyeueq8HDuu48jGDWf> .
 #anat:muscles-chondroglosse	anat:hasImage3D	<> .
-anat:muscles-stiloglosse	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=rWbCyCa8zimSC8X1nGObS5D0> .
+anat:muscles-styloglosse	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=rWbCyCa8zimSC8X1nGObS5D0> .
 anat:muscles-lgtudinal-sup-langue	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=W9LTjGOv8X1D0jOPLfeiaqCS> .
 anat:muscles-lgtudinal-inf-langue	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=05XD4fbKPj4Lyi0LXbuy89Hb> .
 anat:muscles-trsv-langue	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=CiKn0Tny8bWfvuCCiuLn8T55> .
@@ -4673,7 +4673,7 @@ anat:muscles-verti-langue	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/anim
 anat:R-mscl-genioglosse	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=zeuKH9ym8b8bai0vWrPL9LPL> .
 anat:R-mscl-hyoglosse	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=bequ4TTXPf4bL5DqCaWHTL1X> .
 #anat:R-mscl-chondroglosse	anat:hasImage3D	<> .
-anat:R-mscl-stiloglosse	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=1Xvqiuee4DC8bi0D0f4Hr8nK> .
+anat:R-mscl-styloglosse	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=1Xvqiuee4DC8bi0D0f4Hr8nK> .
 anat:R-mscl-lgtudinal-sup-langue	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=SrmCyWSzmOf8uiuaauGf0bGT> .
 anat:R-mscl-lgtudinal-inf-langue	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=TDKjeeqa81bG9XfaOf9v4jSL> .
 anat:R-mscl-trsv-langue	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=yGnCSbf0jiuWDe8b0PbyiG9z> .
@@ -4681,7 +4681,7 @@ anat:R-mscl-verti-langue	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/anima
 anat:L-mscl-genioglosse	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ym4TbKqeW5DiGzC0biLLT5HD> .
 anat:L-mscl-hyoglosse	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=01bOnGGjaqayXD8LXjuuSz4n> .
 #anat:L-mscl-chondroglosse	anat:hasImage3D	<> .
-anat:L-mscl-stiloglosse	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=bmSbGL4fmG5HDuaSreTnGDOT> .
+anat:L-mscl-styloglosse	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=bmSbGL4fmG5HDuaSreTnGDOT> .
 anat:L-mscl-lgtudinal-sup-langue	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=KzeumuriiSPjOL1zyqCq8Xba> .
 anat:L-mscl-lgtudinal-inf-langue	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=95PHzW1ve05zGP9faObyGzGT> .
 anat:L-mscl-trsv-langue	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=99XLPrm01fS5aemi85HT1PnO> .
@@ -4693,7 +4693,7 @@ anat:muscles-intrinseques-langue	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3
 anat:muscles-genioglosse	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=zqCOH5WX9vWH4T1P91OHv4fu> .
 anat:muscles-hyoglosse	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=PPvumi559jGbOzCyCKyGrKv8> .
 #anat:muscles-chondroglosse	anat:has3DmodelURL	<> .
-anat:muscles-stiloglosse	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=5vq4zy1HD4fu5nGrGzrKPbqO> .
+anat:muscles-styloglosse	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=5vq4zy1HD4fu5nGrGzrKPbqO> .
 anat:muscles-lgtudinal-sup-langue	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=CKLnGLiO1f85iKbyeC5bqCey> .
 anat:muscles-lgtudinal-inf-langue	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=ii49Dq8TTD0DjC0naKaSXPvq> .
 anat:muscles-trsv-langue	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=j4XrKfCaqyGLmm89zW0D8n4H> .
@@ -4701,7 +4701,7 @@ anat:muscles-verti-langue	anat:has3DmodelURL	<> .
 anat:R-mscl-genioglosse	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=1beG5DOTDeue8XPzGP8H1DGf> .
 anat:R-mscl-hyoglosse	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=19nWTn1T5fKTC8DS1TrSHbCK> .
 #anat:R-mscl-chondroglosse	anat:has3DmodelURL	<> .
-anat:R-mscl-stiloglosse	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=PPPrCOqG9vCO1nW15bmeGfuW> .
+anat:R-mscl-styloglosse	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=PPPrCOqG9vCO1nW15bmeGfuW> .
 anat:R-mscl-lgtudinal-sup-langue	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=auWXX5vmqm8beGLfWzfeG51f> .
 anat:R-mscl-lgtudinal-inf-langue	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=STLjq8e0vG9fPnq0jemaaWL9> .
 anat:R-mscl-trsv-langue	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=1DiiCau0fGLf85DWTnz0bWH5> .
@@ -4709,7 +4709,7 @@ anat:R-mscl-verti-langue	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?short
 anat:L-mscl-genioglosse	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=TvKj8PT9DSD0OfS5PHSHPLzy> .
 anat:L-mscl-hyoglosse	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=SjyamSb4jCuaOvKfWXeu0rS1> .
 #anat:L-mscl-chondroglosse	anat:has3DmodelURL	<> .
-anat:L-mscl-stiloglosse	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=qGTzSPieWvmm1L9ja8eCCGjq> .
+anat:L-mscl-styloglosse	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=qGTzSPieWvmm1L9ja8eCCGjq> .
 anat:L-mscl-lgtudinal-sup-langue	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=naWnyaqye4zy0jmeKHKLT1fq> .
 anat:L-mscl-lgtudinal-inf-langue	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=DKj8LLKHv41La8HDGLnuumei> .
 anat:L-mscl-trsv-langue	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=GTDGf0bayWXL5rGDWfvami85> .
@@ -4722,7 +4722,7 @@ anat:muscles-intrinseques-langue	rdfs:label	"Muscles intrinsèques de la langue"
 anat:muscles-genioglosse	rdfs:label	"Muscles genioglosses" .
 anat:muscles-hyoglosse	rdfs:label	"Muscles hyoglosses" .
 anat:muscles-chondroglosse	rdfs:label	"Muscles chondroglosses" .
-anat:muscles-stiloglosse	rdfs:label	"Muscles stiloglosses" .
+anat:muscles-styloglosse	rdfs:label	"Muscles styloglosses" .
 anat:muscles-lgtudinal-sup-langue	rdfs:label	"Muscles longitudinaux supérieurs de la langue" .
 anat:muscles-lgtudinal-inf-langue	rdfs:label	"Muscles longitudinaux inférieurs de la langue" .
 anat:muscles-trsv-langue	rdfs:label	"Muscles transversaux de la langue" .
@@ -4730,7 +4730,7 @@ anat:muscles-verti-langue	rdfs:label	"Muscles verticaux de la langue" .
 anat:R-mscl-genioglosse	rdfs:label	"Muscle genioglosse droit" .
 anat:R-mscl-hyoglosse	rdfs:label	"Muscle hyoglosse droit" .
 anat:R-mscl-chondroglosse	rdfs:label	"Muscle chondroglosse droit" .
-anat:R-mscl-stiloglosse	rdfs:label	"Muscle stiloglosse droit" .
+anat:R-mscl-styloglosse	rdfs:label	"Muscle styloglosse droit" .
 anat:R-mscl-lgtudinal-sup-langue	rdfs:label	"Muscle longitudinal supérieur droit de la langue" .
 anat:R-mscl-lgtudinal-inf-langue	rdfs:label	"Muscle longitudinal inférieur droit de la langue" .
 anat:R-mscl-trsv-langue	rdfs:label	"Muscle transversal droit de la langue" .
@@ -4738,7 +4738,7 @@ anat:R-mscl-verti-langue	rdfs:label	"Muscle longitudinal droit de la langue" .
 anat:L-mscl-genioglosse	rdfs:label	"Muscle genioglosse gauche" .
 anat:L-mscl-hyoglosse	rdfs:label	"Muscle hyoglosse gauche" .
 anat:L-mscl-chondroglosse	rdfs:label	"Muscle chondroglosse gauche" .
-anat:L-mscl-stiloglosse	rdfs:label	"Muscle stiloglosse gauche" .
+anat:L-mscl-styloglosse	rdfs:label	"Muscle styloglosse gauche" .
 anat:L-mscl-lgtudinal-sup-langue	rdfs:label	"Muscle longitudinal supérieur gauche de la langue" .
 anat:L-mscl-lgtudinal-inf-langue	rdfs:label	"Muscle longitudinal inférieur gauche de la langue" .
 anat:L-mscl-trsv-langue	rdfs:label	"Muscle transversal gauche de la langue" .
@@ -5028,13 +5028,13 @@ anat:R-mscl-constricteur-sup-pharynx	anat:origi-insere-sur	anat:R-raphe-pterigom
 anat:R-mscl-constricteur-sup-pharynx	anat:origi-insere-sur	anat:langue .
 anat:R-mscl-constricteur-sup-pharynx	anat:termi-insere-sur	anat:raphe-pharynx .
 anat:R-mscl-constricteur-moy-pharynx	anat:origi-insere-sur	anat:os-hyoide .
-anat:R-mscl-constricteur-moy-pharynx	anat:origi-insere-sur	anat:R-lgmt-stilohyoidien .
+anat:R-mscl-constricteur-moy-pharynx	anat:origi-insere-sur	anat:R-lgmt-stylohyoidien .
 anat:R-mscl-constricteur-moy-pharynx	anat:termi-insere-sur	anat:raphe-pharynx .
 anat:R-mscl-constricteur-inf-pharynx	anat:origi-insere-sur	anat:cartilage-thyroide .
 anat:R-mscl-constricteur-inf-pharynx	anat:origi-insere-sur	anat:cartilage-cricoide .
 anat:R-mscl-constricteur-inf-pharynx	anat:termi-insere-sur	anat:raphe-pharynx .
 anat:R-mscl-stylopharyngien	anat:origi-insere-sur	anat:R-temporal .
-anat:R-mscl-stylopharyngien	anat:origi-insere-sur	anat:R-fascia-pterigobasilR .
+anat:R-mscl-stylopharyngien	anat:origi-insere-sur	anat:R-fascia-pharyngobasilR .
 anat:R-mscl-stylopharyngien	anat:termi-insere-sur	anat:epiglote .
 anat:R-mscl-stylopharyngien	anat:termi-insere-sur	anat:cartilage-thyroide .
 anat:R-mscl-salpingopharyngien	anat:origi-insere-sur	anat:R-cartilage-tubaire .
@@ -5045,13 +5045,13 @@ anat:L-mscl-constricteur-sup-pharynx	anat:origi-insere-sur	anat:L-raphe-pterigom
 anat:L-mscl-constricteur-sup-pharynx	anat:origi-insere-sur	anat:langue .
 anat:L-mscl-constricteur-sup-pharynx	anat:termi-insere-sur	anat:raphe-pharynx .
 anat:L-mscl-constricteur-moy-pharynx	anat:origi-insere-sur	anat:os-hyoide .
-anat:L-mscl-constricteur-moy-pharynx	anat:origi-insere-sur	anat:L-lgmt-stilohyoidien .
+anat:L-mscl-constricteur-moy-pharynx	anat:origi-insere-sur	anat:L-lgmt-stylohyoidien .
 anat:L-mscl-constricteur-moy-pharynx	anat:termi-insere-sur	anat:raphe-pharynx .
 anat:L-mscl-constricteur-inf-pharynx	anat:origi-insere-sur	anat:cartilage-thyroide .
 anat:L-mscl-constricteur-inf-pharynx	anat:origi-insere-sur	anat:cartilage-cricoide .
 anat:L-mscl-constricteur-inf-pharynx	anat:termi-insere-sur	anat:raphe-pharynx .
 anat:L-mscl-stylopharyngien	anat:origi-insere-sur	anat:L-temporal .
-anat:L-mscl-stylopharyngien	anat:origi-insere-sur	anat:L-fascia-pterigobasilR .
+anat:L-mscl-stylopharyngien	anat:origi-insere-sur	anat:L-fascia-pharyngobasilR .
 anat:L-mscl-stylopharyngien	anat:termi-insere-sur	anat:epiglote .
 anat:L-mscl-stylopharyngien	anat:termi-insere-sur	anat:cartilage-thyroide .
 anat:L-mscl-salpingopharyngien	anat:origi-insere-sur	anat:L-cartilage-tubaire .
@@ -5104,7 +5104,7 @@ anat:muscles-salpingopharyngien	rdfs:label	"Muscles salpingo-pharyngiens" .
 anat:R-mscl-constricteur-sup-pharynx	rdfs:label	"Muscle constricteur supérieur du pharynx droit" .
 anat:R-mscl-constricteur-moy-pharynx	rdfs:label	"Muscle constricteur moyen du pharynx droit" .
 anat:R-mscl-constricteur-inf-pharynx	rdfs:label	"Muscle constricteur inférieur du pharynx droit" .
-anat:R-mscl-stilopharyngien	rdfs:label	"Muscle stylo-pharyngien droit" .
+anat:R-mscl-stylopharyngien	rdfs:label	"Muscle stylo-pharyngien droit" .
 anat:R-mscl-salpingopharyngien	rdfs:label	"Muscle salpingo-pharyngien droit" .
 anat:L-mscl-constricteur-sup-pharynx	rdfs:label	"Muscle constricteur supérieur du pharynx gauche" .
 anat:L-mscl-constricteur-moy-pharynx	rdfs:label	"Muscle constricteur moyen du pharynx gauche" .
@@ -5112,4 +5112,1120 @@ anat:L-mscl-constricteur-inf-pharynx	rdfs:label	"Muscle constricteur inférieur 
 anat:L-mscl-stylopharyngien	rdfs:label	"Muscle stylo-pharyngien gauche" .
 anat:L-mscl-salpingopharyngien	rdfs:label	"Muscle salpingo-pharyngien gauche" .
 anat:raphe-pharynx	rdfs:label	"Raphé du pharynx" .
+
+anat:muscles-cou	rdf:type	anat:groupe-musculaire .
+anat:muscles-supL-cou	rdf:type	anat:groupe-musculaire .
+anat:muscles-platysma	rdf:type	anat:muscle .
+anat:muscles-scom	rdf:type	anat:muscle .
+anat:R-mscl-platysma	rdf:type	anat:muscle .
+anat:R-mscl-scom	rdf:type	anat:muscle .
+anat:R-mscl-scom-chef-sternal	rdf:type	anat:chef-musculaire .
+anat:R-mscl-scom-chef-claviculR	rdf:type	anat:chef-musculaire .
+anat:L-mscl-platysma	rdf:type	anat:muscle .
+anat:L-mscl-scom	rdf:type	anat:muscle .
+anat:L-mscl-scom-chef-sternal	rdf:type	anat:chef-musculaire .
+anat:L-mscl-scom-chef-claviculR	rdf:type	anat:chef-musculaire .
+anat:muscles-intermed-cou	rdf:type	anat:groupe-musculaire .
+anat:muscles-supra-hyoidiens	rdf:type	anat:groupe-musculaire .
+anat:muscles-digastrique	rdf:type	anat:muscle .
+anat:muscles-stylohyoidien	rdf:type	anat:muscle .
+anat:muscles-mylohyoidien	rdf:type	anat:muscle .
+anat:muscles-geniohyoidien	rdf:type	anat:muscle .
+anat:R-mscl-digastrique	rdf:type	anat:muscle .
+anat:R-mscl-digastrique-fx-post	rdf:type	anat:chef-musculaire .
+anat:R-mscl-digastrique-fx-ant	rdf:type	anat:chef-musculaire .
+anat:R-mscl-digastrique-td-central	rdf:type	anat:tendon .
+anat:R-poulie-fbse-mscl-digastrique	rdf:type	anat:structure-fibreuse .
+anat:R-mscl-stylohyoidien	rdf:type	anat:muscle .
+anat:R-mscl-mylohyoidien	rdf:type	anat:muscle .
+anat:raphe-median-mylohyoidien	rdf:type	anat:structure-fibreuse .
+anat:R-mscl-geniohyoidien	rdf:type	anat:muscle .
+anat:septum-inter-geniohyoidien	rdf:type	anat:structure-fibreuse .
+anat:L-mscl-digastrique	rdf:type	anat:muscle .
+anat:L-mscl-digastrique-fx-post	rdf:type	anat:chef-musculaire .
+anat:L-mscl-digastrique-fx-ant	rdf:type	anat:chef-musculaire .
+anat:L-mscl-digastrique-td-central	rdf:type	anat:tendon .
+anat:L-poulie-fbse-mscl-digastrique	rdf:type	anat:structure-fibreuse .
+anat:L-mscl-stylohyoidien	rdf:type	anat:muscle .
+anat:L-mscl-mylohyoidien	rdf:type	anat:muscle .
+anat:L-mscl-geniohyoidien	rdf:type	anat:muscle .
+anat:muscles-infra-hyoidiens	rdf:type	anat:groupe-musculaire .
+anat:muscles-sternohyoidien	rdf:type	anat:muscle .
+anat:muscles-omohyoidien	rdf:type	anat:muscle .
+anat:muscles-sternothyroidien	rdf:type	anat:muscle .
+anat:muscles-thyrohyoidien	rdf:type	anat:muscle .
+anat:R-mscl-sternohyoidien	rdf:type	anat:muscle .
+anat:R-mscl-omohyoidien	rdf:type	anat:muscle .
+anat:R-mscl-sternothyroidien	rdf:type	anat:muscle .
+anat:R-mscl-thyrohyoidien	rdf:type	anat:muscle .
+anat:L-mscl-sternohyoidien	rdf:type	anat:muscle .
+anat:L-mscl-omohyoidien	rdf:type	anat:muscle .
+anat:L-mscl-sternothyroidien	rdf:type	anat:muscle .
+anat:L-mscl-thyrohyoidien	rdf:type	anat:muscle .
+anat:muscles-pfd-cou	rdf:type	anat:groupe-musculaire .
+anat:muscles-lg-cou	rdf:type	anat:muscle .
+anat:muscles-lg-tete	rdf:type	anat:muscle .
+anat:muscles-scalenes	rdf:type	anat:groupe-musculaire .
+anat:R-mscl-lg-cou	rdf:type	anat:muscle .
+anat:R-mscl-lg-cou-fx-med	rdf:type	anat:chef-musculaire .
+anat:R-mscl-lg-cou-fx-obliq-cranial	rdf:type	anat:chef-musculaire .
+anat:R-mscl-lg-cou-fx-obliq-caudal	rdf:type	anat:chef-musculaire .
+anat:R-mscl-lg-tete	rdf:type	anat:muscle .
+anat:L-mscl-lg-cou	rdf:type	anat:muscle .
+anat:L-mscl-lg-cou-fx-med	rdf:type	anat:chef-musculaire .
+anat:L-mscl-lg-cou-fx-obliq-cranial	rdf:type	anat:chef-musculaire .
+anat:L-mscl-lg-cou-fx-obliq-caudal	rdf:type	anat:chef-musculaire .
+anat:L-mscl-lg-tete	rdf:type	anat:muscle .
+anat:muscles-scalene-ant	rdf:type	anat:muscle .
+anat:muscles-scalene-moy	rdf:type	anat:muscle .
+anat:muscles-scalene-post	rdf:type	anat:muscle .
+anat:muscles-pt-scalene	rdf:type	anat:muscle .
+anat:R-mscl-scalene-ant	rdf:type	anat:muscle .
+anat:R-mscl-scalene-moy	rdf:type	anat:muscle .
+anat:R-mscl-scalene-post	rdf:type	anat:muscle .
+anat:R-mscl-pt-scalene	rdf:type	anat:muscle .
+anat:L-mscl-scalene-ant	rdf:type	anat:muscle .
+anat:L-mscl-scalene-moy	rdf:type	anat:muscle .
+anat:L-mscl-scalene-post	rdf:type	anat:muscle .
+anat:L-mscl-pt-scalene	rdf:type	anat:muscle .
+		
+anat:muscles-cou	anat:comprend	anat:muscles-supL-cou .
+anat:muscles-cou	anat:comprend	anat:muscles-intermed-cou .
+anat:muscles-cou	anat:comprend	anat:muscles-pfd-cou .
+anat:muscles-supL-cou	anat:comprend	anat:muscles-platysma .
+anat:muscles-supL-cou	anat:comprend	anat:muscles-scom .
+anat:muscles-platysma	anat:comprend	anat:R-mscl-platysma .
+anat:muscles-platysma	anat:comprend	anat:L-mscl-platysma .
+anat:muscles-scom	anat:comprend	anat:R-mscl-scom .
+anat:muscles-scom	anat:comprend	anat:L-mscl-scom .
+anat:R-mscl-scom	anat:comprend	anat:R-mscl-scom-chef-sternal .
+anat:R-mscl-scom	anat:comprend	anat:R-mscl-scom-chef-claviculR .
+anat:L-mscl-scom	anat:comprend	anat:L-mscl-scom-chef-sternal .
+anat:L-mscl-scom	anat:comprend	anat:L-mscl-scom-chef-claviculR .
+anat:muscles-intermed-cou	anat:comprend	anat:muscles-supra-hyoidiens .
+anat:muscles-intermed-cou	anat:comprend	anat:muscles-infra-hyoidiens .
+anat:muscles-supra-hyoidiens	anat:comprend	anat:muscles-digastrique .
+anat:muscles-supra-hyoidiens	anat:comprend	anat:muscles-stylohyoidien .
+anat:muscles-supra-hyoidiens	anat:comprend	anat:muscles-mylohyoidien .
+anat:muscles-supra-hyoidiens	anat:comprend	anat:muscles-geniohyoidien .
+anat:muscles-digastrique	anat:comprend	anat:R-mscl-digastrique .
+anat:muscles-digastrique	anat:comprend	anat:L-mscl-digastrique .
+anat:muscles-stylohyoidien	anat:comprend	anat:R-mscl-stylohyoidien .
+anat:muscles-stylohyoidien	anat:comprend	anat:L-mscl-stylohyoidien .
+anat:muscles-mylohyoidien	anat:comprend	anat:R-mscl-mylohyoidien .
+anat:muscles-mylohyoidien	anat:comprend	anat:L-mscl-mylohyoidien .
+anat:muscles-geniohyoidien	anat:comprend	anat:R-mscl-geniohyoidien .
+anat:muscles-geniohyoidien	anat:comprend	anat:L-mscl-geniohyoidien .
+anat:muscles-infra-hyoidiens	anat:comprend	anat:muscles-sternohyoidien .
+anat:muscles-infra-hyoidiens	anat:comprend	anat:muscles-omohyoidien .
+anat:muscles-infra-hyoidiens	anat:comprend	anat:muscles-sternothyroidien .
+anat:muscles-infra-hyoidiens	anat:comprend	anat:muscles-thyrohyoidien .
+anat:muscles-sternohyoidien	anat:comprend	anat:R-mscl-sternohyoidien .
+anat:muscles-sternohyoidien	anat:comprend	anat:L-mscl-sternohyoidien .
+anat:muscles-omohyoidien	anat:comprend	anat:R-mscl-omohyoidien .
+anat:muscles-omohyoidien	anat:comprend	anat:L-mscl-omohyoidien .
+anat:muscles-sternothyroidien	anat:comprend	anat:R-mscl-sternothyroidien .
+anat:muscles-sternothyroidien	anat:comprend	anat:L-mscl-sternothyroidien .
+anat:muscles-thyrohyoidien	anat:comprend	anat:R-mscl-thyrohyoidien .
+anat:muscles-thyrohyoidien	anat:comprend	anat:L-mscl-thyrohyoidien .
+anat:muscles-pfd-cou	anat:comprend	anat:muscles-lg-cou .
+anat:muscles-pfd-cou	anat:comprend	anat:muscles-lg-tete .
+anat:muscles-pfd-cou	anat:comprend	anat:muscles-scalenes .
+anat:muscles-lg-cou	anat:comprend	anat:R-mscl-lg-cou .
+anat:muscles-lg-cou	anat:comprend	anat:L-mscl-lg-cou .
+anat:muscles-lg-tete	anat:comprend	anat:R-mscl-lg-tete .
+anat:muscles-lg-tete	anat:comprend	anat:L-mscl-lg-tete .
+anat:muscles-scalenes	anat:comprend	anat:muscles-scalene-ant .
+anat:muscles-scalenes	anat:comprend	anat:muscles-scalene-moy .
+anat:muscles-scalenes	anat:comprend	anat:muscles-scalene-post .
+anat:muscles-scalenes	anat:comprend	anat:muscles-pt-scalene .
+anat:muscles-scalene-ant	anat:comprend	anat:R-mscl-scalene-ant .
+anat:muscles-scalene-ant	anat:comprend	anat:L-mscl-scalene-ant .
+anat:muscles-scalene-moy	anat:comprend	anat:R-mscl-scalene-moy .
+anat:muscles-scalene-moy	anat:comprend	anat:L-mscl-scalene-moy .
+anat:muscles-scalene-post	anat:comprend	anat:R-mscl-scalene-post .
+anat:muscles-scalene-post	anat:comprend	anat:L-mscl-scalene-post .
+anat:muscles-pt-scalene	anat:comprend	anat:R-mscl-pt-scalene .
+anat:muscles-pt-scalene	anat:comprend	anat:L-mscl-pt-scalene .
+anat:R-mscl-lg-cou	anat:comprend	anat:R-mscl-lg-cou-fx-med .
+anat:R-mscl-lg-cou	anat:comprend	anat:R-mscl-lg-cou-fx-obliq-cranial .
+anat:R-mscl-lg-cou	anat:comprend	anat:R-mscl-lg-cou-fx-obliq-caudal .
+anat:L-mscl-lg-cou	anat:comprend	anat:L-mscl-lg-cou-fx-med .
+anat:L-mscl-lg-cou	anat:comprend	anat:L-mscl-lg-cou-fx-obliq-cranial .
+anat:L-mscl-lg-cou	anat:comprend	anat:L-mscl-lg-cou-fx-obliq-caudal .
+anat:R-mscl-digastrique	anat:comprend	anat:R-mscl-digastrique-fx-post .
+anat:R-mscl-digastrique	anat:comprend	anat:R-mscl-digastrique-fx-ant .
+anat:R-mscl-digastrique	anat:comprend	anat:R-mscl-digastrique-td-central .
+anat:L-mscl-digastrique	anat:comprend	anat:L-mscl-digastrique-fx-post .
+anat:L-mscl-digastrique	anat:comprend	anat:L-mscl-digastrique-fx-ant .
+anat:L-mscl-digastrique	anat:comprend	anat:L-mscl-digastrique-td-central .
+		
+anat:R-poulie-fbse-mscl-digastrique	anat:insere-sur	anat:os-hyoide .
+anat:L-poulie-fbse-mscl-digastrique	anat:insere-sur	anat:os-hyoide .
+anat:R-mscl-digastrique-td-central	anat:coulisse-dans	anat:R-poulie-fbse-mscl-digastrique .
+anat:L-mscl-digastrique-td-central	anat:coulisse-dans	anat:L-poulie-fbse-mscl-digastrique .
+anat:raphe-median-mylohyoidien	anat:insere-sur	anat:R-mscl-mylohyoidien .
+anat:raphe-median-mylohyoidien	anat:insere-sur	anat:L-mscl-mylohyoidien .
+anat:septum-inter-geniohyoidien	anat:insere-sur	anat:R-mscl-geniohyoidien .
+anat:septum-inter-geniohyoidien	anat:insere-sur	anat:L-mscl-geniohyoidien .
+anat:R-mscl-platysma	anat:origi-insere-sur	anat:R-portion-peau-clavicule .
+anat:R-mscl-platysma	anat:origi-insere-sur	anat:R-portion-peau-acrimion .
+anat:R-mscl-platysma	anat:termi-insere-sur	anat:mandibule .
+anat:R-mscl-scom-chef-sternal	anat:origi-insere-sur	anat:sternum .
+anat:R-mscl-scom-chef-claviculR	anat:origi-insere-sur	anat:R-clavicule .
+anat:R-mscl-scom	anat:origi-insere-sur	anat:sternum .
+anat:R-mscl-scom	anat:origi-insere-sur	anat:R-clavicule .
+anat:R-mscl-scom	anat:termi-insere-sur	anat:occiput .
+anat:R-mscl-scom	anat:termi-insere-sur	anat:R-temporal .
+anat:R-mscl-digastrique	anat:origi-insere-sur	anat:R-temporal .
+anat:R-mscl-digastrique	anat:termi-insere-sur	anat:mandibule .
+anat:R-mscl-digastrique-fx-post	anat:origi-insere-sur	anat:R-temporal .
+anat:R-mscl-digastrique-fx-ant	anat:termi-insere-sur	anat:mandibule .
+anat:R-mscl-stylohyoidien	anat:origi-insere-sur	anat:R-temporal .
+anat:R-mscl-stylohyoidien	anat:termi-insere-sur	anat:os-hyoide .
+anat:R-mscl-mylohyoidien	anat:origi-insere-sur	anat:mandibule .
+anat:R-mscl-mylohyoidien	anat:termi-insere-sur	anat:os-hyoide .
+anat:R-mscl-geniohyoidien	anat:origi-insere-sur	anat:mandibule .
+anat:R-mscl-geniohyoidien	anat:termi-insere-sur	anat:os-hyoide .
+anat:R-mscl-sternohyoidien	anat:origi-insere-sur	anat:sternum .
+anat:R-mscl-sternohyoidien	anat:origi-insere-sur	anat:R-clavicule .
+anat:R-mscl-sternohyoidien	anat:origi-insere-sur	anat:R-lgmt-sternoclaviculR-post .
+anat:R-mscl-sternohyoidien	anat:termi-insere-sur	anat:os-hyoide .
+anat:R-mscl-omohyoidien	anat:origi-insere-sur	anat:R-scapula .
+anat:R-mscl-omohyoidien	anat:termi-insere-sur	anat:os-hyoide .
+anat:R-mscl-sternothyroidien	anat:origi-insere-sur	anat:sternum .
+anat:R-mscl-sternothyroidien	anat:origi-insere-sur	anat:R-carti-costal-1 .
+anat:R-mscl-sternothyroidien	anat:termi-insere-sur	anat:cartilage-thyroide .
+anat:R-mscl-thyrohyoidien	anat:origi-insere-sur	anat:cartilage-thyroide .
+anat:R-mscl-thyrohyoidien	anat:termi-insere-sur	anat:os-hyoide .
+anat:R-mscl-lg-cou	anat:origi-insere-sur	anat:v-C3 .
+anat:R-mscl-lg-cou	anat:origi-insere-sur	anat:v-C4 .
+anat:R-mscl-lg-cou	anat:origi-insere-sur	anat:v-C5 .
+anat:R-mscl-lg-cou	anat:origi-insere-sur	anat:v-C6 .
+anat:R-mscl-lg-cou	anat:origi-insere-sur	anat:v-C7 .
+anat:R-mscl-lg-cou	anat:origi-insere-sur	anat:v-T1 .
+anat:R-mscl-lg-cou	anat:origi-insere-sur	anat:v-T2 .
+anat:R-mscl-lg-cou	anat:origi-insere-sur	anat:v-T3 .
+anat:R-mscl-lg-cou	anat:termi-insere-sur	anat:v-C1 .
+anat:R-mscl-lg-cou	anat:termi-insere-sur	anat:v-C2 .
+anat:R-mscl-lg-cou	anat:termi-insere-sur	anat:v-C3 .
+anat:R-mscl-lg-cou	anat:termi-insere-sur	anat:v-C4 .
+anat:R-mscl-lg-cou	anat:termi-insere-sur	anat:v-C5 .
+anat:R-mscl-lg-cou	anat:termi-insere-sur	anat:v-C6 .
+anat:R-mscl-lg-cou	anat:termi-insere-sur	anat:v-C7 .
+anat:R-mscl-lg-cou-fx-med	anat:origi-insere-sur	anat:v-C5 .
+anat:R-mscl-lg-cou-fx-med	anat:origi-insere-sur	anat:v-C6 .
+anat:R-mscl-lg-cou-fx-med	anat:origi-insere-sur	anat:v-C7 .
+anat:R-mscl-lg-cou-fx-med	anat:origi-insere-sur	anat:v-T1 .
+anat:R-mscl-lg-cou-fx-med	anat:origi-insere-sur	anat:v-T2 .
+anat:R-mscl-lg-cou-fx-med	anat:origi-insere-sur	anat:v-T3 .
+anat:R-mscl-lg-cou-fx-med	anat:termi-insere-sur	anat:v-C2 .
+anat:R-mscl-lg-cou-fx-med	anat:termi-insere-sur	anat:v-C3 .
+anat:R-mscl-lg-cou-fx-med	anat:termi-insere-sur	anat:v-C4 .
+anat:R-mscl-lg-cou-fx-obliq-cranial	anat:origi-insere-sur	anat:v-C3 .
+anat:R-mscl-lg-cou-fx-obliq-cranial	anat:origi-insere-sur	anat:v-C4 .
+anat:R-mscl-lg-cou-fx-obliq-cranial	anat:origi-insere-sur	anat:v-C5 .
+anat:R-mscl-lg-cou-fx-obliq-cranial	anat:termi-insere-sur	anat:v-C1 .
+anat:R-mscl-lg-cou-fx-obliq-caudal	anat:origi-insere-sur	anat:v-T1 .
+anat:R-mscl-lg-cou-fx-obliq-caudal	anat:origi-insere-sur	anat:v-T2 .
+anat:R-mscl-lg-cou-fx-obliq-caudal	anat:origi-insere-sur	anat:v-T3 .
+anat:R-mscl-lg-cou-fx-obliq-caudal	anat:termi-insere-sur	anat:v-C5 .
+anat:R-mscl-lg-cou-fx-obliq-caudal	anat:termi-insere-sur	anat:v-C6 .
+anat:R-mscl-lg-cou-fx-obliq-caudal	anat:termi-insere-sur	anat:v-C7 .
+anat:R-mscl-lg-tete	anat:origi-insere-sur	anat:v-C3 .
+anat:R-mscl-lg-tete	anat:origi-insere-sur	anat:v-C4 .
+anat:R-mscl-lg-tete	anat:origi-insere-sur	anat:v-C5 .
+anat:R-mscl-lg-tete	anat:origi-insere-sur	anat:v-C6 .
+anat:R-mscl-lg-tete	anat:termi-insere-sur	anat:occiput .
+anat:R-mscl-scalene-ant	anat:origi-insere-sur	anat:v-C3 .
+anat:R-mscl-scalene-ant	anat:origi-insere-sur	anat:v-C4 .
+anat:R-mscl-scalene-ant	anat:origi-insere-sur	anat:v-C5 .
+anat:R-mscl-scalene-ant	anat:origi-insere-sur	anat:v-C6 .
+anat:R-mscl-scalene-ant	anat:termi-insere-sur	anat:R-cote-1 .
+anat:R-mscl-scalene-moy	anat:origi-insere-sur	anat:v-C2 .
+anat:R-mscl-scalene-moy	anat:origi-insere-sur	anat:v-C3 .
+anat:R-mscl-scalene-moy	anat:origi-insere-sur	anat:v-C4 .
+anat:R-mscl-scalene-moy	anat:origi-insere-sur	anat:v-C5 .
+anat:R-mscl-scalene-moy	anat:origi-insere-sur	anat:v-C6 .
+anat:R-mscl-scalene-moy	anat:origi-insere-sur	anat:v-C7 .
+anat:R-mscl-scalene-moy	anat:termi-insere-sur	anat:R-cote-1 .
+anat:R-mscl-scalene-post	anat:origi-insere-sur	anat:v-C4 .
+anat:R-mscl-scalene-post	anat:origi-insere-sur	anat:v-C5 .
+anat:R-mscl-scalene-post	anat:origi-insere-sur	anat:v-C6 .
+anat:R-mscl-scalene-post	anat:termi-insere-sur	anat:R-cote-2 .
+anat:R-mscl-pt-scalene	anat:origi-insere-sur	anat:v-C6 .
+anat:R-mscl-pt-scalene	anat:origi-insere-sur	anat:v-C7 .
+anat:R-mscl-pt-scalene	anat:termi-insere-sur	anat:R-cote-1 .
+anat:L-mscl-platysma	anat:origi-insere-sur	anat:L-portion-peau-clavicule .
+anat:L-mscl-platysma	anat:origi-insere-sur	anat:L-portion-peau-acrimion .
+anat:L-mscl-platysma	anat:termi-insere-sur	anat:mandibule .
+anat:L-mscl-scom-chef-sternal	anat:origi-insere-sur	anat:sternum .
+anat:L-mscl-scom-chef-claviculR	anat:origi-insere-sur	anat:L-clavicule .
+anat:L-mscl-scom	anat:origi-insere-sur	anat:sternum .
+anat:L-mscl-scom	anat:origi-insere-sur	anat:L-clavicule .
+anat:L-mscl-scom	anat:termi-insere-sur	anat:occiput .
+anat:L-mscl-scom	anat:termi-insere-sur	anat:L-temporal .
+anat:L-mscl-digastrique	anat:origi-insere-sur	anat:L-temporal .
+anat:L-mscl-digastrique	anat:termi-insere-sur	anat:mandibule .
+anat:L-mscl-digastrique-fx-post	anat:origi-insere-sur	anat:L-temporal .
+anat:L-mscl-digastrique-fx-ant	anat:termi-insere-sur	anat:mandibule .
+anat:L-mscl-stylohyoidien	anat:origi-insere-sur	anat:L-temporal .
+anat:L-mscl-stylohyoidien	anat:termi-insere-sur	anat:os-hyoide .
+anat:L-mscl-mylohyoidien	anat:origi-insere-sur	anat:mandibule .
+anat:L-mscl-mylohyoidien	anat:termi-insere-sur	anat:os-hyoide .
+anat:L-mscl-geniohyoidien	anat:origi-insere-sur	anat:mandibule .
+anat:L-mscl-geniohyoidien	anat:termi-insere-sur	anat:os-hyoide .
+anat:L-mscl-sternohyoidien	anat:origi-insere-sur	anat:sternum .
+anat:L-mscl-sternohyoidien	anat:origi-insere-sur	anat:L-clavicule .
+anat:L-mscl-sternohyoidien	anat:origi-insere-sur	anat:L-lgmt-sternoclaviculR-post .
+anat:L-mscl-sternohyoidien	anat:termi-insere-sur	anat:os-hyoide .
+anat:L-mscl-omohyoidien	anat:origi-insere-sur	anat:L-scapula .
+anat:L-mscl-omohyoidien	anat:termi-insere-sur	anat:os-hyoide .
+anat:L-mscl-sternothyroidien	anat:origi-insere-sur	anat:sternum .
+anat:L-mscl-sternothyroidien	anat:origi-insere-sur	anat:L-carti-costal-1 .
+anat:L-mscl-sternothyroidien	anat:termi-insere-sur	anat:cartilage-thyroide .
+anat:L-mscl-thyrohyoidien	anat:origi-insere-sur	anat:cartilage-thyroide .
+anat:L-mscl-thyrohyoidien	anat:termi-insere-sur	anat:os-hyoide .
+anat:L-mscl-lg-cou	anat:origi-insere-sur	anat:v-C3 .
+anat:L-mscl-lg-cou	anat:origi-insere-sur	anat:v-C4 .
+anat:L-mscl-lg-cou	anat:origi-insere-sur	anat:v-C5 .
+anat:L-mscl-lg-cou	anat:origi-insere-sur	anat:v-C6 .
+anat:L-mscl-lg-cou	anat:origi-insere-sur	anat:v-C7 .
+anat:L-mscl-lg-cou	anat:origi-insere-sur	anat:v-T1 .
+anat:L-mscl-lg-cou	anat:origi-insere-sur	anat:v-T2 .
+anat:L-mscl-lg-cou	anat:origi-insere-sur	anat:v-T3 .
+anat:L-mscl-lg-cou	anat:termi-insere-sur	anat:v-C1 .
+anat:L-mscl-lg-cou	anat:termi-insere-sur	anat:v-C2 .
+anat:L-mscl-lg-cou	anat:termi-insere-sur	anat:v-C3 .
+anat:L-mscl-lg-cou	anat:termi-insere-sur	anat:v-C4 .
+anat:L-mscl-lg-cou	anat:termi-insere-sur	anat:v-C5 .
+anat:L-mscl-lg-cou	anat:termi-insere-sur	anat:v-C6 .
+anat:L-mscl-lg-cou	anat:termi-insere-sur	anat:v-C7 .
+anat:L-mscl-lg-cou-fx-med	anat:origi-insere-sur	anat:v-C5 .
+anat:L-mscl-lg-cou-fx-med	anat:origi-insere-sur	anat:v-C6 .
+anat:L-mscl-lg-cou-fx-med	anat:origi-insere-sur	anat:v-C7 .
+anat:L-mscl-lg-cou-fx-med	anat:origi-insere-sur	anat:v-T1 .
+anat:L-mscl-lg-cou-fx-med	anat:origi-insere-sur	anat:v-T2 .
+anat:L-mscl-lg-cou-fx-med	anat:origi-insere-sur	anat:v-T3 .
+anat:L-mscl-lg-cou-fx-med	anat:termi-insere-sur	anat:v-C2 .
+anat:L-mscl-lg-cou-fx-med	anat:termi-insere-sur	anat:v-C3 .
+anat:L-mscl-lg-cou-fx-med	anat:termi-insere-sur	anat:v-C4 .
+anat:L-mscl-lg-cou-fx-obliq-cranial	anat:origi-insere-sur	anat:v-C3 .
+anat:L-mscl-lg-cou-fx-obliq-cranial	anat:origi-insere-sur	anat:v-C4 .
+anat:L-mscl-lg-cou-fx-obliq-cranial	anat:origi-insere-sur	anat:v-C5 .
+anat:L-mscl-lg-cou-fx-obliq-cranial	anat:termi-insere-sur	anat:v-C1 .
+anat:L-mscl-lg-cou-fx-obliq-caudal	anat:origi-insere-sur	anat:v-T1 .
+anat:L-mscl-lg-cou-fx-obliq-caudal	anat:origi-insere-sur	anat:v-T2 .
+anat:L-mscl-lg-cou-fx-obliq-caudal	anat:origi-insere-sur	anat:v-T3 .
+anat:L-mscl-lg-cou-fx-obliq-caudal	anat:termi-insere-sur	anat:v-C5 .
+anat:L-mscl-lg-cou-fx-obliq-caudal	anat:termi-insere-sur	anat:v-C6 .
+anat:L-mscl-lg-cou-fx-obliq-caudal	anat:termi-insere-sur	anat:v-C7 .
+anat:L-mscl-lg-tete	anat:origi-insere-sur	anat:v-C3 .
+anat:L-mscl-lg-tete	anat:origi-insere-sur	anat:v-C4 .
+anat:L-mscl-lg-tete	anat:origi-insere-sur	anat:v-C5 .
+anat:L-mscl-lg-tete	anat:origi-insere-sur	anat:v-C6 .
+anat:L-mscl-lg-tete	anat:termi-insere-sur	anat:occiput .
+anat:L-mscl-scalene-ant	anat:origi-insere-sur	anat:v-C3 .
+anat:L-mscl-scalene-ant	anat:origi-insere-sur	anat:v-C4 .
+anat:L-mscl-scalene-ant	anat:origi-insere-sur	anat:v-C5 .
+anat:L-mscl-scalene-ant	anat:origi-insere-sur	anat:v-C6 .
+anat:L-mscl-scalene-ant	anat:termi-insere-sur	anat:L-cote-1 .
+anat:L-mscl-scalene-moy	anat:origi-insere-sur	anat:v-C2 .
+anat:L-mscl-scalene-moy	anat:origi-insere-sur	anat:v-C3 .
+anat:L-mscl-scalene-moy	anat:origi-insere-sur	anat:v-C4 .
+anat:L-mscl-scalene-moy	anat:origi-insere-sur	anat:v-C5 .
+anat:L-mscl-scalene-moy	anat:origi-insere-sur	anat:v-C6 .
+anat:L-mscl-scalene-moy	anat:origi-insere-sur	anat:v-C7 .
+anat:L-mscl-scalene-moy	anat:termi-insere-sur	anat:L-cote-1 .
+anat:L-mscl-scalene-post	anat:origi-insere-sur	anat:v-C4 .
+anat:L-mscl-scalene-post	anat:origi-insere-sur	anat:v-C5 .
+anat:L-mscl-scalene-post	anat:origi-insere-sur	anat:v-C6 .
+anat:L-mscl-scalene-post	anat:termi-insere-sur	anat:L-cote-2 .
+anat:L-mscl-pt-scalene	anat:origi-insere-sur	anat:v-C6 .
+anat:L-mscl-pt-scalene	anat:origi-insere-sur	anat:v-C7 .
+anat:L-mscl-pt-scalene	anat:termi-insere-sur	anat:L-cote-1 .
+
+anat:muscles-cou	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=vmGj8jXbOvCC81nWjOemSfyK> .
+anat:muscles-supL-cou	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=THz4H98viK5raCuuGX0naeW1> .
+anat:muscles-platysma	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=jWju410fWfeqP1XjqOjeqyme> .
+anat:muscles-scom	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=fOfaq4W5LnqaL115Hj9THrSn> .
+anat:R-mscl-platysma	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=iyu8jSeGnyuGeeeW9zWjae8f> .
+anat:R-mscl-scom	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=1ruuaiG19fq4OLn0naOTrGXb> .
+#anat:R-mscl-scom-chef-sternal	anat:hasImage3D	<> .
+#anat:R-mscl-scom-chef-claviculR	anat:hasImage3D	<> .
+anat:L-mscl-platysma	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=HPTnKHTn8zyW0959vuW9r4na> .
+anat:L-mscl-scom	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=8jSTfa1vqSTLuqiy8DC89zCu> .
+#anat:L-mscl-scom-chef-sternal	anat:hasImage3D	<> .
+#anat:L-mscl-scom-chef-claviculR	anat:hasImage3D	<> .
+anat:muscles-intermed-cou	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ju4bOvTvC8Tr8fST1DiWDiWH> .
+anat:muscles-supra-hyoidiens	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=yqCaOX059jW55LjWr85DCuCe> .
+anat:muscles-digastrique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=0PziOHf4LbSzmGfG1TziS19n> .
+anat:muscles-stylohyoidien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=GPLbaiSvSPz4ODa8fOvWDKvG> .
+anat:muscles-mylohyoidien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=nyyyGTn8zK9z4P19Xni8faaa> .
+anat:muscles-geniohyoidien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=muy0zq0fGTDejKPP5byeGjiS> .
+anat:R-mscl-digastrique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=11fKPTqySDuKz45fWT8T5vGD> .
+anat:R-mscl-digastrique-fx-post	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=01Hn0LTfeiqWriu0nyaySTP1> .
+anat:R-mscl-digastrique-fx-ant	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=amaaGz59baeO41vO55STr45L> .
+#anat:R-mscl-digastrique-td-central	anat:hasImage3D	<> .
+#anat:R-poulie-fbse-mscl-digastrique	anat:hasImage3D	<> .
+anat:R-mscl-stylohyoidien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=HDyGvK5fi49DDKfu0DLrSDum> .
+anat:R-mscl-mylohyoidien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=zeOzqW8Lviyey0ruueDOPPvq> .
+#anat:raphe-median-mylohyoidien	anat:hasImage3D	<> .
+anat:R-mscl-geniohyoidien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=HHbWfmL915XXPbaKvOWX1vua> .
+#anat:septum-inter-geniohyoidien	anat:hasImage3D	<> .
+anat:L-mscl-digastrique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=4bKrmWfKDK1fPrCqGzzeWTTz> .
+anat:L-mscl-digastrique-fx-post	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=eGvGvquaKbeu9XTj019fi0fS> .
+anat:L-mscl-digastrique-fx-ant	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=H15Di4jG5H1DOzOTTj0jKjC0> .
+#anat:L-mscl-digastrique-td-central	anat:hasImage3D	<> .
+#anat:L-poulie-fbse-mscl-digastrique	anat:hasImage3D	<> .
+anat:L-mscl-stylohyoidien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=W5Xr01juiaaW919rKryOjaG5> .
+anat:L-mscl-mylohyoidien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=OjC8zOfaOj418PvS5z1Hvm8L> .
+anat:L-mscl-geniohyoidien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=CiW9TDvuu0jKiSbCGHvOHvuq> .
+anat:muscles-infra-hyoidiens	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=GrGDKTu09jWD9XrC0ba4rmOb> .
+anat:muscles-sternohyoidien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=jmiCCmyGvWPLXjOXzuXzi45r> .
+anat:muscles-omohyoidien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=4XLXjmzWr09rbaKfCeOnGL9b> .
+anat:muscles-sternothyroidien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=muST11jSPTTzuqaqu0yeemKf> .
+anat:muscles-thyrohyoidien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=aieiGXC8TnqaLLPvuquye0Tn> .
+anat:R-mscl-sternohyoidien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=O5DqCibi41L99nKX9TSvGfOb> .
+anat:R-mscl-omohyoidien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=DOvWb0u4THzuDOjWb0uuG5zu> .
+anat:R-mscl-sternothyroidien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=WvySLXjqKnSr5LDqWfDiWvKn> .
+anat:R-mscl-thyrohyoidien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Xr0v4HLTP9fan4vOneemCm49> .
+anat:L-mscl-sternohyoidien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=C0zOXbqquC8bDC8nyG5Pvu4P> .
+anat:L-mscl-omohyoidien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=1nm8PHaCmem4WfSPDiOD4rq8> .
+anat:L-mscl-sternothyroidien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=eKHTjaWDyqKXHXL5DqCyamKT> .
+anat:L-mscl-thyrohyoidien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=KvKDaq0j8HrSeyS5HDHjSPLL> .
+anat:muscles-pfd-cou	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=W9Xn0nmuimuWfKz4bKSjem0f> .
+anat:muscles-lg-cou	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=P5X5TjbGz4zaW5jeiequqCOj> .
+anat:muscles-lg-tete	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=D0nqC00ju01Xr4zm0jKDSD0b> .
+anat:muscles-scalenes	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=XDuKPDaS9LL9CGz4bi1rSnSX> .
+anat:R-mscl-lg-cou	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=riOPrmWb855b4bSTnCue4nmW> .
+anat:R-mscl-lg-cou-fx-med	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=4vqmqyniuGjafaSLLX0f0vuG> .
+anat:R-mscl-lg-cou-fx-obliq-cranial	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=9XPn4vX9LPj4TH19jCSnieqK> .
+anat:R-mscl-lg-cou-fx-obliq-caudal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=y8P9v0W5X9rOauOn4LS5Tj4X> .
+anat:R-mscl-lg-tete	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=rKzCq8bmy05545TfGHH5LHDG> .
+anat:L-mscl-lg-cou	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=f81LHf5PnyiqaGbq0H0jiGHv> .
+anat:L-mscl-lg-cou-fx-med	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=PbOHbq1vK9nuDWr8X1HTnGr4> .
+anat:L-mscl-lg-cou-fx-obliq-cranial	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=i8DySLuaWv0nTPvS9PL9LnSr> .
+anat:L-mscl-lg-cou-fx-obliq-caudal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=OrCaC4iCmCuKKvamCWyGL9Hz> .
+anat:L-mscl-lg-tete	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=8ny4TTaaCCaCWfW9n8Pz8LXX> .
+anat:muscles-scalene-ant	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=CC0PrCH5P5r8vaCKzS8b05fi> .
+anat:muscles-scalene-moy	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=rGj4DiriSX1vyaC8XDL1TLf4> .
+anat:muscles-scalene-post	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=juqW9jLTvGHX5bCuiO1bKzG1> .
+#anat:muscles-pt-scalene	anat:hasImage3D	<> .
+anat:R-mscl-scalene-ant	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=OLzemK0f09nWXT19bqXj85Hf> .
+anat:R-mscl-scalene-moy	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=PDe0vCn4fOPLi4Pb0rLzqSH1> .
+anat:R-mscl-scalene-post	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=5fuaq4r4H15zj0zCai5bSL55> .
+#anat:R-mscl-pt-scalene	anat:hasImage3D	<> .
+anat:L-mscl-scalene-ant	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=WjGXvyza8zyCXLbyuKPHLT5X> .
+anat:L-mscl-scalene-moy	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=fyWvqmuiCKvSvG9jaeXvuOTz> .
+anat:L-mscl-scalene-post	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=9zayGn1LP5XPDSv4HrCGLb4T> .
+#anat:L-mscl-pt-scalene	anat:hasImage3D	<> .
+anat:muscles-cou	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=O5bmuGLX15r4TXbmGXe4HXLb> .
+anat:muscles-supL-cou	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=0DeeOju8ni0XOve0DmuqWnSX> .
+anat:muscles-platysma	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=1HjauGaey8vu0LD0P98jeqSX> .
+anat:muscles-scom	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=TfSL515rGD8PHniuODameiKT> .
+anat:R-mscl-platysma	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=vuemSf8H9TruOr0z81Pvqi4D> .
+anat:R-mscl-scom	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=i0nuyqmuO5bi1by4bmGfqyy8> .
+#anat:R-mscl-scom-chef-sternal	anat:has3DmodelURL	<> .
+#anat:R-mscl-scom-chef-claviculR	anat:has3DmodelURL	<> .
+anat:L-mscl-platysma	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=8TXXrmXH5H5Pu4L1H5mOHDqO> .
+anat:L-mscl-scom	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=m4nGzCfum85nzWLP1PWruqyy> .
+#anat:L-mscl-scom-chef-sternal	anat:has3DmodelURL	<> .
+#anat:L-mscl-scom-chef-claviculR	anat:has3DmodelURL	<> .
+anat:muscles-intermed-cou	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=uKzee0CymuK9XnmWPneqy4bq> .
+anat:muscles-supra-hyoidiens	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=SPfGPP5HLXjaCuKPb0H1vGXv> .
+anat:muscles-digastrique	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=5Dmqmy4L5n0r1vma4rvKD0LH> .
+anat:muscles-stylohyoidien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=LjuO95P91DGvPbCSjWnSv0vq> .
+anat:muscles-mylohyoidien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=4Hf4biryKzKbXjq8ruvmqKXL> .
+anat:muscles-geniohyoidien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=TvySjazuqiOb5DmObKjCGT95> .
+anat:R-mscl-digastrique	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=OHveuGLPr059WLfmGDD4TXbi> .
+anat:R-mscl-digastrique-fx-post	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=DyyWb0f4jKfSG51D8XmS5fmi> .
+anat:R-mscl-digastrique-fx-ant	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=uKnSXrLbq0jePPj4bKiKfeCW> .
+#anat:R-mscl-digastrique-td-central	anat:has3DmodelURL	<> .
+#anat:R-poulie-fbse-mscl-digastrique	anat:has3DmodelURL	<> .
+anat:R-mscl-stylohyoidien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=495HzS8Lz4HDSDamCifCaGPH> .
+anat:R-mscl-mylohyoidien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=veKj89SbeGj8Kba8T5vC4Xn0> .
+#anat:raphe-median-mylohyoidien	anat:has3DmodelURL	<> .
+anat:R-mscl-geniohyoidien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=iie8buK9r8vOnSLz4n4LX51P> .
+#anat:septum-inter-geniohyoidien	anat:has3DmodelURL	<> .
+anat:L-mscl-digastrique	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=CGHbyy8rOjuCzq05f8S5j4nW> .
+anat:L-mscl-digastrique-fx-post	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Sb01rmiW5bS999beaKLHXnGj> .
+anat:L-mscl-digastrique-fx-ant	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=9j85bGuGLz8bDyeCWr9bqOPv> .
+#anat:L-mscl-digastrique-td-central	anat:has3DmodelURL	<> .
+#anat:L-poulie-fbse-mscl-digastrique	anat:has3DmodelURL	<> .
+anat:L-mscl-stylohyoidien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=jW1jm4y8j4XnqqSHz4i45ny0> .
+anat:L-mscl-mylohyoidien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=S5fyC4LLP9D4PvGTb8199nyq> .
+anat:L-mscl-geniohyoidien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=PLjWXbObS1T99TLL1vLTPfGT> .
+anat:muscles-infra-hyoidiens	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=CmyuiWq091jeqeuOXLa0n0rS> .
+anat:muscles-sternohyoidien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=b0vyq0fy4fqyaW1nymLvu8zO> .
+anat:muscles-omohyoidien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=T5ruGHTXj8TjSvye41Tj8HrC> .
+anat:muscles-sternothyroidien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=T95fGv1XzWPfTn4v8f4v0jq0> .
+anat:muscles-thyrohyoidien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=nSfiqWnCeWfmiOrC8LyOjaG9> .
+anat:R-mscl-sternohyoidien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=m0TTfWTDiyKfuu0jCa9TLfe4> .
+anat:R-mscl-omohyoidien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=viaGrmPL5Dieu4rWbqODWre8> .
+anat:R-mscl-sternothyroidien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=4riyW5GPvaqCKDyS1bvaS95r> .
+anat:R-mscl-thyrohyoidien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=eiuaGDn8nu4vWfC859zCaS1D> .
+anat:L-mscl-sternohyoidien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=fuGvSXiWDeC0q45XvCGbSveK> .
+anat:L-mscl-omohyoidien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=HzSz49LnquOvXLLLjeDSvKDG> .
+anat:L-mscl-sternothyroidien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=uyyS5fDCCuaGTT1jqmC8j09T> .
+anat:L-mscl-thyrohyoidien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=1veSzWO5D0n859zSrGuGTjS9> .
+anat:muscles-pfd-cou	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=GD05LD1bOva0uyCuKXLLPXHH> .
+anat:muscles-lg-cou	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Tfm8juL5HPrOTnGbemvu05bq> .
+anat:muscles-lg-tete	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=K5fCaOPzyqmWDCqKTL0DeyqO> .
+anat:muscles-scalenes	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=u81b8f0Hj8jqnqGjuqeO1zCS> .
+anat:R-mscl-lg-cou	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=aamKrW91nq49GHzOjCyue8Pf> .
+anat:R-mscl-lg-cou-fx-med	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=S5z89vvemuyaiC4PTHD0fqay> .
+anat:R-mscl-lg-cou-fx-obliq-cranial	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=zGvqWb9z495fqaaiCi4zGL5v> .
+anat:R-mscl-lg-cou-fx-obliq-caudal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=zOLvCi0jiCmS0vSPveHTPHXj> .
+anat:R-mscl-lg-tete	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=uuq4bC9Xb8Xfr851PbKfuOfm> .
+anat:L-mscl-lg-cou	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=mCySLfWzCS9Hu8j4TrOLLrui> .
+anat:L-mscl-lg-cou-fx-med	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=D81jm4uWjyiePf8nya0zSnC8> .
+anat:L-mscl-lg-cou-fx-obliq-cranial	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=qeqOD4155bqanKbi05qqW5Hb> .
+anat:L-mscl-lg-cou-fx-obliq-caudal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=81fq4zjOru0zWLHfOHXLXzyW> .
+anat:L-mscl-lg-tete	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=yKjeWPDSnWfeT1P9DqmaOnW9> .
+anat:muscles-scalene-ant	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=eieaeqnqO5rC1PLzaO4biCOj> .
+anat:muscles-scalene-moy	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=m8HrGzSvGTrCX591ruPfemaK> .
+anat:muscles-scalene-post	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=W1j4beTneSXLLjeSvafOrWjm> .
+#anat:muscles-pt-scalene	anat:has3DmodelURL	<> .
+anat:R-mscl-scalene-ant	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=1P9rq0jiqK5jqO5LHX09XH91> .
+anat:R-mscl-scalene-moy	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=iCeqmS0LvW1zaSLjeui8vKD0> .
+anat:R-mscl-scalene-post	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=zOX1X59HLTn4D4Tj0Li4XXH9> .
+#anat:R-mscl-pt-scalene	anat:has3DmodelURL	<> .
+anat:L-mscl-scalene-ant	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=uy4vSnv89HfOaauy0TmCy09f> .
+anat:L-mscl-scalene-moy	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=mmOj89OfKjiSC4f8HTnWbeeq> .
+anat:L-mscl-scalene-post	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=8vSfyeOj8nqSWzayGXuGfymK> .
+#anat:L-mscl-pt-scalene	anat:has3DmodelURL	<> .
+
+anat:muscles-cou	rdfs:label	"Muscles du cou" .
+anat:muscles-supL-cou	rdfs:label	"Muscles superficiels du cou" .
+anat:muscles-platysma	rdfs:label	"Muscles platysmas" .
+anat:muscles-scom	rdfs:label	"Muscles sterno-cléido-mastoïdiens" .
+anat:R-mscl-platysma	rdfs:label	"Muscle platysma droit" .
+anat:R-mscl-scom	rdfs:label	"Muscle sterno-cléido-mastoïdien droit" .
+anat:R-mscl-scom-chef-sternal	rdfs:label	"Chef sternal du muscle sterno-cléido-mastoïdien droit" .
+anat:R-mscl-scom-chef-claviculR	rdfs:label	"Chef claviculaire du muscle sterno-cléido-mastoïdien droit" .
+anat:L-mscl-platysma	rdfs:label	"Muscle platysma gauche" .
+anat:L-mscl-scom	rdfs:label	"Muscle sterno-cléido-mastoïdien gauche" .
+anat:L-mscl-scom-chef-sternal	rdfs:label	"Chef sternal du muscle sterno-cléido-mastoïdien gauche" .
+anat:L-mscl-scom-chef-claviculR	rdfs:label	"Chef claviculaire du muscle sterno-cléido-mastoïdien gauche" .
+anat:muscles-intermed-cou	rdfs:label	"Muscles intermédiaires du cou" .
+anat:muscles-supra-hyoidiens	rdfs:label	"Muscles supra hyoïdiens" .
+anat:muscles-digastrique	rdfs:label	"Muscles digastriques" .
+anat:muscles-stylohyoidien	rdfs:label	"Muscles stylo-hyoïdiens" .
+anat:muscles-mylohyoidien	rdfs:label	"Muscles mylo-hyoïdiens" .
+anat:muscles-geniohyoidien	rdfs:label	"Muscles genio-hyoïdiens" .
+anat:R-mscl-digastrique	rdfs:label	"Muscle digastrique droit" .
+anat:R-mscl-digastrique-fx-post	rdfs:label	"Faisceau postérieur du muscle digastrique droit" .
+anat:R-mscl-digastrique-fx-ant	rdfs:label	"Faisceau antérieur du muscle digastrique droit" .
+anat:R-mscl-digastrique-td-central	rdfs:label	"Tendon central du muscle digastrique droit" .
+anat:R-poulie-fbse-mscl-digastrique	rdfs:label	"Poulie fibreuse du muscle digastrique droit" .
+anat:R-mscl-stylohyoidien	rdfs:label	"Muscle stylo-hyoïdien droit" .
+anat:R-mscl-mylohyoidien	rdfs:label	"Muscle mylo-hyoïdien droit" .
+anat:raphe-median-mylohyoidien	rdfs:label	"Raphé médian des muscles mylo-hyoïdiens" .
+anat:R-mscl-geniohyoidien	rdfs:label	"Muscle genio-hyoïdien droit" .
+anat:septum-inter-geniohyoidien	rdfs:label	"Septum intergenio-hyoïdien" .
+anat:L-mscl-digastrique	rdfs:label	"Muscle digastrique gauche" .
+anat:L-mscl-digastrique-fx-post	rdfs:label	"Faisceau postérieur du muscle digastrique gauche" .
+anat:L-mscl-digastrique-fx-ant	rdfs:label	"Faisceau antérieur du muscle digastrique gauche" .
+anat:L-mscl-digastrique-td-central	rdfs:label	"Tendon central du muscle digastrique gauche" .
+anat:L-poulie-fbse-mscl-digastrique	rdfs:label	"Poulie fibreuse du muscle digastrique gauche" .
+anat:L-mscl-stylohyoidien	rdfs:label	"Muscle stylo-hyoïdien gauche" .
+anat:L-mscl-mylohyoidien	rdfs:label	"Muscle mylo-hyoïdien gauche" .
+anat:L-mscl-geniohyoidien	rdfs:label	"Muscle genio-hyoïdien gauche" .
+anat:muscles-infra-hyoidiens	rdfs:label	"Muscles infra hyoïdiens" .
+anat:muscles-sternohyoidien	rdfs:label	"Muscles sterno-hyoïdiens" .
+anat:muscles-omohyoidien	rdfs:label	"Muscles omo-hyoïdiens" .
+anat:muscles-sternothyroidien	rdfs:label	"Muscles sterno-thyroïdiens" .
+anat:muscles-thyrohyoidien	rdfs:label	"Muscles thyro-hyoïdiens" .
+anat:R-mscl-sternohyoidien	rdfs:label	"Muscle sterno-hyoïdien droit" .
+anat:R-mscl-omohyoidien	rdfs:label	"Muscle omo-hyoïdien droit" .
+anat:R-mscl-sternothyroidien	rdfs:label	"Muscle sterno-thyroïdien droit" .
+anat:R-mscl-thyrohyoidien	rdfs:label	"Muscle thyro-hyoïdien droit" .
+anat:L-mscl-sternohyoidien	rdfs:label	"Muscle sterno-hyoïdien gauche" .
+anat:L-mscl-omohyoidien	rdfs:label	"Muscle omo-hyoïdien gauche" .
+anat:L-mscl-sternothyroidien	rdfs:label	"Muscle sterno-thyroïdien gauche" .
+anat:L-mscl-thyrohyoidien	rdfs:label	"Muscle thyro-hyoïdien gauche" .
+anat:muscles-pfd-cou	rdfs:label	"Muscles profonds du cou" .
+anat:muscles-lg-cou	rdfs:label	"Muscles longs du cou" .
+anat:muscles-lg-tete	rdfs:label	"Muscles longs de la tête" .
+anat:muscles-scalenes	rdfs:label	"Muscles scalènes" .
+anat:R-mscl-lg-cou	rdfs:label	"Muscle long du cou droit" .
+anat:R-mscl-lg-cou-fx-med	rdfs:label	"Faisceau médian du muscle long du cou droit" .
+anat:R-mscl-lg-cou-fx-obliq-cranial	rdfs:label	"Faisceau oblique crânial du muscle long du cou droit" .
+anat:R-mscl-lg-cou-fx-obliq-caudal	rdfs:label	"Faisceau oblique caudal du muscle long du cou droit" .
+anat:R-mscl-lg-tete	rdfs:label	"Muscle long de la tête droit" .
+anat:L-mscl-lg-cou	rdfs:label	"Muscle long du cou gauche" .
+anat:L-mscl-lg-cou-fx-med	rdfs:label	"Faisceau médian du muscle long du cou gauche" .
+anat:L-mscl-lg-cou-fx-obliq-cranial	rdfs:label	"Faisceau oblique crânial du muscle long du cou gauche" .
+anat:L-mscl-lg-cou-fx-obliq-caudal	rdfs:label	"Faisceau oblique caudal du muscle long du cou gauche" .
+anat:L-mscl-lg-tete	rdfs:label	"Muscle long de la tête gauche" .
+anat:muscles-scalene-ant	rdfs:label	"Muscles scalènes antérieurs" .
+anat:muscles-scalene-moy	rdfs:label	"Muscles scalènes moyens" .
+anat:muscles-scalene-post	rdfs:label	"Muscles scalènes postérieurs" .
+anat:muscles-pt-scalene	rdfs:label	"Muscles petits scalènes" .
+anat:R-mscl-scalene-ant	rdfs:label	"Muscle scalène antérieur droit" .
+anat:R-mscl-scalene-moy	rdfs:label	"Muscle scalène moyen droit" .
+anat:R-mscl-scalene-post	rdfs:label	"Muscle scalène postérieur droit" .
+anat:R-mscl-pt-scalene	rdfs:label	"Muscle petit scalène droit" .
+anat:L-mscl-scalene-ant	rdfs:label	"Muscle scalène antérieur gauche" .
+anat:L-mscl-scalene-moy	rdfs:label	"Muscle scalène moyen gauche" .
+anat:L-mscl-scalene-post	rdfs:label	"Muscle scalène postérieur gauche" .
+anat:L-mscl-pt-scalene	rdfs:label	"Muscle petit scalène gauche" .
+
+anat:complexe-larynx	rdf:type	anat:organe-vocal .
+anat:cartilages-larynx	rdf:type	anat:groupe-carti-structure .
+anat:cartilage-thyroide	rdf:type	anat:carti-structure .
+anat:cartilage-cricoide	rdf:type	anat:carti-structure .
+anat:cartilage-epiglottique	rdf:type	anat:carti-structure .
+anat:R-cartilage-arytenoide	rdf:type	anat:carti-structure .
+anat:L-cartilage-arytenoide	rdf:type	anat:carti-structure .
+anat:R-cartilage-cornicule	rdf:type	anat:carti-structure .
+anat:L-cartilage-cornicule	rdf:type	anat:carti-structure .
+anat:R-cartilage-cuneiforme	rdf:type	anat:carti-structure .
+anat:L-cartilage-cuneiforme	rdf:type	anat:carti-structure .
+anat:articulations-larynx	rdf:type	anat:complexe-articulaire .
+anat:R-arti-cricothyroidienne	rdf:type	anat:articulation .
+anat:L-arti-cricothyroidienne	rdf:type	anat:articulation .
+anat:R-arti-cricoarytenoidienne	rdf:type	anat:articulation .
+anat:L-arti-cricoarytenoidienne	rdf:type	anat:articulation .
+anat:ligaments-larynx	rdf:type	anat:groupe-ligamentaire .
+anat:ligaments-thyrohyoidiens	rdf:type	anat:groupe-ligamentaire .
+anat:mb-thyrohyoidienne	rdf:type	anat:ligament .
+anat:lgmt-thyrohyoidien-med	rdf:type	anat:ligament .
+anat:R-lgmt-thyrohyoidien-lat	rdf:type	anat:ligament .
+anat:L-lgmt-thyrohyoidien-lat	rdf:type	anat:ligament .
+anat:lgmt-cricothyroidien	rdf:type	anat:ligament .
+anat:ligaments-epiglotte	rdf:type	anat:groupe-ligamentaire .
+anat:lgmt-hyoepiglottique	rdf:type	anat:ligament .
+anat:lgmt-thyroepiglottique	rdf:type	anat:ligament .
+anat:ligaments-artiR-larynx	rdf:type	anat:groupe-ligamentaire .
+anat:R-ligaments-artiR-cricothyroidien	rdf:type	anat:groupe-ligamentaire .
+anat:R-lgmt-artiR-cricothyroidien-med	rdf:type	anat:ligament .
+anat:R-lgmt-artiR-cricothyroidien-lat	rdf:type	anat:ligament .
+anat:R-lgmt-artiR-cricothyroidien-ant	rdf:type	anat:ligament .
+anat:R-lgmt-artiR-cricothyroidien-post	rdf:type	anat:ligament .
+anat:L-ligaments-artiR-cricothyroidien	rdf:type	anat:groupe-ligamentaire .
+anat:L-lgmt-artiR-cricothyroidien-med	rdf:type	anat:ligament .
+anat:L-lgmt-artiR-cricothyroidien-lat	rdf:type	anat:ligament .
+anat:L-lgmt-artiR-cricothyroidien-ant	rdf:type	anat:ligament .
+anat:L-lgmt-artiR-cricothyroidien-post	rdf:type	anat:ligament .
+anat:R-lgmt-artiR-cricoarytenoidien	rdf:type	anat:ligament .
+anat:L-lgmt-artiR-cricoarytenoidien	rdf:type	anat:ligament .
+anat:mb-fibroelastique-larynx	rdf:type	anat:structure-fibreuse .
+anat:R-mb-fibroelastique-larynx	rdf:type	anat:structure-fibreuse .
+anat:L-mb-fibroelastique-larynx	rdf:type	anat:structure-fibreuse .
+anat:R-mb-quadrangulaire-larynx	rdf:type	anat:ligament .
+anat:L-mb-quadrangulaire-larynx	rdf:type	anat:ligament .
+anat:R-lgmt-vestibulaire	rdf:type	anat:ligament .
+anat:L-lgmt-vestibulaire	rdf:type	anat:ligament .
+anat:R-lgmt-vocal	rdf:type	anat:ligament .
+anat:L-lgmt-vocal	rdf:type	anat:ligament .
+anat:R-cone-elastique-larynx	rdf:type	anat:ligament .
+anat:L-cone-elastique-larynx	rdf:type	anat:ligament .
+anat:muscles-larynx	rdf:type	anat:groupe-musculaire .
+anat:muscles-extrinseq-larynx	rdf:type	anat:groupe-musculaire .
+anat:muscles-elevatR-larynx	rdf:type	anat:groupe-musculaire .
+anat:muscles-abaissR-larynx	rdf:type	anat:groupe-musculaire .
+anat:muscles-intrinseq-larynx	rdf:type	anat:groupe-musculaire .
+anat:muscles-aditus-larynge	rdf:type	anat:groupe-musculaire .
+anat:muscles-aryepiglottique	rdf:type	anat:muscle .
+anat:muscles-thyroepiglottique	rdf:type	anat:muscle .
+anat:R-mscl-aryepiglottique	rdf:type	anat:muscle .
+anat:R-mscl-thyroepiglottique	rdf:type	anat:muscle .
+anat:L-mscl-aryepiglottique	rdf:type	anat:muscle .
+anat:L-mscl-thyroepiglottique	rdf:type	anat:muscle .
+anat:muscles-addR-intra-larynx	rdf:type	anat:groupe-musculaire .
+anat:mscl-arytenoidien-trsv	rdf:type	anat:muscle .
+anat:mscl-arytenoidien-obliq	rdf:type	anat:muscle .
+anat:muscles-cricoarytenoidien-lat	rdf:type	anat:muscle .
+anat:muscles-thyroarytenoidien	rdf:type	anat:muscle .
+anat:R-mscl-cricoarytenoidien-lat	rdf:type	anat:muscle .
+anat:R-mscl-thyroarytenoidien	rdf:type	anat:muscle .
+anat:L-mscl-cricoarytenoidien-lat	rdf:type	anat:muscle .
+anat:L-mscl-thyroarytenoidien	rdf:type	anat:muscle .
+anat:muscles-abdR-intra-larynx	rdf:type	anat:groupe-musculaire .
+anat:muscles-cricoarytenoidien-post	rdf:type	anat:muscle .
+anat:R-mscl-cricoarytenoidien-post	rdf:type	anat:muscle .
+anat:L-mscl-cricoarytenoidien-post	rdf:type	anat:muscle .
+anat:muscles-tenseurs-lgmts-vocaux	rdf:type	anat:groupe-musculaire .
+anat:muscles-cricothyroidien	rdf:type	anat:muscle .
+anat:muscles-vocal	rdf:type	anat:muscle .
+anat:R-mscl-cricothyroidien	rdf:type	anat:muscle .
+anat:R-mscl-cricothyroidien-chef-droit	rdf:type	anat:chef-musculaire .
+anat:R-mscl-cricothyroidien-chef-obliq	rdf:type	anat:chef-musculaire .
+anat:L-mscl-cricothyroidien	rdf:type	anat:muscle .
+anat:L-mscl-cricothyroidien-chef-droit	rdf:type	anat:chef-musculaire .
+anat:L-mscl-cricothyroidien-chef-obliq	rdf:type	anat:chef-musculaire .
+anat:R-mscl-vocal	rdf:type	anat:muscle .
+anat:L-mscl-vocal	rdf:type	anat:muscle .
+		
+anat:complexe-larynx	anat:comprend	anat:cartilages-larynx .
+anat:complexe-larynx	anat:comprend	anat:articulations-larynx .
+anat:complexe-larynx	anat:comprend	anat:ligaments-larynx .
+anat:complexe-larynx	anat:comprend	anat:mb-fibroelastique-larynx .
+anat:complexe-larynx	anat:comprend	anat:muscles-larynx .
+anat:cartilages-larynx	anat:comprend	anat:cartilage-thyroide .
+anat:cartilages-larynx	anat:comprend	anat:cartilage-cricoide .
+anat:cartilages-larynx	anat:comprend	anat:cartilage-epiglottique .
+anat:cartilages-larynx	anat:comprend	anat:R-cartilage-arytenoide .
+anat:cartilages-larynx	anat:comprend	anat:L-cartilage-arytenoide .
+anat:cartilages-larynx	anat:comprend	anat:R-cartilage-cornicule .
+anat:cartilages-larynx	anat:comprend	anat:L-cartilage-cornicule .
+anat:cartilages-larynx	anat:comprend	anat:R-cartilage-cuneiforme .
+anat:cartilages-larynx	anat:comprend	anat:L-cartilage-cuneiforme .
+anat:articulations-larynx	anat:comprend	anat:R-arti-cricothyroidienne .
+anat:articulations-larynx	anat:comprend	anat:L-arti-cricothyroidienne .
+anat:articulations-larynx	anat:comprend	anat:R-arti-cricoarytenoidienne .
+anat:articulations-larynx	anat:comprend	anat:L-arti-cricoarytenoidienne .
+anat:R-arti-cricothyroidienne	anat:comprend	anat:cartilage-thyroide .
+anat:R-arti-cricothyroidienne	anat:comprend	anat:cartilage-cricoide .
+anat:R-arti-cricothyroidienne	anat:comprend	anat:R-lgmt-artiR-cricothyroidien-med .
+anat:R-arti-cricothyroidienne	anat:comprend	anat:R-lgmt-artiR-cricothyroidien-lat .
+anat:R-arti-cricothyroidienne	anat:comprend	anat:R-lgmt-artiR-cricothyroidien-ant .
+anat:R-arti-cricothyroidienne	anat:comprend	anat:R-lgmt-artiR-cricothyroidien-post .
+anat:L-arti-cricothyroidienne	anat:comprend	anat:cartilage-thyroide .
+anat:L-arti-cricothyroidienne	anat:comprend	anat:cartilage-cricoide .
+anat:L-arti-cricothyroidienne	anat:comprend	anat:L-lgmt-artiR-cricothyroidien-med .
+anat:L-arti-cricothyroidienne	anat:comprend	anat:L-lgmt-artiR-cricothyroidien-lat .
+anat:L-arti-cricothyroidienne	anat:comprend	anat:L-lgmt-artiR-cricothyroidien-ant .
+anat:L-arti-cricothyroidienne	anat:comprend	anat:L-lgmt-artiR-cricothyroidien-post .
+anat:R-arti-cricoarytenoidienne	anat:comprend	anat:cartilage-cricoide .
+anat:R-arti-cricoarytenoidienne	anat:comprend	anat:R-cartilage-arytenoide .
+anat:R-arti-cricoarytenoidienne	anat:comprend	anat:R-lgmt-artiR-cricoarytenoidien .
+anat:L-arti-cricoarytenoidienne	anat:comprend	anat:cartilage-cricoide .
+anat:L-arti-cricoarytenoidienne	anat:comprend	anat:L-cartilage-arytenoide .
+anat:L-arti-cricoarytenoidienne	anat:comprend	anat:L-lgmt-artiR-cricoarytenoidien .
+anat:ligaments-larynx	anat:comprend	anat:ligaments-thyrohyoidiens .
+anat:ligaments-larynx	anat:comprend	anat:lgmt-cricothyroidien .
+anat:ligaments-larynx	anat:comprend	anat:ligaments-epiglotte .
+anat:ligaments-larynx	anat:comprend	anat:ligaments-artiR-larynx .
+anat:ligaments-thyrohyoidiens	anat:comprend	anat:mb-thyrohyoidienne .
+anat:ligaments-thyrohyoidiens	anat:comprend	anat:lgmt-thyrohyoidien-med .
+anat:ligaments-thyrohyoidiens	anat:comprend	anat:R-lgmt-thyrohyoidien-lat .
+anat:ligaments-thyrohyoidiens	anat:comprend	anat:L-lgmt-thyrohyoidien-lat .
+anat:ligaments-epiglotte	anat:comprend	anat:lgmt-hyoepiglottique .
+anat:ligaments-epiglotte	anat:comprend	anat:lgmt-thyroepiglottique .
+anat:ligaments-artiR-larynx	anat:comprend	anat:R-ligaments-artiR-cricothyroidien .
+anat:ligaments-artiR-larynx	anat:comprend	anat:L-ligaments-artiR-cricothyroidien .
+anat:ligaments-artiR-larynx	anat:comprend	anat:R-lgmt-artiR-cricoarytenoidien .
+anat:ligaments-artiR-larynx	anat:comprend	anat:L-lgmt-artiR-cricoarytenoidien .
+anat:R-ligaments-artiR-cricothyroidien	anat:comprend	anat:R-lgmt-artiR-cricothyroidien-med .
+anat:R-ligaments-artiR-cricothyroidien	anat:comprend	anat:R-lgmt-artiR-cricothyroidien-lat .
+anat:R-ligaments-artiR-cricothyroidien	anat:comprend	anat:R-lgmt-artiR-cricothyroidien-ant .
+anat:R-ligaments-artiR-cricothyroidien	anat:comprend	anat:R-lgmt-artiR-cricothyroidien-post .
+anat:L-ligaments-artiR-cricothyroidien	anat:comprend	anat:L-lgmt-artiR-cricothyroidien-med .
+anat:L-ligaments-artiR-cricothyroidien	anat:comprend	anat:L-lgmt-artiR-cricothyroidien-lat .
+anat:L-ligaments-artiR-cricothyroidien	anat:comprend	anat:L-lgmt-artiR-cricothyroidien-ant .
+anat:L-ligaments-artiR-cricothyroidien	anat:comprend	anat:L-lgmt-artiR-cricothyroidien-post .
+anat:mb-fibroelastique-larynx	anat:comprend	anat:R-mb-fibroelastique-larynx .
+anat:mb-fibroelastique-larynx	anat:comprend	anat:L-mb-fibroelastique-larynx .
+anat:R-mb-fibroelastique-larynx	anat:comprend	anat:R-mb-quadrangulaire-larynx .
+anat:R-mb-fibroelastique-larynx	anat:comprend	anat:R-lgmt-vestibulaire .
+anat:R-mb-fibroelastique-larynx	anat:comprend	anat:R-lgmt-vocal .
+anat:R-mb-fibroelastique-larynx	anat:comprend	anat:R-cone-elastique-larynx .
+anat:L-mb-fibroelastique-larynx	anat:comprend	anat:L-mb-quadrangulaire-larynx .
+anat:L-mb-fibroelastique-larynx	anat:comprend	anat:L-lgmt-vestibulaire .
+anat:L-mb-fibroelastique-larynx	anat:comprend	anat:L-lgmt-vocal .
+anat:L-mb-fibroelastique-larynx	anat:comprend	anat:L-cone-elastique-larynx .
+anat:muscles-larynx	anat:comprend	anat:muscles-extrinseq-larynx .
+anat:muscles-larynx	anat:comprend	anat:muscles-intrinseq-larynx .
+anat:muscles-extrinseq-larynx	anat:comprend	anat:muscles-elevatR-larynx .
+anat:muscles-extrinseq-larynx	anat:comprend	anat:muscles-abaissR-larynx .
+anat:muscles-elevatR-larynx	anat:comprend	anat:muscles-thyrohyoidien .
+anat:muscles-elevatR-larynx	anat:comprend	anat:muscles-digastrique .
+anat:muscles-elevatR-larynx	anat:comprend	anat:muscles-stylohyoidien .
+anat:muscles-elevatR-larynx	anat:comprend	anat:muscles-mylohyoidien .
+anat:muscles-elevatR-larynx	anat:comprend	anat:muscles-stylopharyngien .
+anat:muscles-elevatR-larynx	anat:comprend	anat:arc-palatopharyngien .
+anat:muscles-abaissR-larynx	anat:comprend	anat:muscles-sternohyoidien .
+anat:muscles-abaissR-larynx	anat:comprend	anat:muscles-omohyoidien .
+anat:muscles-abaissR-larynx	anat:comprend	anat:muscles-sternothyroidien .
+anat:muscles-intrinseq-larynx	anat:comprend	anat:muscles-aditus-larynge .
+anat:muscles-intrinseq-larynx	anat:comprend	anat:muscles-addR-intra-larynx .
+anat:muscles-intrinseq-larynx	anat:comprend	anat:muscles-abdR-intra-larynx .
+anat:muscles-intrinseq-larynx	anat:comprend	anat:muscles-tenseurs-lgmts-vocaux .
+anat:muscles-aditus-larynge	anat:comprend	anat:muscles-aryepiglottique .
+anat:muscles-aditus-larynge	anat:comprend	anat:muscles-thyroepiglottique .
+anat:muscles-aryepiglottique	anat:comprend	anat:R-mscl-aryepiglottique .
+anat:muscles-aryepiglottique	anat:comprend	anat:L-mscl-aryepiglottique .
+anat:muscles-thyroepiglottique	anat:comprend	anat:R-mscl-thyroepiglottique .
+anat:muscles-thyroepiglottique	anat:comprend	anat:L-mscl-thyroepiglottique .
+anat:muscles-addR-intra-larynx	anat:comprend	anat:mscl-arytenoidien-trsv .
+anat:muscles-addR-intra-larynx	anat:comprend	anat:mscl-arytenoidien-obliq .
+anat:muscles-addR-intra-larynx	anat:comprend	anat:muscles-cricoarytenoidien-lat .
+anat:muscles-addR-intra-larynx	anat:comprend	anat:muscles-thyroarytenoidien .
+anat:muscles-cricoarytenoidien-lat	anat:comprend	anat:R-mscl-cricoarytenoidien-lat .
+anat:muscles-cricoarytenoidien-lat	anat:comprend	anat:L-mscl-cricoarytenoidien-lat .
+anat:muscles-thyroarytenoidien	anat:comprend	anat:R-mscl-thyroarytenoidien .
+anat:muscles-thyroarytenoidien	anat:comprend	anat:L-mscl-thyroarytenoidien .
+anat:muscles-abdR-intra-larynx	anat:comprend	anat:muscles-cricoarytenoidien-post .
+anat:muscles-cricoarytenoidien-post	anat:comprend	anat:R-mscl-cricoarytenoidien-post .
+anat:muscles-cricoarytenoidien-post	anat:comprend	anat:L-mscl-cricoarytenoidien-post .
+anat:muscles-tenseurs-lgmts-vocaux	anat:comprend	anat:muscles-cricothyroidien .
+anat:muscles-tenseurs-lgmts-vocaux	anat:comprend	anat:muscles-vocal .
+anat:muscles-cricothyroidien	anat:comprend	anat:R-mscl-cricothyroidien .
+anat:muscles-cricothyroidien	anat:comprend	anat:L-mscl-cricothyroidien .
+anat:muscles-vocal	anat:comprend	anat:R-mscl-vocal .
+anat:muscles-vocal	anat:comprend	anat:L-mscl-vocal .
+anat:R-mscl-cricothyroidien	anat:comprend	anat:R-mscl-cricothyroidien-chef-droit .
+anat:R-mscl-cricothyroidien	anat:comprend	anat:R-mscl-cricothyroidien-chef-obliq .
+anat:L-mscl-cricothyroidien	anat:comprend	anat:L-mscl-cricothyroidien-chef-droit .
+anat:L-mscl-cricothyroidien	anat:comprend	anat:L-mscl-cricothyroidien-chef-obliq .
+		
+anat:cartilage-cricoide	anat:articule-avec	anat:cartilage-thyroide .
+anat:cartilage-cricoide	anat:articule-avec	anat:R-cartilage-arytenoide .
+anat:cartilage-cricoide	anat:articule-avec	anat:L-cartilage-arytenoide .
+anat:R-lgmt-artiR-cricothyroidien-med	anat:s-insere-sur	anat:cartilage-thyroide .
+anat:R-lgmt-artiR-cricothyroidien-med	anat:s-insere-sur	anat:cartilage-cricoide .
+anat:R-lgmt-artiR-cricothyroidien-lat	anat:s-insere-sur	anat:cartilage-thyroide .
+anat:R-lgmt-artiR-cricothyroidien-lat	anat:s-insere-sur	anat:cartilage-cricoide .
+anat:R-lgmt-artiR-cricothyroidien-ant	anat:s-insere-sur	anat:cartilage-thyroide .
+anat:R-lgmt-artiR-cricothyroidien-ant	anat:s-insere-sur	anat:cartilage-cricoide .
+anat:R-lgmt-artiR-cricothyroidien-post	anat:s-insere-sur	anat:cartilage-thyroide .
+anat:R-lgmt-artiR-cricothyroidien-post	anat:s-insere-sur	anat:cartilage-cricoide .
+anat:L-lgmt-artiR-cricothyroidien-med	anat:s-insere-sur	anat:cartilage-thyroide .
+anat:L-lgmt-artiR-cricothyroidien-med	anat:s-insere-sur	anat:cartilage-cricoide .
+anat:L-lgmt-artiR-cricothyroidien-lat	anat:s-insere-sur	anat:cartilage-thyroide .
+anat:L-lgmt-artiR-cricothyroidien-lat	anat:s-insere-sur	anat:cartilage-cricoide .
+anat:L-lgmt-artiR-cricothyroidien-ant	anat:s-insere-sur	anat:cartilage-thyroide .
+anat:L-lgmt-artiR-cricothyroidien-ant	anat:s-insere-sur	anat:cartilage-cricoide .
+anat:L-lgmt-artiR-cricothyroidien-post	anat:s-insere-sur	anat:cartilage-thyroide .
+anat:L-lgmt-artiR-cricothyroidien-post	anat:s-insere-sur	anat:cartilage-cricoide .
+anat:R-lgmt-artiR-cricoarytenoidien	anat:s-insere-sur	anat:R-cartilage-arytenoide .
+anat:R-lgmt-artiR-cricoarytenoidien	anat:s-insere-sur	anat:cartilage-cricoide .
+anat:L-lgmt-artiR-cricoarytenoidien	anat:s-insere-sur	anat:L-cartilage-arytenoide .
+anat:L-lgmt-artiR-cricoarytenoidien	anat:s-insere-sur	anat:cartilage-cricoide .
+anat:mb-thyrohyoidienne	anat:s-insere-sur	anat:os-hyoide .
+anat:mb-thyrohyoidienne	anat:s-insere-sur	anat:cartilage-thyroide .
+anat:lgmt-thyrohyoidien-med	anat:s-insere-sur	anat:os-hyoide .
+anat:lgmt-thyrohyoidien-med	anat:s-insere-sur	anat:cartilage-thyroide .
+anat:R-lgmt-thyrohyoidien-lat	anat:s-insere-sur	anat:os-hyoide .
+anat:R-lgmt-thyrohyoidien-lat	anat:s-insere-sur	anat:cartilage-thyroide .
+anat:L-lgmt-thyrohyoidien-lat	anat:s-insere-sur	anat:os-hyoide .
+anat:L-lgmt-thyrohyoidien-lat	anat:s-insere-sur	anat:cartilage-thyroide .
+anat:lgmt-cricothyroidien	anat:s-insere-sur	anat:cartilage-thyroide .
+anat:lgmt-cricothyroidien	anat:s-insere-sur	anat:cartilage-cricoide .
+anat:lgmt-cricothyroidien	anat:s-insere-sur	anat:R-cartilage-arytenoide .
+anat:lgmt-cricothyroidien	anat:s-insere-sur	anat:L-cartilage-arytenoide .
+anat:lgmt-hyoepiglottique	anat:s-insere-sur	anat:os-hyoide .
+anat:lgmt-hyoepiglottique	anat:s-insere-sur	anat:cartilage-epiglottique .
+anat:lgmt-thyroepiglottique	anat:s-insere-sur	anat:cartilage-thyroide .
+anat:lgmt-thyroepiglottique	anat:s-insere-sur	anat:cartilage-epiglottique .
+anat:R-mb-quadrangulaire-larynx	anat:s-insere-sur	anat:cartilage-epiglottique .
+anat:R-mb-quadrangulaire-larynx	anat:s-insere-sur	anat:R-lgmt-vestibulaire .
+anat:R-mb-quadrangulaire-larynx	anat:s-insere-sur	anat:R-cartilage-arytenoide .
+anat:L-mb-quadrangulaire-larynx	anat:s-insere-sur	anat:cartilage-epiglottique .
+anat:L-mb-quadrangulaire-larynx	anat:s-insere-sur	anat:L-lgmt-vestibulaire .
+anat:L-mb-quadrangulaire-larynx	anat:s-insere-sur	anat:L-cartilage-arytenoide .
+anat:R-lgmt-vestibulaire	anat:s-insere-sur	anat:cartilage-thyroide .
+anat:R-lgmt-vestibulaire	anat:s-insere-sur	anat:R-cartilage-arytenoide .
+anat:L-lgmt-vestibulaire	anat:s-insere-sur	anat:cartilage-thyroide .
+anat:L-lgmt-vestibulaire	anat:s-insere-sur	anat:L-cartilage-arytenoide .
+anat:R-lgmt-vocal	anat:s-insere-sur	anat:cartilage-thyroide .
+anat:R-lgmt-vocal	anat:s-insere-sur	anat:R-cartilage-arytenoide .
+anat:L-lgmt-vocal	anat:s-insere-sur	anat:cartilage-thyroide .
+anat:L-lgmt-vocal	anat:s-insere-sur	anat:L-cartilage-arytenoide .
+anat:R-cone-elastique-larynx	anat:s-insere-sur	anat:cartilage-cricoide .
+anat:R-cone-elastique-larynx	anat:s-insere-sur	anat:R-lgmt-vestibulaire .
+anat:R-cone-elastique-larynx	anat:s-insere-sur	anat:R-lgmt-vocal .
+anat:L-cone-elastique-larynx	anat:s-insere-sur	anat:cartilage-cricoide .
+anat:L-cone-elastique-larynx	anat:s-insere-sur	anat:L-lgmt-vestibulaire .
+anat:L-cone-elastique-larynx	anat:s-insere-sur	anat:L-lgmt-vocal .
+anat:mscl-arytenoidien-trsv	anat:s-insere-sur	anat:R-cartilage-arytenoide .
+anat:mscl-arytenoidien-trsv	anat:s-insere-sur	anat:L-cartilage-arytenoide .
+anat:mscl-arytenoidien-obliq	anat:s-insere-sur	anat:R-cartilage-arytenoide .
+anat:mscl-arytenoidien-obliq	anat:s-insere-sur	anat:L-cartilage-arytenoide .
+anat:R-mscl-aryepiglottique	anat:origi-insere-sur	anat:R-cartilage-arytenoide .
+anat:R-mscl-aryepiglottique	anat:termi-insere-sur	anat:cartilage-epiglottique .
+anat:R-mscl-thyroepiglottique	anat:origi-insere-sur	anat:cartilage-thyroide .
+anat:R-mscl-thyroepiglottique	anat:termi-insere-sur	anat:epiglotte .
+anat:R-mscl-cricoarytenoidien-lat	anat:origi-insere-sur	anat:cartilage-cricoide .
+anat:R-mscl-cricoarytenoidien-lat	anat:termi-insere-sur	anat:R-cartilage-arytenoide .
+anat:R-mscl-thyroarytenoidien	anat:origi-insere-sur	anat:cartilage-thyroide .
+anat:R-mscl-thyroarytenoidien	anat:termi-insere-sur	anat:R-cartilage-arytenoide .
+anat:R-mscl-cricoarytenoidien-post	anat:origi-insere-sur	anat:cartilage-cricoide .
+anat:R-mscl-cricoarytenoidien-post	anat:termi-insere-sur	anat:R-cartilage-arytenoide .
+anat:R-mscl-cricothyroidien-chef-droit	anat:origi-insere-sur	anat:cartilage-cricoide .
+anat:R-mscl-cricothyroidien-chef-droit	anat:termi-insere-sur	anat:cartilage-thyroide .
+anat:R-mscl-cricothyroidien-chef-obliq	anat:origi-insere-sur	anat:cartilage-cricoide .
+anat:R-mscl-cricothyroidien-chef-obliq	anat:termi-insere-sur	anat:cartilage-thyroide .
+anat:R-mscl-vocal	anat:origi-insere-sur	anat:cartilage-thyroide .
+anat:R-mscl-vocal	anat:termi-insere-sur	anat:R-cartilage-arytenoide .
+anat:L-mscl-aryepiglottique	anat:origi-insere-sur	anat:L-cartilage-arytenoide .
+anat:L-mscl-aryepiglottique	anat:termi-insere-sur	anat:cartilage-epiglottique .
+anat:L-mscl-thyroepiglottique	anat:origi-insere-sur	anat:cartilage-thyroide .
+anat:L-mscl-thyroepiglottique	anat:termi-insere-sur	anat:epiglotte .
+anat:L-mscl-cricoarytenoidien-lat	anat:origi-insere-sur	anat:cartilage-cricoide .
+anat:L-mscl-cricoarytenoidien-lat	anat:termi-insere-sur	anat:L-cartilage-arytenoide .
+anat:L-mscl-thyroarytenoidien	anat:origi-insere-sur	anat:cartilage-thyroide .
+anat:L-mscl-thyroarytenoidien	anat:termi-insere-sur	anat:L-cartilage-arytenoide .
+anat:L-mscl-cricoarytenoidien-post	anat:origi-insere-sur	anat:cartilage-cricoide .
+anat:L-mscl-cricoarytenoidien-post	anat:termi-insere-sur	anat:L-cartilage-arytenoide .
+anat:L-mscl-cricothyroidien-chef-droit	anat:origi-insere-sur	anat:cartilage-cricoide .
+anat:L-mscl-cricothyroidien-chef-droit	anat:termi-insere-sur	anat:cartilage-thyroide .
+anat:L-mscl-cricothyroidien-chef-obliq	anat:origi-insere-sur	anat:cartilage-cricoide .
+anat:L-mscl-cricothyroidien-chef-obliq	anat:termi-insere-sur	anat:cartilage-thyroide .
+anat:L-mscl-vocal	anat:origi-insere-sur	anat:cartilage-thyroide .
+anat:L-mscl-vocal	anat:termi-insere-sur	anat:L-cartilage-arytenoide .
+
+anat:complexe-larynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ST95Duqu8fqmSf4H1z4zOj4f> .
+anat:cartilages-larynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=KPD01Pmy8XDO8TfS1X81j8by> .
+anat:cartilage-thyroide	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=0fyuqu55f4f4DCeGHb55X11L> .
+anat:cartilage-cricoide	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=O9nqGv1ba4n0ie4feqH5jW9D> .
+anat:cartilage-epiglottique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=j05L1DfWHz01auuG115XnGXL> .
+anat:R-cartilage-arytenoide	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=4vCmuC9T1jqiDKnuCm4rK5bW> .
+anat:L-cartilage-arytenoide	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=XLvWbCL5XbKbnieqKbXbKD0f> .
+anat:R-cartilage-cornicule	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=r4Tv4Xqi4jKT1DOH5TD8j01f> .
+anat:L-cartilage-cornicule	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Tze0fSeKrmOjCCG5X1GLD89j> .
+anat:R-cartilage-cuneiforme	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=1Xri0TO1PLnqjyCyqOK911vS> .
+anat:L-cartilage-cuneiforme	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Ci41TXj4rCOPbmiymeieCi0z> .
+anat:articulations-larynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=8P1XD4m4bOX5GLzWvKemeCmC> .
+anat:R-arti-cricothyroidienne	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Ob4vuubaqemquq0zmKOnO9DO> .
+anat:L-arti-cricothyroidienne	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=X5zeeWzSHbeW9fqGrCPvy8Xf> .
+anat:R-arti-cricoarytenoidienne	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=aa4PbOveiiWLPbOjWTTPbmGr> .
+anat:L-arti-cricoarytenoidienne	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=41j8XHjCa4LPD41vC0r4ze4v> .
+anat:ligaments-larynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=899X59byeuqSv8z0HXTzi4zu> .
+anat:ligaments-thyrohyoidiens	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=j85n81jOPX9zn09b0XX9naiu> .
+anat:mb-thyrohyoidienne	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=KH1LT1GXjCaGz4TLbe5PTLjq> .
+anat:lgmt-thyrohyoidien-med	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=8HXbi88PbS9jSjuaKzuSfCOD> .
+anat:R-lgmt-thyrohyoidien-lat	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=feGvKn9rKvmiWf8rmKWnG95r> .
+anat:L-lgmt-thyrohyoidien-lat	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=yyG1fyzGLfaO9XPDK9m8TD4b> .
+anat:lgmt-cricothyroidien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=5jGb8nnOPLfyeaGX9TvKT5zq> .
+anat:ligaments-epiglotte	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=bKXniGCu0LfevOrqWHnSn09T> .
+anat:lgmt-hyoepiglottique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=5HzaObXHP1Du01PjSTTHvqOX> .
+anat:lgmt-thyroepiglottique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=GTHreWn4r0zKXDemymjeCKzO> .
+#anat:ligaments-artiR-larynx	anat:hasImage3D	<> .
+#anat:R-ligaments-artiR-cricothyroidien	anat:hasImage3D	<> .
+#anat:R-lgmt-artiR-cricothyroidien-med	anat:hasImage3D	<> .
+#anat:R-lgmt-artiR-cricothyroidien-lat	anat:hasImage3D	<> .
+#anat:R-lgmt-artiR-cricothyroidien-ant	anat:hasImage3D	<> .
+#anat:R-lgmt-artiR-cricothyroidien-post	anat:hasImage3D	<> .
+#anat:L-ligaments-artiR-cricothyroidien	anat:hasImage3D	<> .
+#anat:L-lgmt-artiR-cricothyroidien-med	anat:hasImage3D	<> .
+#anat:L-lgmt-artiR-cricothyroidien-lat	anat:hasImage3D	<> .
+#anat:L-lgmt-artiR-cricothyroidien-ant	anat:hasImage3D	<> .
+#anat:L-lgmt-artiR-cricothyroidien-post	anat:hasImage3D	<> .
+#anat:R-lgmt-artiR-cricoarytenoidien	anat:hasImage3D	<> .
+#anat:L-lgmt-artiR-cricoarytenoidien	anat:hasImage3D	<> .
+anat:mb-fibroelastique-larynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=rGnGr4GDWLv8DyqGnuuGvyyu> .
+anat:R-mb-fibroelastique-larynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=zWTT5rKzWHrKPDuSr0SnK5Dy> .
+anat:L-mb-fibroelastique-larynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=4Tryi8TPX5DiTLPDWH4Pjy8f> .
+anat:R-mb-quadrangulaire-larynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=HDi0f8y8ru4D5reO5jm49nGX> .
+anat:L-mb-quadrangulaire-larynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=9b4j4Di4PH1DXveOr0PbS5TP> .
+anat:R-lgmt-vestibulaire	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=9b4j4Di4PH1DXveOr0PbS5TP> .
+anat:L-lgmt-vestibulaire	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=zCaWzGPLX5vev8DCaOKr4ze4> .
+anat:R-lgmt-vocal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=4PfW9vP9Tn8jeqOHPHfKLDWT> .
+anat:L-lgmt-vocal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=WH9PjGbmGnuiHvqODO4LPPTX> .
+anat:R-cone-elastique-larynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=j8z8fSe81naG0Dmi8fWz85bC> .
+anat:L-cone-elastique-larynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=0LfaqOr0nSvS0D4zKPfiCWzG> .
+anat:muscles-larynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=yOX11r8zCCmiDWriuqXXrSrO> .
+anat:muscles-extrinseq-larynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=rmyyW9W9bC8nS1D0Xj4vqKLz> .
+anat:muscles-elevatR-larynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=bueGzC49PjmOe8ruSXLzyeeu> .
+anat:muscles-abaissR-larynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=eCuG5f5rKneGjaSjqKm8z4fy> .
+anat:muscles-intrinseq-larynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=0L5DWXaeGXjeaSD891y8Hf8j> .
+anat:muscles-aditus-larynge	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=XH5Tfy1nuyODea4ve8CGT19j> .
+anat:muscles-aryepiglottique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=j8rmeKyS1XXzeiia8jnCeGTv> .
+anat:muscles-thyroepiglottique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ieGjCuO9PnOnym8Deu9zeWLH > .
+anat:R-mscl-aryepiglottique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=vqSXjijea0TbrO5bK5TnCWDi> .
+anat:R-mscl-thyroepiglottique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=v091jaiy4LTP5r89bCbC4PrG> .
+anat:L-mscl-aryepiglottique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Dmu4raeay8PrqGP1HTPLT1DC> .
+anat:L-mscl-thyroepiglottique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=XPr8nqPz8jOrXDOvmyu8Xjuq> .
+anat:muscles-addR-intra-larynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=zWTr0r4bm4X1eO9DCGbq0n8H> .
+anat:mscl-arytenoidien-trsv	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=PHrOT5DmWbqC8vK9bGGbeiGn> .
+anat:mscl-arytenoidien-obliq	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=iWnKLr5Di8r0PX5nWvLDGjKf> .
+anat:muscles-cricoarytenoidien-lat	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=0LPTnyvyuqGTyWX1XbDiei01> .
+anat:muscles-thyroarytenoidien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=eauuOL91DyCOG1b8viyS1bei> .
+anat:R-mscl-cricoarytenoidien-lat	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=jSXf0vaWPvamG5LHLTuS1fmS> .
+anat:R-mscl-thyroarytenoidien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=iieKrifO9HTfK15H1515X59L> .
+anat:L-mscl-cricoarytenoidien-lat	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=u059jejq89nmXnquyqOz4DOv> .
+anat:L-mscl-thyroarytenoidien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=GDKjWP8v0HXzmWnK5Xuyy4XH> .
+anat:muscles-abdR-intra-larynx	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=W5jW5vjKTrCerKHH5bCaS5Pb> .
+anat:muscles-cricoarytenoidien-post	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=W5jW5vjKTrCerKHH5bCaS5Pb> .
+anat:R-mscl-cricoarytenoidien-post	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=51zW1rLvim0H0jiSvmnuSD4X> .
+anat:L-mscl-cricoarytenoidien-post	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=uCWTnq5PreWPPT9zG1qeGH9j> .
+anat:muscles-tenseurs-lgmts-vocaux	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=XHb4rqHbKPX9jK1H1HnWPn0r> .
+anat:muscles-cricothyroidien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Hn0rO55TDKXDvOTXXHHXrKvq> .
+anat:muscles-vocal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=PzCyu4PXvSTjSPXLfKqGfSvu> .
+anat:R-mscl-cricothyroidien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=1LL1LrvWr4jObSbaSvDSfe0L> .
+anat:R-mscl-cricothyroidien-chef-droit	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=PXXfuaryWL9rjCKL1vfieueO> .
+anat:R-mscl-cricothyroidien-chef-obliq	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=nGvuGXvuWz8D0n8b4vy4ramy> .
+anat:L-mscl-cricothyroidien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=vuGv0rP1Xv0POPfqCSHHjuCS> .
+anat:L-mscl-cricothyroidien-chef-droit	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=vqa8Ln01bKrCTviOLP4TnCSP> .
+anat:L-mscl-cricothyroidien-chef-obliq	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=DuaWriCqe01LrqKvia9HPXze> .
+anat:R-mscl-vocal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=4v0Ln0rmSn0TXDWvGHW5X1vq> .
+anat:L-mscl-vocal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=j8zyC44v0v0155PrWLaqem0D> .
+anat:complexe-larynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=TvmO5LrmiqmqWbCG11i4HTbe> .
+anat:cartilages-larynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=zuyqe8rq4zi04j8TP90zaiiu> .
+anat:cartilage-thyroide	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=WXDamezyGDm8X1v4bqD4v81f> .
+anat:cartilage-cricoide	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=zC81PvHnCu4519XjyS9bW9z8> .
+anat:cartilage-epiglottique	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=SDS1jG0bWLHXKXX9j4vuKrSL> .
+anat:R-cartilage-arytenoide	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=SjqK9XSni0PXjq4biW4DOPPj> .
+anat:L-cartilage-arytenoide	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=nOPv499r0LDaqG5j8nTDWnye> .
+anat:R-cartilage-cornicule	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=DGzmGbySj8b4aGvyemXbW5Hf> .
+anat:L-cartilage-cornicule	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=5rOzGX459zG1yuuy41PPbmGr> .
+anat:R-cartilage-cuneiforme	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=GHzC85W9vOfymOXX9fCWPbGv> .
+anat:L-cartilage-cuneiforme	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=51ziW9n4H9n49Diu0PKTXnGn> .
+anat:articulations-larynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=CyqK194r0LT1H5zCim9zG5rW> .
+anat:R-arti-cricothyroidienne	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=maqO1v4D0nyGqSbCeCS1nKjC> .
+anat:L-arti-cricothyroidienne	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=yK9D0bXLn4nefWzy0raeqmW1> .
+anat:R-arti-cricoarytenoidienne	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=nySDSXvqGzeObKr8naTfSTnm> .
+anat:L-arti-cricoarytenoidienne	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=1z0rGvK9DK5Xb8nWDWuCuquy> .
+anat:ligaments-larynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=TLLzKzOXbeqKv8fGPHimCe4T> .
+anat:ligaments-thyrohyoidiens	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=LLLjWnWvG1fS8rK1TrWPD8Hb> .
+anat:mb-thyrohyoidienne	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=iiGXLTz05LX51XDGDGzGT5LD> .
+anat:lgmt-thyrohyoidien-med	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=qmymKfDyeumOCCuyyeCCCqiO> .
+anat:R-lgmt-thyrohyoidien-lat	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=0nSTnq419fe8Kremma8XreGT> .
+anat:L-lgmt-thyrohyoidien-lat	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=mKnK5nzyGruGOn0niKraGT51> .
+anat:lgmt-cricothyroidien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=aO1LnSzmyOviTfa4jOziai4f> .
+anat:ligaments-epiglotte	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=WDSHvm4PXX1zCi81PXSPfOry> .
+anat:lgmt-hyoepiglottique	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=T5X5X1PbGje8r01TDKiG9nye> .
+anat:lgmt-thyroepiglottique	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=D8THHrGbuqiqPvGjamTD011H> .
+#anat:ligaments-artiR-larynx	anat:has3DmodelURL	<> .
+#anat:R-ligaments-artiR-cricothyroidien	anat:has3DmodelURL	<> .
+#anat:R-lgmt-artiR-cricothyroidien-med	anat:has3DmodelURL	<> .
+#anat:R-lgmt-artiR-cricothyroidien-lat	anat:has3DmodelURL	<> .
+#anat:R-lgmt-artiR-cricothyroidien-ant	anat:has3DmodelURL	<> .
+#anat:R-lgmt-artiR-cricothyroidien-post	anat:has3DmodelURL	<> .
+#anat:L-ligaments-artiR-cricothyroidien	anat:has3DmodelURL	<> .
+#anat:L-lgmt-artiR-cricothyroidien-med	anat:has3DmodelURL	<> .
+#anat:L-lgmt-artiR-cricothyroidien-lat	anat:has3DmodelURL	<> .
+#anat:L-lgmt-artiR-cricothyroidien-ant	anat:has3DmodelURL	<> .
+#anat:L-lgmt-artiR-cricothyroidien-post	anat:has3DmodelURL	<> .
+#anat:R-lgmt-artiR-cricoarytenoidien	anat:has3DmodelURL	<> .
+#anat:L-lgmt-artiR-cricoarytenoidien	anat:has3DmodelURL	<> .
+anat:mb-fibroelastique-larynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=z4DO5LLbWreWraWP1n1byqee> .
+anat:R-mb-fibroelastique-larynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Tzeey01TDiaOOfCSLvj8TzSL> .
+anat:L-mb-fibroelastique-larynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=jiWTjWGjC4Tnemem8TyWvuCG> .
+anat:R-mb-quadrangulaire-larynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=qeu4v0GXzOPvvOzS5PKTfmGD> .
+anat:L-mb-quadrangulaire-larynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=vCeqGPrGv0bKnyy0nSim8zCS> .
+anat:R-lgmt-vestibulaire	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=KTb4HvayauKv4vGT1DXzO9T5> .
+anat:L-lgmt-vestibulaire	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=aCS15P4XbSH1zKDaqeXn41z0> .
+anat:R-lgmt-vocal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=vSLT5XvOzeyqr8vmaOLjyy81> .
+anat:L-lgmt-vocal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=1XDCWHC8DSjO4n8vWnb05vC8> .
+anat:R-cone-elastique-larynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Da0vKTvuq0TLbuCuKLCuiuqy> .
+anat:L-cone-elastique-larynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=r0TX1nCC05HrCaKPLrT1bOvm> .
+anat:muscles-larynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=ayiWbK19nKD8yODa0HGf0rmK> .
+anat:muscles-extrinseq-larynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=r4jyyuyK5vu8fO9v0Tueyiia> .
+anat:muscles-elevatR-larynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=0XHne0Xfmei4nG9b0TbuSLfW> .
+anat:muscles-abaissR-larynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=e0f4v49PPLr4buGnKTeuem85> .
+anat:muscles-intrinseq-larynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=fuC4naySnKLrPPj45Hbuu4nG> .
+anat:muscles-aditus-larynge	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=bW1jqe1TD4LPXj8TzuW1zKXH> .
+anat:muscles-aryepiglottique	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=5PzW9HfGH9zeyqieOPqyOrSj> .
+anat:muscles-thyroepiglottique	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=uOX55vCyayGLPPza8HC8fO1b> .
+anat:R-mscl-aryepiglottique	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=nSjuGDemaKzureuWjKKveq8T> .
+anat:R-mscl-thyroepiglottique	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=qmWXn4WHfyqivKrK5fT15LPP> .
+anat:L-mscl-aryepiglottique	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=maqaWbmqOjiSSryWzK5XPDyK> .
+anat:L-mscl-thyroepiglottique	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=XX59fGmaGfCi4THn0LaeOLjW> .
+anat:muscles-addR-intra-larynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=XnaSX9fy8bO149L5zSHve4T5> .
+anat:mscl-arytenoidien-trsv	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=aemmOrDSvC0DK5XDGz41HLbS> .
+anat:mscl-arytenoidien-obliq	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=L9Xze0nGL1bO8vmySHmeK5fW> .
+anat:muscles-cricoarytenoidien-lat	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Gr0ze0Lr4n0v8bymGzLnWPri> .
+anat:muscles-thyroarytenoidien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=HrmSveK5DGf8bii41jCWXfKL> .
+anat:R-mscl-cricoarytenoidien-lat	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=a89TXf41HTry0LLLHXDaSjmW> .
+anat:R-mscl-thyroarytenoidien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Lz4fqu9vOH1HnW95nKmWryqC> .
+anat:L-mscl-cricoarytenoidien-lat	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=8DKnGX8551LPLTTzCuHjqmau> .
+anat:L-mscl-thyroarytenoidien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=eSLbuS4fCKP1ry4PrGnayWLD> .
+anat:muscles-abdR-intra-larynx	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=CG5XT9ni0j8nDaCWXnK9HvKT> .
+anat:muscles-cricoarytenoidien-post	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=CG5XT9ni0j8nDaCWXnK9HvKT> .
+anat:R-mscl-cricoarytenoidien-post	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=z0TrqmX5buOjy4XD8bSbayeO> .
+anat:L-mscl-cricoarytenoidien-post	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=iqm8X1THb4PPrGbST5u4nmaW> .
+anat:muscles-tenseurs-lgmts-vocaux	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=vSjK9P1PTb4rTzeWfynuSfeK> .
+anat:muscles-cricothyroidien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=WH1X51nmSPr8nuSfK94PfaSf> .
+anat:muscles-vocal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=959faaieKjWvbauqCO4z4bi0> .
+anat:R-mscl-cricothyroidien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=8TTHjGLbGvWbDSTfSvnWfOTX> .
+anat:R-mscl-cricothyroidien-chef-droit	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=C4HTXnnuimySv4naeCb4jSnK> .
+anat:R-mscl-cricothyroidien-chef-obliq	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=09nSXrGHHzG14n4LPnD0DyCC> .
+anat:L-mscl-cricothyroidien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=vi8LTb0rOTfSTvS1z0PTXXne> .
+anat:L-mscl-cricothyroidien-chef-droit	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=SraKvGWzeSLLTva8HzLHry4T> .
+anat:L-mscl-cricothyroidien-chef-obliq	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=CuGHTLm05vSb8T19Tn9PzS1n> .
+anat:R-mscl-vocal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=zGLXzqCuCWr4zCiqC4vWLD4v> .
+anat:L-mscl-vocal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=GryuG19nOX9XzimSTjiqeGva> .
+
+anat:complexe-larynx	rdfs:label	"Complexe du larynx" .
+anat:cartilages-larynx	rdfs:label	"Structures cartilagineuses du larynx" .
+anat:cartilage-thyroide	rdfs:label	"Cartilage thyroïde" .
+anat:cartilage-cricoide	rdfs:label	"Cartilage cricoïde" .
+anat:cartilage-epiglotique	rdfs:label	"Cartilage épiglotique" .
+anat:R-cartilage-arytenoide	rdfs:label	"Cartilage aryténoïde droit" .
+anat:L-cartilage-arytenoide	rdfs:label	"Cartilage aryténoïde gauche" .
+anat:R-cartilage-cornicule	rdfs:label	"Cartilage corniculé droit" .
+anat:L-cartilage-cornicule	rdfs:label	"Cartilage corniculé gauche" .
+anat:R-cartilage-cuneiforme	rdfs:label	"Cartilage cunéiforme droit" .
+anat:L-cartilage-cuneiforme	rdfs:label	"Cartilage cunéiforme gauche" .
+anat:articulations-larynx	rdfs:label	"Articulations du larynx" .
+anat:R-arti-cricothyroidienne	rdfs:label	"Articulation crico-thyroïdienne droite" .
+anat:L-arti-cricothyroidienne	rdfs:label	"Articulation crico-thyroïdienne gauche" .
+anat:R-arti-cricoarytenoidienne	rdfs:label	"Articulation crico-aryténoïdienne droite" .
+anat:L-arti-cricoarytenoidienne	rdfs:label	"Articulation crico-aryténoïdienne gauche" .
+anat:ligaments-larynx	rdfs:label	"Ligaments du larynx" .
+anat:ligaments-thyrohyoidiens	rdfs:label	"Ligaments thyro-hyoïdiens" .
+anat:mb-thyrohyoidienne	rdfs:label	"Membrane thyro-hyoïdienne" .
+anat:lgmt-thyrohyoidien-med	rdfs:label	"Ligament thyro-hyoïdien médial" .
+anat:R-lgmt-thyrohyoidien-lat	rdfs:label	"Ligament thyro-hyoïdien latéral droit" .
+anat:L-lgmt-thyrohyoidien-lat	rdfs:label	"Ligament thyro-hyoïdien latéral gauche" .
+anat:lgmt-cricothyroidien	rdfs:label	"Ligament crico-thyroïdien" .
+anat:ligaments-epiglote	rdfs:label	"Ligaments de l'épiglotte" .
+anat:lgmt-hyoepiglotique	rdfs:label	"Ligament hyo-épiglottique" .
+anat:lgmt-thyroepiglotique	rdfs:label	"Ligament thyro-épiglottique" .
+anat:ligaments-artiR-larynx	rdfs:label	"Ligaments articulaires du larynx" .
+anat:R-ligaments-artiR-cricothyroidien	rdfs:label	"Ligaments articulaires crico-thyroïdiens droits" .
+anat:R-lgmt-artiR-cricothyroidien-med	rdfs:label	"Ligament articulaire crico-thyroïdien médial droit" .
+anat:R-lgmt-artiR-cricothyroidien-lat	rdfs:label	"Ligament articulaire crico-thyroïdien latéral droit" .
+anat:R-lgmt-artiR-cricothyroidien-ant	rdfs:label	"Ligament articulaire crico-thyroïdien antérieur droit" .
+anat:R-lgmt-artiR-cricothyroidien-post	rdfs:label	"Ligament articulaire crico-thyroïdien postérieur droit" .
+anat:L-ligaments-artiR-cricothyroidien	rdfs:label	"Ligaments articulaires crico-thyroïdiens gauches" .
+anat:L-lgmt-artiR-cricothyroidien-med	rdfs:label	"Ligament articulaire crico-thyroïdien médial gauche" .
+anat:L-lgmt-artiR-cricothyroidien-lat	rdfs:label	"Ligament articulaire crico-thyroïdien latéral gauche" .
+anat:L-lgmt-artiR-cricothyroidien-ant	rdfs:label	"Ligament articulaire crico-thyroïdien antérieur gauche" .
+anat:L-lgmt-artiR-cricothyroidien-post	rdfs:label	"Ligament articulaire crico-thyroïdien postérieur gauche" .
+anat:R-lgmt-artiR-cricoarytenoidien	rdfs:label	"Ligament articulaire crico-aryténoïdien droit" .
+anat:L-lgmt-artiR-cricoarytenoidien	rdfs:label	"Ligament articulaire crico-aryténoïdien gauche" .
+anat:mb-fibroelastique-larynx	rdfs:label	"Membrane fibro-élastique du larynx" .
+anat:R-mb-fibroelastique-larynx	rdfs:label	"Membrane fibro-élastique du larynx droite" .
+anat:L-mb-fibroelastique-larynx	rdfs:label	"Membrane fibro-élastique du larynx gauche" .
+anat:R-mb-quadrangulaire-larynx	rdfs:label	"Membrane quadrilataire du larynx droite" .
+anat:L-mb-quadrangulaire-larynx	rdfs:label	"Membrane quadrilataire du larynx gauche" .
+anat:R-lgmt-vestibulaire	rdfs:label	"Ligament vestibulaire droit" .
+anat:L-lgmt-vestibulaire	rdfs:label	"Ligament vestibulaire gauche" .
+anat:R-lgmt-vocal	rdfs:label	"Ligament vocal droit" .
+anat:L-lgmt-vocal	rdfs:label	"Ligament vocal gauche" .
+anat:R-cone-elastique-larynx	rdfs:label	"Cône élastique du larynx droit" .
+anat:L-cone-elastique-larynx	rdfs:label	"Cône élastique du larynx gauche" .
+anat:muscles-larynx	rdfs:label	"Muscles du larynx" .
+anat:muscles-extrinseq-larynx	rdfs:label	"Muscles extrinsèques du larynx" .
+anat:muscles-elevatR-larynx	rdfs:label	"Muscles élévateurs du larynx" .
+anat:muscles-abaissR-larynx	rdfs:label	"Muscles abaisseurs du larynx" .
+anat:muscles-intrinseq-larynx	rdfs:label	"Muscles intrinsèques du larynx" .
+anat:muscles-aditus-larynge	rdfs:label	"Muscles de l'aditus laryngé" .
+anat:muscles-aryepiglotique	rdfs:label	"Muscles ary-épiglottiques" .
+anat:muscles-thyroepiglotique	rdfs:label	"Muscles thyro-épiglottiques" .
+anat:R-mscl-aryepiglotique	rdfs:label	"Muscle ary-épiglottique droit" .
+anat:R-mscl-thyroepiglotique	rdfs:label	"Muscle thyro-épiglottique droit" .
+anat:L-mscl-aryepiglotique	rdfs:label	"Muscle ary-épiglottique gauche" .
+anat:L-mscl-thyroepiglotique	rdfs:label	"Muscle thyro-épiglottique gauche" .
+anat:muscles-addR-intra-larynx	rdfs:label	"Muscles adducteurs intrinsèques du larynx" .
+anat:mscl-arytenoidien-trsv	rdfs:label	"Muscle aryténoïdien transverse" .
+anat:mscl-arytenoidien-obliq	rdfs:label	"Muscle aryténoïdien oblique" .
+anat:muscles-cricoarytenoidien-lat	rdfs:label	"Muscles crico-aryténoïdiens latéraux" .
+anat:muscles-thyroarytenoidien	rdfs:label	"Muscles thyro-aryténoïdiens" .
+anat:R-mscl-cricoarytenoidien-lat	rdfs:label	"Muscle crico-aryténoïdien latéral droit" .
+anat:R-mscl-thyroarytenoidien	rdfs:label	"Muscle thyro-aryténoïdien latéral droit" .
+anat:L-mscl-cricoarytenoidien-lat	rdfs:label	"Muscle crico-aryténoïdien latéral gauche" .
+anat:L-mscl-thyroarytenoidien	rdfs:label	"Muscle thyro-aryténoïdien latéral gauche" .
+anat:muscles-abdR-intra-larynx	rdfs:label	"Muscles abducteurs intrinsèques du larynx" .
+anat:muscles-cricoarytenoidien-post	rdfs:label	"Muscles crico-aryténoïdiens postérieurs" .
+anat:R-mscl-cricoarytenoidien-post	rdfs:label	"Muscle crico-aryténoïdien postérieur droit" .
+anat:L-mscl-cricoarytenoidien-post	rdfs:label	"Muscle crico-aryténoïdien postérieur gauche" .
+anat:muscles-tenseurs-lgmts-vocaux	rdfs:label	"Muscles tenseurs des ligaments vocaux" .
+anat:muscles-cricothyroidien	rdfs:label	"Muscles crico-thyroïdiens" .
+anat:muscles-vocal	rdfs:label	"Muscles vocaux" .
+anat:R-mscl-cricothyroidien	rdfs:label	"Muscle crico-thyroïdien droit" .
+anat:R-mscl-cricothyroidien-chef-droit	rdfs:label	"Chef droit du muscle crico-thyroïdien droit" .
+anat:R-mscl-cricothyroidien-chef-obliq	rdfs:label	"Chef oblique du muscle crico-thyroïdien droit" .
+anat:L-mscl-cricothyroidien	rdfs:label	"Muscle crico-thyroïdien gauche" .
+anat:L-mscl-cricothyroidien-chef-droit	rdfs:label	"Chef droit du muscle crico-thyroïdien gauche" .
+anat:L-mscl-cricothyroidien-chef-obliq	rdfs:label	"Chef oblique du muscle crico-thyroïdien gauche" .
+anat:R-mscl-vocal	rdfs:label	"Muscle vocal droit" .
+anat:L-mscl-vocal	rdfs:label	"Muscle vocal gauche" .
+
 

@@ -906,7 +906,7 @@
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/cartilage-thyroide">Cartilage thyroïde</a></li>
 			<li><a href="/desc/http://anat.org/cartilage-cricoide">Cartilage cricoïde</a></li>
-			<li><a href="/desc/http://anat.org/cartilage-epiglotique">Cartilage épiglotique</a></li>
+			<li><a href="/desc/http://anat.org/cartilage-epiglottique">Cartilage épiglottique</a></li>
 			<li><a href="/desc/http://anat.org/R-cartilage-arytenoide">Cartilage aryténoïde droit</a></li>
 			<li><a href="/desc/http://anat.org/L-cartilage-arytenoide">Cartilage aryténoïde gauche</a></li>
 			<li><a href="/desc/http://anat.org/R-cartilage-cornicule">Cartilage corniculé droit</a></li>
@@ -962,10 +962,10 @@
 				</ul>
 			</li>
 			<li><a href="/desc/http://anat.org/lgmt-cricothyroidien">Ligament crico-thyroïdien</a></li>
-			<li><a href="/desc/http://anat.org/ligaments-epiglote">Ligaments de l'épiglotte</a>
+			<li><a href="/desc/http://anat.org/ligaments-epiglotte">Ligaments de l'épiglotte</a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/lgmt-hyoepiglotique">Ligament hyo-épiglottique</a></li>
-				<li><a href="/desc/http://anat.org/lgmt-thyroepiglotique">Ligament thyro-épiglottique</a></li>
+				<li><a href="/desc/http://anat.org/lgmt-hyoepiglottique">Ligament hyo-épiglottique</a></li>
+				<li><a href="/desc/http://anat.org/lgmt-thyroepiglottique">Ligament thyro-épiglottique</a></li>
 				</ul>
 			</li>
 			<li>Ligaments articulaires
@@ -1140,16 +1140,16 @@
       <div class="panel-body">
 
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/muscles-aryepiglotique">Muscles ary-épiglottiques</a>
+					<li><a href="/desc/http://anat.org/muscles-aryepiglottique">Muscles ary-épiglottiques</a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-mscl-aryepiglotique">Muscle ary-épiglottique droit</a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-aryepiglotique">Muscle ary-épiglottique gauche</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-aryepiglottique">Muscle ary-épiglottique droit</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-aryepiglottique">Muscle ary-épiglottique gauche</a></li>
 						</ul>
 					</li>
-					<li><a href="/desc/http://anat.org/muscles-thyroepiglotique">Muscles thyro-épiglottiques</a>
+					<li><a href="/desc/http://anat.org/muscles-thyroepiglottique">Muscles thyro-épiglottiques</a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-mscl-thyroepiglotique">Muscle thyro-épiglottique droit</a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-thyroepiglotique">Muscle thyro-épiglottique gauche</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-thyroepiglottique">Muscle thyro-épiglottique droit</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-thyroepiglottique">Muscle thyro-épiglottique gauche</a></li>
 						</ul>
 					</li>
 					</ul>

@@ -31,67 +31,6 @@
     <div id="collapseMyo1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo1">
       <div class="panel-body">
 	<ul style="list-style-type:square">
-	<li><a href="/desc/http://anat.org/muscles-masticateurs">Muscles masticateurs</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="Myo1-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo1-1" aria-expanded="false" aria-controls="collapseMyo1-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapseMyo1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo1-1">
-      <div class="panel-body">
-
-		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/muscles-temporaux">Muscles temporaux</a>
-			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-temporal">Muscle temporal droit</a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-temporal">Muscle temporal gauche</a></li>
-			</ul>
-		</li>
-		<li><a href="/desc/http://anat.org/muscles-masseter">Muscles masseter</a>
-			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-masseter">Muscle masseter droit</a>
-				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-masseter-fx-supL">Faisceau superficiel du muscle masseter droit</a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-masseter-fx-pfd">Faisceau profond du muscle masseter droit</a></li>
-				</ul>
-			</li>
-			<li><a href="/desc/http://anat.org/L-mscl-masseter">Muscle masseter gauche</a>
-				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/L-mscl-masseter-fx-supL">Faisceau superficiel du muscle masseter gauche</a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-masseter-fx-pfd">Faisceau profond du muscle masseter gauche</a></li>
-				</ul>
-			</li>
-			</ul>
-		</li>
-		<li><a href="/desc/http://anat.org/muscles-pterigoidien-lat">Muscles ptérigoïdiens latéraux</a>
-			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-pterigoidien-lat">Muscle ptérigoïdien latéral droit</a>
-				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-pterigoidien-lat-fx-sup">Faisceau superficiel du muscle ptérigoïdien latéral droit</a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-pterigoidien-lat-fx-inf">Faisceau profond du muscle ptérigoïdien latéral droit</a></li>
-				</ul>
-			</li>
-			<li><a href="/desc/http://anat.org/L-mscl-pterigoidien-lat">Muscle ptérigoïdien latéral gauche</a>
-				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/L-mscl-pterigoidien-lat-fx-sup">Faisceau superficiel du muscle ptérigoïdien latéral gauche</a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-pterigoidien-lat-fx-inf">Faisceau profond du muscle ptérigoïdien latéral gauche</a></li>
-				</ul>
-			</li>
-			</ul>
-		</li>
-		<li><a href="/desc/http://anat.org/muscles-pterigoidien-med">Muscles ptérigoïdiens médiaux</a>
-			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-pterigoidien-med">Muscle ptérigoïdien médial droit</a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-pterigoidien-med">Muscle ptérigoïdien médial gauche</a></li>
-			</ul>
-		</li>
-		</ul>
-
-      </div>
-    </div>
-  </div>
 
 	<li><a href="/desc/http://anat.org/muscles-expressions-faciales">Muscles des expressions faciales</a></li>
 
@@ -636,60 +575,6 @@
     </div>
   </div>
 
-	<li><a href="/desc/http://anat.org/muscles-verniers">Muscles verniers (sous-occipitaux)</a></li>
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="Myo1-6">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo1-6" aria-expanded="false" aria-controls="collapseMyo1-6">
-	▼ 
-        </a>
-    </div>
-    <div id="collapseMyo1-6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo1-6">
-      <div class="panel-body">
-
-		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/muscles-droit-ant-tete">Muscles droits antérieurs de la tête</a>
-			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-droit-ant-tete">Muscle droit antérieur de la tête droit</a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-droit-ant-tete">Muscle droit antérieur de la tête gauche</a></li>
-			</ul>
-		</li>
-		<li><a href="/desc/http://anat.org/muscles-droit-lat-tete">Muscles droits latéraux de la tête</a>
-			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-droit-lat-tete">Muscle droit latéral de la tête droit</a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-droit-lat-tete">Muscle droit latéral de la tête gauche</a></li>
-			</ul>
-		</li>
-		<li><a href="/desc/http://anat.org/muscles-gd-droit-post-tete">Muscles grands droits postérieurs de la tête</a>
-			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-gd-droit-post-tete">Muscle grand droit postérieur de la tête droit</a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-gd-droit-post-tete">Muscle grand droit postérieur de la tête gauche</a></li>
-			</ul>
-		</li>
-		<li><a href="/desc/http://anat.org/muscles-pt-droit-post-tete">Muscles petits droits postérieurs de la tête</a>
-			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-pt-droit-post-tete">Muscle petit droit postérieur de la tête droit</a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-pt-droit-post-tete">Muscle petit droit postérieur de la tête gauche</a></li>
-			</ul>
-		</li>
-		<li><a href="/desc/http://anat.org/muscles-oblique-sup-tete">Muscles obliques supérieurs de la tête</a>
-			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-oblique-sup-tete">Muscle oblique supérieur de la tête droit</a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-oblique-sup-tete">Muscle oblique supérieur de la tête gauche</a></li>
-			</ul>
-		</li>
-		<li><a href="/desc/http://anat.org/muscles-oblique-inf-tete">Muscles obliques inférieurs de la tête</a>
-			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-oblique-inf-tete">Muscle oblique inférieur de la tête droit</a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-oblique-inf-tete">Muscle oblique inférieur de la tête gauche</a></li>
-			</ul>
-		</li>
-		</ul>
-
-      </div>
-    </div>
-  </div>
-
 	<li><a href="/desc/http://anat.org/pharynx">Muscles du pharynx</a>
 
   <div class="panel panel-default">
@@ -749,33 +634,77 @@
     </div>
   </div>
 
-	</ul>
+	<li><a href="/desc/http://anat.org/muscles-masticateurs">Muscles masticateurs</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo1-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo1-1" aria-expanded="false" aria-controls="collapseMyo1-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo1-1">
+      <div class="panel-body">
+
+		<ul style="list-style-type:disc">
+		<li><a href="/desc/http://anat.org/muscles-temporaux">Muscles temporaux</a>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/R-mscl-temporal">Muscle temporal droit</a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-temporal">Muscle temporal gauche</a></li>
+			</ul>
+		</li>
+		<li><a href="/desc/http://anat.org/muscles-masseter">Muscles masseter</a>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/R-mscl-masseter">Muscle masseter droit</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-masseter-fx-supL">Faisceau superficiel du muscle masseter droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-masseter-fx-pfd">Faisceau profond du muscle masseter droit</a></li>
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/L-mscl-masseter">Muscle masseter gauche</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/L-mscl-masseter-fx-supL">Faisceau superficiel du muscle masseter gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-masseter-fx-pfd">Faisceau profond du muscle masseter gauche</a></li>
+				</ul>
+			</li>
+			</ul>
+		</li>
+		<li><a href="/desc/http://anat.org/muscles-pterigoidien-lat">Muscles ptérigoïdiens latéraux</a>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/R-mscl-pterigoidien-lat">Muscle ptérigoïdien latéral droit</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-pterigoidien-lat-fx-sup">Faisceau superficiel du muscle ptérigoïdien latéral droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-pterigoidien-lat-fx-inf">Faisceau profond du muscle ptérigoïdien latéral droit</a></li>
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/L-mscl-pterigoidien-lat">Muscle ptérigoïdien latéral gauche</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/L-mscl-pterigoidien-lat-fx-sup">Faisceau superficiel du muscle ptérigoïdien latéral gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-pterigoidien-lat-fx-inf">Faisceau profond du muscle ptérigoïdien latéral gauche</a></li>
+				</ul>
+			</li>
+			</ul>
+		</li>
+		<li><a href="/desc/http://anat.org/muscles-pterigoidien-med">Muscles ptérigoïdiens médiaux</a>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/R-mscl-pterigoidien-med">Muscle ptérigoïdien médial droit</a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-pterigoidien-med">Muscle ptérigoïdien médial gauche</a></li>
+			</ul>
+		</li>
+		</ul>
 
       </div>
     </div>
   </div>
 
-<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="false">
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="Myo2">
-      <h4 class="panel-title">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo2" aria-expanded="false" aria-controls="collapseMyo2">
-<h4 class="area">RÉGION DU COU</h4>
-        </a>
-      </h4>
-    </div>
-    <div id="collapseMyo2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo2">
-      <div class="panel-body">
-	<ul style="list-style-type:square">
 	<li><a href="/desc/http://anat.org/muscles-verniers">Muscles verniers (sous-occipitaux)</a></li>
 
   <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="Myo2-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo2-1" aria-expanded="false" aria-controls="collapseMyo2-1">
+    <div class="panel-heading" role="tab" id="Myo1-6">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo1-6" aria-expanded="false" aria-controls="collapseMyo1-6">
 	▼ 
         </a>
     </div>
-    <div id="collapseMyo2-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo2-1">
+    <div id="collapseMyo1-6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo1-6">
       <div class="panel-body">
 
 		<ul style="list-style-type:disc">
@@ -820,6 +749,25 @@
       </div>
     </div>
   </div>
+
+	</ul>
+
+      </div>
+    </div>
+  </div>
+
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="false">
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo2">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo2" aria-expanded="false" aria-controls="collapseMyo2">
+<h4 class="area">RÉGION DU COU</h4>
+        </a>
+      </h4>
+    </div>
+    <div id="collapseMyo2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo2">
+      <div class="panel-body">
+	<ul style="list-style-type:square">
 
 	<li><a href="/desc/http://anat.org/pharynx">Muscles du pharynx</a></li>
 
@@ -1264,16 +1212,61 @@
     </div>
   </div>
 
-	<li><a href="/desc/http://anat.org/muscles-cou">Muscles du cou</a></li>
+	<li><a href="/desc/http://anat.org/muscles-verniers">Muscles verniers (sous-occipitaux)</a></li>
 
   <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="Myo2-4">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo2-4" aria-expanded="false" aria-controls="collapseMyo2-4">
+    <div class="panel-heading" role="tab" id="Myo2-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo2-1" aria-expanded="false" aria-controls="collapseMyo2-1">
 	▼ 
         </a>
     </div>
-    <div id="collapseMyo2-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo2-4">
+    <div id="collapseMyo2-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo2-1">
       <div class="panel-body">
+
+		<ul style="list-style-type:disc">
+		<li><a href="/desc/http://anat.org/muscles-droit-ant-tete">Muscles droits antérieurs de la tête</a>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/R-mscl-droit-ant-tete">Muscle droit antérieur de la tête droit</a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-droit-ant-tete">Muscle droit antérieur de la tête gauche</a></li>
+			</ul>
+		</li>
+		<li><a href="/desc/http://anat.org/muscles-droit-lat-tete">Muscles droits latéraux de la tête</a>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/R-mscl-droit-lat-tete">Muscle droit latéral de la tête droit</a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-droit-lat-tete">Muscle droit latéral de la tête gauche</a></li>
+			</ul>
+		</li>
+		<li><a href="/desc/http://anat.org/muscles-gd-droit-post-tete">Muscles grands droits postérieurs de la tête</a>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/R-mscl-gd-droit-post-tete">Muscle grand droit postérieur de la tête droit</a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-gd-droit-post-tete">Muscle grand droit postérieur de la tête gauche</a></li>
+			</ul>
+		</li>
+		<li><a href="/desc/http://anat.org/muscles-pt-droit-post-tete">Muscles petits droits postérieurs de la tête</a>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/R-mscl-pt-droit-post-tete">Muscle petit droit postérieur de la tête droit</a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-pt-droit-post-tete">Muscle petit droit postérieur de la tête gauche</a></li>
+			</ul>
+		</li>
+		<li><a href="/desc/http://anat.org/muscles-oblique-sup-tete">Muscles obliques supérieurs de la tête</a>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/R-mscl-oblique-sup-tete">Muscle oblique supérieur de la tête droit</a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-oblique-sup-tete">Muscle oblique supérieur de la tête gauche</a></li>
+			</ul>
+		</li>
+		<li><a href="/desc/http://anat.org/muscles-oblique-inf-tete">Muscles obliques inférieurs de la tête</a>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/R-mscl-oblique-inf-tete">Muscle oblique inférieur de la tête droit</a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-oblique-inf-tete">Muscle oblique inférieur de la tête gauche</a></li>
+			</ul>
+		</li>
+		</ul>
+
+      </div>
+    </div>
+  </div>
+
+	<li><a href="/desc/http://anat.org/muscles-cou">Muscles du cou</a>
 
 		<ul style="list-style-type:square">
 		<li><a href="/desc/http://anat.org/muscles-supL-cou">Muscles superficiels du cou</a></li>
@@ -1484,11 +1477,7 @@
   </div>
 
 		</ul>
-
-      </div>
-    </div>
-  </div>
-
+	</li>
 	</ul>
 
       </div>
@@ -1508,9 +1497,385 @@
       <div class="panel-body">
 	<ul style="list-style-type:square">
 	<li><a href="/desc/http://anat.org/muscles-thoraciq-ext">Muscles thoraciques externes</a></li>
+
+		<ul style="list-style-type:disc">
+		<li><a href="/desc/http://anat.org/muscles-elevatR-cotes">Muscles élévateurs des côtes</a>
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/muscles-crt-elevatR-cotes">Muscles courts élévateurs des côtes</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo3-1-1-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo3-1-1-1" aria-expanded="false" aria-controls="collapseMyo3-1-1-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo3-1-1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo3-1-1-1">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/R-muscles-crt-elevatR-cotes">Muscles courts élévateurs des côtes droits</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-1">Muscle court élévateur de la 1ere côte droite</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-2">Muscle court élévateur de la 2e côte droite</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-3">Muscle court élévateur de la 3e côte droite</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-4">Muscle court élévateur de la 4e côte droite</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-5">Muscle court élévateur de la 5e côte droite</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-6">Muscle court élévateur de la 6e côte droite</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-7">Muscle court élévateur de la 7e côte droite</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-8">Muscle court élévateur de la 8e côte droite</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-9">Muscle court élévateur de la 9e côte droite</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-10">Muscle court élévateur de la 10e côte droite</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-11">Muscle court élévateur de la 11e côte droite</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-12">Muscle court élévateur de la 12e côte droite</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/L-muscles-crt-elevatR-cotes">Muscles courts élévateurs des côtes gauches</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-1">Muscle court élévateur de la 1ere côte gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-2">Muscle court élévateur de la 2e côte gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-3">Muscle court élévateur de la 3e côte gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-4">Muscle court élévateur de la 4e côte gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-5">Muscle court élévateur de la 5e côte gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-6">Muscle court élévateur de la 6e côte gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-7">Muscle court élévateur de la 7e côte gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-8">Muscle court élévateur de la 8e côte gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-9">Muscle court élévateur de la 9e côte gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-10">Muscle court élévateur de la 10e côte gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-11">Muscle court élévateur de la 11e côte gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-12">Muscle court élévateur de la 12e côte gauche</a></li>
+					</ul>
+				</li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			<li><a href="/desc/http://anat.org/muscles-lg-elevatR-cotes">Muscles longs élévateurs des côtes</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo3-1-1-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo3-1-1-2" aria-expanded="false" aria-controls="collapseMyo3-1-1-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo3-1-1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo3-1-1-2">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/R-muscles-lg-elevatR-cotes">Muscles longs élévateurs des côtes droits</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-2">Muscle long élévateur de la 2e côte droite</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-3">Muscle long élévateur de la 3e côte droite</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-4">Muscle long élévateur de la 4e côte droite</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-5">Muscle long élévateur de la 5e côte droite</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-6">Muscle long élévateur de la 6e côte droite</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-7">Muscle long élévateur de la 7e côte droite</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-8">Muscle long élévateur de la 8e côte droite</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-9">Muscle long élévateur de la 9e côte droite</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-10">Muscle long élévateur de la 10e côte droite</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-11">Muscle long élévateur de la 11e côte droite</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-12">Muscle long élévateur de la 12e côte droite</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/L-muscles-lg-elevatR-cotes">Muscles longs élévateurs des côtes gauches</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-2">Muscle long élévateur de la 2e côte gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-3">Muscle long élévateur de la 3e côte gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-4">Muscle long élévateur de la 4e côte gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-5">Muscle long élévateur de la 5e côte gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-6">Muscle long élévateur de la 6e côte gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-7">Muscle long élévateur de la 7e côte gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-8">Muscle long élévateur de la 8e côte gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-9">Muscle long élévateur de la 9e côte gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-10">Muscle long élévateur de la 10e côte gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-11">Muscle long élévateur de la 11e côte gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-12">Muscle long élévateur de la 12e côte gauche</a></li>
+					</ul>
+				</li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			</ul>
+		</li>
+		</ul>
+
 	<li><a href="/desc/http://anat.org/muscles-thoraciq-intermed">Muscles thoraciques intermédiaires</a></li>
+
+		<ul style="list-style-type:disc">
+		<li><a href="/desc/http://anat.org/muscles-intercostaux">Muscles intercostaux</a>
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/muscles-intercostaux-ext">Muscles intercostaux externes</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo3-2-1-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo3-2-1-1" aria-expanded="false" aria-controls="collapseMyo3-2-1-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo3-2-1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo3-2-1-1">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/R-muscles-intercostaux-ext">Muscles intercostaux externes droits</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-1">1er muscle intercostal externe droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-2">2e muscle intercostal externe droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-3">3e muscle intercostal externe droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-4">4e muscle intercostal externe droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-5">5e muscle intercostal externe droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-6">6e muscle intercostal externe droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-7">7e muscle intercostal externe droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-8">8e muscle intercostal externe droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-9">9e muscle intercostal externe droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-10">10e muscle intercostal externe droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-11">11e muscle intercostal externe droit</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/L-muscles-intercostaux-ext">Muscles intercostaux externes gauches</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-1">1er muscle intercostal externe gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-2">2e muscle intercostal externe gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-3">3e muscle intercostal externe gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-4">4e muscle intercostal externe gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-5">5e muscle intercostal externe gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-6">6e muscle intercostal externe gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-7">7e muscle intercostal externe gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-8">8e muscle intercostal externe gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-9">9e muscle intercostal externe gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-10">10e muscle intercostal externe gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-11">11e muscle intercostal externe gauche</a></li>
+					</ul>
+				</li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			<li><a href="/desc/http://anat.org/muscles-intercostaux-int">Muscles intercostaux internes</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo3-2-1-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo3-2-1-2" aria-expanded="false" aria-controls="collapseMyo3-2-1-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo3-2-1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo3-2-1-2">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/R-muscles-intercostaux-int">Muscles intercostaux internes droits</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-1">1er muscle intercostal interne droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-2">2e muscle intercostal interne droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-3">3e muscle intercostal interne droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-4">4e muscle intercostal interne droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-5">5e muscle intercostal interne droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-6">6e muscle intercostal interne droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-7">7e muscle intercostal interne droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-8">8e muscle intercostal interne droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-9">9e muscle intercostal interne droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-10">10e muscle intercostal interne droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-11">11e muscle intercostal interne droit</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/L-muscles-intercostaux-int">Muscles intercostaux internes gauches</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-1">1er muscle intercostal interne gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-2">2e muscle intercostal interne gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-3">3e muscle intercostal interne gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-4">4e muscle intercostal interne gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-5">5e muscle intercostal interne gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-6">6e muscle intercostal interne gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-7">7e muscle intercostal interne gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-8">8e muscle intercostal interne gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-9">9e muscle intercostal interne gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-10">10e muscle intercostal interne gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-11">11e muscle intercostal interne gauche</a></li>
+					</ul>
+				</li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			<li><a href="/desc/http://anat.org/muscles-intercostaux-intime">Muscles intercostaux intimes</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo3-2-1-3">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo3-2-1-3" aria-expanded="false" aria-controls="collapseMyo3-2-1-3">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo3-2-1-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo3-2-1-3">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/R-muscles-intercostaux-intime">Muscles intercostaux intimes droits</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-1">1er muscle intercostal intime droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-2">2e muscle intercostal intime droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-3">3e muscle intercostal intime droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-4">4e muscle intercostal intime droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-5">5e muscle intercostal intime droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-6">6e muscle intercostal intime droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-7">7e muscle intercostal intime droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-8">8e muscle intercostal intime droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-9">9e muscle intercostal intime droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-10">10e muscle intercostal intime droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-11">11e muscle intercostal intime droit</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/L-muscles-intercostaux-intime">Muscles intercostaux intimes gauches</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-1">1er muscle intercostal intime gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-2">2e muscle intercostal intime gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-3">3e muscle intercostal intime gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-4">4e muscle intercostal intime gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-5">5e muscle intercostal intime gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-6">6e muscle intercostal intime gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-7">7e muscle intercostal intime gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-8">8e muscle intercostal intime gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-9">9e muscle intercostal intime gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-10">10e muscle intercostal intime gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-11">11e muscle intercostal intime gauche</a></li>
+					</ul>
+				</li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			</ul>
+		</li>
+		</ul>
+
 	<li><a href="/desc/http://anat.org/muscles-thoraciq-int">Muscles thoraciques internes</a></li>
+
+		<ul style="list-style-type:disc">
+		<li><a href="/desc/http://anat.org/muscles-trsv-thorax">Muscles transverses du thorax</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo3-3-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo3-3-1" aria-expanded="false" aria-controls="collapseMyo3-3-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo3-3-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo3-3-1">
+      <div class="panel-body">
+
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/R-mscl-trsv-thorax">Muscle transverse du thorax droit</a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-trsv-thorax">Muscle transverse du thorax gauche</a></li>
+			</ul>
+
+      </div>
+    </div>
+  </div>
+
+		<li><a href="/desc/http://anat.org/muscles-subcostaux">Muscles subcostaux</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo3-3-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo3-3-2" aria-expanded="false" aria-controls="collapseMyo3-3-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo3-3-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo3-3-2">
+      <div class="panel-body">
+
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/R-muscles-subcostaux">Muscles subcostaux droits</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-subcostal-1">1er muscle subcostal droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-subcostal-2">2e muscle subcostal droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-subcostal-3">3e muscle subcostal droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-subcostal-4">4e muscle subcostal droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-subcostal-5">5e muscle subcostal droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-subcostal-6">6e muscle subcostal droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-subcostal-7">7e muscle subcostal droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-subcostal-8">8e muscle subcostal droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-subcostal-9">9e muscle subcostal droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-subcostal-10">10e muscle subcostal droit</a></li>
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/L-muscles-subcostaux">Muscles subcostaux gauches</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/L-mscl-subcostal-1">1er muscle subcostal gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-subcostal-2">2e muscle subcostal gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-subcostal-3">3e muscle subcostal gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-subcostal-4">4e muscle subcostal gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-subcostal-5">5e muscle subcostal gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-subcostal-6">6e muscle subcostal gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-subcostal-7">7e muscle subcostal gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-subcostal-8">8e muscle subcostal gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-subcostal-9">9e muscle subcostal gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-subcostal-10">10e muscle subcostal gauche</a></li>
+				</ul>
+			</li>
+			</ul>
+
+      </div>
+    </div>
+  </div>
+
+		</ul>
+
 	<li><a href="/desc/http://anat.org/mscl-diaphragme">Muscle diaphragme</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo3-4">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo3-4" aria-expanded="false" aria-controls="collapseMyo3-4">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo3-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo3-4">
+      <div class="panel-body">
+
+		<ul style="list-style-type:disc">
+		<li><a href="/desc/http://anat.org/diaphragme-ctre-phreniq">Centre phrénique du diaphragme</a>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/diaphragme-foliole-ventral">Foliole antérieure diaphragmatique</a></li>
+			<li><a href="/desc/http://anat.org/R-diaphragme-folioles">Foliole latérale diaphragmatique droite</a></li>
+			<li><a href="/desc/http://anat.org/L-diaphragme-folioles">Foliole latérale diaphragmatique gauche</a></li>
+			<li><a href="/desc/http://anat.org/diaphragme-bandelette-semicircu-sup">Bandelette semi-circulaire supérieure du diaphragme</a></li>
+			<li><a href="/desc/http://anat.org/diaphragme-bandelette-semicircu-inf">Bandelette semi-circulaire inférieure du diaphragme</a></li>
+			</ul>
+		</li>
+		<li><a href="/desc/http://anat.org/diaphragme-coupoles">Coupoles diaphragmatiques</a>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/R-diaphragme-coupole">Coupole diaphragmatique droite</a></li>
+			<li><a href="/desc/http://anat.org/L-diaphragme-coupole">Coupole diaphragmatique gauche</a></li>
+			</ul>
+		</li>
+		<li><a href="/desc/http://anat.org/diaphragme-piliers">Piliers du diaphragme</a>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/R-diaphragme-pilier">Pilier diaphragmatique droite</a></li>
+			<li><a href="/desc/http://anat.org/L-diaphragme-pilier">Pilier diaphragmatique gauche</a></li>
+			</ul>
+		</li>
+		<li><a href="/desc/http://anat.org/diaphragme-fx-sternal">Faisceau sternal du diaphragme</a></li>
+		<li><a href="/desc/http://anat.org/lgmts-arque-diaphragme">Ligaments arqués du diaphragme</a>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/lgmt-arque-median">Ligaments arqués médian du diaphragme</a></li>
+			<li><a href="/desc/http://anat.org/R-lgmt-arque-med">Ligaments arqués médial droit du diaphragme</a></li>
+			<li><a href="/desc/http://anat.org/L-lgmt-arque-med">Ligaments arqués médial gauche du diaphragme</a></li>
+			<li><a href="/desc/http://anat.org/R-lgmt-arque-lat">Ligaments arqués latéral droit du diaphragme</a></li>
+			<li><a href="/desc/http://anat.org/L-lgmt-arque-lat">Ligaments arqués latéral gauche du diaphragme</a></li>
+			</ul>
+		</li>
+		</ul>
+
+      </div>
+    </div>
+  </div>
+
 	</ul>
 
       </div>
@@ -1530,8 +1895,513 @@
       <div class="panel-body">
 	<ul style="list-style-type:square">
 	<li><a href="/desc/http://anat.org/mscl-diaphragme">Muscle diaphragme</a></li>
-	<li><a href="/desc/http://anat.org/muscles-paroi-ant-abdo">Muscles de la paroi antérieure abdominale</a></li>
-	<li><a href="/desc/http://anat.org/muscles-paroi-post-abdo">Muscls de la paroi postérieure abdominale</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo4-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo4-1" aria-expanded="false" aria-controls="collapseMyo4-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo4-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo4-1">
+      <div class="panel-body">
+
+		<ul style="list-style-type:disc">
+		<li><a href="/desc/http://anat.org/diaphragme-ctre-phreniq">Centre phrénique du diaphragme</a>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/diaphragme-foliole-ventral">Foliole antérieure diaphragmatique</a></li>
+			<li><a href="/desc/http://anat.org/R-diaphragme-folioles">Foliole latérale diaphragmatique droite</a></li>
+			<li><a href="/desc/http://anat.org/L-diaphragme-folioles">Foliole latérale diaphragmatique gauche</a></li>
+			<li><a href="/desc/http://anat.org/diaphragme-bandelette-semicircu-sup">Bandelette semi-circulaire supérieure du diaphragme</a></li>
+			<li><a href="/desc/http://anat.org/diaphragme-bandelette-semicircu-inf">Bandelette semi-circulaire inférieure du diaphragme</a></li>
+			</ul>
+		</li>
+		<li><a href="/desc/http://anat.org/diaphragme-coupoles">Coupoles diaphragmatiques</a>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/R-diaphragme-coupole">Coupole diaphragmatique droite</a></li>
+			<li><a href="/desc/http://anat.org/L-diaphragme-coupole">Coupole diaphragmatique gauche</a></li>
+			</ul>
+		</li>
+		<li><a href="/desc/http://anat.org/diaphragme-piliers">Piliers du diaphragme</a>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/R-diaphragme-pilier">Pilier diaphragmatique droite</a></li>
+			<li><a href="/desc/http://anat.org/L-diaphragme-pilier">Pilier diaphragmatique gauche</a></li>
+			</ul>
+		</li>
+		<li><a href="/desc/http://anat.org/diaphragme-fx-sternal">Faisceau sternal du diaphragme</a></li>
+		<li><a href="/desc/http://anat.org/lgmts-arque-diaphragme">Ligaments arqués du diaphragme</a>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/lgmt-arque-median">Ligaments arqués médian du diaphragme</a></li>
+			<li><a href="/desc/http://anat.org/R-lgmt-arque-med">Ligaments arqués médial droit du diaphragme</a></li>
+			<li><a href="/desc/http://anat.org/L-lgmt-arque-med">Ligaments arqués médial gauche du diaphragme</a></li>
+			<li><a href="/desc/http://anat.org/R-lgmt-arque-lat">Ligaments arqués latéral droit du diaphragme</a></li>
+			<li><a href="/desc/http://anat.org/L-lgmt-arque-lat">Ligaments arqués latéral gauche du diaphragme</a></li>
+			</ul>
+		</li>
+		</ul>
+
+      </div>
+    </div>
+  </div>
+
+	<li><a href="/desc/http://anat.org/muscles-paroi-ant-abdo">Muscles de la paroi abdominale antérieure</a></li>
+
+		<ul style="list-style-type:disc">
+		<li><a href="/desc/http://anat.org/muscles-abdominaux">Muscles abdominaux</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo4-2-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo4-2-1" aria-expanded="false" aria-controls="collapseMyo4-2-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo4-2-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo4-2-1">
+      <div class="panel-body">
+
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/muscles-abdo-droit">Muscles droits abdominaux</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-abdo-droit">Muscle droit abdominal droit</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-abdo-droit">Muscle droit abdominal gauche</a></li>
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/muscles-abdo-obliq-ext">Muscles abdominaux obliques externes</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-abdo-obliq-ext">Muscle abdominal oblique externe droit</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo4-2-1-2-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo4-2-1-2-1" aria-expanded="false" aria-controls="collapseMyo4-2-1-2-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo4-2-1-2-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo4-2-1-2-1">
+      <div class="panel-body">
+
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-abdo-obliq-ext-p-post">Partie postérieure du muscle abdominal oblique externe droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-abdo-obliq-ext-p-ant">Partie antérieure du muscle abdominal oblique externe droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-abdo-obliq-ext-p-inf">Partie inférieure du muscle abdominal oblique externe droit</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-abdo-obliq-ext-p-inf-pilier-lat">Pilier latéral de la partie inférieure du muscle abdominal oblique externe droit</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-abdo-obliq-ext-p-inf-pilier-med">Pilier médial de la partie inférieure du muscle abdominal oblique externe droit</a></li>
+						</ul>
+					</li>
+					</ul>
+
+      </div>
+    </div>
+  </div>
+
+				<li><a href="/desc/http://anat.org/L-mscl-abdo-obliq-ext">Muscle abdominal oblique externe gauche</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo4-2-1-2-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo4-2-1-2-2" aria-expanded="false" aria-controls="collapseMyo4-2-1-2-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo4-2-1-2-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo4-2-1-2-2">
+      <div class="panel-body">
+
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/L-mscl-abdo-obliq-ext-p-post">Partie postérieure du muscle abdominal oblique externe gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-abdo-obliq-ext-p-ant">Partie antérieure du muscle abdominal oblique externe gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-abdo-obliq-ext-p-inf">Partie inférieure du muscle abdominal oblique externe gauche</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/L-mscl-abdo-obliq-ext-p-inf-pilier-lat">Pilier latéral de la partie inférieure du muscle abdominal oblique externe gauche</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-abdo-obliq-ext-p-inf-pilier-med">Pilier médial de la partie inférieure du muscle abdominal oblique externe gauche</a></li>
+						</ul>
+					</li>
+					</ul>
+
+      </div>
+    </div>
+  </div>
+
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/muscles-abdo-obliq-int">Muscles abdominaux obliques internes</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-abdo-obliq-int">Muscle abdominal oblique interne droit</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo4-2-1-3-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo4-2-1-3-1" aria-expanded="false" aria-controls="collapseMyo4-2-1-3-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo4-2-1-3-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo4-2-1-3-1">
+      <div class="panel-body">
+
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-abdo-obliq-int-p-sup">Partie supérieure du muscle abdominal oblique interne droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-abdo-obliq-int-p-ant">Partie antérieure du muscle abdominal oblique interne droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-abdo-obliq-int-p-inf">Partie inférieure du muscle abdominal oblique interne droit</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-faux-inguinale">Faux inguinale droite</a></li>
+						</ul>
+					</li>
+					</ul>
+
+      </div>
+    </div>
+  </div>
+
+				<li><a href="/desc/http://anat.org/L-mscl-abdo-obliq-int">Muscle abdominal oblique interne gauche</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo4-2-1-3-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo4-2-1-3-2" aria-expanded="false" aria-controls="collapseMyo4-2-1-3-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo4-2-1-3-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo4-2-1-3-2">
+      <div class="panel-body">
+
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/L-mscl-abdo-obliq-int-p-sup">Partie supérieure du muscle abdominal oblique interne gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-abdo-obliq-int-p-ant">Partie antérieure du muscle abdominal oblique interne gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-abdo-obliq-int-p-inf">Partie inférieure du muscle abdominal oblique interne gauche</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/L-faux-inguinale">Faux inguinale gauche</a></li>
+						</ul>
+					</li>
+					</ul>
+
+      </div>
+    </div>
+  </div>
+
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/muscles-abdo-trsv">Muscles abdominaux transverses</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-abdo-trsv">Muscle abdominal transverse droit</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo4-2-1-4-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo4-2-1-4-1" aria-expanded="false" aria-controls="collapseMyo4-2-1-4-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo4-2-1-4-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo4-2-1-4-1">
+      <div class="panel-body">
+
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-abdo-trsv-p-ant">Partie antérieure du muscle abdominal transverse droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-abdo-trsv-p-inf">Partie inférieure du muscle abdominal transverse droit</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-faux-inguinale">Faux inguinale droite</a></li>
+						</ul>
+					</li>
+					</ul>
+
+      </div>
+    </div>
+  </div>
+
+				<li><a href="/desc/http://anat.org/L-mscl-abdo-trsv">Muscle abdominal transverse gauche</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo4-2-1-4-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo4-2-1-4-2" aria-expanded="false" aria-controls="collapseMyo4-2-1-4-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo4-2-1-4-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo4-2-1-4-2">
+      <div class="panel-body">
+
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/L-mscl-abdo-trsv-p-ant">Partie antérieure du muscle abdominal transverse gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-abdo-trsv-p-inf">Partie inférieure du muscle abdominal transverse gauche</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/L-faux-inguinale">Faux inguinale gauche</a></li>
+						</ul>
+					</li>
+					</ul>
+
+      </div>
+    </div>
+  </div>
+
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/muscles-abdo-pyramidal">Muscles pyramidaux abdominaux</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-abdo-pyramidal">Muscle pyramidal abdominal droit</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-abdo-pyramidal">Muscle pyramidal abdominal gauche</a></li>
+				</ul>
+			</li>
+			</ul>
+
+      </div>
+    </div>
+  </div>
+
+		<li><a href="/desc/http://anat.org/muscles-cremaster">Muscles crémasters</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo4-2-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo4-2-2" aria-expanded="false" aria-controls="collapseMyo4-2-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo4-2-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo4-2-2">
+      <div class="panel-body">
+
+		<table>
+		<tr>
+			<td>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/R-mscl-cremaster">Muscle crémaster masculin droit</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-cremaster-fx-lat">Faisceau latéral du muscle crémaster masculin droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-cremaster-fx-med">Faisceau médial du muscle crémaster masculin droit</a></li>
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/L-mscl-cremaster">Muscle crémaster masculin gauche</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/L-mscl-cremaster-fx-lat">Faisceau latéral du muscle crémaster masculin gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-cremaster-fx-med">Faisceau médial du muscle crémaster masculin gauche</a></li>
+				</ul>
+			</li>
+			</ul>
+			</td>
+			<td>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/_F_R-mscl-cremaster">Muscle crémaster féminin droit</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/_F_R-mscl-cremaster-fx-lat">Faisceau latéral du muscle crémaster féminin droit</a></li>
+				<li><a href="/desc/http://anat.org/_F_R-mscl-cremaster-fx-med">Faisceau médial du muscle crémaster féminin droit</a></li>
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/_F_L-mscl-cremaster">Muscle crémaster féminin gauche</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/_F_L-mscl-cremaster-fx-lat">Faisceau latéral du muscle crémaster féminin gauche</a></li>
+				<li><a href="/desc/http://anat.org/_F_L-mscl-cremaster-fx-med">Faisceau médial du muscle crémaster féminin gauche</a></li>
+				</ul>
+			</li>
+			</ul>
+			</td>
+		</tr>
+		</table>
+
+      </div>
+    </div>
+  </div>
+
+		<li>Fascias (musculaires) abdominaux</li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo4-2-3">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo4-2-3" aria-expanded="false" aria-controls="collapseMyo4-2-3">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo4-2-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo4-2-3">
+      <div class="panel-body">
+
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/ligne-blanche">Ligne blanche</a></li>
+			<li><a href="/desc/http://anat.org/R-gaine-rectusienne">Gaine rectusienne droite</a></li>
+			<li><a href="/desc/http://anat.org/L-gaine-rectusienne">Gaine rectusienne gauche</a></li>
+			<li><a href="/desc/http://anat.org/R-aponevrose-abdo-obliq-ext">Aponévrose abdominale oblique externe droite</a></li>
+			<li><a href="/desc/http://anat.org/L-aponevrose-abdo-obliq-ext">Aponévrose abdominale oblique externe gauche</a></li>
+			<li><a href="/desc/http://anat.org/R-aponevrose-abdo-obliq-int">Aponévrose abdominale oblique interne droite</a></li>
+			<li><a href="/desc/http://anat.org/L-aponevrose-abdo-obliq-int">Aponévrose abdominale oblique interne gauche</a></li>
+			<li><a href="/desc/http://anat.org/R-aponevrose-abdo-trsv">Aponévrose abdominale transverse droite</a></li>
+			<li><a href="/desc/http://anat.org/L-aponevrose-abdo-trsv">Aponévrose abdominale transverse gauche</a></li>
+			</ul>
+
+      </div>
+    </div>
+  </div>
+
+		</ul>
+	</li>
+	<li><a href="/desc/http://anat.org/muscles-paroi-post-abdo">Muscles de la paroi abdominale postérieure</a></li>
+
+		<ul style="list-style-type:disc">
+		<li><a href="/desc/http://anat.org/muscles-paroi-post-abdo-plan-supL">Muscles de la paroi abdominale postérieure : plan superficiel</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo4-3-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo4-3-1" aria-expanded="false" aria-controls="collapseMyo4-3-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo4-3-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo4-3-1">
+      <div class="panel-body">
+
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/muscles-gd-dorsal">Muscles grands dorsaux</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-gd-dorsal">Muscle grand dorsal droit</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-gd-dorsal">Muscle grand dorsal gauche</a></li>
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/muscles-abdo-obliq-ext">Muscles abdominaux obliques externes</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-abdo-obliq-ext">Muscle abdominal oblique externe droit</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-abdo-obliq-ext">Muscle abdominal oblique externe gauche</a></li>
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/fascia-thoracolombR-lame-post">Lame postérieure du fascia thoraco-lombaire</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-fascia-thoracolombR-lame-post">Lame postérieure droite du fascia thoraco-lombaire</a></li>
+				<li><a href="/desc/http://anat.org/L-fascia-thoracolombR-lame-post">Lame postérieure gauche du fascia thoraco-lombaire</a></li>
+				</ul>
+			</li>
+			</ul>
+
+      </div>
+    </div>
+  </div>
+
+		<li><a href="/desc/http://anat.org/muscles-paroi-post-abdo-plan-moy">Muscles de la paroi abdominale postérieure : plan moyen</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo4-3-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo4-3-2" aria-expanded="false" aria-controls="collapseMyo4-3-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo4-3-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo4-3-2">
+      <div class="panel-body">
+
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/muscles-iliocostal-lombes">Muscles ilio-costaux des lombes</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-iliocostal-lombes">Muscle ilio-costal des lombes droit</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-iliocostal-lombes">Muscle ilio-costal des lombes gauche</a></li>
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/muscles-longissimus-thorax">Muscles longissimus du thorax</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-longissimus-thorax">Muscle longissimus du thorax droit</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-longissimus-thorax">Muscle longissimus du thorax gauche</a></li>
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/muscles-epineux-thorax">Muscles épineux du thorax</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-epineux-thorax">Muscle épineux du thorax droit</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-epineux-thorax">Muscle épineux du thorax gauche</a></li>
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/muscles-dentele-post-inf">Muscles dentelés postéro-inférieurs</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-dentele-post-inf">Muscle dentelé postéro-inférieur droit</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-dentele-post-inf">Muscle dentelé postéro-inférieur gauche</a></li>
+				</ul>
+			</li>
+			</ul>
+
+      </div>
+    </div>
+  </div>
+
+		<li><a href="/desc/http://anat.org/muscles-paroi-post-abdo-plan-pfd">Muscles de la paroi abdominale postérieure : plan profond</a>
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/muscles-paroi-post-abdo-plan-pfd-trsv">Muscles de la paroi abdominale postérieure : plan profond transversaire</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo4-3-3-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo4-3-3-1" aria-expanded="false" aria-controls="collapseMyo4-3-3-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo4-3-3-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo4-3-3-1">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/muscles-carre-lombaire">Muscles carrés des lombes</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-carre-lombaire">Muscle carré des lombes droit</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-carre-lombaire-fx-ant">Faisceau antérieur du muscle carré lombaire droit</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-carre-lombaire-fx-post">Faisceau postérieur du muscle carré lombaire droit</a></li>
+						</ul>
+					</li>
+					<li><a href="/desc/http://anat.org/L-mscl-carre-lombaire">Muscle carré des lombes gauche</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/L-mscl-carre-lombaire-fx-ant">Faisceau antérieur du muscle carré lombaire gauche</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-carre-lombaire-fx-post">Faisceau postérieur du muscle carré lombaire gauche</a></li>
+						</ul>
+					</li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-abdo-trsv">Muscles abdominaux transverses</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-abdo-trsv">Muscle abdominal transverse droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-abdo-trsv">Muscle abdominal transverse gauche</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/fascia-thoracolombR-lame-moy">Lame moyenne du fascia thoraco-lombaire</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-fascia-thoracolombR-lame-moy">Lame moyenne droite du fascia thoraco-lombaire</a></li>
+					<li><a href="/desc/http://anat.org/L-fascia-thoracolombR-lame-moy">Lame moyenne gauche du fascia thoraco-lombaire</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/fascia-thoracolombR-lame-ant">Lame antérieure du fascia thoraco-lombaire</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-fascia-thoracolombR-lame-ant">Lame antérieure droite du fascia thoraco-lombaire</a></li>
+					<li><a href="/desc/http://anat.org/L-fascia-thoracolombR-lame-ant">Lame antérieure gauche du fascia thoraco-lombaire</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/ligaments-lombocostal">Ligaments lombo-costaux</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-lgmt-lombocostal">Ligament lombo-costal droit</a></li>
+					<li><a href="/desc/http://anat.org/L-lgmt-lombocostal">Ligament lombo-costal gauche</a></li>
+					</ul>
+				</li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			<li><a href="/desc/http://anat.org/muscles-paroi-post-abdo-plan-pfd-pretrsv">Muscles de la paroi abdominale postérieure : plan profond prétransversaire</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo4-3-3-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo4-3-3-2" aria-expanded="false" aria-controls="collapseMyo4-3-3-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo4-3-3-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo4-3-3-2">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/diaphragme-piliers">Piliers du diaphragme</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-diaphragme-pilier">Pilier diaphragmatique droite</a></li>
+					<li><a href="/desc/http://anat.org/L-diaphragme-pilier">Pilier diaphragmatique gauche</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-gd-psoas">Muscles grands psoas</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-gd-psoas">Muscle grand psoas droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-gd-psoas">Muscle grand psoas gauche</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-pt-psoas">Muscles petits psoas</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-pt-psoas">Muscle petit psoas droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-pt-psoas">Muscle petit psoas gauche</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/R-gaine-psoas">Gaine des muscles psoas droits</a></li>
+				<li><a href="/desc/http://anat.org/L-gaine-psoas">Gaine des muscles psoas gauches</a></li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			</ul>
+		</li>
+		</ul>
+	</li>
 	</ul>
 
       </div>
@@ -1558,7 +2428,7 @@
 		<li><a href="/desc/http://anat.org/muscles-perinee-urogenital">Muscles du périnée urogénital masculin</a></li>
 		</td>
 		<td>
-		<li><a href="/desc/http://anat.org/*F*muscles-perinee-urogenital">Muscles du périnée urogénital féminin</a></li>
+		<li><a href="/desc/http://anat.org/_F_muscles-perinee-urogenital">Muscles du périnée urogénital féminin</a></li>
 		</td>
 	</tr>
 	</table>
@@ -1696,8 +2566,8 @@
     <div id="collapseMyo8-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo8-1">
       <div class="panel-body">
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/muscles-ceint-pelv-couche-pfde">Muscles de la ceinture pelvienne : couche profonde</a></li>
-		<li><a href="/desc/http://anat.org/muscles-ceint-pelv-couche-supL">Muscles de la ceinture pelvienne : couche superficielle</a></li>
+		<li><a href="/desc/http://anat.org/muscles-ceint-pelv-couche-pfde">Muscles de la ceinture pelvienne : couche profonde</a></li>
+		<li><a href="/desc/http://anat.org/muscles-ceint-pelv-couche-supL">Muscles de la ceinture pelvienne : couche superficielle</a></li>
 		</ul>
 	</li>
 

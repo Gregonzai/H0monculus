@@ -2591,8 +2591,68 @@
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/R-ulna-epiP-inf">épiphyse inférieure de l'ulna (anc. cubitus) droite</a></li>
 			<li><a href="/desc/http://anat.org/R-radius-epiP-inf">épiphyse inférieure du radius droit</a></li>
-			<li><a href="/desc/http://anat.org/R-os-carpe">Os du carpe droit</a></li>
 			<li><a href="/desc/http://anat.org/R-menisque-ulno-carpien">Ménisque ulno-carpien droit</a></li>
+			<li><a href="/desc/http://anat.org/R-os-carpe">Os du carpe droit</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="9-1-5-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-1-5-1" aria-expanded="false" aria-controls="collapse9-1-5-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapse9-1-5-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-1-5-1">
+      <div class="panel-body">
+
+				<ul style="list-style-type:none">
+				<table>
+				<tr>
+					<td>
+						<ul style="list-style-type:disc">
+						<li><a href="/desc/http://anat.org/R-1e-rangee-carpe">Os de la 1ere rangée du carpe droit</a>
+							<ul style="list-style-type:circle">
+							<li><a href="/desc/http://anat.org/R-scaphoide">Os scaphoïde (anc. os naviculaire carpien) droit</a></li>
+							<li><a href="/desc/http://anat.org/R-lunatum">Os lunatum (anc. os semi-lunaire) droit</a></li>
+							<li><a href="/desc/http://anat.org/R-triquetrum">Os triquetrum (anc. os pyramidal) droit</a></li>
+							<li><a href="/desc/http://anat.org/R-pisiforme">Os pisiforme droit</a></li>
+							</ul>
+						</li>
+						<li><a href="/desc/http://anat.org/R-2e-rangee-carpe">Os de la 2e rangée du carpe droit</a>
+							<ul style="list-style-type:circle">
+							<li><a href="/desc/http://anat.org/R-hamatum">Os hamatum (anc. os crochu) droit</a></li>
+							<li><a href="/desc/http://anat.org/R-capitatum">Os capitatum (anc. grand os de la main) droit</a></li>
+							<li><a href="/desc/http://anat.org/R-trapezoide">Os trapézoïde droit</a></li>
+							<li><a href="/desc/http://anat.org/R-trapeze">Os trapèze droit</a></li>
+							</ul>
+						</li>
+						</ul>
+					</td>
+					<td>
+						<ul style="list-style-type:disc">
+						<li><a href="/desc/http://anat.org/R-os-carpe-comparti-med">Os du compartiment médial du carpe droit</a>
+							<ul style="list-style-type:circle">
+							<li><a href="/desc/http://anat.org/R-scaphoide">Os scaphoïde (anc. os naviculaire carpien) droit</a></li>
+							<li><a href="/desc/http://anat.org/R-lunatum">Os lunatum (anc. os semi-lunaire) droit</a></li>
+							<li><a href="/desc/http://anat.org/R-triquetrum">Os triquetrum (anc. os pyramidal) droit</a></li>
+							<li><a href="/desc/http://anat.org/R-pisiforme">Os pisiforme droit</a></li>
+							<li><a href="/desc/http://anat.org/R-hamatum">Os hamatum (anc. os crochu) droit</a></li>
+							<li><a href="/desc/http://anat.org/R-capitatum">Os capitatum (anc. grand os de la main) droit</a></li>
+							</ul>
+						</li>
+						<li><a href="/desc/http://anat.org/R-os-carpe-comparti-lat">Os du compartiment latéral du carpe droit</a>
+							<ul style="list-style-type:circle">
+							<li><a href="/desc/http://anat.org/R-trapezoide">Os trapézoïde droit</a></li>
+							<li><a href="/desc/http://anat.org/R-trapeze">Os trapèze droit</a></li>
+							</ul>
+						</li>
+						</ul>
+					</td>
+				</tr>
+				</table>
+				</ul>
+      </div>
+    </div>
+  </div>
+
 			</ul>
       </div>
     </div>
@@ -2907,8 +2967,68 @@
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/L-ulna-epiP-inf">épiphyse inférieure de l'ulna (anc. cubitus) gauche</a></li>
 			<li><a href="/desc/http://anat.org/L-radius-epiP-inf">épiphyse inférieure du radius gauche</a></li>
-			<li><a href="/desc/http://anat.org/L-os-carpe">Os du carpe gauche</a></li>
 			<li><a href="/desc/http://anat.org/L-menisque-ulno-carpien">Ménisque ulno-carpien gauche</a></li>
+			<li><a href="/desc/http://anat.org/L-os-carpe">Os du carpe gauche</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="9-2-5-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-2-5-1" aria-expanded="false" aria-controls="collapse9-2-5-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapse9-2-5-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-2-5-1">
+      <div class="panel-body">
+
+				<ul style="list-style-type:none">
+				<table>
+				<tr>
+					<td>
+						<ul style="list-style-type:disc">
+						<li><a href="/desc/http://anat.org/L-1e-rangee-carpe">Os de la 1ere rangée du carpe gauche</a>
+							<ul style="list-style-type:circle">
+							<li><a href="/desc/http://anat.org/L-scaphoide">Os scaphoïde (anc. os naviculaire carpien) gauche</a></li>
+							<li><a href="/desc/http://anat.org/L-lunatum">Os lunatum (anc. os semi-lunaire) gauche</a></li>
+							<li><a href="/desc/http://anat.org/L-triquetrum">Os triquetrum (anc. os pyramidal) gauche</a></li>
+							<li><a href="/desc/http://anat.org/L-pisiforme">Os pisiforme gauche</a></li>
+							</ul>
+						</li>
+						<li><a href="/desc/http://anat.org/L-2e-rangee-carpe">Os de la 2e rangée du carpe gauche</a>
+							<ul style="list-style-type:circle">
+							<li><a href="/desc/http://anat.org/L-hamatum">Os hamatum (anc. os crochu) gauche</a></li>
+							<li><a href="/desc/http://anat.org/L-capitatum">Os capitatum (anc. grand os de la main) gauche</a></li>
+							<li><a href="/desc/http://anat.org/L-trapezoide">Os trapézoïde gauche</a></li>
+							<li><a href="/desc/http://anat.org/L-trapeze">Os trapèze gauche</a></li>
+							</ul>
+						</li>
+						</ul>
+					</td>
+					<td>
+						<ul style="list-style-type:disc">
+						<li><a href="/desc/http://anat.org/L-os-carpe-comparti-med">Os du compartiment médial du carpe gauche</a>
+							<ul style="list-style-type:circle">
+							<li><a href="/desc/http://anat.org/L-scaphoide">Os scaphoïde (anc. os naviculaire carpien) gauche</a></li>
+							<li><a href="/desc/http://anat.org/L-lunatum">Os lunatum (anc. os semi-lunaire) gauche</a></li>
+							<li><a href="/desc/http://anat.org/L-triquetrum">Os triquetrum (anc. os pyramidal) gauche</a></li>
+							<li><a href="/desc/http://anat.org/L-pisiforme">Os pisiforme gauche</a></li>
+							<li><a href="/desc/http://anat.org/L-hamatum">Os hamatum (anc. os crochu) gauche</a></li>
+							<li><a href="/desc/http://anat.org/L-capitatum">Os capitatum (anc. grand os de la main) gauche</a></li>
+							</ul>
+						</li>
+						<li><a href="/desc/http://anat.org/L-os-carpe-comparti-lat">Os du compartiment latéral du carpe gauche</a>
+							<ul style="list-style-type:circle">
+							<li><a href="/desc/http://anat.org/L-trapezoide">Os trapézoïde gauche</a></li>
+							<li><a href="/desc/http://anat.org/L-trapeze">Os trapèze gauche</a></li>
+							</ul>
+						</li>
+						</ul>
+					</td>
+				</tr>
+				</table>
+				</ul>
+      </div>
+    </div>
+  </div>
+
 			</ul>
       </div>
     </div>

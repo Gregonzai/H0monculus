@@ -6228,4 +6228,1971 @@ anat:L-mscl-cricothyroidien-chef-obliq	rdfs:label	"Chef oblique du muscle crico-
 anat:R-mscl-vocal	rdfs:label	"Muscle vocal droit" .
 anat:L-mscl-vocal	rdfs:label	"Muscle vocal gauche" .
 
+anat:muscles-thoraciq-ext	rdf:type	anat:groupe-musculaire .
+anat:muscles-elevatR-cotes	rdf:type	anat:groupe-musculaire .
+anat:muscles-crt-elevatR-cotes	rdf:type	anat:groupe-musculaire .
+anat:muscles-lg-elevatR-cotes	rdf:type	anat:groupe-musculaire .
+anat:R-muscles-crt-elevatR-cotes	rdf:type	anat:groupe-musculaire .
+anat:R-mscl-crt-elevatR-cote-1	rdf:type	anat:chef-musculaire .
+anat:R-mscl-crt-elevatR-cote-2	rdf:type	anat:chef-musculaire .
+anat:R-mscl-crt-elevatR-cote-3	rdf:type	anat:chef-musculaire .
+anat:R-mscl-crt-elevatR-cote-4	rdf:type	anat:chef-musculaire .
+anat:R-mscl-crt-elevatR-cote-5	rdf:type	anat:chef-musculaire .
+anat:R-mscl-crt-elevatR-cote-6	rdf:type	anat:chef-musculaire .
+anat:R-mscl-crt-elevatR-cote-7	rdf:type	anat:chef-musculaire .
+anat:R-mscl-crt-elevatR-cote-8	rdf:type	anat:chef-musculaire .
+anat:R-mscl-crt-elevatR-cote-9	rdf:type	anat:chef-musculaire .
+anat:R-mscl-crt-elevatR-cote-10	rdf:type	anat:chef-musculaire .
+anat:R-mscl-crt-elevatR-cote-11	rdf:type	anat:chef-musculaire .
+anat:R-mscl-crt-elevatR-cote-12	rdf:type	anat:chef-musculaire .
+anat:R-muscles-lg-elevatR-cotes	rdf:type	anat:groupe-musculaire .
+anat:R-mscl-lg-elevatR-cote-2	rdf:type	anat:chef-musculaire .
+anat:R-mscl-lg-elevatR-cote-3	rdf:type	anat:chef-musculaire .
+anat:R-mscl-lg-elevatR-cote-4	rdf:type	anat:chef-musculaire .
+anat:R-mscl-lg-elevatR-cote-5	rdf:type	anat:chef-musculaire .
+anat:R-mscl-lg-elevatR-cote-6	rdf:type	anat:chef-musculaire .
+anat:R-mscl-lg-elevatR-cote-7	rdf:type	anat:chef-musculaire .
+anat:R-mscl-lg-elevatR-cote-8	rdf:type	anat:chef-musculaire .
+anat:R-mscl-lg-elevatR-cote-9	rdf:type	anat:chef-musculaire .
+anat:R-mscl-lg-elevatR-cote-10	rdf:type	anat:chef-musculaire .
+anat:R-mscl-lg-elevatR-cote-11	rdf:type	anat:chef-musculaire .
+anat:R-mscl-lg-elevatR-cote-12	rdf:type	anat:chef-musculaire .
+anat:muscles-thoraciq-intermed	rdf:type	anat:groupe-musculaire .
+anat:muscles-intercostaux	rdf:type	anat:groupe-musculaire .
+anat:muscles-intercostaux-ext	rdf:type	anat:groupe-musculaire .
+anat:R-muscles-intercostaux-ext	rdf:type	anat:groupe-musculaire .
+anat:R-mscl-intercostal-ext-1	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-ext-2	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-ext-3	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-ext-4	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-ext-5	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-ext-6	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-ext-7	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-ext-8	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-ext-9	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-ext-10	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-ext-11	rdf:type	anat:muscle .
+anat:muscles-intercostaux-int	rdf:type	anat:groupe-musculaire .
+anat:R-muscles-intercostaux-int	rdf:type	anat:groupe-musculaire .
+anat:R-mscl-intercostal-int-1	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-int-2	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-int-3	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-int-4	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-int-5	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-int-6	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-int-7	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-int-8	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-int-9	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-int-10	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-int-11	rdf:type	anat:muscle .
+anat:muscles-intercostaux-intime	rdf:type	anat:groupe-musculaire .
+anat:R-muscles-intercostaux-intime	rdf:type	anat:groupe-musculaire .
+anat:R-mscl-intercostal-intime-1	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-intime-2	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-intime-3	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-intime-4	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-intime-5	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-intime-6	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-intime-7	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-intime-8	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-intime-9	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-intime-10	rdf:type	anat:muscle .
+anat:R-mscl-intercostal-intime-11	rdf:type	anat:muscle .
+anat:muscles-thoraciq-int	rdf:type	anat:groupe-musculaire .
+anat:muscles-subcostaux	rdf:type	anat:groupe-musculaire .
+anat:R-muscles-subcostaux	rdf:type	anat:groupe-musculaire .
+anat:R-mscl-subcostal-1	rdf:type	anat:chef-musculaire .
+anat:R-mscl-subcostal-2	rdf:type	anat:chef-musculaire .
+anat:R-mscl-subcostal-3	rdf:type	anat:chef-musculaire .
+anat:R-mscl-subcostal-4	rdf:type	anat:chef-musculaire .
+anat:R-mscl-subcostal-5	rdf:type	anat:chef-musculaire .
+anat:R-mscl-subcostal-6	rdf:type	anat:chef-musculaire .
+anat:R-mscl-subcostal-7	rdf:type	anat:chef-musculaire .
+anat:R-mscl-subcostal-8	rdf:type	anat:chef-musculaire .
+anat:R-mscl-subcostal-9	rdf:type	anat:chef-musculaire .
+anat:R-mscl-subcostal-10	rdf:type	anat:chef-musculaire .
+anat:muscles-trsv-thorax	rdf:type	anat:groupe-musculaire .
+anat:R-mscl-trsv-thorax	rdf:type	anat:muscle .
+anat:L-muscles-crt-elevatR-cotes	rdf:type	anat:groupe-musculaire .
+anat:L-mscl-crt-elevatR-cote-1	rdf:type	anat:chef-musculaire .
+anat:L-mscl-crt-elevatR-cote-2	rdf:type	anat:chef-musculaire .
+anat:L-mscl-crt-elevatR-cote-3	rdf:type	anat:chef-musculaire .
+anat:L-mscl-crt-elevatR-cote-4	rdf:type	anat:chef-musculaire .
+anat:L-mscl-crt-elevatR-cote-5	rdf:type	anat:chef-musculaire .
+anat:L-mscl-crt-elevatR-cote-6	rdf:type	anat:chef-musculaire .
+anat:L-mscl-crt-elevatR-cote-7	rdf:type	anat:chef-musculaire .
+anat:L-mscl-crt-elevatR-cote-8	rdf:type	anat:chef-musculaire .
+anat:L-mscl-crt-elevatR-cote-9	rdf:type	anat:chef-musculaire .
+anat:L-mscl-crt-elevatR-cote-10	rdf:type	anat:chef-musculaire .
+anat:L-mscl-crt-elevatR-cote-11	rdf:type	anat:chef-musculaire .
+anat:L-mscl-crt-elevatR-cote-12	rdf:type	anat:chef-musculaire .
+anat:L-muscles-lg-elevatR-cotes	rdf:type	anat:groupe-musculaire .
+anat:L-mscl-lg-elevatR-cote-2	rdf:type	anat:chef-musculaire .
+anat:L-mscl-lg-elevatR-cote-3	rdf:type	anat:chef-musculaire .
+anat:L-mscl-lg-elevatR-cote-4	rdf:type	anat:chef-musculaire .
+anat:L-mscl-lg-elevatR-cote-5	rdf:type	anat:chef-musculaire .
+anat:L-mscl-lg-elevatR-cote-6	rdf:type	anat:chef-musculaire .
+anat:L-mscl-lg-elevatR-cote-7	rdf:type	anat:chef-musculaire .
+anat:L-mscl-lg-elevatR-cote-8	rdf:type	anat:chef-musculaire .
+anat:L-mscl-lg-elevatR-cote-9	rdf:type	anat:chef-musculaire .
+anat:L-mscl-lg-elevatR-cote-10	rdf:type	anat:chef-musculaire .
+anat:L-mscl-lg-elevatR-cote-11	rdf:type	anat:chef-musculaire .
+anat:L-mscl-lg-elevatR-cote-12	rdf:type	anat:chef-musculaire .
+anat:L-muscles-intercostaux-ext	rdf:type	anat:groupe-musculaire .
+anat:L-mscl-intercostal-ext-1	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-ext-2	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-ext-3	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-ext-4	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-ext-5	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-ext-6	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-ext-7	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-ext-8	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-ext-9	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-ext-10	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-ext-11	rdf:type	anat:muscle .
+anat:L-muscles-intercostaux-int	rdf:type	anat:groupe-musculaire .
+anat:L-mscl-intercostal-int-1	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-int-2	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-int-3	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-int-4	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-int-5	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-int-6	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-int-7	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-int-8	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-int-9	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-int-10	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-int-11	rdf:type	anat:muscle .
+anat:L-muscles-intercostaux-intime	rdf:type	anat:groupe-musculaire .
+anat:L-mscl-intercostal-intime-1	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-intime-2	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-intime-3	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-intime-4	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-intime-5	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-intime-6	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-intime-7	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-intime-8	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-intime-9	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-intime-10	rdf:type	anat:muscle .
+anat:L-mscl-intercostal-intime-11	rdf:type	anat:muscle .
+anat:L-muscles-subcostaux	rdf:type	anat:groupe-musculaire .
+anat:L-mscl-subcostal-1	rdf:type	anat:chef-musculaire .
+anat:L-mscl-subcostal-2	rdf:type	anat:chef-musculaire .
+anat:L-mscl-subcostal-3	rdf:type	anat:chef-musculaire .
+anat:L-mscl-subcostal-4	rdf:type	anat:chef-musculaire .
+anat:L-mscl-subcostal-5	rdf:type	anat:chef-musculaire .
+anat:L-mscl-subcostal-6	rdf:type	anat:chef-musculaire .
+anat:L-mscl-subcostal-7	rdf:type	anat:chef-musculaire .
+anat:L-mscl-subcostal-8	rdf:type	anat:chef-musculaire .
+anat:L-mscl-subcostal-9	rdf:type	anat:chef-musculaire .
+anat:L-mscl-subcostal-10	rdf:type	anat:chef-musculaire .
+anat:L-mscl-trsv-thorax	rdf:type	anat:muscle .
+		
+anat:muscles-thoraciq-ext	anat:comprend	anat:muscles-elevatR-cotes .
+anat:muscles-elevatR-cotes	anat:comprend	anat:muscles-crt-elevatR-cotes .
+anat:muscles-elevatR-cotes	anat:comprend	anat:muscles-lg-elevatR-cotes .
+anat:muscles-crt-elevatR-cotes	anat:comprend	anat:R-muscles-crt-elevatR-cotes .
+anat:muscles-crt-elevatR-cotes	anat:comprend	anat:L-muscles-crt-elevatR-cotes .
+anat:muscles-lg-elevatR-cotes	anat:comprend	anat:R-muscles-lg-elevatR-cotes .
+anat:muscles-lg-elevatR-cotes	anat:comprend	anat:L-muscles-lg-elevatR-cotes .
+anat:muscles-thoraciq-intermed	anat:comprend	anat:muscles-intercostaux .
+anat:muscles-intercostaux	anat:comprend	anat:muscles-intercostaux-ext .
+anat:muscles-intercostaux	anat:comprend	anat:muscles-intercostaux-int .
+anat:muscles-intercostaux	anat:comprend	anat:muscles-intercostaux-intime .
+anat:muscles-intercostaux-ext	anat:comprend	anat:R-muscles-intercostaux-ext .
+anat:muscles-intercostaux-ext	anat:comprend	anat:L-muscles-intercostaux-ext .
+anat:muscles-intercostaux-int	anat:comprend	anat:R-muscles-intercostaux-int .
+anat:muscles-intercostaux-int	anat:comprend	anat:L-muscles-intercostaux-int .
+anat:muscles-intercostaux-intime	anat:comprend	anat:R-muscles-intercostaux-intime .
+anat:muscles-intercostaux-intime	anat:comprend	anat:L-muscles-intercostaux-intime .
+anat:muscles-thoraciq-int	anat:comprend	anat:muscles-subcostaux .
+anat:muscles-thoraciq-int	anat:comprend	anat:muscles-trsv-thorax .
+anat:muscles-subcostaux	anat:comprend	anat:R-muscles-subcostaux .
+anat:muscles-subcostaux	anat:comprend	anat:L-muscles-subcostaux .
+anat:muscles-trsv-thorax	anat:comprend	anat:R-mscl-trsv-thorax .
+anat:muscles-trsv-thorax	anat:comprend	anat:L-mscl-trsv-thorax .
+anat:R-muscles-crt-elevatR-cotes	anat:comprend	anat:R-mscl-crt-elevatR-cote-1 .
+anat:R-muscles-crt-elevatR-cotes	anat:comprend	anat:R-mscl-crt-elevatR-cote-2 .
+anat:R-muscles-crt-elevatR-cotes	anat:comprend	anat:R-mscl-crt-elevatR-cote-3 .
+anat:R-muscles-crt-elevatR-cotes	anat:comprend	anat:R-mscl-crt-elevatR-cote-4 .
+anat:R-muscles-crt-elevatR-cotes	anat:comprend	anat:R-mscl-crt-elevatR-cote-5 .
+anat:R-muscles-crt-elevatR-cotes	anat:comprend	anat:R-mscl-crt-elevatR-cote-6 .
+anat:R-muscles-crt-elevatR-cotes	anat:comprend	anat:R-mscl-crt-elevatR-cote-7 .
+anat:R-muscles-crt-elevatR-cotes	anat:comprend	anat:R-mscl-crt-elevatR-cote-8 .
+anat:R-muscles-crt-elevatR-cotes	anat:comprend	anat:R-mscl-crt-elevatR-cote-9 .
+anat:R-muscles-crt-elevatR-cotes	anat:comprend	anat:R-mscl-crt-elevatR-cote-10 .
+anat:R-muscles-crt-elevatR-cotes	anat:comprend	anat:R-mscl-crt-elevatR-cote-11 .
+anat:R-muscles-crt-elevatR-cotes	anat:comprend	anat:R-mscl-crt-elevatR-cote-12 .
+anat:R-muscles-lg-elevatR-cotes	anat:comprend	anat:R-mscl-lg-elevatR-cote-2 .
+anat:R-muscles-lg-elevatR-cotes	anat:comprend	anat:R-mscl-lg-elevatR-cote-3 .
+anat:R-muscles-lg-elevatR-cotes	anat:comprend	anat:R-mscl-lg-elevatR-cote-4 .
+anat:R-muscles-lg-elevatR-cotes	anat:comprend	anat:R-mscl-lg-elevatR-cote-5 .
+anat:R-muscles-lg-elevatR-cotes	anat:comprend	anat:R-mscl-lg-elevatR-cote-6 .
+anat:R-muscles-lg-elevatR-cotes	anat:comprend	anat:R-mscl-lg-elevatR-cote-7 .
+anat:R-muscles-lg-elevatR-cotes	anat:comprend	anat:R-mscl-lg-elevatR-cote-8 .
+anat:R-muscles-lg-elevatR-cotes	anat:comprend	anat:R-mscl-lg-elevatR-cote-9 .
+anat:R-muscles-lg-elevatR-cotes	anat:comprend	anat:R-mscl-lg-elevatR-cote-10 .
+anat:R-muscles-lg-elevatR-cotes	anat:comprend	anat:R-mscl-lg-elevatR-cote-11 .
+anat:R-muscles-lg-elevatR-cotes	anat:comprend	anat:R-mscl-lg-elevatR-cote-12 .
+anat:R-muscles-intercostaux-ext	anat:comprend	anat:R-mscl-intercostal-ext-1 .
+anat:R-muscles-intercostaux-ext	anat:comprend	anat:R-mscl-intercostal-ext-2 .
+anat:R-muscles-intercostaux-ext	anat:comprend	anat:R-mscl-intercostal-ext-3 .
+anat:R-muscles-intercostaux-ext	anat:comprend	anat:R-mscl-intercostal-ext-4 .
+anat:R-muscles-intercostaux-ext	anat:comprend	anat:R-mscl-intercostal-ext-5 .
+anat:R-muscles-intercostaux-ext	anat:comprend	anat:R-mscl-intercostal-ext-6 .
+anat:R-muscles-intercostaux-ext	anat:comprend	anat:R-mscl-intercostal-ext-7 .
+anat:R-muscles-intercostaux-ext	anat:comprend	anat:R-mscl-intercostal-ext-8 .
+anat:R-muscles-intercostaux-ext	anat:comprend	anat:R-mscl-intercostal-ext-9 .
+anat:R-muscles-intercostaux-ext	anat:comprend	anat:R-mscl-intercostal-ext-10 .
+anat:R-muscles-intercostaux-ext	anat:comprend	anat:R-mscl-intercostal-ext-11 .
+anat:R-muscles-intercostaux-int	anat:comprend	anat:R-mscl-intercostal-int-1 .
+anat:R-muscles-intercostaux-int	anat:comprend	anat:R-mscl-intercostal-int-2 .
+anat:R-muscles-intercostaux-int	anat:comprend	anat:R-mscl-intercostal-int-3 .
+anat:R-muscles-intercostaux-int	anat:comprend	anat:R-mscl-intercostal-int-4 .
+anat:R-muscles-intercostaux-int	anat:comprend	anat:R-mscl-intercostal-int-5 .
+anat:R-muscles-intercostaux-int	anat:comprend	anat:R-mscl-intercostal-int-6 .
+anat:R-muscles-intercostaux-int	anat:comprend	anat:R-mscl-intercostal-int-7 .
+anat:R-muscles-intercostaux-int	anat:comprend	anat:R-mscl-intercostal-int-8 .
+anat:R-muscles-intercostaux-int	anat:comprend	anat:R-mscl-intercostal-int-9 .
+anat:R-muscles-intercostaux-int	anat:comprend	anat:R-mscl-intercostal-int-10 .
+anat:R-muscles-intercostaux-int	anat:comprend	anat:R-mscl-intercostal-int-11 .
+anat:R-muscles-intercostaux-intime	anat:comprend	anat:R-mscl-intercostal-intime-1 .
+anat:R-muscles-intercostaux-intime	anat:comprend	anat:R-mscl-intercostal-intime-2 .
+anat:R-muscles-intercostaux-intime	anat:comprend	anat:R-mscl-intercostal-intime-3 .
+anat:R-muscles-intercostaux-intime	anat:comprend	anat:R-mscl-intercostal-intime-4 .
+anat:R-muscles-intercostaux-intime	anat:comprend	anat:R-mscl-intercostal-intime-5 .
+anat:R-muscles-intercostaux-intime	anat:comprend	anat:R-mscl-intercostal-intime-6 .
+anat:R-muscles-intercostaux-intime	anat:comprend	anat:R-mscl-intercostal-intime-7 .
+anat:R-muscles-intercostaux-intime	anat:comprend	anat:R-mscl-intercostal-intime-8 .
+anat:R-muscles-intercostaux-intime	anat:comprend	anat:R-mscl-intercostal-intime-9 .
+anat:R-muscles-intercostaux-intime	anat:comprend	anat:R-mscl-intercostal-intime-10 .
+anat:R-muscles-intercostaux-intime	anat:comprend	anat:R-mscl-intercostal-intime-11 .
+anat:R-muscles-subcostaux	anat:comprend	anat:R-mscl-subcostal-1 .
+anat:R-muscles-subcostaux	anat:comprend	anat:R-mscl-subcostal-2 .
+anat:R-muscles-subcostaux	anat:comprend	anat:R-mscl-subcostal-3 .
+anat:R-muscles-subcostaux	anat:comprend	anat:R-mscl-subcostal-4 .
+anat:R-muscles-subcostaux	anat:comprend	anat:R-mscl-subcostal-5 .
+anat:R-muscles-subcostaux	anat:comprend	anat:R-mscl-subcostal-6 .
+anat:R-muscles-subcostaux	anat:comprend	anat:R-mscl-subcostal-7 .
+anat:R-muscles-subcostaux	anat:comprend	anat:R-mscl-subcostal-8 .
+anat:R-muscles-subcostaux	anat:comprend	anat:R-mscl-subcostal-9 .
+anat:R-muscles-subcostaux	anat:comprend	anat:R-mscl-subcostal-10 .
+anat:L-muscles-crt-elevatR-cotes	anat:comprend	anat:L-mscl-crt-elevatR-cote-1 .
+anat:L-muscles-crt-elevatR-cotes	anat:comprend	anat:L-mscl-crt-elevatR-cote-2 .
+anat:L-muscles-crt-elevatR-cotes	anat:comprend	anat:L-mscl-crt-elevatR-cote-3 .
+anat:L-muscles-crt-elevatR-cotes	anat:comprend	anat:L-mscl-crt-elevatR-cote-4 .
+anat:L-muscles-crt-elevatR-cotes	anat:comprend	anat:L-mscl-crt-elevatR-cote-5 .
+anat:L-muscles-crt-elevatR-cotes	anat:comprend	anat:L-mscl-crt-elevatR-cote-6 .
+anat:L-muscles-crt-elevatR-cotes	anat:comprend	anat:L-mscl-crt-elevatR-cote-7 .
+anat:L-muscles-crt-elevatR-cotes	anat:comprend	anat:L-mscl-crt-elevatR-cote-8 .
+anat:L-muscles-crt-elevatR-cotes	anat:comprend	anat:L-mscl-crt-elevatR-cote-9 .
+anat:L-muscles-crt-elevatR-cotes	anat:comprend	anat:L-mscl-crt-elevatR-cote-10 .
+anat:L-muscles-crt-elevatR-cotes	anat:comprend	anat:L-mscl-crt-elevatR-cote-11 .
+anat:L-muscles-crt-elevatR-cotes	anat:comprend	anat:L-mscl-crt-elevatR-cote-12 .
+anat:L-muscles-lg-elevatR-cotes	anat:comprend	anat:L-mscl-lg-elevatR-cote-2 .
+anat:L-muscles-lg-elevatR-cotes	anat:comprend	anat:L-mscl-lg-elevatR-cote-3 .
+anat:L-muscles-lg-elevatR-cotes	anat:comprend	anat:L-mscl-lg-elevatR-cote-4 .
+anat:L-muscles-lg-elevatR-cotes	anat:comprend	anat:L-mscl-lg-elevatR-cote-5 .
+anat:L-muscles-lg-elevatR-cotes	anat:comprend	anat:L-mscl-lg-elevatR-cote-6 .
+anat:L-muscles-lg-elevatR-cotes	anat:comprend	anat:L-mscl-lg-elevatR-cote-7 .
+anat:L-muscles-lg-elevatR-cotes	anat:comprend	anat:L-mscl-lg-elevatR-cote-8 .
+anat:L-muscles-lg-elevatR-cotes	anat:comprend	anat:L-mscl-lg-elevatR-cote-9 .
+anat:L-muscles-lg-elevatR-cotes	anat:comprend	anat:L-mscl-lg-elevatR-cote-10 .
+anat:L-muscles-lg-elevatR-cotes	anat:comprend	anat:L-mscl-lg-elevatR-cote-11 .
+anat:L-muscles-lg-elevatR-cotes	anat:comprend	anat:L-mscl-lg-elevatR-cote-12 .
+anat:L-muscles-intercostaux-ext	anat:comprend	anat:L-mscl-intercostal-ext-1 .
+anat:L-muscles-intercostaux-ext	anat:comprend	anat:L-mscl-intercostal-ext-2 .
+anat:L-muscles-intercostaux-ext	anat:comprend	anat:L-mscl-intercostal-ext-3 .
+anat:L-muscles-intercostaux-ext	anat:comprend	anat:L-mscl-intercostal-ext-4 .
+anat:L-muscles-intercostaux-ext	anat:comprend	anat:L-mscl-intercostal-ext-5 .
+anat:L-muscles-intercostaux-ext	anat:comprend	anat:L-mscl-intercostal-ext-6 .
+anat:L-muscles-intercostaux-ext	anat:comprend	anat:L-mscl-intercostal-ext-7 .
+anat:L-muscles-intercostaux-ext	anat:comprend	anat:L-mscl-intercostal-ext-8 .
+anat:L-muscles-intercostaux-ext	anat:comprend	anat:L-mscl-intercostal-ext-9 .
+anat:L-muscles-intercostaux-ext	anat:comprend	anat:L-mscl-intercostal-ext-10 .
+anat:L-muscles-intercostaux-ext	anat:comprend	anat:L-mscl-intercostal-ext-11 .
+anat:L-muscles-intercostaux-int	anat:comprend	anat:L-mscl-intercostal-int-1 .
+anat:L-muscles-intercostaux-int	anat:comprend	anat:L-mscl-intercostal-int-2 .
+anat:L-muscles-intercostaux-int	anat:comprend	anat:L-mscl-intercostal-int-3 .
+anat:L-muscles-intercostaux-int	anat:comprend	anat:L-mscl-intercostal-int-4 .
+anat:L-muscles-intercostaux-int	anat:comprend	anat:L-mscl-intercostal-int-5 .
+anat:L-muscles-intercostaux-int	anat:comprend	anat:L-mscl-intercostal-int-6 .
+anat:L-muscles-intercostaux-int	anat:comprend	anat:L-mscl-intercostal-int-7 .
+anat:L-muscles-intercostaux-int	anat:comprend	anat:L-mscl-intercostal-int-8 .
+anat:L-muscles-intercostaux-int	anat:comprend	anat:L-mscl-intercostal-int-9 .
+anat:L-muscles-intercostaux-int	anat:comprend	anat:L-mscl-intercostal-int-10 .
+anat:L-muscles-intercostaux-int	anat:comprend	anat:L-mscl-intercostal-int-11 .
+anat:L-muscles-intercostaux-intime	anat:comprend	anat:L-mscl-intercostal-intime-1 .
+anat:L-muscles-intercostaux-intime	anat:comprend	anat:L-mscl-intercostal-intime-2 .
+anat:L-muscles-intercostaux-intime	anat:comprend	anat:L-mscl-intercostal-intime-3 .
+anat:L-muscles-intercostaux-intime	anat:comprend	anat:L-mscl-intercostal-intime-4 .
+anat:L-muscles-intercostaux-intime	anat:comprend	anat:L-mscl-intercostal-intime-5 .
+anat:L-muscles-intercostaux-intime	anat:comprend	anat:L-mscl-intercostal-intime-6 .
+anat:L-muscles-intercostaux-intime	anat:comprend	anat:L-mscl-intercostal-intime-7 .
+anat:L-muscles-intercostaux-intime	anat:comprend	anat:L-mscl-intercostal-intime-8 .
+anat:L-muscles-intercostaux-intime	anat:comprend	anat:L-mscl-intercostal-intime-9 .
+anat:L-muscles-intercostaux-intime	anat:comprend	anat:L-mscl-intercostal-intime-10 .
+anat:L-muscles-intercostaux-intime	anat:comprend	anat:L-mscl-intercostal-intime-11 .
+anat:L-muscles-subcostaux	anat:comprend	anat:L-mscl-subcostal-1 .
+anat:L-muscles-subcostaux	anat:comprend	anat:L-mscl-subcostal-2 .
+anat:L-muscles-subcostaux	anat:comprend	anat:L-mscl-subcostal-3 .
+anat:L-muscles-subcostaux	anat:comprend	anat:L-mscl-subcostal-4 .
+anat:L-muscles-subcostaux	anat:comprend	anat:L-mscl-subcostal-5 .
+anat:L-muscles-subcostaux	anat:comprend	anat:L-mscl-subcostal-6 .
+anat:L-muscles-subcostaux	anat:comprend	anat:L-mscl-subcostal-7 .
+anat:L-muscles-subcostaux	anat:comprend	anat:L-mscl-subcostal-8 .
+anat:L-muscles-subcostaux	anat:comprend	anat:L-mscl-subcostal-9 .
+anat:L-muscles-subcostaux	anat:comprend	anat:L-mscl-subcostal-10 .
+		
+anat:R-mscl-crt-elevatR-cote-1	anat:origi-insere-sur	anat:v-C7 .
+anat:R-mscl-crt-elevatR-cote-2	anat:origi-insere-sur	anat:v-T1 .
+anat:R-mscl-crt-elevatR-cote-3	anat:origi-insere-sur	anat:v-T2 .
+anat:R-mscl-crt-elevatR-cote-4	anat:origi-insere-sur	anat:v-T3 .
+anat:R-mscl-crt-elevatR-cote-5	anat:origi-insere-sur	anat:v-T4 .
+anat:R-mscl-crt-elevatR-cote-6	anat:origi-insere-sur	anat:v-T5 .
+anat:R-mscl-crt-elevatR-cote-7	anat:origi-insere-sur	anat:v-T6 .
+anat:R-mscl-crt-elevatR-cote-8	anat:origi-insere-sur	anat:v-T7 .
+anat:R-mscl-crt-elevatR-cote-9	anat:origi-insere-sur	anat:v-T8 .
+anat:R-mscl-crt-elevatR-cote-10	anat:origi-insere-sur	anat:v-T9 .
+anat:R-mscl-crt-elevatR-cote-11	anat:origi-insere-sur	anat:v-T10 .
+anat:R-mscl-crt-elevatR-cote-12	anat:origi-insere-sur	anat:v-T11 .
+anat:R-mscl-crt-elevatR-cote-1	anat:termi-insere-sur	anat:R-cote-1 .
+anat:R-mscl-crt-elevatR-cote-2	anat:termi-insere-sur	anat:R-cote-2 .
+anat:R-mscl-crt-elevatR-cote-3	anat:termi-insere-sur	anat:R-cote-3 .
+anat:R-mscl-crt-elevatR-cote-4	anat:termi-insere-sur	anat:R-cote-4 .
+anat:R-mscl-crt-elevatR-cote-5	anat:termi-insere-sur	anat:R-cote-5 .
+anat:R-mscl-crt-elevatR-cote-6	anat:termi-insere-sur	anat:R-cote-6 .
+anat:R-mscl-crt-elevatR-cote-7	anat:termi-insere-sur	anat:R-cote-7 .
+anat:R-mscl-crt-elevatR-cote-8	anat:termi-insere-sur	anat:R-cote-8 .
+anat:R-mscl-crt-elevatR-cote-9	anat:termi-insere-sur	anat:R-cote-9 .
+anat:R-mscl-crt-elevatR-cote-10	anat:termi-insere-sur	anat:R-cote-10 .
+anat:R-mscl-crt-elevatR-cote-11	anat:termi-insere-sur	anat:R-cote-11 .
+anat:R-mscl-crt-elevatR-cote-12	anat:termi-insere-sur	anat:R-cote-12 .
+anat:R-mscl-lg-elevatR-cote-2	anat:origi-insere-sur	anat:v-C7 .
+anat:R-mscl-lg-elevatR-cote-3	anat:origi-insere-sur	anat:v-T1 .
+anat:R-mscl-lg-elevatR-cote-4	anat:origi-insere-sur	anat:v-T2 .
+anat:R-mscl-lg-elevatR-cote-5	anat:origi-insere-sur	anat:v-T3 .
+anat:R-mscl-lg-elevatR-cote-6	anat:origi-insere-sur	anat:v-T4 .
+anat:R-mscl-lg-elevatR-cote-7	anat:origi-insere-sur	anat:v-T5 .
+anat:R-mscl-lg-elevatR-cote-8	anat:origi-insere-sur	anat:v-T6 .
+anat:R-mscl-lg-elevatR-cote-9	anat:origi-insere-sur	anat:v-T7 .
+anat:R-mscl-lg-elevatR-cote-10	anat:origi-insere-sur	anat:v-T8 .
+anat:R-mscl-lg-elevatR-cote-11	anat:origi-insere-sur	anat:v-T9 .
+anat:R-mscl-lg-elevatR-cote-12	anat:origi-insere-sur	anat:v-T10 .
+anat:R-mscl-lg-elevatR-cote-2	anat:termi-insere-sur	anat:R-cote-2 .
+anat:R-mscl-lg-elevatR-cote-3	anat:termi-insere-sur	anat:R-cote-3 .
+anat:R-mscl-lg-elevatR-cote-4	anat:termi-insere-sur	anat:R-cote-4 .
+anat:R-mscl-lg-elevatR-cote-5	anat:termi-insere-sur	anat:R-cote-5 .
+anat:R-mscl-lg-elevatR-cote-6	anat:termi-insere-sur	anat:R-cote-6 .
+anat:R-mscl-lg-elevatR-cote-7	anat:termi-insere-sur	anat:R-cote-7 .
+anat:R-mscl-lg-elevatR-cote-8	anat:termi-insere-sur	anat:R-cote-8 .
+anat:R-mscl-lg-elevatR-cote-9	anat:termi-insere-sur	anat:R-cote-9 .
+anat:R-mscl-lg-elevatR-cote-10	anat:termi-insere-sur	anat:R-cote-10 .
+anat:R-mscl-lg-elevatR-cote-11	anat:termi-insere-sur	anat:R-cote-11 .
+anat:R-mscl-lg-elevatR-cote-12	anat:termi-insere-sur	anat:R-cote-12 .
+anat:R-mscl-intercostal-ext-1	anat:origi-insere-sur	anat:R-cote-1 .
+anat:R-mscl-intercostal-ext-2	anat:origi-insere-sur	anat:R-cote-2 .
+anat:R-mscl-intercostal-ext-3	anat:origi-insere-sur	anat:R-cote-3 .
+anat:R-mscl-intercostal-ext-4	anat:origi-insere-sur	anat:R-cote-4 .
+anat:R-mscl-intercostal-ext-5	anat:origi-insere-sur	anat:R-cote-5 .
+anat:R-mscl-intercostal-ext-6	anat:origi-insere-sur	anat:R-cote-6 .
+anat:R-mscl-intercostal-ext-7	anat:origi-insere-sur	anat:R-cote-7 .
+anat:R-mscl-intercostal-ext-8	anat:origi-insere-sur	anat:R-cote-8 .
+anat:R-mscl-intercostal-ext-9	anat:origi-insere-sur	anat:R-cote-9 .
+anat:R-mscl-intercostal-ext-10	anat:origi-insere-sur	anat:R-cote-10 .
+anat:R-mscl-intercostal-ext-11	anat:origi-insere-sur	anat:R-cote-11 .
+anat:R-mscl-intercostal-ext-1	anat:origi-insere-sur	anat:R-carti-costal-1 .
+anat:R-mscl-intercostal-ext-2	anat:origi-insere-sur	anat:R-carti-costal-2 .
+anat:R-mscl-intercostal-ext-3	anat:origi-insere-sur	anat:R-carti-costal-3 .
+anat:R-mscl-intercostal-ext-4	anat:origi-insere-sur	anat:R-carti-costal-4 .
+anat:R-mscl-intercostal-ext-5	anat:origi-insere-sur	anat:R-carti-costal-5 .
+anat:R-mscl-intercostal-ext-6	anat:origi-insere-sur	anat:R-carti-costal-6 .
+anat:R-mscl-intercostal-ext-7	anat:origi-insere-sur	anat:R-carti-costal-7 .
+anat:R-mscl-intercostal-ext-8	anat:origi-insere-sur	anat:R-carti-costal-8 .
+anat:R-mscl-intercostal-ext-9	anat:origi-insere-sur	anat:R-carti-costal-9 .
+anat:R-mscl-intercostal-ext-1	anat:termi-insere-sur	anat:R-cote-2 .
+anat:R-mscl-intercostal-ext-2	anat:termi-insere-sur	anat:R-cote-3 .
+anat:R-mscl-intercostal-ext-3	anat:termi-insere-sur	anat:R-cote-4 .
+anat:R-mscl-intercostal-ext-4	anat:termi-insere-sur	anat:R-cote-5 .
+anat:R-mscl-intercostal-ext-5	anat:termi-insere-sur	anat:R-cote-6 .
+anat:R-mscl-intercostal-ext-6	anat:termi-insere-sur	anat:R-cote-7 .
+anat:R-mscl-intercostal-ext-7	anat:termi-insere-sur	anat:R-cote-8 .
+anat:R-mscl-intercostal-ext-8	anat:termi-insere-sur	anat:R-cote-9 .
+anat:R-mscl-intercostal-ext-9	anat:termi-insere-sur	anat:R-cote-10 .
+anat:R-mscl-intercostal-ext-10	anat:termi-insere-sur	anat:R-cote-11 .
+anat:R-mscl-intercostal-ext-11	anat:termi-insere-sur	anat:R-cote-12 .
+anat:R-mscl-intercostal-ext-1	anat:termi-insere-sur	anat:R-carti-costal-2 .
+anat:R-mscl-intercostal-ext-2	anat:termi-insere-sur	anat:R-carti-costal-3 .
+anat:R-mscl-intercostal-ext-3	anat:termi-insere-sur	anat:R-carti-costal-4 .
+anat:R-mscl-intercostal-ext-4	anat:termi-insere-sur	anat:R-carti-costal-5 .
+anat:R-mscl-intercostal-ext-5	anat:termi-insere-sur	anat:R-carti-costal-6 .
+anat:R-mscl-intercostal-ext-6	anat:termi-insere-sur	anat:R-carti-costal-7 .
+anat:R-mscl-intercostal-ext-7	anat:termi-insere-sur	anat:R-carti-costal-8 .
+anat:R-mscl-intercostal-ext-8	anat:termi-insere-sur	anat:R-carti-costal-9 .
+anat:R-mscl-intercostal-ext-9	anat:termi-insere-sur	anat:R-carti-costal-10 .
+anat:R-mscl-intercostal-int-1	anat:origi-insere-sur	anat:R-cote-1 .
+anat:R-mscl-intercostal-int-2	anat:origi-insere-sur	anat:R-cote-2 .
+anat:R-mscl-intercostal-int-3	anat:origi-insere-sur	anat:R-cote-3 .
+anat:R-mscl-intercostal-int-4	anat:origi-insere-sur	anat:R-cote-4 .
+anat:R-mscl-intercostal-int-5	anat:origi-insere-sur	anat:R-cote-5 .
+anat:R-mscl-intercostal-int-6	anat:origi-insere-sur	anat:R-cote-6 .
+anat:R-mscl-intercostal-int-7	anat:origi-insere-sur	anat:R-cote-7 .
+anat:R-mscl-intercostal-int-8	anat:origi-insere-sur	anat:R-cote-8 .
+anat:R-mscl-intercostal-int-9	anat:origi-insere-sur	anat:R-cote-9 .
+anat:R-mscl-intercostal-int-10	anat:origi-insere-sur	anat:R-cote-10 .
+anat:R-mscl-intercostal-int-11	anat:origi-insere-sur	anat:R-cote-11 .
+anat:R-mscl-intercostal-int-1	anat:origi-insere-sur	anat:R-carti-costal-1 .
+anat:R-mscl-intercostal-int-2	anat:origi-insere-sur	anat:R-carti-costal-2 .
+anat:R-mscl-intercostal-int-3	anat:origi-insere-sur	anat:R-carti-costal-3 .
+anat:R-mscl-intercostal-int-4	anat:origi-insere-sur	anat:R-carti-costal-4 .
+anat:R-mscl-intercostal-int-5	anat:origi-insere-sur	anat:R-carti-costal-5 .
+anat:R-mscl-intercostal-int-6	anat:origi-insere-sur	anat:R-carti-costal-6 .
+anat:R-mscl-intercostal-int-7	anat:origi-insere-sur	anat:R-carti-costal-7 .
+anat:R-mscl-intercostal-int-8	anat:origi-insere-sur	anat:R-carti-costal-8 .
+anat:R-mscl-intercostal-int-9	anat:origi-insere-sur	anat:R-carti-costal-9 .
+anat:R-mscl-intercostal-int-1	anat:origi-insere-sur	anat:sternum .
+anat:R-mscl-intercostal-int-2	anat:origi-insere-sur	anat:sternum .
+anat:R-mscl-intercostal-int-3	anat:origi-insere-sur	anat:sternum .
+anat:R-mscl-intercostal-int-4	anat:origi-insere-sur	anat:sternum .
+anat:R-mscl-intercostal-int-5	anat:origi-insere-sur	anat:sternum .
+anat:R-mscl-intercostal-int-1	anat:termi-insere-sur	anat:R-cote-2 .
+anat:R-mscl-intercostal-int-2	anat:termi-insere-sur	anat:R-cote-3 .
+anat:R-mscl-intercostal-int-3	anat:termi-insere-sur	anat:R-cote-4 .
+anat:R-mscl-intercostal-int-4	anat:termi-insere-sur	anat:R-cote-5 .
+anat:R-mscl-intercostal-int-5	anat:termi-insere-sur	anat:R-cote-6 .
+anat:R-mscl-intercostal-int-6	anat:termi-insere-sur	anat:R-cote-7 .
+anat:R-mscl-intercostal-int-7	anat:termi-insere-sur	anat:R-cote-8 .
+anat:R-mscl-intercostal-int-8	anat:termi-insere-sur	anat:R-cote-9 .
+anat:R-mscl-intercostal-int-9	anat:termi-insere-sur	anat:R-cote-10 .
+anat:R-mscl-intercostal-int-10	anat:termi-insere-sur	anat:R-cote-11 .
+anat:R-mscl-intercostal-int-11	anat:termi-insere-sur	anat:R-cote-12 .
+anat:R-mscl-intercostal-int-1	anat:termi-insere-sur	anat:R-carti-costal-2 .
+anat:R-mscl-intercostal-int-2	anat:termi-insere-sur	anat:R-carti-costal-3 .
+anat:R-mscl-intercostal-int-3	anat:termi-insere-sur	anat:R-carti-costal-4 .
+anat:R-mscl-intercostal-int-4	anat:termi-insere-sur	anat:R-carti-costal-5 .
+anat:R-mscl-intercostal-int-5	anat:termi-insere-sur	anat:R-carti-costal-6 .
+anat:R-mscl-intercostal-int-6	anat:termi-insere-sur	anat:R-carti-costal-7 .
+anat:R-mscl-intercostal-int-7	anat:termi-insere-sur	anat:R-carti-costal-8 .
+anat:R-mscl-intercostal-int-8	anat:termi-insere-sur	anat:R-carti-costal-9 .
+anat:R-mscl-intercostal-int-9	anat:termi-insere-sur	anat:R-carti-costal-10 .
+anat:R-mscl-intercostal-intime-1	anat:origi-insere-sur	anat:R-cote-1 .
+anat:R-mscl-intercostal-intime-2	anat:origi-insere-sur	anat:R-cote-2 .
+anat:R-mscl-intercostal-intime-3	anat:origi-insere-sur	anat:R-cote-3 .
+anat:R-mscl-intercostal-intime-4	anat:origi-insere-sur	anat:R-cote-4 .
+anat:R-mscl-intercostal-intime-5	anat:origi-insere-sur	anat:R-cote-5 .
+anat:R-mscl-intercostal-intime-6	anat:origi-insere-sur	anat:R-cote-6 .
+anat:R-mscl-intercostal-intime-7	anat:origi-insere-sur	anat:R-cote-7 .
+anat:R-mscl-intercostal-intime-8	anat:origi-insere-sur	anat:R-cote-8 .
+anat:R-mscl-intercostal-intime-9	anat:origi-insere-sur	anat:R-cote-9 .
+anat:R-mscl-intercostal-intime-10	anat:origi-insere-sur	anat:R-cote-10 .
+anat:R-mscl-intercostal-intime-11	anat:origi-insere-sur	anat:R-cote-11 .
+anat:R-mscl-intercostal-intime-1	anat:termi-insere-sur	anat:R-cote-2 .
+anat:R-mscl-intercostal-intime-2	anat:termi-insere-sur	anat:R-cote-3 .
+anat:R-mscl-intercostal-intime-3	anat:termi-insere-sur	anat:R-cote-4 .
+anat:R-mscl-intercostal-intime-4	anat:termi-insere-sur	anat:R-cote-5 .
+anat:R-mscl-intercostal-intime-5	anat:termi-insere-sur	anat:R-cote-6 .
+anat:R-mscl-intercostal-intime-6	anat:termi-insere-sur	anat:R-cote-7 .
+anat:R-mscl-intercostal-intime-7	anat:termi-insere-sur	anat:R-cote-8 .
+anat:R-mscl-intercostal-intime-8	anat:termi-insere-sur	anat:R-cote-9 .
+anat:R-mscl-intercostal-intime-9	anat:termi-insere-sur	anat:R-cote-10 .
+anat:R-mscl-intercostal-intime-10	anat:termi-insere-sur	anat:R-cote-11 .
+anat:R-mscl-intercostal-intime-11	anat:termi-insere-sur	anat:R-cote-12 .
+anat:R-mscl-subcostal-1	anat:origi-insere-sur	anat:R-cote-1 .
+anat:R-mscl-subcostal-2	anat:origi-insere-sur	anat:R-cote-2 .
+anat:R-mscl-subcostal-3	anat:origi-insere-sur	anat:R-cote-3 .
+anat:R-mscl-subcostal-4	anat:origi-insere-sur	anat:R-cote-4 .
+anat:R-mscl-subcostal-5	anat:origi-insere-sur	anat:R-cote-5 .
+anat:R-mscl-subcostal-6	anat:origi-insere-sur	anat:R-cote-6 .
+anat:R-mscl-subcostal-7	anat:origi-insere-sur	anat:R-cote-7 .
+anat:R-mscl-subcostal-8	anat:origi-insere-sur	anat:R-cote-8 .
+anat:R-mscl-subcostal-9	anat:origi-insere-sur	anat:R-cote-9 .
+anat:R-mscl-subcostal-10	anat:origi-insere-sur	anat:R-cote-10 .
+anat:R-mscl-subcostal-1	anat:termi-insere-sur	anat:R-cote-3 .
+anat:R-mscl-subcostal-2	anat:termi-insere-sur	anat:R-cote-4 .
+anat:R-mscl-subcostal-3	anat:termi-insere-sur	anat:R-cote-5 .
+anat:R-mscl-subcostal-4	anat:termi-insere-sur	anat:R-cote-6 .
+anat:R-mscl-subcostal-5	anat:termi-insere-sur	anat:R-cote-7 .
+anat:R-mscl-subcostal-6	anat:termi-insere-sur	anat:R-cote-8 .
+anat:R-mscl-subcostal-7	anat:termi-insere-sur	anat:R-cote-9 .
+anat:R-mscl-subcostal-8	anat:termi-insere-sur	anat:R-cote-10 .
+anat:R-mscl-subcostal-9	anat:termi-insere-sur	anat:R-cote-11 .
+anat:R-mscl-subcostal-10	anat:termi-insere-sur	anat:R-cote-12 .
+anat:R-mscl-trsv-thorax	anat:origi-insere-sur	anat:sternum .
+anat:R-mscl-trsv-thorax	anat:termi-insere-sur	anat:R-cote-3 .
+anat:R-mscl-trsv-thorax	anat:termi-insere-sur	anat:R-cote-4 .
+anat:R-mscl-trsv-thorax	anat:termi-insere-sur	anat:R-carti-costal-3 .
+anat:R-mscl-trsv-thorax	anat:termi-insere-sur	anat:R-carti-costal-4 .
+anat:R-mscl-trsv-thorax	anat:termi-insere-sur	anat:R-carti-costal-5 .
+anat:R-mscl-trsv-thorax	anat:termi-insere-sur	anat:R-carti-costal-6 .
+anat:L-mscl-crt-elevatR-cote-1	anat:origi-insere-sur	anat:v-C7 .
+anat:L-mscl-crt-elevatR-cote-2	anat:origi-insere-sur	anat:v-T1 .
+anat:L-mscl-crt-elevatR-cote-3	anat:origi-insere-sur	anat:v-T2 .
+anat:L-mscl-crt-elevatR-cote-4	anat:origi-insere-sur	anat:v-T3 .
+anat:L-mscl-crt-elevatR-cote-5	anat:origi-insere-sur	anat:v-T4 .
+anat:L-mscl-crt-elevatR-cote-6	anat:origi-insere-sur	anat:v-T5 .
+anat:L-mscl-crt-elevatR-cote-7	anat:origi-insere-sur	anat:v-T6 .
+anat:L-mscl-crt-elevatR-cote-8	anat:origi-insere-sur	anat:v-T7 .
+anat:L-mscl-crt-elevatR-cote-9	anat:origi-insere-sur	anat:v-T8 .
+anat:L-mscl-crt-elevatR-cote-10	anat:origi-insere-sur	anat:v-T9 .
+anat:L-mscl-crt-elevatR-cote-11	anat:origi-insere-sur	anat:v-T10 .
+anat:L-mscl-crt-elevatR-cote-12	anat:origi-insere-sur	anat:v-T11 .
+anat:L-mscl-crt-elevatR-cote-1	anat:termi-insere-sur	anat:L-cote-1 .
+anat:L-mscl-crt-elevatR-cote-2	anat:termi-insere-sur	anat:L-cote-2 .
+anat:L-mscl-crt-elevatR-cote-3	anat:termi-insere-sur	anat:L-cote-3 .
+anat:L-mscl-crt-elevatR-cote-4	anat:termi-insere-sur	anat:L-cote-4 .
+anat:L-mscl-crt-elevatR-cote-5	anat:termi-insere-sur	anat:L-cote-5 .
+anat:L-mscl-crt-elevatR-cote-6	anat:termi-insere-sur	anat:L-cote-6 .
+anat:L-mscl-crt-elevatR-cote-7	anat:termi-insere-sur	anat:L-cote-7 .
+anat:L-mscl-crt-elevatR-cote-8	anat:termi-insere-sur	anat:L-cote-8 .
+anat:L-mscl-crt-elevatR-cote-9	anat:termi-insere-sur	anat:L-cote-9 .
+anat:L-mscl-crt-elevatR-cote-10	anat:termi-insere-sur	anat:L-cote-10 .
+anat:L-mscl-crt-elevatR-cote-11	anat:termi-insere-sur	anat:L-cote-11 .
+anat:L-mscl-crt-elevatR-cote-12	anat:termi-insere-sur	anat:L-cote-12 .
+anat:L-mscl-lg-elevatR-cote-2	anat:origi-insere-sur	anat:v-C7 .
+anat:L-mscl-lg-elevatR-cote-3	anat:origi-insere-sur	anat:v-T1 .
+anat:L-mscl-lg-elevatR-cote-4	anat:origi-insere-sur	anat:v-T2 .
+anat:L-mscl-lg-elevatR-cote-5	anat:origi-insere-sur	anat:v-T3 .
+anat:L-mscl-lg-elevatR-cote-6	anat:origi-insere-sur	anat:v-T4 .
+anat:L-mscl-lg-elevatR-cote-7	anat:origi-insere-sur	anat:v-T5 .
+anat:L-mscl-lg-elevatR-cote-8	anat:origi-insere-sur	anat:v-T6 .
+anat:L-mscl-lg-elevatR-cote-9	anat:origi-insere-sur	anat:v-T7 .
+anat:L-mscl-lg-elevatR-cote-10	anat:origi-insere-sur	anat:v-T8 .
+anat:L-mscl-lg-elevatR-cote-11	anat:origi-insere-sur	anat:v-T9 .
+anat:L-mscl-lg-elevatR-cote-12	anat:origi-insere-sur	anat:v-T10 .
+anat:L-mscl-lg-elevatR-cote-2	anat:termi-insere-sur	anat:L-cote-2 .
+anat:L-mscl-lg-elevatR-cote-3	anat:termi-insere-sur	anat:L-cote-3 .
+anat:L-mscl-lg-elevatR-cote-4	anat:termi-insere-sur	anat:L-cote-4 .
+anat:L-mscl-lg-elevatR-cote-5	anat:termi-insere-sur	anat:L-cote-5 .
+anat:L-mscl-lg-elevatR-cote-6	anat:termi-insere-sur	anat:L-cote-6 .
+anat:L-mscl-lg-elevatR-cote-7	anat:termi-insere-sur	anat:L-cote-7 .
+anat:L-mscl-lg-elevatR-cote-8	anat:termi-insere-sur	anat:L-cote-8 .
+anat:L-mscl-lg-elevatR-cote-9	anat:termi-insere-sur	anat:L-cote-9 .
+anat:L-mscl-lg-elevatR-cote-10	anat:termi-insere-sur	anat:L-cote-10 .
+anat:L-mscl-lg-elevatR-cote-11	anat:termi-insere-sur	anat:L-cote-11 .
+anat:L-mscl-lg-elevatR-cote-12	anat:termi-insere-sur	anat:L-cote-12 .
+anat:L-mscl-intercostal-ext-1	anat:origi-insere-sur	anat:L-cote-1 .
+anat:L-mscl-intercostal-ext-2	anat:origi-insere-sur	anat:L-cote-2 .
+anat:L-mscl-intercostal-ext-3	anat:origi-insere-sur	anat:L-cote-3 .
+anat:L-mscl-intercostal-ext-4	anat:origi-insere-sur	anat:L-cote-4 .
+anat:L-mscl-intercostal-ext-5	anat:origi-insere-sur	anat:L-cote-5 .
+anat:L-mscl-intercostal-ext-6	anat:origi-insere-sur	anat:L-cote-6 .
+anat:L-mscl-intercostal-ext-7	anat:origi-insere-sur	anat:L-cote-7 .
+anat:L-mscl-intercostal-ext-8	anat:origi-insere-sur	anat:L-cote-8 .
+anat:L-mscl-intercostal-ext-9	anat:origi-insere-sur	anat:L-cote-9 .
+anat:L-mscl-intercostal-ext-10	anat:origi-insere-sur	anat:L-cote-10 .
+anat:L-mscl-intercostal-ext-11	anat:origi-insere-sur	anat:L-cote-11 .
+anat:L-mscl-intercostal-ext-1	anat:origi-insere-sur	anat:L-carti-costal-1 .
+anat:L-mscl-intercostal-ext-2	anat:origi-insere-sur	anat:L-carti-costal-2 .
+anat:L-mscl-intercostal-ext-3	anat:origi-insere-sur	anat:L-carti-costal-3 .
+anat:L-mscl-intercostal-ext-4	anat:origi-insere-sur	anat:L-carti-costal-4 .
+anat:L-mscl-intercostal-ext-5	anat:origi-insere-sur	anat:L-carti-costal-5 .
+anat:L-mscl-intercostal-ext-6	anat:origi-insere-sur	anat:L-carti-costal-6 .
+anat:L-mscl-intercostal-ext-7	anat:origi-insere-sur	anat:L-carti-costal-7 .
+anat:L-mscl-intercostal-ext-8	anat:origi-insere-sur	anat:L-carti-costal-8 .
+anat:L-mscl-intercostal-ext-9	anat:origi-insere-sur	anat:L-carti-costal-9 .
+anat:L-mscl-intercostal-ext-1	anat:termi-insere-sur	anat:L-cote-2 .
+anat:L-mscl-intercostal-ext-2	anat:termi-insere-sur	anat:L-cote-3 .
+anat:L-mscl-intercostal-ext-3	anat:termi-insere-sur	anat:L-cote-4 .
+anat:L-mscl-intercostal-ext-4	anat:termi-insere-sur	anat:L-cote-5 .
+anat:L-mscl-intercostal-ext-5	anat:termi-insere-sur	anat:L-cote-6 .
+anat:L-mscl-intercostal-ext-6	anat:termi-insere-sur	anat:L-cote-7 .
+anat:L-mscl-intercostal-ext-7	anat:termi-insere-sur	anat:L-cote-8 .
+anat:L-mscl-intercostal-ext-8	anat:termi-insere-sur	anat:L-cote-9 .
+anat:L-mscl-intercostal-ext-9	anat:termi-insere-sur	anat:L-cote-10 .
+anat:L-mscl-intercostal-ext-10	anat:termi-insere-sur	anat:L-cote-11 .
+anat:L-mscl-intercostal-ext-11	anat:termi-insere-sur	anat:L-cote-12 .
+anat:L-mscl-intercostal-ext-1	anat:termi-insere-sur	anat:L-carti-costal-2 .
+anat:L-mscl-intercostal-ext-2	anat:termi-insere-sur	anat:L-carti-costal-3 .
+anat:L-mscl-intercostal-ext-3	anat:termi-insere-sur	anat:L-carti-costal-4 .
+anat:L-mscl-intercostal-ext-4	anat:termi-insere-sur	anat:L-carti-costal-5 .
+anat:L-mscl-intercostal-ext-5	anat:termi-insere-sur	anat:L-carti-costal-6 .
+anat:L-mscl-intercostal-ext-6	anat:termi-insere-sur	anat:L-carti-costal-7 .
+anat:L-mscl-intercostal-ext-7	anat:termi-insere-sur	anat:L-carti-costal-8 .
+anat:L-mscl-intercostal-ext-8	anat:termi-insere-sur	anat:L-carti-costal-9 .
+anat:L-mscl-intercostal-ext-9	anat:termi-insere-sur	anat:L-carti-costal-10 .
+anat:L-mscl-intercostal-int-1	anat:origi-insere-sur	anat:L-cote-1 .
+anat:L-mscl-intercostal-int-2	anat:origi-insere-sur	anat:L-cote-2 .
+anat:L-mscl-intercostal-int-3	anat:origi-insere-sur	anat:L-cote-3 .
+anat:L-mscl-intercostal-int-4	anat:origi-insere-sur	anat:L-cote-4 .
+anat:L-mscl-intercostal-int-5	anat:origi-insere-sur	anat:L-cote-5 .
+anat:L-mscl-intercostal-int-6	anat:origi-insere-sur	anat:L-cote-6 .
+anat:L-mscl-intercostal-int-7	anat:origi-insere-sur	anat:L-cote-7 .
+anat:L-mscl-intercostal-int-8	anat:origi-insere-sur	anat:L-cote-8 .
+anat:L-mscl-intercostal-int-9	anat:origi-insere-sur	anat:L-cote-9 .
+anat:L-mscl-intercostal-int-10	anat:origi-insere-sur	anat:L-cote-10 .
+anat:L-mscl-intercostal-int-11	anat:origi-insere-sur	anat:L-cote-11 .
+anat:L-mscl-intercostal-int-1	anat:origi-insere-sur	anat:L-carti-costal-1 .
+anat:L-mscl-intercostal-int-2	anat:origi-insere-sur	anat:L-carti-costal-2 .
+anat:L-mscl-intercostal-int-3	anat:origi-insere-sur	anat:L-carti-costal-3 .
+anat:L-mscl-intercostal-int-4	anat:origi-insere-sur	anat:L-carti-costal-4 .
+anat:L-mscl-intercostal-int-5	anat:origi-insere-sur	anat:L-carti-costal-5 .
+anat:L-mscl-intercostal-int-6	anat:origi-insere-sur	anat:L-carti-costal-6 .
+anat:L-mscl-intercostal-int-7	anat:origi-insere-sur	anat:L-carti-costal-7 .
+anat:L-mscl-intercostal-int-8	anat:origi-insere-sur	anat:L-carti-costal-8 .
+anat:L-mscl-intercostal-int-9	anat:origi-insere-sur	anat:L-carti-costal-9 .
+anat:L-mscl-intercostal-int-1	anat:origi-insere-sur	anat:sternum .
+anat:L-mscl-intercostal-int-2	anat:origi-insere-sur	anat:sternum .
+anat:L-mscl-intercostal-int-3	anat:origi-insere-sur	anat:sternum .
+anat:L-mscl-intercostal-int-4	anat:origi-insere-sur	anat:sternum .
+anat:L-mscl-intercostal-int-5	anat:origi-insere-sur	anat:sternum .
+anat:L-mscl-intercostal-int-1	anat:termi-insere-sur	anat:L-cote-2 .
+anat:L-mscl-intercostal-int-2	anat:termi-insere-sur	anat:L-cote-3 .
+anat:L-mscl-intercostal-int-3	anat:termi-insere-sur	anat:L-cote-4 .
+anat:L-mscl-intercostal-int-4	anat:termi-insere-sur	anat:L-cote-5 .
+anat:L-mscl-intercostal-int-5	anat:termi-insere-sur	anat:L-cote-6 .
+anat:L-mscl-intercostal-int-6	anat:termi-insere-sur	anat:L-cote-7 .
+anat:L-mscl-intercostal-int-7	anat:termi-insere-sur	anat:L-cote-8 .
+anat:L-mscl-intercostal-int-8	anat:termi-insere-sur	anat:L-cote-9 .
+anat:L-mscl-intercostal-int-9	anat:termi-insere-sur	anat:L-cote-10 .
+anat:L-mscl-intercostal-int-10	anat:termi-insere-sur	anat:L-cote-11 .
+anat:L-mscl-intercostal-int-11	anat:termi-insere-sur	anat:L-cote-12 .
+anat:L-mscl-intercostal-int-1	anat:termi-insere-sur	anat:L-carti-costal-2 .
+anat:L-mscl-intercostal-int-2	anat:termi-insere-sur	anat:L-carti-costal-3 .
+anat:L-mscl-intercostal-int-3	anat:termi-insere-sur	anat:L-carti-costal-4 .
+anat:L-mscl-intercostal-int-4	anat:termi-insere-sur	anat:L-carti-costal-5 .
+anat:L-mscl-intercostal-int-5	anat:termi-insere-sur	anat:L-carti-costal-6 .
+anat:L-mscl-intercostal-int-6	anat:termi-insere-sur	anat:L-carti-costal-7 .
+anat:L-mscl-intercostal-int-7	anat:termi-insere-sur	anat:L-carti-costal-8 .
+anat:L-mscl-intercostal-int-8	anat:termi-insere-sur	anat:L-carti-costal-9 .
+anat:L-mscl-intercostal-int-9	anat:termi-insere-sur	anat:L-carti-costal-10 .
+anat:L-mscl-intercostal-intime-1	anat:origi-insere-sur	anat:L-cote-1 .
+anat:L-mscl-intercostal-intime-2	anat:origi-insere-sur	anat:L-cote-2 .
+anat:L-mscl-intercostal-intime-3	anat:origi-insere-sur	anat:L-cote-3 .
+anat:L-mscl-intercostal-intime-4	anat:origi-insere-sur	anat:L-cote-4 .
+anat:L-mscl-intercostal-intime-5	anat:origi-insere-sur	anat:L-cote-5 .
+anat:L-mscl-intercostal-intime-6	anat:origi-insere-sur	anat:L-cote-6 .
+anat:L-mscl-intercostal-intime-7	anat:origi-insere-sur	anat:L-cote-7 .
+anat:L-mscl-intercostal-intime-8	anat:origi-insere-sur	anat:L-cote-8 .
+anat:L-mscl-intercostal-intime-9	anat:origi-insere-sur	anat:L-cote-9 .
+anat:L-mscl-intercostal-intime-10	anat:origi-insere-sur	anat:L-cote-10 .
+anat:L-mscl-intercostal-intime-11	anat:origi-insere-sur	anat:L-cote-11 .
+anat:L-mscl-intercostal-intime-1	anat:termi-insere-sur	anat:L-cote-2 .
+anat:L-mscl-intercostal-intime-2	anat:termi-insere-sur	anat:L-cote-3 .
+anat:L-mscl-intercostal-intime-3	anat:termi-insere-sur	anat:L-cote-4 .
+anat:L-mscl-intercostal-intime-4	anat:termi-insere-sur	anat:L-cote-5 .
+anat:L-mscl-intercostal-intime-5	anat:termi-insere-sur	anat:L-cote-6 .
+anat:L-mscl-intercostal-intime-6	anat:termi-insere-sur	anat:L-cote-7 .
+anat:L-mscl-intercostal-intime-7	anat:termi-insere-sur	anat:L-cote-8 .
+anat:L-mscl-intercostal-intime-8	anat:termi-insere-sur	anat:L-cote-9 .
+anat:L-mscl-intercostal-intime-9	anat:termi-insere-sur	anat:L-cote-10 .
+anat:L-mscl-intercostal-intime-10	anat:termi-insere-sur	anat:L-cote-11 .
+anat:L-mscl-intercostal-intime-11	anat:termi-insere-sur	anat:L-cote-12 .
+anat:L-mscl-subcostal-1	anat:origi-insere-sur	anat:L-cote-1 .
+anat:L-mscl-subcostal-2	anat:origi-insere-sur	anat:L-cote-2 .
+anat:L-mscl-subcostal-3	anat:origi-insere-sur	anat:L-cote-3 .
+anat:L-mscl-subcostal-4	anat:origi-insere-sur	anat:L-cote-4 .
+anat:L-mscl-subcostal-5	anat:origi-insere-sur	anat:L-cote-5 .
+anat:L-mscl-subcostal-6	anat:origi-insere-sur	anat:L-cote-6 .
+anat:L-mscl-subcostal-7	anat:origi-insere-sur	anat:L-cote-7 .
+anat:L-mscl-subcostal-8	anat:origi-insere-sur	anat:L-cote-8 .
+anat:L-mscl-subcostal-9	anat:origi-insere-sur	anat:L-cote-9 .
+anat:L-mscl-subcostal-10	anat:origi-insere-sur	anat:L-cote-10 .
+anat:L-mscl-subcostal-1	anat:termi-insere-sur	anat:L-cote-3 .
+anat:L-mscl-subcostal-2	anat:termi-insere-sur	anat:L-cote-4 .
+anat:L-mscl-subcostal-3	anat:termi-insere-sur	anat:L-cote-5 .
+anat:L-mscl-subcostal-4	anat:termi-insere-sur	anat:L-cote-6 .
+anat:L-mscl-subcostal-5	anat:termi-insere-sur	anat:L-cote-7 .
+anat:L-mscl-subcostal-6	anat:termi-insere-sur	anat:L-cote-8 .
+anat:L-mscl-subcostal-7	anat:termi-insere-sur	anat:L-cote-9 .
+anat:L-mscl-subcostal-8	anat:termi-insere-sur	anat:L-cote-10 .
+anat:L-mscl-subcostal-9	anat:termi-insere-sur	anat:L-cote-11 .
+anat:L-mscl-subcostal-10	anat:termi-insere-sur	anat:L-cote-12 .
+anat:L-mscl-trsv-thorax	anat:origi-insere-sur	anat:sternum .
+anat:L-mscl-trsv-thorax	anat:termi-insere-sur	anat:L-cote-3 .
+anat:L-mscl-trsv-thorax	anat:termi-insere-sur	anat:L-cote-4 .
+anat:L-mscl-trsv-thorax	anat:termi-insere-sur	anat:L-carti-costal-3 .
+anat:L-mscl-trsv-thorax	anat:termi-insere-sur	anat:L-carti-costal-4 .
+anat:L-mscl-trsv-thorax	anat:termi-insere-sur	anat:L-carti-costal-5 .
+anat:L-mscl-trsv-thorax	anat:termi-insere-sur	anat:L-carti-costal-6 .
+		
+anat:muscles-thoraciq-ext	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=45TrCSv4bWXbuSva4fSHn8rm> .
+anat:muscles-elevatR-cotes	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=WXnOzyKDCyam9zimqmnq0XTj> .
+anat:muscles-crt-elevatR-cotes	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ma8TPPq01fCiCKL115naeSvi> .
+anat:muscles-lg-elevatR-cotes	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=LrimOfmiemeKHbemG9emWDaG> .
+anat:R-muscles-crt-elevatR-cotes	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=mKLD8b8zOn4TryCyau5fG1Xz> .
+#anat:R-mscl-crt-elevatR-cote-1	anat:hasImage3D	<> .
+#anat:R-mscl-crt-elevatR-cote-2	anat:hasImage3D	<> .
+#anat:R-mscl-crt-elevatR-cote-3	anat:hasImage3D	<> .
+#anat:R-mscl-crt-elevatR-cote-4	anat:hasImage3D	<> .
+#anat:R-mscl-crt-elevatR-cote-5	anat:hasImage3D	<> .
+#anat:R-mscl-crt-elevatR-cote-6	anat:hasImage3D	<> .
+#anat:R-mscl-crt-elevatR-cote-7	anat:hasImage3D	<> .
+#anat:R-mscl-crt-elevatR-cote-8	anat:hasImage3D	<> .
+#anat:R-mscl-crt-elevatR-cote-9	anat:hasImage3D	<> .
+#anat:R-mscl-crt-elevatR-cote-10	anat:hasImage3D	<> .
+#anat:R-mscl-crt-elevatR-cote-11	anat:hasImage3D	<> .
+#anat:R-mscl-crt-elevatR-cote-12	anat:hasImage3D	<> .
+anat:R-muscles-lg-elevatR-cotes	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=K9fCGTOfqeam0rKrKHHbSnyy> .
+#anat:R-mscl-lg-elevatR-cote-2	anat:hasImage3D	<> .
+#anat:R-mscl-lg-elevatR-cote-3	anat:hasImage3D	<> .
+#anat:R-mscl-lg-elevatR-cote-4	anat:hasImage3D	<> .
+#anat:R-mscl-lg-elevatR-cote-5	anat:hasImage3D	<> .
+#anat:R-mscl-lg-elevatR-cote-6	anat:hasImage3D	<> .
+#anat:R-mscl-lg-elevatR-cote-7	anat:hasImage3D	<> .
+#anat:R-mscl-lg-elevatR-cote-8	anat:hasImage3D	<> .
+#anat:R-mscl-lg-elevatR-cote-9	anat:hasImage3D	<> .
+#anat:R-mscl-lg-elevatR-cote-10	anat:hasImage3D	<> .
+#anat:R-mscl-lg-elevatR-cote-11	anat:hasImage3D	<> .
+#anat:R-mscl-lg-elevatR-cote-12	anat:hasImage3D	<> .
+anat:muscles-thoraciq-intermed	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=OjqS9P1fG5TjrCyGfiyqWXnO> .
+anat:muscles-intercostaux	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=jqW1bSL9zqKfLDKHX1ySzCGP> .
+anat:muscles-intercostaux-ext	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=vaeOLbz09vSfnCeW5DyyOrGv> .
+#anat:R-muscles-intercostaux-ext	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-ext-1	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-ext-2	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-ext-3	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-ext-4	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-ext-5	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-ext-6	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-ext-7	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-ext-8	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-ext-9	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-ext-10	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-ext-11	anat:hasImage3D	<> .
+anat:muscles-intercostaux-int	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=DKfSXrSnyOTvyyy0ziq4z49f> .
+#anat:R-muscles-intercostaux-int	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-int-1	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-int-2	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-int-3	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-int-4	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-int-5	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-int-6	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-int-7	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-int-8	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-int-9	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-int-10	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-int-11	anat:hasImage3D	<> .
+anat:muscles-intercostaux-intime	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Pv4jWjn0LnWz4vGvayfWLzGD> .
+#anat:R-muscles-intercostaux-intime	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-intime-1	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-intime-2	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-intime-3	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-intime-4	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-intime-5	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-intime-6	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-intime-7	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-intime-8	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-intime-9	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-intime-10	anat:hasImage3D	<> .
+#anat:R-mscl-intercostal-intime-11	anat:hasImage3D	<> .
+#anat:muscles-thoraciq-int	anat:hasImage3D	<> .
+#anat:muscles-subcostaux	anat:hasImage3D	<> .
+#anat:R-muscles-subcostaux	anat:hasImage3D	<> .
+#anat:R-mscl-subcostal-1	anat:hasImage3D	<> .
+#anat:R-mscl-subcostal-2	anat:hasImage3D	<> .
+#anat:R-mscl-subcostal-3	anat:hasImage3D	<> .
+#anat:R-mscl-subcostal-4	anat:hasImage3D	<> .
+#anat:R-mscl-subcostal-5	anat:hasImage3D	<> .
+#anat:R-mscl-subcostal-6	anat:hasImage3D	<> .
+#anat:R-mscl-subcostal-7	anat:hasImage3D	<> .
+#anat:R-mscl-subcostal-8	anat:hasImage3D	<> .
+#anat:R-mscl-subcostal-9	anat:hasImage3D	<> .
+#anat:R-mscl-subcostal-10	anat:hasImage3D	<> .
+anat:muscles-trsv-thorax	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=u4XvKfKfqiWXj85XzaDmiSHL> .
+anat:R-mscl-trsv-thorax	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=X5riWn1fKjWv0j8vOz8beO1f> .
+anat:L-muscles-crt-elevatR-cotes	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Xf0rWz9L99bKbSbO5XPHTPne> .
+#anat:L-mscl-crt-elevatR-cote-1	anat:hasImage3D	<> .
+#anat:L-mscl-crt-elevatR-cote-2	anat:hasImage3D	<> .
+#anat:L-mscl-crt-elevatR-cote-3	anat:hasImage3D	<> .
+#anat:L-mscl-crt-elevatR-cote-4	anat:hasImage3D	<> .
+#anat:L-mscl-crt-elevatR-cote-5	anat:hasImage3D	<> .
+#anat:L-mscl-crt-elevatR-cote-6	anat:hasImage3D	<> .
+#anat:L-mscl-crt-elevatR-cote-7	anat:hasImage3D	<> .
+#anat:L-mscl-crt-elevatR-cote-8	anat:hasImage3D	<> .
+#anat:L-mscl-crt-elevatR-cote-9	anat:hasImage3D	<> .
+#anat:L-mscl-crt-elevatR-cote-10	anat:hasImage3D	<> .
+#anat:L-mscl-crt-elevatR-cote-11	anat:hasImage3D	<> .
+#anat:L-mscl-crt-elevatR-cote-12	anat:hasImage3D	<> .
+anat:L-muscles-lg-elevatR-cotes	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ny4fqm1HH9byjyiau4PPHPPr> .
+#anat:L-mscl-lg-elevatR-cote-2	anat:hasImage3D	<> .
+#anat:L-mscl-lg-elevatR-cote-3	anat:hasImage3D	<> .
+#anat:L-mscl-lg-elevatR-cote-4	anat:hasImage3D	<> .
+#anat:L-mscl-lg-elevatR-cote-5	anat:hasImage3D	<> .
+#anat:L-mscl-lg-elevatR-cote-6	anat:hasImage3D	<> .
+#anat:L-mscl-lg-elevatR-cote-7	anat:hasImage3D	<> .
+#anat:L-mscl-lg-elevatR-cote-8	anat:hasImage3D	<> .
+#anat:L-mscl-lg-elevatR-cote-9	anat:hasImage3D	<> .
+#anat:L-mscl-lg-elevatR-cote-10	anat:hasImage3D	<> .
+#anat:L-mscl-lg-elevatR-cote-11	anat:hasImage3D	<> .
+#anat:L-mscl-lg-elevatR-cote-12	anat:hasImage3D	<> .
+#anat:L-muscles-intercostaux-ext	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-ext-1	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-ext-2	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-ext-3	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-ext-4	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-ext-5	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-ext-6	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-ext-7	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-ext-8	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-ext-9	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-ext-10	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-ext-11	anat:hasImage3D	<> .
+#anat:L-muscles-intercostaux-int	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-int-1	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-int-2	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-int-3	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-int-4	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-int-5	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-int-6	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-int-7	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-int-8	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-int-9	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-int-10	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-int-11	anat:hasImage3D	<> .
+#anat:L-muscles-intercostaux-intime	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-intime-1	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-intime-2	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-intime-3	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-intime-4	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-intime-5	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-intime-6	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-intime-7	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-intime-8	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-intime-9	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-intime-10	anat:hasImage3D	<> .
+#anat:L-mscl-intercostal-intime-11	anat:hasImage3D	<> .
+#anat:L-muscles-subcostaux	anat:hasImage3D	<> .
+#anat:L-mscl-subcostal-1	anat:hasImage3D	<> .
+#anat:L-mscl-subcostal-2	anat:hasImage3D	<> .
+#anat:L-mscl-subcostal-3	anat:hasImage3D	<> .
+#anat:L-mscl-subcostal-4	anat:hasImage3D	<> .
+#anat:L-mscl-subcostal-5	anat:hasImage3D	<> .
+#anat:L-mscl-subcostal-6	anat:hasImage3D	<> .
+#anat:L-mscl-subcostal-7	anat:hasImage3D	<> .
+#anat:L-mscl-subcostal-8	anat:hasImage3D	<> .
+#anat:L-mscl-subcostal-9	anat:hasImage3D	<> .
+#anat:L-mscl-subcostal-10	anat:hasImage3D	<> .
+anat:L-mscl-trsv-thorax	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=LP95zOfCaCeKO9X9P1SnSLXv> .
+anat:muscles-thoraciq-ext	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=LHbq4r0LrGv84PTzmCXjGL5j> .
+anat:muscles-elevatR-cotes	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=LHbq4r0LrGv84PTzmCXjGL5j> .
+anat:muscles-crt-elevatR-cotes	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=u01LfaCeuOnu8XXDqCjuiyW9> .
+anat:muscles-lg-elevatR-cotes	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=0TXvOL9PnqeWHr0TLj99fa4j> .
+anat:R-muscles-crt-elevatR-cotes	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=GXbquarKDOPbCa0Tr8iCCWn0> .
+#anat:R-mscl-crt-elevatR-cote-1	anat:has3DmodelURL	<> .
+#anat:R-mscl-crt-elevatR-cote-2	anat:has3DmodelURL	<> .
+#anat:R-mscl-crt-elevatR-cote-3	anat:has3DmodelURL	<> .
+#anat:R-mscl-crt-elevatR-cote-4	anat:has3DmodelURL	<> .
+#anat:R-mscl-crt-elevatR-cote-5	anat:has3DmodelURL	<> .
+#anat:R-mscl-crt-elevatR-cote-6	anat:has3DmodelURL	<> .
+#anat:R-mscl-crt-elevatR-cote-7	anat:has3DmodelURL	<> .
+#anat:R-mscl-crt-elevatR-cote-8	anat:has3DmodelURL	<> .
+#anat:R-mscl-crt-elevatR-cote-9	anat:has3DmodelURL	<> .
+#anat:R-mscl-crt-elevatR-cote-10	anat:has3DmodelURL	<> .
+#anat:R-mscl-crt-elevatR-cote-11	anat:has3DmodelURL	<> .
+#anat:R-mscl-crt-elevatR-cote-12	anat:has3DmodelURL	<> .
+anat:R-muscles-lg-elevatR-cotes	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=WniKb8ieGvSHP95biOzyau4n> .
+#anat:R-mscl-lg-elevatR-cote-2	anat:has3DmodelURL	<> .
+#anat:R-mscl-lg-elevatR-cote-3	anat:has3DmodelURL	<> .
+#anat:R-mscl-lg-elevatR-cote-4	anat:has3DmodelURL	<> .
+#anat:R-mscl-lg-elevatR-cote-5	anat:has3DmodelURL	<> .
+#anat:R-mscl-lg-elevatR-cote-6	anat:has3DmodelURL	<> .
+#anat:R-mscl-lg-elevatR-cote-7	anat:has3DmodelURL	<> .
+#anat:R-mscl-lg-elevatR-cote-8	anat:has3DmodelURL	<> .
+#anat:R-mscl-lg-elevatR-cote-9	anat:has3DmodelURL	<> .
+#anat:R-mscl-lg-elevatR-cote-10	anat:has3DmodelURL	<> .
+#anat:R-mscl-lg-elevatR-cote-11	anat:has3DmodelURL	<> .
+#anat:R-mscl-lg-elevatR-cote-12	anat:has3DmodelURL	<> .
+anat:muscles-thoraciq-intermed	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=uuiSL5myyGXPuqqqa4Hv4DSr> .
+anat:muscles-intercostaux	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=49LrG9fuOj0XOL1z8n4bSTb8> .
+anat:muscles-intercostaux-ext	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=zim89XeqmGbGmCmiKHO1DKDS> .
+#anat:R-muscles-intercostaux-ext	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-ext-1	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-ext-2	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-ext-3	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-ext-4	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-ext-5	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-ext-6	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-ext-7	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-ext-8	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-ext-9	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-ext-10	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-ext-11	anat:has3DmodelURL	<> .
+anat:muscles-intercostaux-int	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=iW9jemWPLja4GnGf0fOj0HzK> .
+#anat:R-muscles-intercostaux-int	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-int-1	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-int-2	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-int-3	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-int-4	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-int-5	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-int-6	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-int-7	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-int-8	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-int-9	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-int-10	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-int-11	anat:has3DmodelURL	<> .
+anat:muscles-intercostaux-intime	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=iOHT55iWfCy0vCG599Hbu4bi> .
+#anat:R-muscles-intercostaux-intime	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-intime-1	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-intime-2	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-intime-3	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-intime-4	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-intime-5	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-intime-6	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-intime-7	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-intime-8	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-intime-9	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-intime-10	anat:has3DmodelURL	<> .
+#anat:R-mscl-intercostal-intime-11	anat:has3DmodelURL	<> .
+#anat:muscles-thoraciq-int	anat:has3DmodelURL	<> .
+#anat:muscles-subcostaux	anat:has3DmodelURL	<> .
+#anat:R-muscles-subcostaux	anat:has3DmodelURL	<> .
+#anat:R-mscl-subcostal-1	anat:has3DmodelURL	<> .
+#anat:R-mscl-subcostal-2	anat:has3DmodelURL	<> .
+#anat:R-mscl-subcostal-3	anat:has3DmodelURL	<> .
+#anat:R-mscl-subcostal-4	anat:has3DmodelURL	<> .
+#anat:R-mscl-subcostal-5	anat:has3DmodelURL	<> .
+#anat:R-mscl-subcostal-6	anat:has3DmodelURL	<> .
+#anat:R-mscl-subcostal-7	anat:has3DmodelURL	<> .
+#anat:R-mscl-subcostal-8	anat:has3DmodelURL	<> .
+#anat:R-mscl-subcostal-9	anat:has3DmodelURL	<> .
+#anat:R-mscl-subcostal-10	anat:has3DmodelURL	<> .
+anat:muscles-trsv-thorax	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=TDObeuPjOjyK45nyWHSvSHPP> .
+anat:R-mscl-trsv-thorax	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=DaW1HzOPjeuWbKbKjS1f0fCa> .
+anat:L-muscles-crt-elevatR-cotes	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=zyae8fGzqeOL9b0TTPvOPHPv> .
+#anat:L-mscl-crt-elevatR-cote-1	anat:has3DmodelURL	<> .
+#anat:L-mscl-crt-elevatR-cote-2	anat:has3DmodelURL	<> .
+#anat:L-mscl-crt-elevatR-cote-3	anat:has3DmodelURL	<> .
+#anat:L-mscl-crt-elevatR-cote-4	anat:has3DmodelURL	<> .
+#anat:L-mscl-crt-elevatR-cote-5	anat:has3DmodelURL	<> .
+#anat:L-mscl-crt-elevatR-cote-6	anat:has3DmodelURL	<> .
+#anat:L-mscl-crt-elevatR-cote-7	anat:has3DmodelURL	<> .
+#anat:L-mscl-crt-elevatR-cote-8	anat:has3DmodelURL	<> .
+#anat:L-mscl-crt-elevatR-cote-9	anat:has3DmodelURL	<> .
+#anat:L-mscl-crt-elevatR-cote-10	anat:has3DmodelURL	<> .
+#anat:L-mscl-crt-elevatR-cote-11	anat:has3DmodelURL	<> .
+#anat:L-mscl-crt-elevatR-cote-12	anat:has3DmodelURL	<> .
+anat:L-muscles-lg-elevatR-cotes	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=y8jqmWneqC8H0fa8zyq8j0ji> .
+#anat:L-mscl-lg-elevatR-cote-2	anat:has3DmodelURL	<> .
+#anat:L-mscl-lg-elevatR-cote-3	anat:has3DmodelURL	<> .
+#anat:L-mscl-lg-elevatR-cote-4	anat:has3DmodelURL	<> .
+#anat:L-mscl-lg-elevatR-cote-5	anat:has3DmodelURL	<> .
+#anat:L-mscl-lg-elevatR-cote-6	anat:has3DmodelURL	<> .
+#anat:L-mscl-lg-elevatR-cote-7	anat:has3DmodelURL	<> .
+#anat:L-mscl-lg-elevatR-cote-8	anat:has3DmodelURL	<> .
+#anat:L-mscl-lg-elevatR-cote-9	anat:has3DmodelURL	<> .
+#anat:L-mscl-lg-elevatR-cote-10	anat:has3DmodelURL	<> .
+#anat:L-mscl-lg-elevatR-cote-11	anat:has3DmodelURL	<> .
+#anat:L-mscl-lg-elevatR-cote-12	anat:has3DmodelURL	<> .
+#anat:L-muscles-intercostaux-ext	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-ext-1	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-ext-2	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-ext-3	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-ext-4	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-ext-5	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-ext-6	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-ext-7	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-ext-8	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-ext-9	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-ext-10	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-ext-11	anat:has3DmodelURL	<> .
+#anat:L-muscles-intercostaux-int	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-int-1	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-int-2	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-int-3	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-int-4	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-int-5	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-int-6	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-int-7	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-int-8	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-int-9	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-int-10	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-int-11	anat:has3DmodelURL	<> .
+#anat:L-muscles-intercostaux-intime	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-intime-1	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-intime-2	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-intime-3	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-intime-4	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-intime-5	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-intime-6	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-intime-7	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-intime-8	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-intime-9	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-intime-10	anat:has3DmodelURL	<> .
+#anat:L-mscl-intercostal-intime-11	anat:has3DmodelURL	<> .
+#anat:L-muscles-subcostaux	anat:has3DmodelURL	<> .
+#anat:L-mscl-subcostal-1	anat:has3DmodelURL	<> .
+#anat:L-mscl-subcostal-2	anat:has3DmodelURL	<> .
+#anat:L-mscl-subcostal-3	anat:has3DmodelURL	<> .
+#anat:L-mscl-subcostal-4	anat:has3DmodelURL	<> .
+#anat:L-mscl-subcostal-5	anat:has3DmodelURL	<> .
+#anat:L-mscl-subcostal-6	anat:has3DmodelURL	<> .
+#anat:L-mscl-subcostal-7	anat:has3DmodelURL	<> .
+#anat:L-mscl-subcostal-8	anat:has3DmodelURL	<> .
+#anat:L-mscl-subcostal-9	anat:has3DmodelURL	<> .
+#anat:L-mscl-subcostal-10	anat:has3DmodelURL	<> .
+anat:L-mscl-trsv-thorax	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=5TL1H5GXPvCqHn4TzCHrOrSj> .
+
+anat:muscles-thoraciq-ext	rdfs:label	"Muscles thoraciques externes" .
+anat:muscles-elevatR-cotes	rdfs:label	"Muscles élévateurs des côtes" .
+anat:muscles-crt-elevatR-cotes	rdfs:label	"Muscles courts élévateurs des côtes" .
+anat:muscles-lg-elevatR-cotes	rdfs:label	"Muscles longs élévateurs des côtes" .
+anat:R-muscles-crt-elevatR-cotes	rdfs:label	"Muscles courts élévateurs des côtes droits" .
+anat:R-mscl-crt-elevatR-cote-1	rdfs:label	"Muscle court élévateur de la 1ere côte droite" .
+anat:R-mscl-crt-elevatR-cote-2	rdfs:label	"Muscle court élévateur de la 2e côte droite" .
+anat:R-mscl-crt-elevatR-cote-3	rdfs:label	"Muscle court élévateur de la 3e côte droite" .
+anat:R-mscl-crt-elevatR-cote-4	rdfs:label	"Muscle court élévateur de la 4e côte droite" .
+anat:R-mscl-crt-elevatR-cote-5	rdfs:label	"Muscle court élévateur de la 5e côte droite" .
+anat:R-mscl-crt-elevatR-cote-6	rdfs:label	"Muscle court élévateur de la 6e côte droite" .
+anat:R-mscl-crt-elevatR-cote-7	rdfs:label	"Muscle court élévateur de la 7e côte droite" .
+anat:R-mscl-crt-elevatR-cote-8	rdfs:label	"Muscle court élévateur de la 8e côte droite" .
+anat:R-mscl-crt-elevatR-cote-9	rdfs:label	"Muscle court élévateur de la 9e côte droite" .
+anat:R-mscl-crt-elevatR-cote-10	rdfs:label	"Muscle court élévateur de la 10e côte droite" .
+anat:R-mscl-crt-elevatR-cote-11	rdfs:label	"Muscle court élévateur de la 11e côte droite" .
+anat:R-mscl-crt-elevatR-cote-12	rdfs:label	"Muscle court élévateur de la 12e côte droite" .
+anat:R-muscles-lg-elevatR-cotes	rdfs:label	"Muscles longs élévateurs des côtes droits" .
+anat:R-mscl-lg-elevatR-cote-2	rdfs:label	"Muscle long élévateur de la 2e côte droite" .
+anat:R-mscl-lg-elevatR-cote-3	rdfs:label	"Muscle long élévateur de la 3e côte droite" .
+anat:R-mscl-lg-elevatR-cote-4	rdfs:label	"Muscle long élévateur de la 4e côte droite" .
+anat:R-mscl-lg-elevatR-cote-5	rdfs:label	"Muscle long élévateur de la 5e côte droite" .
+anat:R-mscl-lg-elevatR-cote-6	rdfs:label	"Muscle long élévateur de la 6e côte droite" .
+anat:R-mscl-lg-elevatR-cote-7	rdfs:label	"Muscle long élévateur de la 7e côte droite" .
+anat:R-mscl-lg-elevatR-cote-8	rdfs:label	"Muscle long élévateur de la 8e côte droite" .
+anat:R-mscl-lg-elevatR-cote-9	rdfs:label	"Muscle long élévateur de la 9e côte droite" .
+anat:R-mscl-lg-elevatR-cote-10	rdfs:label	"Muscle long élévateur de la 10e côte droite" .
+anat:R-mscl-lg-elevatR-cote-11	rdfs:label	"Muscle long élévateur de la 11e côte droite" .
+anat:R-mscl-lg-elevatR-cote-12	rdfs:label	"Muscle long élévateur de la 12e côte droite" .
+anat:muscles-thoraciq-intermed	rdfs:label	"Muscles thoraciques intermédiaires" .
+anat:muscles-intercostaux	rdfs:label	"Muscles intercostaux" .
+anat:muscles-intercostaux-ext	rdfs:label	"Muscles intercostaux externes" .
+anat:R-muscles-intercostaux-ext	rdfs:label	"Muscles intercostaux externes droits" .
+anat:R-mscl-intercostal-ext-1	rdfs:label	"1er muscle intercostal externe droit" .
+anat:R-mscl-intercostal-ext-2	rdfs:label	"2e muscle intercostal externe droit" .
+anat:R-mscl-intercostal-ext-3	rdfs:label	"3e muscle intercostal externe droit" .
+anat:R-mscl-intercostal-ext-4	rdfs:label	"4e muscle intercostal externe droit" .
+anat:R-mscl-intercostal-ext-5	rdfs:label	"5e muscle intercostal externe droit" .
+anat:R-mscl-intercostal-ext-6	rdfs:label	"6e muscle intercostal externe droit" .
+anat:R-mscl-intercostal-ext-7	rdfs:label	"7e muscle intercostal externe droit" .
+anat:R-mscl-intercostal-ext-8	rdfs:label	"8e muscle intercostal externe droit" .
+anat:R-mscl-intercostal-ext-9	rdfs:label	"9e muscle intercostal externe droit" .
+anat:R-mscl-intercostal-ext-10	rdfs:label	"10e muscle intercostal externe droit" .
+anat:R-mscl-intercostal-ext-11	rdfs:label	"11e muscle intercostal externe droit" .
+anat:muscles-intercostaux-int	rdfs:label	"Muscles intercostaux internes" .
+anat:R-muscles-intercostaux-int	rdfs:label	"Muscles intercostaux internes droits" .
+anat:R-mscl-intercostal-int-1	rdfs:label	"1er muscle intercostal interne droit" .
+anat:R-mscl-intercostal-int-2	rdfs:label	"2e muscle intercostal interne droit" .
+anat:R-mscl-intercostal-int-3	rdfs:label	"3e muscle intercostal interne droit" .
+anat:R-mscl-intercostal-int-4	rdfs:label	"4e muscle intercostal interne droit" .
+anat:R-mscl-intercostal-int-5	rdfs:label	"5e muscle intercostal interne droit" .
+anat:R-mscl-intercostal-int-6	rdfs:label	"6e muscle intercostal interne droit" .
+anat:R-mscl-intercostal-int-7	rdfs:label	"7e muscle intercostal interne droit" .
+anat:R-mscl-intercostal-int-8	rdfs:label	"8e muscle intercostal interne droit" .
+anat:R-mscl-intercostal-int-9	rdfs:label	"9e muscle intercostal interne droit" .
+anat:R-mscl-intercostal-int-10	rdfs:label	"10e muscle intercostal interne droit" .
+anat:R-mscl-intercostal-int-11	rdfs:label	"11e muscle intercostal interne droit" .
+anat:muscles-intercostaux-intime	rdfs:label	"Muscles intercostaux intimes" .
+anat:R-muscles-intercostaux-intime	rdfs:label	"Muscles intercostaux intimes droits" .
+anat:R-mscl-intercostal-intime-1	rdfs:label	"1er muscle intercostal intime droit" .
+anat:R-mscl-intercostal-intime-2	rdfs:label	"2e muscle intercostal intime droit" .
+anat:R-mscl-intercostal-intime-3	rdfs:label	"3e muscle intercostal intime droit" .
+anat:R-mscl-intercostal-intime-4	rdfs:label	"4e muscle intercostal intime droit" .
+anat:R-mscl-intercostal-intime-5	rdfs:label	"5e muscle intercostal intime droit" .
+anat:R-mscl-intercostal-intime-6	rdfs:label	"6e muscle intercostal intime droit" .
+anat:R-mscl-intercostal-intime-7	rdfs:label	"7e muscle intercostal intime droit" .
+anat:R-mscl-intercostal-intime-8	rdfs:label	"8e muscle intercostal intime droit" .
+anat:R-mscl-intercostal-intime-9	rdfs:label	"9e muscle intercostal intime droit" .
+anat:R-mscl-intercostal-intime-10	rdfs:label	"10e muscle intercostal intime droit" .
+anat:R-mscl-intercostal-intime-11	rdfs:label	"11e muscle intercostal intime droit" .
+anat:muscles-thoraciq-int	rdfs:label	"Muscles thoraciques internes" .
+anat:muscles-subcostaux	rdfs:label	"Muscles subcostaux" .
+anat:R-muscles-subcostaux	rdfs:label	"Muscles subcostaux droits" .
+anat:R-mscl-subcostal-1	rdfs:label	"1er muscle subcostal droit" .
+anat:R-mscl-subcostal-2	rdfs:label	"2e muscle subcostal droit" .
+anat:R-mscl-subcostal-3	rdfs:label	"3e muscle subcostal droit" .
+anat:R-mscl-subcostal-4	rdfs:label	"4e muscle subcostal droit" .
+anat:R-mscl-subcostal-5	rdfs:label	"5e muscle subcostal droit" .
+anat:R-mscl-subcostal-6	rdfs:label	"6e muscle subcostal droit" .
+anat:R-mscl-subcostal-7	rdfs:label	"7e muscle subcostal droit" .
+anat:R-mscl-subcostal-8	rdfs:label	"8e muscle subcostal droit" .
+anat:R-mscl-subcostal-9	rdfs:label	"9e muscle subcostal droit" .
+anat:R-mscl-subcostal-10	rdfs:label	"10e muscle subcostal droit" .
+anat:muscles-trsv-thorax	rdfs:label	"Muscles transverses du thorax" .
+anat:R-mscl-trsv-thorax	rdfs:label	"Muscle transverse du thorax droit" .
+anat:L-muscles-crt-elevatR-cotes	rdfs:label	"Muscles courts élévateurs des côtes gauches" .
+anat:L-mscl-crt-elevatR-cote-1	rdfs:label	"Muscle court élévateur de la 1ere côte gauche" .
+anat:L-mscl-crt-elevatR-cote-2	rdfs:label	"Muscle court élévateur de la 2e côte gauche" .
+anat:L-mscl-crt-elevatR-cote-3	rdfs:label	"Muscle court élévateur de la 3e côte gauche" .
+anat:L-mscl-crt-elevatR-cote-4	rdfs:label	"Muscle court élévateur de la 4e côte gauche" .
+anat:L-mscl-crt-elevatR-cote-5	rdfs:label	"Muscle court élévateur de la 5e côte gauche" .
+anat:L-mscl-crt-elevatR-cote-6	rdfs:label	"Muscle court élévateur de la 6e côte gauche" .
+anat:L-mscl-crt-elevatR-cote-7	rdfs:label	"Muscle court élévateur de la 7e côte gauche" .
+anat:L-mscl-crt-elevatR-cote-8	rdfs:label	"Muscle court élévateur de la 8e côte gauche" .
+anat:L-mscl-crt-elevatR-cote-9	rdfs:label	"Muscle court élévateur de la 9e côte gauche" .
+anat:L-mscl-crt-elevatR-cote-10	rdfs:label	"Muscle court élévateur de la 10e côte gauche" .
+anat:L-mscl-crt-elevatR-cote-11	rdfs:label	"Muscle court élévateur de la 11e côte gauche" .
+anat:L-mscl-crt-elevatR-cote-12	rdfs:label	"Muscle court élévateur de la 12e côte gauche" .
+anat:L-muscles-lg-elevatR-cotes	rdfs:label	"Muscles longs élévateurs des côtes gauches" .
+anat:L-mscl-lg-elevatR-cote-2	rdfs:label	"Muscle long élévateur de la 2e côte gauche" .
+anat:L-mscl-lg-elevatR-cote-3	rdfs:label	"Muscle long élévateur de la 3e côte gauche" .
+anat:L-mscl-lg-elevatR-cote-4	rdfs:label	"Muscle long élévateur de la 4e côte gauche" .
+anat:L-mscl-lg-elevatR-cote-5	rdfs:label	"Muscle long élévateur de la 5e côte gauche" .
+anat:L-mscl-lg-elevatR-cote-6	rdfs:label	"Muscle long élévateur de la 6e côte gauche" .
+anat:L-mscl-lg-elevatR-cote-7	rdfs:label	"Muscle long élévateur de la 7e côte gauche" .
+anat:L-mscl-lg-elevatR-cote-8	rdfs:label	"Muscle long élévateur de la 8e côte gauche" .
+anat:L-mscl-lg-elevatR-cote-9	rdfs:label	"Muscle long élévateur de la 9e côte gauche" .
+anat:L-mscl-lg-elevatR-cote-10	rdfs:label	"Muscle long élévateur de la 10e côte gauche" .
+anat:L-mscl-lg-elevatR-cote-11	rdfs:label	"Muscle long élévateur de la 11e côte gauche" .
+anat:L-mscl-lg-elevatR-cote-12	rdfs:label	"Muscle long élévateur de la 12e côte gauche" .
+anat:L-muscles-intercostaux-ext	rdfs:label	"Muscles intercostaux externes gauches" .
+anat:L-mscl-intercostal-ext-1	rdfs:label	"1er muscle intercostal externe gauche" .
+anat:L-mscl-intercostal-ext-2	rdfs:label	"2e muscle intercostal externe gauche" .
+anat:L-mscl-intercostal-ext-3	rdfs:label	"3e muscle intercostal externe gauche" .
+anat:L-mscl-intercostal-ext-4	rdfs:label	"4e muscle intercostal externe gauche" .
+anat:L-mscl-intercostal-ext-5	rdfs:label	"5e muscle intercostal externe gauche" .
+anat:L-mscl-intercostal-ext-6	rdfs:label	"6e muscle intercostal externe gauche" .
+anat:L-mscl-intercostal-ext-7	rdfs:label	"7e muscle intercostal externe gauche" .
+anat:L-mscl-intercostal-ext-8	rdfs:label	"8e muscle intercostal externe gauche" .
+anat:L-mscl-intercostal-ext-9	rdfs:label	"9e muscle intercostal externe gauche" .
+anat:L-mscl-intercostal-ext-10	rdfs:label	"10e muscle intercostal externe gauche" .
+anat:L-mscl-intercostal-ext-11	rdfs:label	"11e muscle intercostal externe gauche" .
+anat:L-muscles-intercostaux-int	rdfs:label	"Muscles intercostaux internes gauches" .
+anat:L-mscl-intercostal-int-1	rdfs:label	"1er muscle intercostal interne gauche" .
+anat:L-mscl-intercostal-int-2	rdfs:label	"2e muscle intercostal interne gauche" .
+anat:L-mscl-intercostal-int-3	rdfs:label	"3e muscle intercostal interne gauche" .
+anat:L-mscl-intercostal-int-4	rdfs:label	"4e muscle intercostal interne gauche" .
+anat:L-mscl-intercostal-int-5	rdfs:label	"5e muscle intercostal interne gauche" .
+anat:L-mscl-intercostal-int-6	rdfs:label	"6e muscle intercostal interne gauche" .
+anat:L-mscl-intercostal-int-7	rdfs:label	"7e muscle intercostal interne gauche" .
+anat:L-mscl-intercostal-int-8	rdfs:label	"8e muscle intercostal interne gauche" .
+anat:L-mscl-intercostal-int-9	rdfs:label	"9e muscle intercostal interne gauche" .
+anat:L-mscl-intercostal-int-10	rdfs:label	"10e muscle intercostal interne gauche" .
+anat:L-mscl-intercostal-int-11	rdfs:label	"11e muscle intercostal interne gauche" .
+anat:L-muscles-intercostaux-intime	rdfs:label	"Muscles intercostaux intimes gauches" .
+anat:L-mscl-intercostal-intime-1	rdfs:label	"1er muscle intercostal intime gauche" .
+anat:L-mscl-intercostal-intime-2	rdfs:label	"2e muscle intercostal intime gauche" .
+anat:L-mscl-intercostal-intime-3	rdfs:label	"3e muscle intercostal intime gauche" .
+anat:L-mscl-intercostal-intime-4	rdfs:label	"4e muscle intercostal intime gauche" .
+anat:L-mscl-intercostal-intime-5	rdfs:label	"5e muscle intercostal intime gauche" .
+anat:L-mscl-intercostal-intime-6	rdfs:label	"6e muscle intercostal intime gauche" .
+anat:L-mscl-intercostal-intime-7	rdfs:label	"7e muscle intercostal intime gauche" .
+anat:L-mscl-intercostal-intime-8	rdfs:label	"8e muscle intercostal intime gauche" .
+anat:L-mscl-intercostal-intime-9	rdfs:label	"9e muscle intercostal intime gauche" .
+anat:L-mscl-intercostal-intime-10	rdfs:label	"10e muscle intercostal intime gauche" .
+anat:L-mscl-intercostal-intime-11	rdfs:label	"11e muscle intercostal intime gauche" .
+anat:L-muscles-subcostaux	rdfs:label	"Muscles subcostaux gauches" .
+anat:L-mscl-subcostal-1	rdfs:label	"1er muscle subcostal gauche" .
+anat:L-mscl-subcostal-2	rdfs:label	"2e muscle subcostal gauche" .
+anat:L-mscl-subcostal-3	rdfs:label	"3e muscle subcostal gauche" .
+anat:L-mscl-subcostal-4	rdfs:label	"4e muscle subcostal gauche" .
+anat:L-mscl-subcostal-5	rdfs:label	"5e muscle subcostal gauche" .
+anat:L-mscl-subcostal-6	rdfs:label	"6e muscle subcostal gauche" .
+anat:L-mscl-subcostal-7	rdfs:label	"7e muscle subcostal gauche" .
+anat:L-mscl-subcostal-8	rdfs:label	"8e muscle subcostal gauche" .
+anat:L-mscl-subcostal-9	rdfs:label	"9e muscle subcostal gauche" .
+anat:L-mscl-subcostal-10	rdfs:label	"10e muscle subcostal gauche" .
+anat:L-mscl-trsv-thorax	rdfs:label	"Muscle transverse du thorax gauche" .
+
+anat:mscl-diaphragme	rdf:type	anat:str-diaphragmatiq .
+anat:diaphragme-ctre-phreniq	rdf:type	anat:groupe-tendineux .
+anat:diaphragme-coupoles	rdf:type	anat:groupe-musculaire .
+anat:diaphragme-piliers	rdf:type	anat:groupe-musculaire .
+anat:diaphragme-fx-sternal	rdf:type	anat:chef-musculaire .
+anat:diaphragme-foliole-ventral	rdf:type	anat:groupe-tendineux .
+anat:R-diaphragme-folioles	rdf:type	anat:groupe-tendineux .
+anat:L-diaphragme-folioles	rdf:type	anat:groupe-tendineux .
+anat:diaphragme-bandelette-semicircu-sup	rdf:type	anat:tendon .
+anat:diaphragme-bandelette-semicircu-inf	rdf:type	anat:tendon .
+anat:R-diaphragme-coupole	rdf:type	anat:chef-musculaire .
+anat:L-diaphragme-coupole	rdf:type	anat:chef-musculaire .
+anat:R-diaphragme-pilier	rdf:type	anat:chef-musculaire .
+anat:L-diaphragme-pilier	rdf:type	anat:chef-musculaire .
+anat:lgmts-arque-diaphragme	rdf:type	anat:groupe-ligamentaire .
+anat:lgmt-arque-median	rdf:type	anat:ligament .
+anat:R-lgmt-arque-med	rdf:type	anat:ligament .
+anat:L-lgmt-arque-med	rdf:type	anat:ligament .
+anat:R-lgmt-arque-lat	rdf:type	anat:ligament .
+anat:L-lgmt-arque-lat	rdf:type	anat:ligament .
+		
+anat:mscl-diaphragme	anat:comprend	anat:diaphragme-ctre-phreniq .
+anat:mscl-diaphragme	anat:comprend	anat:diaphragme-coupoles .
+anat:mscl-diaphragme	anat:comprend	anat:diaphragme-piliers .
+anat:mscl-diaphragme	anat:comprend	anat:diaphragme-fx-sternal .
+anat:diaphragme-ctre-phreniq	anat:comprend	anat:diaphragme-foliole-ventral .
+anat:diaphragme-ctre-phreniq	anat:comprend	anat:R-diaphragme-folioles .
+anat:diaphragme-ctre-phreniq	anat:comprend	anat:L-diaphragme-folioles .
+anat:diaphragme-ctre-phreniq	anat:comprend	anat:diaphragme-bandelette-semicircu-sup .
+anat:diaphragme-ctre-phreniq	anat:comprend	anat:diaphragme-bandelette-semicircu-inf .
+anat:diaphragme-coupoles	anat:comprend	anat:R-diaphragme-coupole .
+anat:diaphragme-coupoles	anat:comprend	anat:L-diaphragme-coupole .
+anat:diaphragme-piliers	anat:comprend	anat:R-diaphragme-pilier .
+anat:diaphragme-piliers	anat:comprend	anat:L-diaphragme-pilier .
+anat:lgmts-arque-diaphragme	anat:comprend	anat:lgmt-arque-median .
+anat:lgmts-arque-diaphragme	anat:comprend	anat:R-lgmt-arque-med .
+anat:lgmts-arque-diaphragme	anat:comprend	anat:L-lgmt-arque-med .
+anat:lgmts-arque-diaphragme	anat:comprend	anat:R-lgmt-arque-lat .
+anat:lgmts-arque-diaphragme	anat:comprend	anat:L-lgmt-arque-lat .
+		
+anat:diaphragme-bandelette-semicircu-sup	anat:td-prolonge	anat:diaphragme-foliole-ventral .
+anat:diaphragme-bandelette-semicircu-sup	anat:td-prolonge	anat:R-diaphragme-folioles .
+anat:diaphragme-bandelette-semicircu-inf	anat:td-prolonge	anat:R-diaphragme-folioles .
+anat:diaphragme-bandelette-semicircu-inf	anat:td-prolonge	anat:L-diaphragme-folioles .
+anat:mscl-diaphragme	anat:origi-insere-sur	anat:diaphragme-foliole-ventral .
+anat:mscl-diaphragme	anat:origi-insere-sur	anat:R-diaphragme-folioles .
+anat:mscl-diaphragme	anat:origi-insere-sur	anat:L-diaphragme-folioles .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:R-cote-6 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:R-cote-7 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:R-cote-8 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:R-cote-9 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:R-cote-10 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:R-cote-11 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:R-cote-12 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:R-carti-costal-6 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:R-carti-costal-7 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:R-carti-costal-8 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:R-carti-costal-9 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:R-carti-costal-10 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:R-lgmt-arque-med .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:R-lgmt-arque-lat .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:L-cote-6 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:L-cote-7 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:L-cote-8 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:L-cote-9 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:L-cote-10 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:L-cote-11 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:L-cote-12 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:L-carti-costal-6 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:L-carti-costal-7 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:L-carti-costal-8 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:L-carti-costal-9 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:L-carti-costal-10 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:L-lgmt-arque-med .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:L-lgmt-arque-lat .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:sternum .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:v-L1 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:v-L2 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:v-L3 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:v-L4 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:div-L1-L2 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:div-L2-L3 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:div-L3-L4 .
+anat:mscl-diaphragme	anat:termi-insere-sur	anat:lgmt-arque-median .
+anat:R-diaphragme-coupole	anat:origi-insere-sur	anat:diaphragme-foliole-ventral .
+anat:R-diaphragme-coupole	anat:origi-insere-sur	anat:R-diaphragme-folioles .
+anat:R-diaphragme-coupole	anat:termi-insere-sur	anat:R-cote-6 .
+anat:R-diaphragme-coupole	anat:termi-insere-sur	anat:R-cote-7 .
+anat:R-diaphragme-coupole	anat:termi-insere-sur	anat:R-cote-8 .
+anat:R-diaphragme-coupole	anat:termi-insere-sur	anat:R-cote-9 .
+anat:R-diaphragme-coupole	anat:termi-insere-sur	anat:R-cote-10 .
+anat:R-diaphragme-coupole	anat:termi-insere-sur	anat:R-cote-11 .
+anat:R-diaphragme-coupole	anat:termi-insere-sur	anat:R-cote-12 .
+anat:R-diaphragme-coupole	anat:termi-insere-sur	anat:R-carti-costal-6 .
+anat:R-diaphragme-coupole	anat:termi-insere-sur	anat:R-carti-costal-7 .
+anat:R-diaphragme-coupole	anat:termi-insere-sur	anat:R-carti-costal-8 .
+anat:R-diaphragme-coupole	anat:termi-insere-sur	anat:R-carti-costal-9 .
+anat:R-diaphragme-coupole	anat:termi-insere-sur	anat:R-carti-costal-10 .
+anat:R-diaphragme-coupole	anat:termi-insere-sur	anat:R-lgmt-arque-med .
+anat:R-diaphragme-coupole	anat:termi-insere-sur	anat:R-lgmt-arque-lat .
+anat:L-diaphragme-coupole	anat:origi-insere-sur	anat:diaphragme-foliole-ventral .
+anat:L-diaphragme-coupole	anat:origi-insere-sur	anat:L-diaphragme-folioles .
+anat:L-diaphragme-coupole	anat:termi-insere-sur	anat:L-cote-6 .
+anat:L-diaphragme-coupole	anat:termi-insere-sur	anat:L-cote-7 .
+anat:L-diaphragme-coupole	anat:termi-insere-sur	anat:L-cote-8 .
+anat:L-diaphragme-coupole	anat:termi-insere-sur	anat:L-cote-9 .
+anat:L-diaphragme-coupole	anat:termi-insere-sur	anat:L-cote-10 .
+anat:L-diaphragme-coupole	anat:termi-insere-sur	anat:L-cote-11 .
+anat:L-diaphragme-coupole	anat:termi-insere-sur	anat:L-cote-12 .
+anat:L-diaphragme-coupole	anat:termi-insere-sur	anat:L-carti-costal-6 .
+anat:L-diaphragme-coupole	anat:termi-insere-sur	anat:L-carti-costal-7 .
+anat:L-diaphragme-coupole	anat:termi-insere-sur	anat:L-carti-costal-8 .
+anat:L-diaphragme-coupole	anat:termi-insere-sur	anat:L-carti-costal-9 .
+anat:L-diaphragme-coupole	anat:termi-insere-sur	anat:L-carti-costal-10 .
+anat:L-diaphragme-coupole	anat:termi-insere-sur	anat:L-lgmt-arque-med .
+anat:L-diaphragme-coupole	anat:termi-insere-sur	anat:L-lgmt-arque-lat .
+anat:diaphragme-fx-sternal	anat:origi-insere-sur	anat:diaphragme-foliole-ventral .
+anat:diaphragme-fx-sternal	anat:termi-insere-sur	anat:sternum .
+anat:R-diaphragme-pilier	anat:origi-insere-sur	anat:diaphragme-foliole-ventral .
+anat:R-diaphragme-pilier	anat:origi-insere-sur	anat:R-diaphragme-folioles .
+anat:R-diaphragme-pilier	anat:termi-insere-sur	anat:v-L1 .
+anat:R-diaphragme-pilier	anat:termi-insere-sur	anat:v-L2 .
+anat:R-diaphragme-pilier	anat:termi-insere-sur	anat:v-L3 .
+anat:R-diaphragme-pilier	anat:termi-insere-sur	anat:v-L4 .
+anat:R-diaphragme-pilier	anat:termi-insere-sur	anat:div-L1-L2 .
+anat:R-diaphragme-pilier	anat:termi-insere-sur	anat:div-L2-L3 .
+anat:R-diaphragme-pilier	anat:termi-insere-sur	anat:div-L3-L4 .
+anat:R-diaphragme-pilier	anat:termi-insere-sur	anat:lgmt-arque-median .
+anat:L-diaphragme-pilier	anat:origi-insere-sur	anat:diaphragme-foliole-ventral .
+anat:L-diaphragme-pilier	anat:origi-insere-sur	anat:L-diaphragme-folioles .
+anat:L-diaphragme-pilier	anat:termi-insere-sur	anat:v-L1 .
+anat:L-diaphragme-pilier	anat:termi-insere-sur	anat:v-L2 .
+anat:L-diaphragme-pilier	anat:termi-insere-sur	anat:div-L1-L2 .
+anat:L-diaphragme-pilier	anat:termi-insere-sur	anat:div-L2-L3 .
+anat:lgmt-arque-median	anat:s-insere-sur	anat:v-L1 .
+anat:R-lgmt-arque-med	anat:s-insere-sur	anat:v-L1 .
+anat:L-lgmt-arque-med	anat:s-insere-sur	anat:v-L1 .
+anat:R-lgmt-arque-lat	anat:s-insere-sur	anat:v-L1 .
+anat:R-lgmt-arque-lat	anat:s-insere-sur	anat:R-cote-12 .
+anat:L-lgmt-arque-lat	anat:s-insere-sur	anat:v-L1 .
+anat:L-lgmt-arque-lat	anat:s-insere-sur	anat:L-cote-12 .
+		
+anat:mscl-diaphragme	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=W5zO9nq09PbSfSHPzKXz4r0b> .
+#anat:diaphragme-ctre-phreniq	anat:hasImage3D	<> .
+#anat:diaphragme-coupoles	anat:hasImage3D	<> .
+#anat:diaphragme-piliers	anat:hasImage3D	<> .
+#anat:diaphragme-fx-sternal	anat:hasImage3D	<> .
+#anat:diaphragme-foliole-ventral	anat:hasImage3D	<> .
+#anat:R-diaphragme-folioles	anat:hasImage3D	<> .
+#anat:L-diaphragme-folioles	anat:hasImage3D	<> .
+#anat:diaphragme-bandelette-semicircu-sup	anat:hasImage3D	<> .
+#anat:diaphragme-bandelette-semicircu-inf	anat:hasImage3D	<> .
+#anat:R-diaphragme-coupole	anat:hasImage3D	<> .
+#anat:L-diaphragme-coupole	anat:hasImage3D	<> .
+#anat:R-diaphragme-pilier	anat:hasImage3D	<> .
+#anat:L-diaphragme-pilier	anat:hasImage3D	<> .
+#anat:lgmts-arque-diaphragme	anat:hasImage3D	<> .
+#anat:lgmt-arque-median	anat:hasImage3D	<> .
+#anat:R-lgmt-arque-med	anat:hasImage3D	<> .
+#anat:L-lgmt-arque-med	anat:hasImage3D	<> .
+#anat:R-lgmt-arque-lat	anat:hasImage3D	<> .
+#anat:L-lgmt-arque-lat	anat:hasImage3D	<> .
+anat:mscl-diaphragme	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=zyC85TquKfOrraSXT9XjWz85> .
+#anat:diaphragme-ctre-phreniq	anat:has3DmodelURL	<> .
+#anat:diaphragme-coupoles	anat:has3DmodelURL	<> .
+#anat:diaphragme-piliers	anat:has3DmodelURL	<> .
+#anat:diaphragme-fx-sternal	anat:has3DmodelURL	<> .
+#anat:diaphragme-foliole-ventral	anat:has3DmodelURL	<> .
+#anat:R-diaphragme-folioles	anat:has3DmodelURL	<> .
+#anat:L-diaphragme-folioles	anat:has3DmodelURL	<> .
+#anat:diaphragme-bandelette-semicircu-sup	anat:has3DmodelURL	<> .
+#anat:diaphragme-bandelette-semicircu-inf	anat:has3DmodelURL	<> .
+#anat:R-diaphragme-coupole	anat:has3DmodelURL	<> .
+#anat:L-diaphragme-coupole	anat:has3DmodelURL	<> .
+#anat:R-diaphragme-pilier	anat:has3DmodelURL	<> .
+#anat:L-diaphragme-pilier	anat:has3DmodelURL	<> .
+#anat:lgmts-arque-diaphragme	anat:has3DmodelURL	<> .
+#anat:lgmt-arque-median	anat:has3DmodelURL	<> .
+#anat:R-lgmt-arque-med	anat:has3DmodelURL	<> .
+#anat:L-lgmt-arque-med	anat:has3DmodelURL	<> .
+#anat:R-lgmt-arque-lat	anat:has3DmodelURL	<> .
+#anat:L-lgmt-arque-lat	anat:has3DmodelURL	<> .
+
+anat:mscl-diaphragme	rdfs:label	"Muscle diaphragme" .
+anat:diaphragme-ctre-phreniq	rdfs:label	"Centre phrénique du diaphragme" .
+anat:diaphragme-coupoles	rdfs:label	"Coupoles diaphragmatiques" .
+anat:diaphragme-piliers	rdfs:label	"Piliers du diaphragme" .
+anat:diaphragme-fx-sternal	rdfs:label	"Faisceau sternal du diaphragme" .
+anat:diaphragme-foliole-ventral	rdfs:label	"Foliole antérieure diaphragmatique" .
+anat:R-diaphragme-folioles	rdfs:label	"Foliole latérale diaphragmatique droite" .
+anat:L-diaphragme-folioles	rdfs:label	"Foliole latérale diaphragmatique gauche" .
+anat:diaphragme-bandelette-semicircu-sup	rdfs:label	"Bandelette semi-circulaire supérieure du diaphragme" .
+anat:diaphragme-bandelette-semicircu-inf	rdfs:label	"Bandelette semi-circulaire inférieure du diaphragme" .
+anat:R-diaphragme-coupole	rdfs:label	"Coupole diaphragmatique droite" .
+anat:L-diaphragme-coupole	rdfs:label	"Coupole diaphragmatique gauche" .
+anat:R-diaphragme-pilier	rdfs:label	"Pilier diaphragmatique droite" .
+anat:L-diaphragme-pilier	rdfs:label	"Pilier diaphragmatique gauche" .
+anat:lgmts-arque-diaphragme	rdfs:label	"Ligaments arqués du diaphragme" .
+anat:lgmt-arque-median	rdfs:label	"Ligaments arqués médian du diaphragme" .
+anat:R-lgmt-arque-med	rdfs:label	"Ligaments arqués médial droit du diaphragme" .
+anat:L-lgmt-arque-med	rdfs:label	"Ligaments arqués médial gauche du diaphragme" .
+anat:R-lgmt-arque-lat	rdfs:label	"Ligaments arqués latéral droit du diaphragme" .
+anat:L-lgmt-arque-lat	rdfs:label	"Ligaments arqués latéral gauche du diaphragme" .
+
+anat:muscles-paroi-ant-abdo	rdf:type	anat:groupe-musculaire .
+anat:muscles-abdominaux	rdf:type	anat:groupe-musculaire .
+anat:muscles-abdo-droit	rdf:type	anat:muscle .
+anat:muscles-abdo-pyramidal	rdf:type	anat:muscle .
+anat:muscles-abdo-obliq-ext	rdf:type	anat:muscle .
+anat:muscles-abdo-obliq-int	rdf:type	anat:muscle .
+anat:muscles-abdo-trsv	rdf:type	anat:muscle .
+anat:R-mscl-abdo-droit	rdf:type	anat:muscle .
+anat:R-mscl-abdo-pyramidal	rdf:type	anat:muscle .
+anat:R-mscl-abdo-obliq-ext	rdf:type	anat:muscle .
+anat:R-mscl-abdo-obliq-ext-p-post	rdf:type	anat:attache-musculaire .
+anat:R-mscl-abdo-obliq-ext-p-ant	rdf:type	anat:attache-musculaire .
+anat:R-mscl-abdo-obliq-ext-p-inf	rdf:type	anat:attache-musculaire .
+anat:R-mscl-abdo-obliq-ext-p-inf-pilier-lat	rdf:type	anat:tendon .
+anat:R-mscl-abdo-obliq-ext-p-inf-pilier-med	rdf:type	anat:tendon .
+anat:R-mscl-abdo-obliq-int	rdf:type	anat:muscle .
+anat:R-mscl-abdo-obliq-int-p-sup	rdf:type	anat:attache-musculaire .
+anat:R-mscl-abdo-obliq-int-p-ant	rdf:type	anat:attache-musculaire .
+anat:R-mscl-abdo-obliq-int-p-inf	rdf:type	anat:attache-musculaire .
+anat:R-mscl-abdo-trsv	rdf:type	anat:muscle .
+anat:R-mscl-abdo-trsv-p-ant	rdf:type	anat:attache-musculaire .
+anat:R-mscl-abdo-trsv-p-inf	rdf:type	anat:attache-musculaire .
+anat:R-faux-inguinale	rdf:type	anat:tendon .
+anat:L-mscl-abdo-droit	rdf:type	anat:muscle .
+anat:L-mscl-abdo-pyramidal	rdf:type	anat:muscle .
+anat:L-mscl-abdo-obliq-ext	rdf:type	anat:muscle .
+anat:L-mscl-abdo-obliq-ext-p-post	rdf:type	anat:attache-musculaire .
+anat:L-mscl-abdo-obliq-ext-p-ant	rdf:type	anat:attache-musculaire .
+anat:L-mscl-abdo-obliq-ext-p-inf	rdf:type	anat:attache-musculaire .
+anat:L-mscl-abdo-obliq-ext-p-inf-pilier-lat	rdf:type	anat:tendon .
+anat:L-mscl-abdo-obliq-ext-p-inf-pilier-med	rdf:type	anat:tendon .
+anat:L-mscl-abdo-obliq-int	rdf:type	anat:muscle .
+anat:L-mscl-abdo-obliq-int-p-sup	rdf:type	anat:attache-musculaire .
+anat:L-mscl-abdo-obliq-int-p-ant	rdf:type	anat:attache-musculaire .
+anat:L-mscl-abdo-obliq-int-p-inf	rdf:type	anat:attache-musculaire .
+anat:L-mscl-abdo-trsv	rdf:type	anat:muscle .
+anat:L-mscl-abdo-trsv-p-ant	rdf:type	anat:attache-musculaire .
+anat:L-mscl-abdo-trsv-p-inf	rdf:type	anat:attache-musculaire .
+anat:L-faux-inguinale	rdf:type	anat:tendon .
+anat:muscles-cremaster	rdf:type	anat:muscle .
+anat:R-mscl-cremaster	rdf:type	anat:muscle .
+anat:R-mscl-cremaster-fx-lat	rdf:type	anat:chef-musculaire .
+anat:R-mscl-cremaster-fx-med	rdf:type	anat:chef-musculaire .
+anat:_F_R-mscl-cremaster	rdf:type	anat:muscle .
+anat:_F_R-mscl-cremaster-fx-lat	rdf:type	anat:chef-musculaire .
+anat:_F_R-mscl-cremaster-fx-med	rdf:type	anat:chef-musculaire .
+anat:L-mscl-cremaster	rdf:type	anat:muscle .
+anat:L-mscl-cremaster-fx-lat	rdf:type	anat:chef-musculaire .
+anat:L-mscl-cremaster-fx-med	rdf:type	anat:chef-musculaire .
+anat:_F_L-mscl-cremaster	rdf:type	anat:muscle .
+anat:_F_L-mscl-cremaster-fx-lat	rdf:type	anat:chef-musculaire .
+anat:_F_L-mscl-cremaster-fx-med	rdf:type	anat:chef-musculaire .
+anat:muscles-paroi-post-abdo	rdf:type	anat:groupe-musculaire .
+anat:muscles-paroi-post-abdo-plan-supL	rdf:type	anat:groupe-musculaire .
+anat:muscles-paroi-post-abdo-plan-moy	rdf:type	anat:groupe-musculaire .
+anat:muscles-paroi-post-abdo-plan-pfd	rdf:type	anat:groupe-musculaire .
+anat:muscles-paroi-post-abdo-plan-pfd-trsv	rdf:type	anat:groupe-musculaire .
+anat:muscles-paroi-post-abdo-plan-pfd-pretrsv	rdf:type	anat:groupe-musculaire .
+anat:muscles-carre-lombaire	rdf:type	anat:muscle .
+anat:R-mscl-carre-lombaire	rdf:type	anat:muscle .
+anat:R-mscl-carre-lombaire-fx-ant	rdf:type	anat:chef-musculaire .
+anat:R-mscl-carre-lombaire-fx-post	rdf:type	anat:chef-musculaire .
+anat:L-mscl-carre-lombaire	rdf:type	anat:muscle .
+anat:L-mscl-carre-lombaire-fx-ant	rdf:type	anat:chef-musculaire .
+anat:L-mscl-carre-lombaire-fx-post	rdf:type	anat:chef-musculaire .
+anat:R-aponevrose-abdo-obliq-ext	rdf:type	anat:fascia .
+anat:R-aponevrose-abdo-obliq-int	rdf:type	anat:fascia .
+anat:R-aponevrose-abdo-trsv	rdf:type	anat:fascia .
+anat:R-gaine-rectusienne	rdf:type	anat:fascia .
+anat:R-gaine-psoas	rdf:type	anat:fascia .
+anat:L-aponevrose-abdo-obliq-ext	rdf:type	anat:fascia .
+anat:L-aponevrose-abdo-obliq-int	rdf:type	anat:fascia .
+anat:L-aponevrose-abdo-trsv	rdf:type	anat:fascia .
+anat:L-gaine-rectusienne	rdf:type	anat:fascia .
+anat:L-gaine-psoas	rdf:type	anat:fascia .
+anat:ligne-blanche	rdf:type	anat:fascia .
+anat:fascia-thoracolombR	rdf:type	anat:fascia .
+anat:fascia-thoracolombR-lame-ant	rdf:type	anat:fascia .
+anat:fascia-thoracolombR-lame-moy	rdf:type	anat:fascia .
+anat:fascia-thoracolombR-lame-post	rdf:type	anat:fascia .
+anat:R-fascia-thoracolombR-lame-ant	rdf:type	anat:fascia .
+anat:R-fascia-thoracolombR-lame-moy	rdf:type	anat:fascia .
+anat:R-fascia-thoracolombR-lame-post	rdf:type	anat:fascia .
+anat:L-fascia-thoracolombR-lame-ant	rdf:type	anat:fascia .
+anat:L-fascia-thoracolombR-lame-moy	rdf:type	anat:fascia .
+anat:L-fascia-thoracolombR-lame-post	rdf:type	anat:fascia .
+anat:R-lgmt-lombocostal	rdf:type	anat:ligament .
+anat:L-lgmt-lombocostal	rdf:type	anat:ligament .
+		
+anat:muscles-paroi-ant-abdo	anat:comprend	anat:muscles-abdominaux .
+anat:muscles-paroi-ant-abdo	anat:comprend	anat:muscles-cremaster .
+anat:muscles-abdominaux	anat:comprend	anat:muscles-abdo-droit .
+anat:muscles-abdominaux	anat:comprend	anat:muscles-abdo-pyramidal .
+anat:muscles-abdominaux	anat:comprend	anat:muscles-abdo-obliq-ext .
+anat:muscles-abdominaux	anat:comprend	anat:muscles-abdo-obliq-int .
+anat:muscles-abdominaux	anat:comprend	anat:muscles-abdo-trsv .
+anat:muscles-abdo-droit	anat:comprend	anat:R-mscl-abdo-droit .
+anat:muscles-abdo-droit	anat:comprend	anat:L-mscl-abdo-droit .
+anat:muscles-abdo-pyramidal	anat:comprend	anat:R-mscl-abdo-pyramidal .
+anat:muscles-abdo-pyramidal	anat:comprend	anat:L-mscl-abdo-pyramidal .
+anat:muscles-abdo-obliq-ext	anat:comprend	anat:R-mscl-abdo-obliq-ext .
+anat:muscles-abdo-obliq-ext	anat:comprend	anat:L-mscl-abdo-obliq-ext .
+anat:muscles-abdo-obliq-int	anat:comprend	anat:R-mscl-abdo-obliq-int .
+anat:muscles-abdo-obliq-int	anat:comprend	anat:L-mscl-abdo-obliq-int .
+anat:muscles-abdo-trsv	anat:comprend	anat:R-mscl-abdo-trsv .
+anat:muscles-abdo-trsv	anat:comprend	anat:L-mscl-abdo-trsv .
+anat:muscles-cremaster	anat:comprend	anat:R-mscl-cremaster .
+anat:muscles-cremaster	anat:comprend	anat:L-mscl-cremaster .
+anat:muscles-cremaster	anat:comprend	anat:_F_R-mscl-cremaster .
+anat:muscles-cremaster	anat:comprend	anat:_F_L-mscl-cremaster .
+anat:muscles-paroi-post-abdo	anat:comprend	anat:muscles-paroi-post-abdo-plan-supL .
+anat:muscles-paroi-post-abdo	anat:comprend	anat:muscles-paroi-post-abdo-plan-moy .
+anat:muscles-paroi-post-abdo	anat:comprend	anat:muscles-paroi-post-abdo-plan-pfd .
+anat:muscles-paroi-post-abdo-plan-supL	anat:comprend	anat:muscles-gd-dorsal .
+anat:muscles-paroi-post-abdo-plan-supL	anat:comprend	anat:muscles-abdo-obliq-ext .
+anat:muscles-paroi-post-abdo-plan-supL	anat:comprend	anat:fascia-thoracolombR-lame-post .
+anat:muscles-paroi-post-abdo-plan-moy	anat:comprend	anat:muscles-iliocostal-lombes .
+anat:muscles-paroi-post-abdo-plan-moy	anat:comprend	anat:muscles-longissimus-thorax .
+anat:muscles-paroi-post-abdo-plan-moy	anat:comprend	anat:muscles-epineux-thorax .
+anat:muscles-paroi-post-abdo-plan-moy	anat:comprend	anat:muscles-dentele-post-inf .
+anat:muscles-paroi-post-abdo-plan-pfd	anat:comprend	anat:muscles-paroi-post-abdo-plan-pfd-trsv .
+anat:muscles-paroi-post-abdo-plan-pfd	anat:comprend	anat:muscles-paroi-post-abdo-plan-pfd-pretrsv .
+anat:muscles-paroi-post-abdo-plan-pfd-trsv	anat:comprend	anat:muscles-abdo-trsv .
+anat:muscles-paroi-post-abdo-plan-pfd-trsv	anat:comprend	anat:muscles-carre-lombaire .
+anat:muscles-paroi-post-abdo-plan-pfd-trsv	anat:comprend	anat:fascia-thoracolombR-lame-moy .
+anat:muscles-paroi-post-abdo-plan-pfd-trsv	anat:comprend	anat:fascia-thoracolombR-lame-ant .
+anat:muscles-paroi-post-abdo-plan-pfd-trsv	anat:comprend	anat:lgmt-lombocostal .
+anat:muscles-paroi-post-abdo-plan-pfd-pretrsv	anat:comprend	anat:muscles-gd-psoas .
+anat:muscles-paroi-post-abdo-plan-pfd-pretrsv	anat:comprend	anat:muscles-pt-psoas .
+anat:muscles-paroi-post-abdo-plan-pfd-pretrsv	anat:comprend	anat:diaphragme-piliers .
+anat:muscles-paroi-post-abdo-plan-pfd-pretrsv	anat:comprend	anat:R-gaine-psoas .
+anat:muscles-paroi-post-abdo-plan-pfd-pretrsv	anat:comprend	anat:L-gaine-psoas .
+anat:muscles-carre-lombaire	anat:comprend	anat:R-mscl-carre-lombaire .
+anat:muscles-carre-lombaire	anat:comprend	anat:L-mscl-carre-lombaire .
+anat:R-mscl-abdo-obliq-ext	anat:comprend	anat:R-mscl-abdo-obliq-ext-p-post .
+anat:R-mscl-abdo-obliq-ext	anat:comprend	anat:R-mscl-abdo-obliq-ext-p-ant .
+anat:R-mscl-abdo-obliq-ext	anat:comprend	anat:R-mscl-abdo-obliq-ext-p-inf .
+anat:R-mscl-abdo-obliq-ext-p-inf	anat:comprend	anat:R-mscl-abdo-obliq-ext-p-inf-pilier-lat .
+anat:R-mscl-abdo-obliq-ext-p-inf	anat:comprend	anat:R-mscl-abdo-obliq-ext-p-inf-pilier-med .
+anat:R-mscl-abdo-obliq-int	anat:comprend	anat:R-mscl-abdo-obliq-int-p-sup .
+anat:R-mscl-abdo-obliq-int	anat:comprend	anat:R-mscl-abdo-obliq-int-p-ant .
+anat:R-mscl-abdo-obliq-int	anat:comprend	anat:R-mscl-abdo-obliq-int-p-inf .
+anat:R-mscl-abdo-obliq-int-p-inf	anat:comprend	anat:R-faux-inguinale .
+anat:R-mscl-abdo-trsv	anat:comprend	anat:R-mscl-abdo-trsv-p-ant .
+anat:R-mscl-abdo-trsv	anat:comprend	anat:R-mscl-abdo-trsv-p-inf .
+anat:R-mscl-abdo-trsv-p-inf	anat:comprend	anat:R-faux-inguinale .
+anat:R-mscl-cremaster	anat:comprend	anat:R-mscl-cremaster-fx-lat .
+anat:R-mscl-cremaster	anat:comprend	anat:R-mscl-cremaster-fx-med .
+anat:R-mscl-carre-lombaire	anat:comprend	anat:R-mscl-carre-lombaire-fx-ant .
+anat:R-mscl-carre-lombaire	anat:comprend	anat:R-mscl-carre-lombaire-fx-post .
+anat:L-mscl-abdo-obliq-ext	anat:comprend	anat:L-mscl-abdo-obliq-ext-p-post .
+anat:L-mscl-abdo-obliq-ext	anat:comprend	anat:L-mscl-abdo-obliq-ext-p-ant .
+anat:L-mscl-abdo-obliq-ext	anat:comprend	anat:L-mscl-abdo-obliq-ext-p-inf .
+anat:L-mscl-abdo-obliq-ext-p-inf	anat:comprend	anat:L-mscl-abdo-obliq-ext-p-inf-pilier-lat .
+anat:L-mscl-abdo-obliq-ext-p-inf	anat:comprend	anat:L-mscl-abdo-obliq-ext-p-inf-pilier-med .
+anat:L-mscl-abdo-obliq-int	anat:comprend	anat:L-mscl-abdo-obliq-int-p-sup .
+anat:L-mscl-abdo-obliq-int	anat:comprend	anat:L-mscl-abdo-obliq-int-p-ant .
+anat:L-mscl-abdo-obliq-int	anat:comprend	anat:L-mscl-abdo-obliq-int-p-inf .
+anat:L-mscl-abdo-obliq-int-p-inf	anat:comprend	anat:L-faux-inguinale .
+anat:L-mscl-abdo-trsv	anat:comprend	anat:L-mscl-abdo-trsv-p-ant .
+anat:L-mscl-abdo-trsv	anat:comprend	anat:L-mscl-abdo-trsv-p-inf .
+anat:L-mscl-abdo-trsv-p-inf	anat:comprend	anat:L-faux-inguinale .
+anat:L-mscl-cremaster	anat:comprend	anat:L-mscl-cremaster-fx-lat .
+anat:L-mscl-cremaster	anat:comprend	anat:L-mscl-cremaster-fx-med .
+anat:L-mscl-carre-lombaire	anat:comprend	anat:L-mscl-carre-lombaire-fx-ant .
+anat:L-mscl-carre-lombaire	anat:comprend	anat:L-mscl-carre-lombaire-fx-post .
+anat:fascia-thoracolombR	anat:comprend	anat:fascia-thoracolombR-lame-ant .
+anat:fascia-thoracolombR	anat:comprend	anat:fascia-thoracolombR-lame-moy .
+anat:fascia-thoracolombR	anat:comprend	anat:fascia-thoracolombR-lame-post .
+anat:fascia-thoracolombR-lame-ant	anat:comprend	anat:R-fascia-thoracolombR-lame-ant .
+anat:fascia-thoracolombR-lame-ant	anat:comprend	anat:L-fascia-thoracolombR-lame-ant .
+anat:fascia-thoracolombR-lame-moy	anat:comprend	anat:R-fascia-thoracolombR-lame-moy .
+anat:fascia-thoracolombR-lame-moy	anat:comprend	anat:L-fascia-thoracolombR-lame-moy .
+anat:fascia-thoracolombR-lame-post	anat:comprend	anat:R-fascia-thoracolombR-lame-post .
+anat:fascia-thoracolombR-lame-post	anat:comprend	anat:L-fascia-thoracolombR-lame-post .
+		
+anat:R-mscl-abdo-droit	anat:origi-insere-sur	anat:sternum .
+anat:R-mscl-abdo-droit	anat:origi-insere-sur	anat:R-cote-5 .
+anat:R-mscl-abdo-droit	anat:origi-insere-sur	anat:R-cote-6 .
+anat:R-mscl-abdo-droit	anat:origi-insere-sur	anat:R-carti-costal-5 .
+anat:R-mscl-abdo-droit	anat:origi-insere-sur	anat:R-carti-costal-6 .
+anat:R-mscl-abdo-droit	anat:origi-insere-sur	anat:R-carti-costal-7 .
+anat:R-mscl-abdo-droit	anat:termi-insere-sur	anat:R-iliaque .
+anat:R-mscl-abdo-pyramidal	anat:origi-insere-sur	anat:ligne-blanche .
+anat:R-mscl-abdo-pyramidal	anat:termi-insere-sur	anat:R-iliaque .
+anat:R-mscl-abdo-obliq-ext	anat:termi-insere-sur	anat:R-cote-6 .
+anat:R-mscl-abdo-obliq-ext	anat:origi-insere-sur	anat:R-cote-7 .
+anat:R-mscl-abdo-obliq-ext	anat:origi-insere-sur	anat:R-cote-8 .
+anat:R-mscl-abdo-obliq-ext	anat:origi-insere-sur	anat:R-cote-9 .
+anat:R-mscl-abdo-obliq-ext	anat:origi-insere-sur	anat:R-cote-10 .
+anat:R-mscl-abdo-obliq-ext	anat:origi-insere-sur	anat:R-cote-11 .
+anat:R-mscl-abdo-obliq-ext	anat:origi-insere-sur	anat:R-cote-12 .
+anat:R-mscl-abdo-obliq-ext	anat:termi-insere-sur	anat:R-iliaque .
+anat:R-mscl-abdo-obliq-ext	anat:fascia-prolonge	anat:R-aponevrose-abdo-obliq-ext .
+anat:R-mscl-abdo-obliq-ext	anat:termi-insere-sur	anat:R-lgmt-inguinal .
+anat:R-mscl-abdo-obliq-ext	anat:termi-insere-sur	anat:R-lgmt-reflechi .
+anat:R-mscl-abdo-obliq-ext-p-post	anat:termi-insere-sur	anat:R-iliaque .
+anat:R-mscl-abdo-obliq-ext-p-ant	anat:fascia-prolonge	anat:R-aponevrose-abdo-obliq-ext .
+anat:R-mscl-abdo-obliq-ext-p-inf-pilier-lat	anat:termi-insere-sur	anat:R-iliaque .
+anat:R-mscl-abdo-obliq-ext-p-inf-pilier-lat	anat:termi-insere-sur	anat:R-lgmt-inguinal .
+anat:R-mscl-abdo-obliq-ext-p-inf-pilier-med	anat:termi-insere-sur	anat:R-iliaque .
+anat:R-mscl-abdo-obliq-ext-p-inf-pilier-med	anat:termi-insere-sur	anat:R-lgmt-reflechi .
+anat:R-aponevrose-abdo-obliq-ext	anat:fascia-prolonge	anat:R-gaine-rectusienne .
+anat:R-mscl-abdo-obliq-int	anat:origi-insere-sur	anat:R-iliaque .
+anat:R-mscl-abdo-obliq-int	anat:origi-insere-sur	anat:R-fascia-thoracolombR .
+anat:R-mscl-abdo-obliq-int	anat:origi-insere-sur	anat:R-lgmt-inguinal .
+anat:R-mscl-abdo-obliq-int	anat:termi-insere-sur	anat:R-cote-10 .
+anat:R-mscl-abdo-obliq-int	anat:termi-insere-sur	anat:R-cote-11 .
+anat:R-mscl-abdo-obliq-int	anat:termi-insere-sur	anat:R-cote-12 .
+anat:R-mscl-abdo-obliq-int	anat:termi-insere-sur	anat:R-carti-costal-10 .
+anat:R-mscl-abdo-obliq-int	anat:fascia-prolonge	anat:R-aponevrose-abdo-obliq-int .
+anat:R-mscl-abdo-obliq-int-p-sup	anat:termi-insere-sur	anat:R-cote-10 .
+anat:R-mscl-abdo-obliq-int-p-sup	anat:termi-insere-sur	anat:R-cote-11 .
+anat:R-mscl-abdo-obliq-int-p-sup	anat:termi-insere-sur	anat:R-cote-12 .
+anat:R-mscl-abdo-obliq-int-p-sup	anat:termi-insere-sur	anat:R-carti-costal-10 .
+anat:R-mscl-abdo-obliq-int-p-ant	anat:fascia-prolonge	anat:R-aponevrose-abdo-obliq-int .
+anat:R-aponevrose-abdo-obliq-int	anat:fascia-prolonge	anat:R-gaine-rectusienne .
+anat:R-faux-inguinale	anat:origi-insere-sur	anat:R-iliaque .
+anat:R-mscl-abdo-trsv	anat:origi-insere-sur	anat:R-iliaque .
+anat:R-mscl-abdo-trsv	anat:origi-insere-sur	anat:R-cote-11 .
+anat:R-mscl-abdo-trsv	anat:origi-insere-sur	anat:R-cote-12 .
+anat:R-mscl-abdo-trsv	anat:origi-insere-sur	anat:R-carti-costal-7 .
+anat:R-mscl-abdo-trsv	anat:origi-insere-sur	anat:R-carti-costal-8 .
+anat:R-mscl-abdo-trsv	anat:origi-insere-sur	anat:R-carti-costal-9 .
+anat:R-mscl-abdo-trsv	anat:origi-insere-sur	anat:R-carti-costal-10 .
+anat:R-mscl-abdo-trsv	anat:origi-insere-sur	anat:R-fascia-thoracolombR .
+anat:R-mscl-abdo-trsv	anat:origi-insere-sur	anat:R-fascia-iliaque .
+anat:R-mscl-abdo-trsv	anat:fascia-prolonge	anat:R-aponevrose-abdo-trsv .
+anat:R-mscl-abdo-trsv-p-ant	anat:fascia-prolonge	anat:R-aponevrose-abdo-trsv .
+anat:R-aponevrose-abdo-trsv	anat:fascia-prolonge	anat:R-gaine-rectusienne .
+anat:R-mscl-cremaster-fx-lat	anat:origi-insere-sur	anat:R-mscl-abdo-obliq-int-p-inf .
+anat:R-mscl-cremaster-fx-med	anat:origi-insere-sur	anat:R-iliaque .
+anat:R-mscl-cremaster	anat:origi-insere-sur	anat:R-mscl-abdo-obliq-int-p-inf .
+anat:R-mscl-cremaster	anat:origi-insere-sur	anat:R-iliaque .
+anat:R-mscl-cremaster	anat:termi-insere-sur	anat:R-testicule .
+anat:_F_R-mscl-cremaster	anat:origi-insere-sur	anat:R-mscl-abdo-obliq-int-p-inf .
+anat:_F_R-mscl-cremaster-fx-lat	anat:origi-insere-sur	anat:R-iliaque .
+anat:_F_R-mscl-cremaster-fx-med	anat:termi-insere-sur	anat:R-lgmt-rond-uterus .
+anat:R-mscl-carre-lombaire	anat:origi-insere-sur	anat:R-lgmts-iliolombaires .
+anat:R-mscl-carre-lombaire	anat:origi-insere-sur	anat:R-iliaque .
+anat:R-mscl-carre-lombaire	anat:termi-insere-sur	anat:R-cote-12 .
+anat:R-mscl-carre-lombaire	anat:termi-insere-sur	anat:v-L1 .
+anat:R-mscl-carre-lombaire	anat:termi-insere-sur	anat:v-L2 .
+anat:R-mscl-carre-lombaire	anat:termi-insere-sur	anat:v-L3 .
+anat:R-mscl-carre-lombaire	anat:termi-insere-sur	anat:v-L4 .
+anat:R-mscl-carre-lombaire-fx-ant	anat:origi-insere-sur	anat:R-lgmts-iliolombaires .
+anat:R-mscl-carre-lombaire-fx-ant	anat:origi-insere-sur	anat:R-iliaque .
+anat:R-mscl-carre-lombaire-fx-ant	anat:termi-insere-sur	anat:R-cote-12 .
+anat:R-mscl-carre-lombaire-fx-post	anat:origi-insere-sur	anat:R-lgmts-iliolombaires .
+anat:R-mscl-carre-lombaire-fx-post	anat:origi-insere-sur	anat:R-iliaque .
+anat:R-mscl-carre-lombaire-fx-post	anat:termi-insere-sur	anat:v-L1 .
+anat:R-mscl-carre-lombaire-fx-post	anat:termi-insere-sur	anat:v-L2 .
+anat:R-mscl-carre-lombaire-fx-post	anat:termi-insere-sur	anat:v-L3 .
+anat:R-mscl-carre-lombaire-fx-post	anat:termi-insere-sur	anat:v-L4 .
+anat:ligne-blanche	anat:fascia-prolonge	anat:R-gaine-rectusienne .
+anat:ligne-blanche	anat:fascia-prolonge	anat:L-gaine-rectusienne .
+anat:ligne-blanche	anat:s-insere-sur	anat:sternum .
+anat:ligne-blanche	anat:s-insere-sur	anat:disque-interpubien .
+anat:L-mscl-abdo-droit	anat:origi-insere-sur	anat:sternum .
+anat:L-mscl-abdo-droit	anat:origi-insere-sur	anat:L-cote-5 .
+anat:L-mscl-abdo-droit	anat:origi-insere-sur	anat:L-cote-6 .
+anat:L-mscl-abdo-droit	anat:origi-insere-sur	anat:L-carti-costal-5 .
+anat:L-mscl-abdo-droit	anat:origi-insere-sur	anat:L-carti-costal-6 .
+anat:L-mscl-abdo-droit	anat:origi-insere-sur	anat:L-carti-costal-7 .
+anat:L-mscl-abdo-droit	anat:termi-insere-sur	anat:L-iliaque .
+anat:L-mscl-abdo-pyramidal	anat:origi-insere-sur	anat:ligne-blanche .
+anat:L-mscl-abdo-pyramidal	anat:termi-insere-sur	anat:L-iliaque .
+anat:L-mscl-abdo-obliq-ext	anat:termi-insere-sur	anat:L-cote-6 .
+anat:L-mscl-abdo-obliq-ext	anat:origi-insere-sur	anat:L-cote-7 .
+anat:L-mscl-abdo-obliq-ext	anat:origi-insere-sur	anat:L-cote-8 .
+anat:L-mscl-abdo-obliq-ext	anat:origi-insere-sur	anat:L-cote-9 .
+anat:L-mscl-abdo-obliq-ext	anat:origi-insere-sur	anat:L-cote-10 .
+anat:L-mscl-abdo-obliq-ext	anat:origi-insere-sur	anat:L-cote-11 .
+anat:L-mscl-abdo-obliq-ext	anat:origi-insere-sur	anat:L-cote-12 .
+anat:L-mscl-abdo-obliq-ext	anat:termi-insere-sur	anat:L-iliaque .
+anat:L-mscl-abdo-obliq-ext	anat:fascia-prolonge	anat:L-aponevrose-abdo-obliq-ext .
+anat:L-mscl-abdo-obliq-ext	anat:termi-insere-sur	anat:L-lgmt-inguinal .
+anat:L-mscl-abdo-obliq-ext	anat:termi-insere-sur	anat:L-lgmt-reflechi .
+anat:L-mscl-abdo-obliq-ext-p-post	anat:termi-insere-sur	anat:L-iliaque .
+anat:L-mscl-abdo-obliq-ext-p-ant	anat:fascia-prolonge	anat:L-aponevrose-abdo-obliq-ext .
+anat:L-mscl-abdo-obliq-ext-p-inf-pilier-lat	anat:termi-insere-sur	anat:L-iliaque .
+anat:L-mscl-abdo-obliq-ext-p-inf-pilier-lat	anat:termi-insere-sur	anat:L-lgmt-inguinal .
+anat:L-mscl-abdo-obliq-ext-p-inf-pilier-med	anat:termi-insere-sur	anat:L-iliaque .
+anat:L-mscl-abdo-obliq-ext-p-inf-pilier-med	anat:termi-insere-sur	anat:L-lgmt-reflechi .
+anat:L-aponevrose-abdo-obliq-ext	anat:fascia-prolonge	anat:L-gaine-rectusienne .
+anat:L-mscl-abdo-obliq-int	anat:origi-insere-sur	anat:L-iliaque .
+anat:L-mscl-abdo-obliq-int	anat:origi-insere-sur	anat:L-fascia-thoracolombR .
+anat:L-mscl-abdo-obliq-int	anat:origi-insere-sur	anat:L-lgmt-inguinal .
+anat:L-mscl-abdo-obliq-int	anat:termi-insere-sur	anat:L-cote-10 .
+anat:L-mscl-abdo-obliq-int	anat:termi-insere-sur	anat:L-cote-11 .
+anat:L-mscl-abdo-obliq-int	anat:termi-insere-sur	anat:L-cote-12 .
+anat:L-mscl-abdo-obliq-int	anat:termi-insere-sur	anat:L-carti-costal-10 .
+anat:L-mscl-abdo-obliq-int	anat:fascia-prolonge	anat:L-aponevrose-abdo-obliq-int .
+anat:L-mscl-abdo-obliq-int-p-sup	anat:termi-insere-sur	anat:L-cote-10 .
+anat:L-mscl-abdo-obliq-int-p-sup	anat:termi-insere-sur	anat:L-cote-11 .
+anat:L-mscl-abdo-obliq-int-p-sup	anat:termi-insere-sur	anat:L-cote-12 .
+anat:L-mscl-abdo-obliq-int-p-sup	anat:termi-insere-sur	anat:L-carti-costal-10 .
+anat:L-mscl-abdo-obliq-int-p-ant	anat:fascia-prolonge	anat:L-aponevrose-abdo-obliq-int .
+anat:L-aponevrose-abdo-obliq-int	anat:fascia-prolonge	anat:L-gaine-rectusienne .
+anat:L-faux-inguinale	anat:origi-insere-sur	anat:L-iliaque .
+anat:L-mscl-abdo-trsv	anat:origi-insere-sur	anat:L-iliaque .
+anat:L-mscl-abdo-trsv	anat:origi-insere-sur	anat:L-cote-11 .
+anat:L-mscl-abdo-trsv	anat:origi-insere-sur	anat:L-cote-12 .
+anat:L-mscl-abdo-trsv	anat:origi-insere-sur	anat:L-carti-costal-7 .
+anat:L-mscl-abdo-trsv	anat:origi-insere-sur	anat:L-carti-costal-8 .
+anat:L-mscl-abdo-trsv	anat:origi-insere-sur	anat:L-carti-costal-9 .
+anat:L-mscl-abdo-trsv	anat:origi-insere-sur	anat:L-carti-costal-10 .
+anat:L-mscl-abdo-trsv	anat:origi-insere-sur	anat:L-fascia-thoracolombR .
+anat:L-mscl-abdo-trsv	anat:origi-insere-sur	anat:L-fascia-iliaque .
+anat:L-mscl-abdo-trsv	anat:fascia-prolonge	anat:L-aponevrose-abdo-trsv .
+anat:L-mscl-abdo-trsv-p-ant	anat:fascia-prolonge	anat:L-aponevrose-abdo-trsv .
+anat:L-aponevrose-abdo-trsv	anat:fascia-prolonge	anat:L-gaine-rectusienne .
+anat:L-mscl-cremaster-fx-lat	anat:origi-insere-sur	anat:L-mscl-abdo-obliq-int-p-inf .
+anat:L-mscl-cremaster-fx-med	anat:origi-insere-sur	anat:L-iliaque .
+anat:L-mscl-cremaster	anat:origi-insere-sur	anat:L-mscl-abdo-obliq-int-p-inf .
+anat:L-mscl-cremaster	anat:origi-insere-sur	anat:L-iliaque .
+anat:L-mscl-cremaster	anat:termi-insere-sur	anat:L-testicule .
+anat:_F_L-mscl-cremaster	anat:origi-insere-sur	anat:L-mscl-abdo-obliq-int-p-inf .
+anat:_F_L-mscl-cremaster-fx-lat	anat:origi-insere-sur	anat:L-iliaque .
+anat:_F_L-mscl-cremaster-fx-med	anat:termi-insere-sur	anat:L-lgmt-rond-uterus .
+anat:L-mscl-carre-lombaire	anat:origi-insere-sur	anat:L-lgmts-iliolombaires .
+anat:L-mscl-carre-lombaire	anat:origi-insere-sur	anat:L-iliaque .
+anat:L-mscl-carre-lombaire	anat:termi-insere-sur	anat:L-cote-12 .
+anat:L-mscl-carre-lombaire	anat:termi-insere-sur	anat:v-L1 .
+anat:L-mscl-carre-lombaire	anat:termi-insere-sur	anat:v-L2 .
+anat:L-mscl-carre-lombaire	anat:termi-insere-sur	anat:v-L3 .
+anat:L-mscl-carre-lombaire	anat:termi-insere-sur	anat:v-L4 .
+anat:L-mscl-carre-lombaire-fx-ant	anat:origi-insere-sur	anat:L-lgmts-iliolombaires .
+anat:L-mscl-carre-lombaire-fx-ant	anat:origi-insere-sur	anat:L-iliaque .
+anat:L-mscl-carre-lombaire-fx-ant	anat:termi-insere-sur	anat:L-cote-12 .
+anat:L-mscl-carre-lombaire-fx-post	anat:origi-insere-sur	anat:L-lgmts-iliolombaires .
+anat:L-mscl-carre-lombaire-fx-post	anat:origi-insere-sur	anat:L-iliaque .
+anat:L-mscl-carre-lombaire-fx-post	anat:termi-insere-sur	anat:v-L1 .
+anat:L-mscl-carre-lombaire-fx-post	anat:termi-insere-sur	anat:v-L2 .
+anat:L-mscl-carre-lombaire-fx-post	anat:termi-insere-sur	anat:v-L3 .
+anat:L-mscl-carre-lombaire-fx-post	anat:termi-insere-sur	anat:v-L4 .
+		
+anat:R-gaine-rectusienne	anat:gaine-contient	anat:R-mscl-abdo-droit .
+anat:L-gaine-rectusienne	anat:gaine-contient	anat:L-mscl-abdo-droit .
+anat:R-gaine-psoas	anat:gaine-contient	anat:R-mscl-gd-psoas .
+anat:R-gaine-psoas	anat:gaine-contient	anat:R-mscl-pt-psoas .
+anat:L-gaine-psoas	anat:gaine-contient	anat:L-mscl-gd-psoas .
+anat:L-gaine-psoas	anat:gaine-contient	anat:L-mscl-pt-psoas .
+		
+anat:muscles-paroi-ant-abdo	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=W1LfCG419fOvXL5fqGzmOjiu> .
+anat:muscles-abdominaux	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=T1Da4n19PXPXvSTj4ruaKbqK> .
+anat:muscles-abdo-droit	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=H599f4Xj4LXnDODWjujCmaei> .
+anat:muscles-abdo-pyramidal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=8XTXTHbyCSrK491n8Piqa8rO> .
+anat:muscles-abdo-obliq-ext	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=zmyiuaKn0P5j9ry411fWra0f> .
+anat:muscles-abdo-obliq-int	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ayumm4ya8rW9KvCe4rWHXH1z> .
+anat:muscles-abdo-trsv	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=X1jy4LPnKDGzPDGnaCHbiO1P> .
+anat:R-mscl-abdo-droit	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=9X1DyODO55TDOjOXf4WPzWHf> .
+anat:R-mscl-abdo-pyramidal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=WXfqaKumuKXDPT5XfuTbmCOn> .
+anat:R-mscl-abdo-obliq-ext	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=iOTbGv1XXXTLz8511XDKbSzO> .
+#anat:R-mscl-abdo-obliq-ext-p-post	anat:hasImage3D	<> .
+#anat:R-mscl-abdo-obliq-ext-p-ant	anat:hasImage3D	<> .
+#anat:R-mscl-abdo-obliq-ext-p-inf	anat:hasImage3D	<> .
+#anat:R-mscl-abdo-obliq-ext-p-inf-pilier-lat	anat:hasImage3D	<> .
+#anat:R-mscl-abdo-obliq-ext-p-inf-pilier-med	anat:hasImage3D	<> .
+anat:R-mscl-abdo-obliq-int	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=1Tre4j0X5jCm9HbiC4GTr4zy> .
+#anat:R-mscl-abdo-obliq-int-p-sup	anat:hasImage3D	<> .
+#anat:R-mscl-abdo-obliq-int-p-ant	anat:hasImage3D	<> .
+#anat:R-mscl-abdo-obliq-int-p-inf	anat:hasImage3D	<> .
+anat:R-mscl-abdo-trsv	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=45XL114jiiyiDaKTvW9bOvm4> .
+#anat:R-mscl-abdo-trsv-p-ant	anat:hasImage3D	<> .
+#anat:R-mscl-abdo-trsv-p-inf	anat:hasImage3D	<> .
+#anat:R-faux-inguinale	anat:hasImage3D	<> .
+anat:L-mscl-abdo-droit	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=eSfqu011Xvy4v8jeCWbOLHLP> .
+anat:L-mscl-abdo-pyramidal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=aue4Lj4TH9TP9nWfiGv8PfeO> .
+anat:L-mscl-abdo-obliq-ext	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=rueiG505j89jj85v8D01riue> .
+#anat:L-mscl-abdo-obliq-ext-p-post	anat:hasImage3D	<> .
+#anat:L-mscl-abdo-obliq-ext-p-ant	anat:hasImage3D	<> .
+#anat:L-mscl-abdo-obliq-ext-p-inf	anat:hasImage3D	<> .
+#anat:L-mscl-abdo-obliq-ext-p-inf-pilier-lat	anat:hasImage3D	<> .
+#anat:L-mscl-abdo-obliq-ext-p-inf-pilier-med	anat:hasImage3D	<> .
+anat:L-mscl-abdo-obliq-int	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ySv055qGXzOvrS1D8Duuqa0T> .
+#anat:L-mscl-abdo-obliq-int-p-sup	anat:hasImage3D	<> .
+#anat:L-mscl-abdo-obliq-int-p-ant	anat:hasImage3D	<> .
+#anat:L-mscl-abdo-obliq-int-p-inf	anat:hasImage3D	<> .
+anat:L-mscl-abdo-trsv	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=CeKvS98j8XXzaaOzi4PTLra8> .
+#anat:L-mscl-abdo-trsv-p-ant	anat:hasImage3D	<> .
+#anat:L-mscl-abdo-trsv-p-inf	anat:hasImage3D	<> .
+#anat:L-faux-inguinale	anat:hasImage3D	<> .
+#anat:muscles-cremaster	anat:hasImage3D	<> .
+#anat:R-mscl-cremaster	anat:hasImage3D	<> .
+#anat:R-mscl-cremaster-fx-lat	anat:hasImage3D	<> .
+#anat:R-mscl-cremaster-fx-med	anat:hasImage3D	<> .
+#anat:_F_R-mscl-cremaster	anat:hasImage3D	<> .
+#anat:_F_R-mscl-cremaster-fx-lat	anat:hasImage3D	<> .
+#anat:_F_R-mscl-cremaster-fx-med	anat:hasImage3D	<> .
+#anat:L-mscl-cremaster	anat:hasImage3D	<> .
+#anat:L-mscl-cremaster-fx-lat	anat:hasImage3D	<> .
+#anat:L-mscl-cremaster-fx-med	anat:hasImage3D	<> .
+#anat:_F_L-mscl-cremaster	anat:hasImage3D	<> .
+#anat:_F_L-mscl-cremaster-fx-lat	anat:hasImage3D	<> .
+#anat:_F_L-mscl-cremaster-fx-med	anat:hasImage3D	<> .
+anat:muscles-paroi-post-abdo	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=KruaWnS55LP1j895X59L9j8n> .
+anat:muscles-paroi-post-abdo-plan-supL	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=XbW95nDimiau9niaei8fGP5v> .
+anat:muscles-paroi-post-abdo-plan-moy	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=vmeS5jiqST5rjCWnqG9Pn4Pf> .
+anat:muscles-paroi-post-abdo-plan-pfd	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=jCGXDuSzmGLfm0D4X1fe01ju> .
+anat:muscles-paroi-post-abdo-plan-pfd-trsv	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=r0LTbC9bq0LnrKDaSbbO9L9z> .
+anat:muscles-paroi-post-abdo-plan-pfd-pretrsv	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=zeayiaj8z0DS5TbGjeH111bi> .
+anat:muscles-carre-lombaire	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=zaqWPLeG5LrOuauKDiyCiyqC> .
+anat:R-mscl-carre-lombaire	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=mK9HDGvGrC0XjSvuquC8Hry4> .
+#anat:R-mscl-carre-lombaire-fx-ant	anat:hasImage3D	<> .
+#anat:R-mscl-carre-lombaire-fx-post	anat:hasImage3D	<> .
+anat:L-mscl-carre-lombaire	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=e4vOfiqWjiaCLTzqmOjObyWn> .
+#anat:L-mscl-carre-lombaire-fx-ant	anat:hasImage3D	<> .
+#anat:L-mscl-carre-lombaire-fx-post	anat:hasImage3D	<> .
+#anat:R-aponevrose-abdo-obliq-ext	anat:hasImage3D	<> .
+#anat:R-aponevrose-abdo-obliq-int	anat:hasImage3D	<> .
+#anat:R-aponevrose-abdo-trsv	anat:hasImage3D	<> .
+#anat:R-gaine-rectusienne	anat:hasImage3D	<> .
+#anat:R-gaine-psoas	anat:hasImage3D	<> .
+#anat:L-aponevrose-abdo-obliq-ext	anat:hasImage3D	<> .
+#anat:L-aponevrose-abdo-obliq-int	anat:hasImage3D	<> .
+#anat:L-aponevrose-abdo-trsv	anat:hasImage3D	<> .
+#anat:L-gaine-rectusienne	anat:hasImage3D	<> .
+#anat:L-gaine-psoas	anat:hasImage3D	<> .
+anat:ligne-blanche	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=5b0nGDequySb5vKzaKOH9v0H> .
+#anat:fascia-thoracolombR	anat:hasImage3D	<> .
+#anat:fascia-thoracolombR-lame-ant	anat:hasImage3D	<> .
+#anat:fascia-thoracolombR-lame-moy	anat:hasImage3D	<> .
+#anat:fascia-thoracolombR-lame-post	anat:hasImage3D	<> .
+#anat:R-fascia-thoracolombR-lame-ant	anat:hasImage3D	<> .
+#anat:R-fascia-thoracolombR-lame-moy	anat:hasImage3D	<> .
+#anat:R-fascia-thoracolombR-lame-post	anat:hasImage3D	<> .
+#anat:L-fascia-thoracolombR-lame-ant	anat:hasImage3D	<> .
+#anat:L-fascia-thoracolombR-lame-moy	anat:hasImage3D	<> .
+#anat:L-fascia-thoracolombR-lame-post	anat:hasImage3D	<> .
+#anat:R-lgmt-lombocostal	anat:hasImage3D	<> .
+#anat:L-lgmt-lombocostal	anat:hasImage3D	<> .
+anat:muscles-paroi-ant-abdo	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=911re0Di8jSTLHHbSr8bGruW> .
+anat:muscles-abdominaux	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=5THfOrX9H9vOi8jmuibOvSPr> .
+anat:muscles-abdo-droit	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=eOn4j4SD8P55XfKreyLzyyeW> .
+anat:muscles-abdo-pyramidal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Kje4zm1jy8juqWDKje0zOz4H> .
+anat:muscles-abdo-obliq-ext	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=j4bGzaKbamGjHHDme05bKLjS> .
+anat:muscles-abdo-obliq-int	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=euiiaOSPPXH9zW9TvaTvG1vS> .
+anat:muscles-abdo-trsv	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=jayWvmKreum4eq49rK95Xreq> .
+anat:R-mscl-abdo-droit	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=SL1Dia4vaGzSDeqa4vrCqyiu> .
+anat:R-mscl-abdo-pyramidal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=0fqmCu9fGvSjeWrauebmu0bm> .
+anat:R-mscl-abdo-obliq-ext	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=zSr4PTu4H5numGj45DDeW5Du> .
+#anat:R-mscl-abdo-obliq-ext-p-post	anat:has3DmodelURL	<> .
+#anat:R-mscl-abdo-obliq-ext-p-ant	anat:has3DmodelURL	<> .
+#anat:R-mscl-abdo-obliq-ext-p-inf	anat:has3DmodelURL	<> .
+#anat:R-mscl-abdo-obliq-ext-p-inf-pilier-lat	anat:has3DmodelURL	<> .
+#anat:R-mscl-abdo-obliq-ext-p-inf-pilier-med	anat:has3DmodelURL	<> .
+anat:R-mscl-abdo-obliq-int	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=HfKvOPGLnyuaSzCmGDCSjCaG> .
+#anat:R-mscl-abdo-obliq-int-p-sup	anat:has3DmodelURL	<> .
+#anat:R-mscl-abdo-obliq-int-p-ant	anat:has3DmodelURL	<> .
+#anat:R-mscl-abdo-obliq-int-p-inf	anat:has3DmodelURL	<> .
+anat:R-mscl-abdo-trsv	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=bK5PHvm89nSXby4bCO9TvOvO> .
+#anat:R-mscl-abdo-trsv-p-ant	anat:has3DmodelURL	<> .
+#anat:R-mscl-abdo-trsv-p-inf	anat:has3DmodelURL	<> .
+#anat:R-faux-inguinale	anat:has3DmodelURL	<> .
+anat:L-mscl-abdo-droit	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=qCCWXnHr4vCiLH9rmWbWr41r> .
+anat:L-mscl-abdo-pyramidal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=aSjW5DHfCSrO89bqeenSbOjq> .
+anat:L-mscl-abdo-obliq-ext	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Xvym09Xv8buiyOL5rabeSHLv> .
+#anat:L-mscl-abdo-obliq-ext-p-post	anat:has3DmodelURL	<> .
+#anat:L-mscl-abdo-obliq-ext-p-ant	anat:has3DmodelURL	<> .
+#anat:L-mscl-abdo-obliq-ext-p-inf	anat:has3DmodelURL	<> .
+#anat:L-mscl-abdo-obliq-ext-p-inf-pilier-lat	anat:has3DmodelURL	<> .
+#anat:L-mscl-abdo-obliq-ext-p-inf-pilier-med	anat:has3DmodelURL	<> .
+anat:L-mscl-abdo-obliq-int	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=GvqayWWriC41u8rmGDuuG5fy> .
+#anat:L-mscl-abdo-obliq-int-p-sup	anat:has3DmodelURL	<> .
+#anat:L-mscl-abdo-obliq-int-p-ant	anat:has3DmodelURL	<> .
+#anat:L-mscl-abdo-obliq-int-p-inf	anat:has3DmodelURL	<> .
+anat:L-mscl-abdo-trsv	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=STzOXX5TDiGvnKHf8rHDG15f> .
+#anat:L-mscl-abdo-trsv-p-ant	anat:has3DmodelURL	<> .
+#anat:L-mscl-abdo-trsv-p-inf	anat:has3DmodelURL	<> .
+#anat:L-faux-inguinale	anat:has3DmodelURL	<> .
+#anat:muscles-cremaster	anat:has3DmodelURL	<> .
+#anat:R-mscl-cremaster	anat:has3DmodelURL	<> .
+#anat:R-mscl-cremaster-fx-lat	anat:has3DmodelURL	<> .
+#anat:R-mscl-cremaster-fx-med	anat:has3DmodelURL	<> .
+#anat:_F_R-mscl-cremaster	anat:has3DmodelURL	<> .
+#anat:_F_R-mscl-cremaster-fx-lat	anat:has3DmodelURL	<> .
+#anat:_F_R-mscl-cremaster-fx-med	anat:has3DmodelURL	<> .
+#anat:L-mscl-cremaster	anat:has3DmodelURL	<> .
+#anat:L-mscl-cremaster-fx-lat	anat:has3DmodelURL	<> .
+#anat:L-mscl-cremaster-fx-med	anat:has3DmodelURL	<> .
+#anat:_F_L-mscl-cremaster	anat:has3DmodelURL	<> .
+#anat:_F_L-mscl-cremaster-fx-lat	anat:has3DmodelURL	<> .
+#anat:_F_L-mscl-cremaster-fx-med	anat:has3DmodelURL	<> .
+anat:muscles-paroi-post-abdo	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=rS1f0nCSDiai9T9H5P4fWLPn> .
+anat:muscles-paroi-post-abdo-plan-supL	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=yG5XPPa0jOTHCWni0rOjquKv> .
+anat:muscles-paroi-post-abdo-plan-moy	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=eO5nuGKT9nyeuGjuGDqC0Pfa> .
+anat:muscles-paroi-post-abdo-plan-pfd	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=CyST5DnaKni01f0TPTPT1PDu> .
+anat:muscles-paroi-post-abdo-plan-pfd-trsv	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=C8DiuujW19Tf9LHzyaqWDeqK> .
+anat:muscles-paroi-post-abdo-plan-pfd-pretrsv	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=9LjqayzCqaqazG1r0LbiCCST> .
+anat:muscles-carre-lombaire	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=umiGjeXrOfSLDS99fmHv4DWv> .
+anat:R-mscl-carre-lombaire	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=zyu8j8STTbeaH55rGz0XLX9j> .
+#anat:R-mscl-carre-lombaire-fx-ant	anat:has3DmodelURL	<> .
+#anat:R-mscl-carre-lombaire-fx-post	anat:has3DmodelURL	<> .
+anat:L-mscl-carre-lombaire	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=DOrWXfmiiyyyneqOXbqyaWDe> .
+#anat:L-mscl-carre-lombaire-fx-ant	anat:has3DmodelURL	<> .
+#anat:L-mscl-carre-lombaire-fx-post	anat:has3DmodelURL	<> .
+#anat:R-aponevrose-abdo-obliq-ext	anat:has3DmodelURL	<> .
+#anat:R-aponevrose-abdo-obliq-int	anat:has3DmodelURL	<> .
+#anat:R-aponevrose-abdo-trsv	anat:has3DmodelURL	<> .
+#anat:R-gaine-rectusienne	anat:has3DmodelURL	<> .
+#anat:R-gaine-psoas	anat:has3DmodelURL	<> .
+#anat:L-aponevrose-abdo-obliq-ext	anat:has3DmodelURL	<> .
+#anat:L-aponevrose-abdo-obliq-int	anat:has3DmodelURL	<> .
+#anat:L-aponevrose-abdo-trsv	anat:has3DmodelURL	<> .
+#anat:L-gaine-rectusienne	anat:has3DmodelURL	<> .
+#anat:L-gaine-psoas	anat:has3DmodelURL	<> .
+anat:ligne-blanche	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=jq4za4aiCyeC9jW1XHnqyuSX> .
+#anat:fascia-thoracolombR	anat:has3DmodelURL	<> .
+#anat:fascia-thoracolombR-lame-ant	anat:has3DmodelURL	<> .
+#anat:fascia-thoracolombR-lame-moy	anat:has3DmodelURL	<> .
+#anat:fascia-thoracolombR-lame-post	anat:has3DmodelURL	<> .
+#anat:R-fascia-thoracolombR-lame-ant	anat:has3DmodelURL	<> .
+#anat:R-fascia-thoracolombR-lame-moy	anat:has3DmodelURL	<> .
+#anat:R-fascia-thoracolombR-lame-post	anat:has3DmodelURL	<> .
+#anat:L-fascia-thoracolombR-lame-ant	anat:has3DmodelURL	<> .
+#anat:L-fascia-thoracolombR-lame-moy	anat:has3DmodelURL	<> .
+#anat:L-fascia-thoracolombR-lame-post	anat:has3DmodelURL	<> .
+#anat:R-lgmt-lombocostal	anat:has3DmodelURL	<> .
+#anat:L-lgmt-lombocostal	anat:has3DmodelURL	<> .
+
+anat:muscles-paroi-ant-abdo	rdfs:label	"Muscles de la paroi abdominale antérieure" .
+anat:muscles-abdominaux	rdfs:label	"Muscles abdominaux" .
+anat:muscles-abdo-droit	rdfs:label	"Muscles droits abdominaux" .
+anat:muscles-abdo-pyramidal	rdfs:label	"Muscles pyramidaux abdominaux" .
+anat:muscles-abdo-obliq-ext	rdfs:label	"Muscles abdominaux obliques externes" .
+anat:muscles-abdo-obliq-int	rdfs:label	"Muscles abdominaux obliques internes" .
+anat:muscles-abdo-trsv	rdfs:label	"Muscles abdominaux transverses" .
+anat:R-mscl-abdo-droit	rdfs:label	"Muscle droit abdominal droit" .
+anat:R-mscl-abdo-pyramidal	rdfs:label	"Muscle pyramidal abdominal droit" .
+anat:R-mscl-abdo-obliq-ext	rdfs:label	"Muscle abdominal oblique externe droit" .
+anat:R-mscl-abdo-obliq-ext-p-post	rdfs:label	"Partie postérieure du muscle abdominal oblique externe droit" .
+anat:R-mscl-abdo-obliq-ext-p-ant	rdfs:label	"Partie antérieure du muscle abdominal oblique externe droit" .
+anat:R-mscl-abdo-obliq-ext-p-inf	rdfs:label	"Partie inférieure du muscle abdominal oblique externe droit" .
+anat:R-mscl-abdo-obliq-ext-p-inf-pilier-lat	rdfs:label	"Pilier latéral de la partie inférieure du muscle abdominal oblique externe droit" .
+anat:R-mscl-abdo-obliq-ext-p-inf-pilier-med	rdfs:label	"Pilier médial de la partie inférieure du muscle abdominal oblique externe droit" .
+anat:R-mscl-abdo-obliq-int	rdfs:label	"Muscle abdominal oblique interne droit" .
+anat:R-mscl-abdo-obliq-int-p-sup	rdfs:label	"Partie supérieure du muscle abdominal oblique interne droit" .
+anat:R-mscl-abdo-obliq-int-p-ant	rdfs:label	"Partie antérieure du muscle abdominal oblique interne droit" .
+anat:R-mscl-abdo-obliq-int-p-inf	rdfs:label	"Partie inférieure du muscle abdominal oblique interne droit" .
+anat:R-mscl-abdo-trsv	rdfs:label	"Muscle abdominal transverse droit" .
+anat:R-mscl-abdo-trsv-p-ant	rdfs:label	"Partie antérieure du muscle abdominal transverse droit" .
+anat:R-mscl-abdo-trsv-p-inf	rdfs:label	"Partie inférieure du muscle abdominal transverse droit" .
+anat:R-faux-inguinale	rdfs:label	"Faux inguinale droite" .
+anat:L-mscl-abdo-droit	rdfs:label	"Muscle droit abdominal gauche" .
+anat:L-mscl-abdo-pyramidal	rdfs:label	"Muscle pyramidal abdominal gauche" .
+anat:L-mscl-abdo-obliq-ext	rdfs:label	"Muscle abdominal oblique externe gauche" .
+anat:L-mscl-abdo-obliq-ext-p-post	rdfs:label	"Partie postérieure du muscle abdominal oblique externe gauche" .
+anat:L-mscl-abdo-obliq-ext-p-ant	rdfs:label	"Partie antérieure du muscle abdominal oblique externe gauche" .
+anat:L-mscl-abdo-obliq-ext-p-inf	rdfs:label	"Partie inférieure du muscle abdominal oblique externe gauche" .
+anat:L-mscl-abdo-obliq-ext-p-inf-pilier-lat	rdfs:label	"Pilier latéral de la partie inférieure du muscle abdominal oblique externe gauche" .
+anat:L-mscl-abdo-obliq-ext-p-inf-pilier-med	rdfs:label	"Pilier médial de la partie inférieure du muscle abdominal oblique externe gauche" .
+anat:L-mscl-abdo-obliq-int	rdfs:label	"Muscle abdominal oblique interne gauche" .
+anat:L-mscl-abdo-obliq-int-p-sup	rdfs:label	"Partie supérieure du muscle abdominal oblique interne gauche" .
+anat:L-mscl-abdo-obliq-int-p-ant	rdfs:label	"Partie antérieure du muscle abdominal oblique interne gauche" .
+anat:L-mscl-abdo-obliq-int-p-inf	rdfs:label	"Partie inférieure du muscle abdominal oblique interne gauche" .
+anat:L-mscl-abdo-trsv	rdfs:label	"Muscle abdominal transverse gauche" .
+anat:L-mscl-abdo-trsv-p-ant	rdfs:label	"Partie antérieure du muscle abdominal transverse gauche" .
+anat:L-mscl-abdo-trsv-p-inf	rdfs:label	"Partie inférieure du muscle abdominal transverse gauche" .
+anat:L-faux-inguinale	rdfs:label	"Faux inguinale gauche" .
+anat:muscles-cremaster	rdfs:label	"Muscles crémasters" .
+anat:R-mscl-cremaster	rdfs:label	"Muscle crémaster masculin droit" .
+anat:R-mscl-cremaster-fx-lat	rdfs:label	"Faisceau latéral du muscle crémaster masculin droit" .
+anat:R-mscl-cremaster-fx-med	rdfs:label	"Faisceau médial du muscle crémaster masculin droit" .
+anat:L-mscl-cremaster	rdfs:label	"Muscle crémaster masculin gauche" .
+anat:L-mscl-cremaster-fx-lat	rdfs:label	"Faisceau latéral du muscle crémaster masculin gauche" .
+anat:L-mscl-cremaster-fx-med	rdfs:label	"Faisceau médial du muscle crémaster masculin gauche" .
+anat:_F_R-mscl-cremaster	rdfs:label	"Muscle crémaster féminin droit" .
+anat:_F_R-mscl-cremaster-fx-lat	rdfs:label	"Faisceau latéral du muscle crémaster féminin droit" .
+anat:_F_R-mscl-cremaster-fx-med	rdfs:label	"Faisceau médial du muscle crémaster féminin droit" .
+anat:_F_L-mscl-cremaster	rdfs:label	"Muscle crémaster féminin gauche" .
+anat:_F_L-mscl-cremaster-fx-lat	rdfs:label	"Faisceau latéral du muscle crémaster féminin gauche" .
+anat:_F_L-mscl-cremaster-fx-med	rdfs:label	"Faisceau médial du muscle crémaster féminin gauche" .
+anat:muscles-paroi-post-abdo	rdfs:label	"Muscles de la paroi abdominale postérieure" .
+anat:muscles-paroi-post-abdo-plan-supL	rdfs:label	"Muscles de la paroi abdominale postérieure : plan superficiel" .
+anat:muscles-paroi-post-abdo-plan-moy	rdfs:label	"Muscles de la paroi abdominale postérieure : plan moyen" .
+anat:muscles-paroi-post-abdo-plan-pfd	rdfs:label	"Muscles de la paroi abdominale postérieure : plan profond" .
+anat:muscles-paroi-post-abdo-plan-pfd-trsv	rdfs:label	"Muscles de la paroi abdominale postérieure : plan profond transversaire" .
+anat:muscles-paroi-post-abdo-plan-pfd-pretrsv	rdfs:label	"Muscles de la paroi abdominale postérieure : plan profond prétransversaire" .
+anat:muscles-carre-lombaire	rdfs:label	"Muscles carrés des lombes" .
+anat:R-mscl-carre-lombaire	rdfs:label	"Muscle carré des lombes droit" .
+anat:R-mscl-carre-lombaire-fx-ant	rdfs:label	"Faisceau antérieur du muscle carré des lombes droit" .
+anat:R-mscl-carre-lombaire-fx-post	rdfs:label	"Faisceau postérieur du muscle carré des lombes droit" .
+anat:L-mscl-carre-lombaire	rdfs:label	"Muscle carré des lombes gauche" .
+anat:L-mscl-carre-lombaire-fx-ant	rdfs:label	"Faisceau antérieur du muscle carré des lombes gauche" .
+anat:L-mscl-carre-lombaire-fx-post	rdfs:label	"Faisceau postérieur du muscle carré des lombes gauche" .
+anat:R-aponevrose-abdo-obliq-ext	rdfs:label	"Aponévrose abdominale oblique externe droite" .
+anat:R-aponevrose-abdo-obliq-int	rdfs:label	"Aponévrose abdominale oblique interne droite" .
+anat:R-aponevrose-abdo-trsv	rdfs:label	"Aponévrose abdominale transverse droite" .
+anat:R-gaine-rectusienne	rdfs:label	"Gaine rectusienne droite" .
+anat:R-gaine-psoas	rdfs:label	"Gaine des muscles psoas gauches" .
+anat:L-aponevrose-abdo-obliq-ext	rdfs:label	"Aponévrose abdominale oblique externe gauche" .
+anat:L-aponevrose-abdo-obliq-int	rdfs:label	"Aponévrose abdominale oblique interne gauche" .
+anat:L-aponevrose-abdo-trsv	rdfs:label	"Aponévrose abdominale transverse gauche" .
+anat:L-gaine-rectusienne	rdfs:label	"Gaine rectusienne gauche" .
+anat:ligne-blanche	rdfs:label	"Ligne blanche" .
+anat:L-gaine-psoas	rdfs:label	"Gaine des muscles psoas gauches" .
+anat:fascia-thoracolombR	rdfs:label	"Fascia thoraco-lombaire" .
+anat:fascia-thoracolombR-lame-ant	rdfs:label	"Lame antérieure du fascia thoraco-lombaire" .
+anat:fascia-thoracolombR-lame-moy	rdfs:label	"Lame moyenne du fascia thoraco-lombaire" .
+anat:fascia-thoracolombR-lame-post	rdfs:label	"Lame postérieure du fascia thoraco-lombaire" .
+anat:R-fascia-thoracolombR-lame-ant	rdfs:label	"Lame antérieure droite du fascia thoraco-lombaire" .
+anat:R-fascia-thoracolombR-lame-moy	rdfs:label	"Lame moyenne droite du fascia thoraco-lombaire" .
+anat:R-fascia-thoracolombR-lame-post	rdfs:label	"Lame postérieure droite du fascia thoraco-lombaire" .
+anat:L-fascia-thoracolombR-lame-ant	rdfs:label	"Lame antérieure gauche du fascia thoraco-lombaire" .
+anat:L-fascia-thoracolombR-lame-moy	rdfs:label	"Lame moyenne gauche du fascia thoraco-lombaire" .
+anat:L-fascia-thoracolombR-lame-post	rdfs:label	"Lame postérieure gauche du fascia thoraco-lombaire" .
+anat:ligaments-lombocostal	rdfs:label	"Ligaments lombo-costaux" .
+anat:R-lgmt-lombocostal	rdfs:label	"Ligament lombo-costal droit" .
+anat:L-lgmt-lombocostal	rdfs:label	"Ligament lombo-costal gauche" .
+
 

@@ -2421,20 +2421,311 @@
       <div class="panel-body">
 	<ul style="list-style-type:square">
 	<li><a href="/desc/http://anat.org/muscles-extrinseq-pelvis">Muscles extrinsèques du pelvis</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo5-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo5-1" aria-expanded="false" aria-controls="collapseMyo5-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo5-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo5-1">
+      <div class="panel-body">
+
+		<ul style="list-style-type:disc">
+		<li><a href="/desc/http://anat.org/muscles-piriforme">Muscles piriformes</a></li>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/anat:R-mscl-piriforme">Muscle piriforme droit</a></li>
+			<li><a href="/desc/http://anat.org/anat:L-mscl-piriforme">Muscle piriforme gauche</a></li>
+			</ul>
+		</li>
+		<li><a href="/desc/http://anat.org/muscles-obturateur-int">Muscles obturateurs internes</a></li>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/anat:R-mscl-obturateur-int">Muscle obturateur interne droit</a></li>
+			<li><a href="/desc/http://anat.org/anat:L-mscl-obturateur-int">Muscle obturateur interne gauche</a></li>
+			</ul>
+		</li>
+		</ul>
+
+      </div>
+    </div>
+  </div>
+
 	<li><a href="/desc/http://anat.org/muscles-diaphragme-pelvien">Muscles du diaphragme pelvien</a></li>
-	<table style="width:100%">
-	<tr>
-		<td>
-		<li><a href="/desc/http://anat.org/muscles-perinee-urogenital">Muscles du périnée urogénital masculin</a></li>
-		</td>
-		<td>
-		<li><a href="/desc/http://anat.org/_F_muscles-perinee-urogenital">Muscles du périnée urogénital féminin</a></li>
-		</td>
-	</tr>
-	</table>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo5-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo5-2" aria-expanded="false" aria-controls="collapseMyo5-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo5-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo5-2">
+      <div class="panel-body">
+
+		<ul style="list-style-type:disc">
+		<li><a href="/desc/http://anat.org/muscles-elevatR-anus">Muscles élévateurs de l'anus</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo5-2-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo5-2-1" aria-expanded="false" aria-controls="collapseMyo5-2-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo5-2-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo5-2-1">
+      <div class="panel-body">
+
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/muscles-iliococcygien">Muscles ilio-coccygiens</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-iliococcygien">Muscle ilio-coccygien droit</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-iliococcygien">Muscle ilio-coccygien gauche</a></li>
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/muscles-pubococcygien">Muscles pubo-coccygiens</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-pubococcygien">Muscle pubo-coccygien droit</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-pubococcygien-puborectal">Muscle pubo-rectal droit</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-pubococcygien-puborectal-fx-laterorectal">Faisceau latéro-rectal du muscle pubo-rectal droit</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-pubococcygien-puborectal-fx-retrorectal">Faisceau rétro-rectal du muscle pubo-rectal droit</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-pubococcygien-puborectal-fx-coccygien">Faisceau coccygien du muscle pubo-rectal droit</a></li>
+						</ul>
+					</li>
+					<table style="width:100%">
+					<tr>
+						<td>
+						<li><a href="/desc/http://anat.org/_H_R-mscl-pubococcygien-puboprostatique">Muscle pubo-prostatique (m. élévateur de la prostate) droit (chez l'homme)</a></li>
+						</td>
+						<td>
+						<li><a href="/desc/http://anat.org/_F_R-mscl-pubococcygien-pubovaginal">Muscle pubo-vaginal droit (chez la femme)</a></li>
+						</td>
+					</tr>
+					</table>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/L-mscl-pubococcygien">Muscle pubo-coccygien gauche</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/L-mscl-pubococcygien-puborectal">Muscle pubo-rectal gauche</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/L-mscl-pubococcygien-puborectal-fx-laterorectal">Faisceau latéro-rectal du muscle pubo-rectal gauche</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-pubococcygien-puborectal-fx-retrorectal">Faisceau rétro-rectal du muscle pubo-rectal gauche</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-pubococcygien-puborectal-fx-coccygien">Faisceau coccygien du muscle pubo-rectal gauche</a></li>
+						</ul>
+					</li>
+					<table style="width:100%">
+					<tr>
+						<td>
+						<li><a href="/desc/http://anat.org/_H_L-mscl-pubococcygien-puboprostatique">Muscle pubo-prostatique (m. élévateur de la prostate) gauche (chez l'homme)</a></li>
+						</td>
+						<td>
+						<li><a href="/desc/http://anat.org/_F_L-mscl-pubococcygien-pubovaginal">Muscle pubo-vaginal gauche (chez la femme)</a></li>
+						</td>
+					</tr>
+					</table>
+					</ul>
+				</li>
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/mscl-sangle-retrorectale">Sangle rétro-rectale</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-pubococcygien-puborectal-fx-retrorectal">Faisceau rétro-rectal du muscle pubo-rectal droit</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-pubococcygien-puborectal-fx-retrorectal">Faisceau rétro-rectal du muscle pubo-rectal gauche</a></li>
+				</ul>
+			</li>
+			</ul>
+
+      </div>
+    </div>
+  </div>
+
+		<li><a href="/desc/http://anat.org/muscles-coccygien">Muscles coccygiens</a>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/R-mscl-coccygien">Muscle coccygien droit</a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-coccygien">Muscle coccygien gauche</a></li>
+			</ul>
+		</li>
+		<li><a href="/desc/http://anat.org/noyau-fbx-central-perinee">Noyeux fibreux central du périnée</a></li>
+		</ul>
+
+      </div>
+    </div>
+  </div>
+
+	<li><a href="/desc/http://anat.org/muscles-perinee-urogenital">Muscles du périnée uro-génital</a>
+		<ul style="list-style-type:disc">
+		<li><a href="/desc/http://anat.org/muscles-perinee-urogenital-espace-supL">Muscles du périnée uro-génital : espace superficiel</a>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo5-3-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo5-3-1" aria-expanded="false" aria-controls="collapseMyo5-3-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo5-3-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo5-3-1">
+      <div class="panel-body">
+
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/muscles-ischiocaverneux">Muscles ischio-caverneux</a>
+				<ul style="list-style-type:circle">
+				<table style="width:100%">
+				<tr>
+					<td>
+					<li><a href="/desc/http://anat.org/R-mscl-ischiocaverneux">Muscle ischio-caverneux droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-ischiocaverneux">Muscle ischio-caverneux droit</a></li>
+					</td>
+					<td>
+					<li><a href="/desc/http://anat.org/_F_R-mscl-ischiocaverneux">Muscle ischio-caverneux droit (chez la femme)</a></li>
+					<li><a href="/desc/http://anat.org/_F_L-mscl-ischiocaverneux">Muscle ischio-caverneux gauche (chez la femme)</a></li>
+					</td>
+				</tr>
+				</table>
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/muscles-bulbospongieux">Muscles bulbo-spongieux</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-bulbospongieux">Muscle bulbo-spongieux droit</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-bulbospongieux-fx-ant">Faisceau antérieur du muscle bulbo-spongieux droit</a></li>
+					<table style="width:100%">
+					<tr>
+						<td>
+						<li><a href="/desc/http://anat.org/R-mscl-bulbospongieux-fx-post">Faisceau postérieur du muscle bulbo-spongieux droit</a></li>
+						</td>
+						<td>
+						<li><a href="/desc/http://anat.org/_F_R-mscl-bulbospongieux-fx-post">Faisceau postérieur du muscle bulbo-spongieux droit (chez la femme)</a></li>
+						</td>
+					</tr>
+					</table>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/L-mscl-bulbospongieux">Muscle bulbo-spongieux gauche</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/L-mscl-bulbospongieux-fx-ant">Faisceau antérieur du muscle bulbo-spongieux gauche</a></li>
+					<table style="width:100%">
+					<tr>
+						<td>
+						<li><a href="/desc/http://anat.org/L-mscl-bulbospongieux-fx-post">Faisceau postérieur du muscle bulbo-spongieux gauche</a></li>
+						</td>
+						<td>
+						<li><a href="/desc/http://anat.org/_F_L-mscl-bulbospongieux-fx-post">Faisceau postérieur du muscle bulbo-spongieux gauche (chez la femme)</a></li>
+						</ul>
+						</td>
+					</tr>
+					</table>
+					</ul>
+				</li>
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/muscles-trsv-supL-perinee">Muscles transverses superficiels du périnée</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-trsv-supL-perinee">Muscle transverse superficiel du périnée droit</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-trsv-supL-perinee">Muscle transverse superficiel du périnée gauche</a></li>
+				</ul>
+			</li>
+			<table style="width:100%">
+			<tr>
+				<td>
+				<li><a href="/desc/http://anat.org/_H_mscl-compressR-vein-dorsale-penis">Muscle compresseur de la veine dorsale du penis (chez l'homme)</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-bulbospongieux-fx-ant">Faisceau antérieur du muscle bulbo-spongieux droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-bulbospongieux-fx-ant">Faisceau antérieur du muscle bulbo-spongieux gauche</a></li>
+					</ul>
+				</li>
+				</td>
+				<td>
+				<li><a href="/desc/http://anat.org/_F_mscl-compressR-vein-dorsale-clitoris">Muscle compresseur de la veine dorsale du clitoris (chez la femme)</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-bulbospongieux-fx-ant">Faisceau antérieur du muscle bulbo-spongieux droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-bulbospongieux-fx-ant">Faisceau antérieur du muscle bulbo-spongieux gauche</a></li>
+					</ul>
+				</li>
+				</td>
+			</tr>
+			</table>
+			</ul>
+
+      </div>
+    </div>
+  </div>
+
+		<li><a href="/desc/http://anat.org/muscles-perinee-urogenital-espace-pfd">Muscles du périnée uro-génital : espace profond (diaphragme uro-génital)</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo5-3-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo5-3-2" aria-expanded="false" aria-controls="collapseMyo5-3-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo5-3-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo5-3-2">
+      <div class="panel-body">
+
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/muscle-sphincter-uretre">Muscle sphincter de l'urètre</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/mscl-compressR-uretre">Muscle compresseur de l'urètre</a></li>
+				<table style="width:100%">
+				<tr>
+					<td>
+					<li><a href="/desc/http://anat.org/_H_mscl-uretroprostatique">Muscle urétro-prostatique (chez l'homme)</a></li>
+					</td>
+					<td>
+					<li><a href="/desc/http://anat.org/_F_mscl-uretrovaginal">Muscle urétro-vaginal (chez la femme)</a></li>
+					</td>
+				</tr>
+				</table>
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/muscles-trsv-pfd-perinee">Muscles transverses profonds du périnée</a>
+				<ul style="list-style-type:circle">
+				<table style="width:100%">
+				<tr>
+					<td>
+					<li><a href="/desc/http://anat.org/R-mscl-trsv-pfd-perinee">Muscle transverse profond du périnée droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-trsv-pfd-perinee">Muscle transverse profond du périnée gauche</a></li>
+					</td>
+					<td>
+					<li><a href="/desc/http://anat.org/_F_R-mscl-trsv-pfd-perinee">Muscle transverse profond du périnée droit (chez la femme)</a></li>
+					<li><a href="/desc/http://anat.org/_F_L-mscl-trsv-pfd-perinee">Muscle transverse profond du périnée gauche (chez la femme)</a></li>
+					</td>
+				</tr>
+				</table>
+				</ul>
+			</li>
+			</ul>
+
+      </div>
+    </div>
+  </div>
+
+		<li><a href="/desc/http://anat.org/noyau-fbx-central-perinee">Noyeux fibreux central du périnée</a></li>
+		</ul>
+	</li>
 	<li><a href="/desc/http://anat.org/muscles-perinee-anal">Muscles du périnée anal</a></li>
 
-Hello World
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo5-4">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo5-4" aria-expanded="false" aria-controls="collapseMyo5-4">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo5-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo5-4">
+      <div class="panel-body">
+
+		<ul style="list-style-type:disc">
+		<li><a href="/desc/http://anat.org/mscl-sphincter-ext-anus">Sphincter externe de l'anus</a>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/mscl-sphincter-ext-anus-fx-ss-cutane">Faisceau sous-cutané du sphincter externe de l'anus</a></li>
+			<li><a href="/desc/http://anat.org/mscl-sphincter-ext-anus-fx-supL">Faisceau superficiel du sphincter externe de l'anus</a></li>
+			<li><a href="/desc/http://anat.org/mscl-sphincter-ext-anus-fx-pfd">Faisceau profond du sphincter externe de l'anus</a></li>
+			</ul>
+		</li>
+		<li><a href="/desc/http://anat.org/lgmt-anococcygien">Ligament ano-coccygien</a></li>
+		<li><a href="/desc/http://anat.org/noyau-fbx-central-perinee">Noyeux fibreux central du périnée</a></li>
+		</ul>
+
+      </div>
+    </div>
+  </div>
 
 	</ul>
 

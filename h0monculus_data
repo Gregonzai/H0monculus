@@ -8195,4 +8195,442 @@ anat:ligaments-lombocostal	rdfs:label	"Ligaments lombo-costaux" .
 anat:R-lgmt-lombocostal	rdfs:label	"Ligament lombo-costal droit" .
 anat:L-lgmt-lombocostal	rdfs:label	"Ligament lombo-costal gauche" .
 
+anat:muscles-extrinseq-pelvis	rdf:type	anat:groupe-musculaire .
+anat:muscles-diaphragme-pelvien	rdf:type	anat:str-diaphragmatiq .
+anat:muscles-elevatR-anus	rdf:type	anat:muscle .
+anat:muscles-iliococcygien	rdf:type	anat:muscle .
+anat:R-mscl-iliococcygien	rdf:type	anat:muscle .
+anat:L-mscl-iliococcygien	rdf:type	anat:muscle .
+anat:muscles-pubococcygien	rdf:type	anat:muscle .
+anat:R-mscl-pubococcygien	rdf:type	anat:muscle .
+anat:R-mscl-pubococcygien-puborectal	rdf:type	anat:muscle .
+anat:R-mscl-pubococcygien-puborectal-fx-laterorectal	rdf:type	anat:chef-musculaire .
+anat:R-mscl-pubococcygien-puborectal-fx-retrorectal	rdf:type	anat:chef-musculaire .
+anat:R-mscl-pubococcygien-puborectal-fx-coccygien	rdf:type	anat:chef-musculaire .
+anat:_H_R-mscl-pubococcygien-puboprostatique	rdf:type	anat:chef-musculaire .
+anat:_F_R-mscl-pubococcygien-pubovaginal	rdf:type	anat:muscle .
+anat:L-mscl-pubococcygien	rdf:type	anat:muscle .
+anat:L-mscl-pubococcygien-puborectal	rdf:type	anat:muscle .
+anat:L-mscl-pubococcygien-puborectal-fx-laterorectal	rdf:type	anat:chef-musculaire .
+anat:L-mscl-pubococcygien-puborectal-fx-retrorectal	rdf:type	anat:chef-musculaire .
+anat:L-mscl-pubococcygien-puborectal-fx-coccygien	rdf:type	anat:chef-musculaire .
+anat:_H_L-mscl-pubococcygien-puboprostatique	rdf:type	anat:chef-musculaire .
+anat:_F_L-mscl-pubococcygien-pubovaginal	rdf:type	anat:muscle .
+anat:muscles-coccygien	rdf:type	anat:muscle .
+anat:R-mscl-coccygien	rdf:type	anat:muscle .
+anat:L-mscl-coccygien	rdf:type	anat:muscle .
+anat:mscl-sangle-retrorectale	rdf:type	anat:muscle .
+anat:muscles-perinee-urogenital	rdf:type	anat:groupe-musculaire .
+anat:muscles-perinee-urogenital-espace-supL	rdf:type	anat:groupe-musculaire .
+anat:muscles-ischiocaverneux	rdf:type	anat:muscle .
+anat:R-mscl-ischiocaverneux	rdf:type	anat:muscle .
+anat:L-mscl-ischiocaverneux	rdf:type	anat:muscle .
+anat:_F_R-mscl-ischiocaverneux	rdf:type	anat:muscle .
+anat:_F_L-mscl-ischiocaverneux	rdf:type	anat:muscle .
+anat:muscles-bulbospongieux	rdf:type	anat:muscle .
+anat:R-mscl-bulbospongieux	rdf:type	anat:muscle .
+anat:R-mscl-bulbospongieux-fx-ant	rdf:type	anat:chef-musculaire .
+anat:R-mscl-bulbospongieux-fx-post	rdf:type	anat:chef-musculaire .
+anat:_F_R-mscl-bulbospongieux-fx-post	rdf:type	anat:chef-musculaire .
+anat:L-mscl-bulbospongieux	rdf:type	anat:muscle .
+anat:L-mscl-bulbospongieux-fx-ant	rdf:type	anat:chef-musculaire .
+anat:L-mscl-bulbospongieux-fx-post	rdf:type	anat:chef-musculaire .
+anat:_F_L-mscl-bulbospongieux-fx-post	rdf:type	anat:chef-musculaire .
+anat:muscles-trsv-supL-perinee	rdf:type	anat:muscle .
+anat:R-mscl-trsv-supL-perinee	rdf:type	anat:muscle .
+anat:L-mscl-trsv-supL-perinee	rdf:type	anat:muscle .
+anat:_H_mscl-compressR-vein-dorsale-penis	rdf:type	anat:muscle .
+anat:_F_mscl-compressR-vein-dorsale-clitoris	rdf:type	anat:muscle .
+anat:muscles-perinee-urogenital-espace-pfd	rdf:type	anat:str-diaphragmatiq .
+anat:muscle-sphinkter-uretre	rdf:type	anat:muscle-visc-sphincter-cst .
+anat:mscl-compressR-uretre	rdf:type	anat:muscle .
+anat:_H_mscl-uretroprostatique	rdf:type	anat:muscle .
+anat:_F_mscl-uretrovaginal	rdf:type	anat:muscle .
+anat:muscles-trsv-pfd-perinee	rdf:type	anat:muscle .
+anat:R-mscl-trsv-pfd-perinee	rdf:type	anat:muscle .
+anat:L-mscl-trsv-pfd-perinee	rdf:type	anat:muscle .
+anat:_F_R-mscl-trsv-pfd-perinee	rdf:type	anat:muscle .
+anat:_F_L-mscl-trsv-pfd-perinee	rdf:type	anat:muscle .
+anat:muscles-perinee-anal	rdf:type	anat:groupe-musculaire .
+anat:mscl-sphinkter-ext-anus	rdf:type	anat:muscle-visc-sphincter-cst .
+anat:mscl-sphinkter-ext-anus-fx-ss-cutane	rdf:type	anat:chef-musculaire .
+anat:mscl-sphinkter-ext-anus-fx-supL	rdf:type	anat:chef-musculaire .
+anat:mscl-sphinkter-ext-anus-fx-pfd	rdf:type	anat:chef-musculaire .
+anat:lgmt-anococcygien	rdf:type	anat:ligament .
+anat:noyau-fbx-central-perinee	rdf:type	anat:structure-fibreuse .
+		
+anat:muscles-extrinseq-pelvis	anat:comprend	anat:muscles-piriforme .
+anat:muscles-extrinseq-pelvis	anat:comprend	anat:muscles-obturateur-int .
+anat:muscles-diaphragme-pelvien	anat:comprend	anat:muscles-elevatR-anus .
+anat:muscles-diaphragme-pelvien	anat:comprend	anat:muscles-coccygien .
+anat:muscles-elevatR-anus	anat:comprend	anat:muscles-iliococcygien .
+anat:muscles-elevatR-anus	anat:comprend	anat:muscles-pubococcygien .
+anat:muscles-elevatR-anus	anat:comprend	anat:mscl-sangle-retrorectale .
+anat:muscles-iliococcygien	anat:comprend	anat:R-mscl-iliococcygien .
+anat:muscles-iliococcygien	anat:comprend	anat:L-mscl-iliococcygien .
+anat:muscles-pubococcygien	anat:comprend	anat:R-mscl-pubococcygien .
+anat:muscles-pubococcygien	anat:comprend	anat:L-mscl-pubococcygien .
+anat:R-mscl-pubococcygien	anat:comprend	anat:R-mscl-pubococcygien-puborectal .
+anat:R-mscl-pubococcygien	anat:comprend	anat:_H_R-mscl-pubococcygien-puboprostatique .
+anat:R-mscl-pubococcygien	anat:comprend	anat:_F_R-mscl-pubococcygien-pubovaginal .
+anat:R-mscl-pubococcygien-puborectal	anat:comprend	anat:R-mscl-pubococcygien-puborectal-fx-laterorectal .
+anat:R-mscl-pubococcygien-puborectal	anat:comprend	anat:R-mscl-pubococcygien-puborectal-fx-retrorectal .
+anat:R-mscl-pubococcygien-puborectal	anat:comprend	anat:R-mscl-pubococcygien-puborectal-fx-coccygien .
+anat:L-mscl-pubococcygien	anat:comprend	anat:L-mscl-pubococcygien-puborectal .
+anat:L-mscl-pubococcygien	anat:comprend	anat:_H_L-mscl-pubococcygien-puboprostatique .
+anat:L-mscl-pubococcygien	anat:comprend	anat:_F_L-mscl-pubococcygien-pubovaginal .
+anat:L-mscl-pubococcygien-puborectal	anat:comprend	anat:L-mscl-pubococcygien-puborectal-fx-laterorectal .
+anat:L-mscl-pubococcygien-puborectal	anat:comprend	anat:L-mscl-pubococcygien-puborectal-fx-retrorectal .
+anat:L-mscl-pubococcygien-puborectal	anat:comprend	anat:L-mscl-pubococcygien-puborectal-fx-coccygien .
+anat:mscl-sangle-retrorectale	anat:comprend	anat:R-mscl-pubococcygien-puborectal-fx-retrorectal .
+anat:mscl-sangle-retrorectale	anat:comprend	anat:L-mscl-pubococcygien-puborectal-fx-retrorectal .
+anat:muscles-coccygien	anat:comprend	anat:R-mscl-coccygien .
+anat:muscles-coccygien	anat:comprend	anat:L-mscl-coccygien .
+anat:muscles-perinee-urogenital	anat:comprend	anat:muscles-perinee-urogenital-espace-supL .
+anat:muscles-perinee-urogenital	anat:comprend	anat:muscles-perinee-urogenital-espace-pfd .
+anat:muscles-perinee-urogenital-espace-supL	anat:comprend	anat:muscles-ischiocaverneux .
+anat:muscles-perinee-urogenital-espace-supL	anat:comprend	anat:muscles-bulbospongieux .
+anat:muscles-perinee-urogenital-espace-supL	anat:comprend	anat:muscles-trsv-supL-perinee .
+anat:muscles-perinee-urogenital-espace-supL	anat:comprend	anat:_H_mscl-compressR-vein-dorsale-penis .
+anat:muscles-perinee-urogenital-espace-supL	anat:comprend	anat:_F_mscl-compressR-vein-dorsale-clitoris .
+anat:muscles-ischiocaverneux	anat:comprend	anat:R-mscl-ischiocaverneux .
+anat:muscles-ischiocaverneux	anat:comprend	anat:L-mscl-ischiocaverneux .
+anat:muscles-ischiocaverneux	anat:comprend	anat:_F_R-mscl-ischiocaverneux .
+anat:muscles-ischiocaverneux	anat:comprend	anat:_F_L-mscl-ischiocaverneux .
+anat:muscles-bulbospongieux	anat:comprend	anat:R-mscl-bulbospongieux .
+anat:muscles-bulbospongieux	anat:comprend	anat:L-mscl-bulbospongieux .
+anat:R-mscl-bulbospongieux	anat:comprend	anat:R-mscl-bulbospongieux-fx-post .
+anat:R-mscl-bulbospongieux	anat:comprend	anat:R-mscl-bulbospongieux-fx-ant .
+anat:L-mscl-bulbospongieux	anat:comprend	anat:L-mscl-bulbospongieux-fx-post .
+anat:L-mscl-bulbospongieux	anat:comprend	anat:L-mscl-bulbospongieux-fx-ant .
+anat:muscles-trsv-supL-perinee	anat:comprend	anat:R-mscl-trsv-supL-perinee .
+anat:muscles-trsv-supL-perinee	anat:comprend	anat:L-mscl-trsv-supL-perinee .
+anat:_H_mscl-compressR-vein-dorsale-penis	anat:comprend	anat:R-mscl-bulbospongieux-fx-ant .
+anat:_H_mscl-compressR-vein-dorsale-penis	anat:comprend	anat:L-mscl-bulbospongieux-fx-ant .
+anat:_F_mscl-compressR-vein-dorsale-clitoris	anat:comprend	anat:_F_R-mscl-bulbospongieux-fx-ant .
+anat:_F_mscl-compressR-vein-dorsale-clitoris	anat:comprend	anat:_F_L-mscl-bulbospongieux-fx-ant .
+anat:muscles-perinee-urogenital-espace-pfd	anat:comprend	anat:muscle-sphinkter-uretre .
+anat:muscles-perinee-urogenital-espace-pfd	anat:comprend	anat:muscles-trsv-pfd-perinee .
+anat:muscle-sphinkter-uretre	anat:comprend	anat:mscl-compressR-uretre .
+anat:muscle-sphinkter-uretre	anat:comprend	anat:_H_mscl-uretroprostatique .
+anat:muscle-sphinkter-uretre	anat:comprend	anat:_F_mscl-uretrovaginal .
+anat:muscles-trsv-pfd-perinee	anat:comprend	anat:R-mscl-trsv-pfd-perinee .
+anat:muscles-trsv-pfd-perinee	anat:comprend	anat:L-mscl-trsv-pfd-perinee .
+anat:muscles-trsv-pfd-perinee	anat:comprend	anat:_F_R-mscl-trsv-pfd-perinee .
+anat:muscles-trsv-pfd-perinee	anat:comprend	anat:_F_L-mscl-trsv-pfd-perinee .
+anat:muscles-perinee-anal	anat:comprend	anat:mscl-sphinkter-ext-anus .
+anat:muscles-perinee-anal	anat:comprend	anat:lgmt-anococcygien .
+anat:mscl-sphinkter-ext-anus	anat:comprend	anat:mscl-sphinkter-ext-anus-fx-ss-cutane .
+anat:mscl-sphinkter-ext-anus	anat:comprend	anat:mscl-sphinkter-ext-anus-fx-supL .
+anat:mscl-sphinkter-ext-anus	anat:comprend	anat:mscl-sphinkter-ext-anus-fx-pfd .
+		
+anat:R-mscl-iliococcygien	anat:origi-insere-sur	anat:R-iliaque .
+anat:R-mscl-iliococcygien	anat:origi-insere-sur	anat:R-acrade-tdse-elevatR-anus .
+anat:R-mscl-iliococcygien	anat:termi-insere-sur	anat:coccyx .
+anat:R-mscl-iliococcygien	anat:termi-insere-sur	anat:lgmt-anococcygien .
+anat:L-mscl-iliococcygien	anat:origi-insere-sur	anat:L-iliaque .
+anat:L-mscl-iliococcygien	anat:origi-insere-sur	anat:L-acrade-tdse-elevatR-anus .
+anat:L-mscl-iliococcygien	anat:termi-insere-sur	anat:coccyx .
+anat:L-mscl-iliococcygien	anat:termi-insere-sur	anat:lgmt-anococcygien .
+anat:R-mscl-pubococcygien	anat:origi-insere-sur	anat:R-iliaque .
+anat:R-mscl-pubococcygien	anat:termi-insere-sur	anat:rectum .
+anat:R-mscl-pubococcygien	anat:termi-insere-sur	anat:L-mscl-pubococcygien-puborectal-fx-retrorectal .
+anat:R-mscl-pubococcygien	anat:termi-insere-sur	anat:coccyx .
+anat:R-mscl-pubococcygien	anat:termi-insere-sur	anat:R-lgmt-sacrococcygien-ventral .
+anat:R-mscl-pubococcygien	anat:termi-insere-sur	anat:noyau-fbx-central-perinee .
+anat:R-mscl-pubococcygien	anat:muscle-circonscrit	anat:_H_prostate .
+anat:R-mscl-pubococcygien	anat:muscle-circonscrit	anat:_F_vagin .
+anat:R-mscl-pubococcygien-puborectal-fx-laterorectal	anat:termi-insere-sur	anat:rectum .
+anat:R-mscl-pubococcygien-puborectal-fx-retrorectal	anat:termi-insere-sur	anat:L-mscl-pubococcygien-puborectal-fx-retrorectal .
+anat:R-mscl-pubococcygien-puborectal-fx-coccygien	anat:termi-insere-sur	anat:coccyx .
+anat:R-mscl-pubococcygien-puborectal-fx-coccygien	anat:termi-insere-sur	anat:R-lgmt-sacrococcygien-ventral .
+anat:_H_R-mscl-pubococcygien-puboprostatique	anat:termi-insere-sur	anat:noyau-fbx-central-perinee .
+anat:_H_R-mscl-pubococcygien-puboprostatique	anat:muscle-circonscrit	anat:_H_prostate .
+anat:_F_R-mscl-pubococcygien-pubovaginal	anat:termi-insere-sur	anat:noyau-fbx-central-perinee .
+anat:_F_R-mscl-pubococcygien-pubovaginal	anat:muscle-circonscrit	anat:_F_vagin .
+anat:L-mscl-pubococcygien	anat:origi-insere-sur	anat:L-iliaque .
+anat:L-mscl-pubococcygien	anat:termi-insere-sur	anat:rectum .
+anat:L-mscl-pubococcygien	anat:termi-insere-sur	anat:R-mscl-pubococcygien-puborectal-fx-retrorectal .
+anat:L-mscl-pubococcygien	anat:termi-insere-sur	anat:coccyx .
+anat:L-mscl-pubococcygien	anat:termi-insere-sur	anat:L-lgmt-sacrococcygien-ventral .
+anat:L-mscl-pubococcygien	anat:termi-insere-sur	anat:noyau-fbx-central-perinee .
+anat:L-mscl-pubococcygien	anat:muscle-circonscrit	anat:_H_prostate .
+anat:L-mscl-pubococcygien	anat:muscle-circonscrit	anat:_F_vagin .
+anat:L-mscl-pubococcygien-puborectal-fx-laterorectal	anat:termi-insere-sur	anat:rectum .
+anat:L-mscl-pubococcygien-puborectal-fx-retrorectal	anat:termi-insere-sur	anat:R-mscl-pubococcygien-puborectal-fx-retrorectal .
+anat:L-mscl-pubococcygien-puborectal-fx-coccygien	anat:termi-insere-sur	anat:coccyx .
+anat:L-mscl-pubococcygien-puborectal-fx-coccygien	anat:termi-insere-sur	anat:L-lgmt-sacrococcygien-ventral .
+anat:_H_L-mscl-pubococcygien-puboprostatique	anat:termi-insere-sur	anat:noyau-fbx-central-perinee .
+anat:_H_L-mscl-pubococcygien-puboprostatique	anat:muscle-circonscrit	anat:_H_prostate .
+anat:_F_L-mscl-pubococcygien-pubovaginal	anat:termi-insere-sur	anat:noyau-fbx-central-perinee .
+anat:_F_L-mscl-pubococcygien-pubovaginal	anat:muscle-circonscrit	anat:_F_vagin .
+anat:R-mscl-coccygien	anat:origi-insere-sur	anat:R-iliaque .
+anat:R-mscl-coccygien	anat:termi-insere-sur	anat:coccyx .
+anat:R-mscl-coccygien	anat:termi-insere-sur	anat:v-S4 .
+anat:R-mscl-coccygien	anat:termi-insere-sur	anat:v-S5 .
+anat:L-mscl-coccygien	anat:origi-insere-sur	anat:L-iliaque .
+anat:L-mscl-coccygien	anat:termi-insere-sur	anat:coccyx .
+anat:L-mscl-coccygien	anat:termi-insere-sur	anat:v-S4 .
+anat:L-mscl-coccygien	anat:termi-insere-sur	anat:v-S5 .
+anat:R-mscl-ischiocaverneux	anat:origi-insere-sur	anat:R-iliaque .
+anat:R-mscl-ischiocaverneux	anat:termi-insere-sur	anat:R-corps-caverneux-penis .
+anat:R-mscl-ischiocaverneux	anat:termi-insere-sur	anat:R-mscl-bulbospongieux-fx-post .
+anat:L-mscl-ischiocaverneux	anat:origi-insere-sur	anat:L-iliaque .
+anat:L-mscl-ischiocaverneux	anat:termi-insere-sur	anat:L-corps-caverneux-penis .
+anat:L-mscl-ischiocaverneux	anat:termi-insere-sur	anat:L-mscl-bulbospongieux-fx-post .
+anat:_F_R-mscl-ischiocaverneux	anat:origi-insere-sur	anat:R-iliaque .
+anat:_F_R-mscl-ischiocaverneux	anat:termi-insere-sur	anat:_F_R-corps-caverneux-clitoris .
+anat:_F_R-mscl-ischiocaverneux	anat:termi-insere-sur	anat:_F_R-mscl-bulbospongieux-fx-post .
+anat:_F_L-mscl-ischiocaverneux	anat:origi-insere-sur	anat:L-iliaque .
+anat:_F_L-mscl-ischiocaverneux	anat:termi-insere-sur	anat:_F_L-corps-caverneux-clitoris .
+anat:_F_L-mscl-ischiocaverneux	anat:termi-insere-sur	anat:_F_L-mscl-bulbospongieux-fx-post .
+anat:R-mscl-bulbospongieux	anat:origi-insere-sur	anat:noyau-fbx-central-perinee .
+anat:R-mscl-bulbospongieux	anat:origi-insere-sur	anat:raphe-des-mscl-bulbospongieux .
+anat:R-mscl-bulbospongieux	anat:termi-insere-sur	anat:_H_R-corps-caverneux-penis .
+anat:R-mscl-bulbospongieux	anat:termi-insere-sur	anat:_H_corps-spongieux-penis .
+anat:R-mscl-bulbospongieux	anat:termi-insere-sur	anat:L-mscl-bulbospongieux-fx-ant .
+anat:R-mscl-bulbospongieux-fx-ant	anat:termi-insere-sur	anat:_H_corps-spongieux-penis .
+anat:R-mscl-bulbospongieux-fx-ant	anat:termi-insere-sur	anat:L-mscl-bulbospongieux-fx-ant .
+anat:R-mscl-bulbospongieux-fx-post	anat:termi-insere-sur	anat:_H_R-corps-caverneux-penis .
+anat:_F_R-mscl-bulbospongieux-fx-post	anat:termi-insere-sur	anat:_F_clitoris .
+anat:L-mscl-bulbospongieux	anat:origi-insere-sur	anat:noyau-fbx-central-perinee .
+anat:L-mscl-bulbospongieux	anat:origi-insere-sur	anat:raphe-des-mscl-bulbospongieux .
+anat:L-mscl-bulbospongieux	anat:termi-insere-sur	anat:_H_L-corps-caverneux-penis .
+anat:L-mscl-bulbospongieux	anat:termi-insere-sur	anat:_H_corps-spongieux-penis .
+anat:L-mscl-bulbospongieux	anat:termi-insere-sur	anat:R-mscl-bulbospongieux-fx-ant .
+anat:L-mscl-bulbospongieux-fx-ant	anat:termi-insere-sur	anat:_H_corps-spongieux-penis .
+anat:L-mscl-bulbospongieux-fx-ant	anat:termi-insere-sur	anat:R-mscl-bulbospongieux-fx-ant .
+anat:L-mscl-bulbospongieux-fx-post	anat:termi-insere-sur	anat:_H_L-corps-caverneux-penis .
+anat:_F_L-mscl-bulbospongieux-fx-post	anat:termi-insere-sur	anat:_F_clitoris .
+anat:R-mscl-trsv-supL-perinee	anat:origi-insere-sur	anat:R-iliaque .
+anat:R-mscl-trsv-supL-perinee	anat:termi-insere-sur	anat:noyau-fbx-central-perinee .
+anat:L-mscl-trsv-supL-perinee	anat:origi-insere-sur	anat:L-iliaque .
+anat:L-mscl-trsv-supL-perinee	anat:termi-insere-sur	anat:noyau-fbx-central-perinee .
+anat:muscle-sphinkter-uretre	anat:s-insere-sur	anat:R-iliaque .
+anat:muscle-sphinkter-uretre	anat:s-insere-sur	anat:L-iliaque .
+anat:muscle-sphinkter-uretre	anat:muscle-circonscrit	anat:uretre .
+anat:muscle-sphinkter-uretre	anat:s-insere-sur	anat:_H_prostate .
+anat:muscle-sphinkter-uretre	anat:s-insere-sur	anat:_F_vagin .
+anat:mscl-compressR-uretre	anat:s-insere-sur	anat:R-iliaque .
+anat:mscl-compressR-uretre	anat:s-insere-sur	anat:L-iliaque .
+anat:_H_mscl-uretroprostatique	anat:muscle-circonscrit	anat:uretre .
+anat:_H_mscl-uretroprostatique	anat:s-insere-sur	anat:_H_prostate .
+anat:_F_mscl-uretrovaginal	anat:muscle-circonscrit	anat:uretre .
+anat:_F_mscl-uretrovaginal	anat:s-insere-sur	anat:_F_vagin .
+anat:R-mscl-trsv-pfd-perinee	anat:origi-insere-sur	anat:R-iliaque .
+anat:R-mscl-trsv-pfd-perinee	anat:termi-insere-sur	anat:noyau-fbx-central-perinee .
+anat:L-mscl-trsv-pfd-perinee	anat:origi-insere-sur	anat:L-iliaque .
+anat:L-mscl-trsv-pfd-perinee	anat:termi-insere-sur	anat:noyau-fbx-central-perinee .
+anat:_F_R-mscl-trsv-pfd-perinee	anat:origi-insere-sur	anat:R-iliaque .
+anat:_F_R-mscl-trsv-pfd-perinee	anat:termi-insere-sur	anat:noyau-fbx-central-perinee .
+anat:_F_R-mscl-trsv-pfd-perinee	anat:termi-insere-sur	anat:_F_vagin .
+anat:_F_L-mscl-trsv-pfd-perinee	anat:origi-insere-sur	anat:L-iliaque .
+anat:_F_L-mscl-trsv-pfd-perinee	anat:termi-insere-sur	anat:noyau-fbx-central-perinee .
+anat:_F_L-mscl-trsv-pfd-perinee	anat:termi-insere-sur	anat:_F_vagin .
+anat:mscl-sphinkter-ext-anus	anat:muscle-circonscrit	anat:canal-anal .
+anat:mscl-sphinkter-ext-anus	anat:s-insere-sur	anat:lgmt-anococcygien .
+anat:mscl-sphinkter-ext-anus	anat:s-insere-sur	anat:noyau-fbx-central-perinee .
+anat:mscl-sphinkter-ext-anus	anat:s-insere-sur	anat:R-mscl-pubococcygien-puborectal .
+anat:mscl-sphinkter-ext-anus	anat:s-insere-sur	anat:L-mscl-pubococcygien-puborectal .
+anat:mscl-sphinkter-ext-anus-fx-ss-cutane	anat:muscle-circonscrit	anat:canal-anal .
+anat:mscl-sphinkter-ext-anus-fx-supL	anat:muscle-circonscrit	anat:canal-anal .
+anat:mscl-sphinkter-ext-anus-fx-supL	anat:s-insere-sur	anat:lgmt-anococcygien .
+anat:mscl-sphinkter-ext-anus-fx-supL	anat:s-insere-sur	anat:noyau-fbx-central-perinee .
+anat:mscl-sphinkter-ext-anus-fx-pfd	anat:muscle-circonscrit	anat:canal-anal .
+anat:mscl-sphinkter-ext-anus-fx-pfd	anat:s-insere-sur	anat:R-mscl-pubococcygien-puborectal .
+anat:mscl-sphinkter-ext-anus-fx-pfd	anat:s-insere-sur	anat:L-mscl-pubococcygien-puborectal .
+anat:lgmt-anococcygien	anat:s-insere-sur	anat:mscl-sphinkter-ext-anus .
+anat:lgmt-anococcygien	anat:s-insere-sur	anat:coccyx .
+		
+anat:muscles-extrinseq-pelvis	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=iqCWDeG1vu8DCO5vCSW1naim> .
+anat:muscles-diaphragme-pelvien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=jWzia4qa85L5rOXXfqKjWDay> .
+anat:muscles-elevatR-anus	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=e4XL51vSrqCWv0LXb8qO5X1z> .
+anat:muscles-iliococcygien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=9j0bKviO1viCPXnmqSqW1P5X> .
+anat:R-mscl-iliococcygien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=yKXH1f9ryKTnOjWL55GXzGri> .
+anat:L-mscl-iliococcygien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=9LTfqiGD0nGLO51TD8b815j0> .
+anat:muscles-pubococcygien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=fqqKHLiSrSbKHDq0nGaaOPXH> .
+anat:R-mscl-pubococcygien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=OH5Hrariqamaey8fKfXbiu05> .
+anat:R-mscl-pubococcygien-puborectal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=OH5Hrariqamaey8fKfXbiu05> .
+#anat:R-mscl-pubococcygien-puborectal-fx-laterorectal	anat:hasImage3D	<> .
+anat:R-mscl-pubococcygien-puborectal-fx-retrorectal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=C811bCSLXHH9GfWjGrKb051P> .
+anat:R-mscl-pubococcygien-puborectal-fx-coccygien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=f491jq0HT9Dm5PnO1vOfammC> .
+#anat:_H_R-mscl-pubococcygien-puboprostatique	anat:hasImage3D	<> .
+#anat:_F_R-mscl-pubococcygien-pubovaginal	anat:hasImage3D	<> .
+anat:L-mscl-pubococcygien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=0n8z49zey0Pzz8vCqyv8zG5j> .
+anat:L-mscl-pubococcygien-puborectal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=0n8z49zey0Pzz8vCqyv8zG5j> .
+#anat:L-mscl-pubococcygien-puborectal-fx-laterorectal	anat:hasImage3D	<> .
+anat:L-mscl-pubococcygien-puborectal-fx-retrorectal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=qK5Xvqnaa4zqDODKnWXby0L1> .
+anat:L-mscl-pubococcygien-puborectal-fx-coccygien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=9HHTHnXHvae0HjmSfKHXz8Hj> .
+#anat:_H_L-mscl-pubococcygien-puboprostatique	anat:hasImage3D	<> .
+#anat:_F_L-mscl-pubococcygien-pubovaginal	anat:hasImage3D	<> .
+anat:muscles-coccygien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=9bq8PrjSLDSfODqmuajaKryG> .
+anat:R-mscl-coccygien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=fqaqO1HH15bq5PfGHrm4ju0H> .
+anat:L-mscl-coccygien	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=rKfOD4buOzK5HjqKTnTXD8na> .
+anat:mscl-sangle-retrorectale	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=D05v49je851HGzGTjmjSfqiq> .
+#anat:muscles-perinee-urogenital	anat:hasImage3D	<> .
+#anat:muscles-perinee-urogenital-espace-supL	anat:hasImage3D	<> .
+#anat:muscles-ischiocaverneux	anat:hasImage3D	<> .
+#anat:R-mscl-ischiocaverneux	anat:hasImage3D	<> .
+#anat:L-mscl-ischiocaverneux	anat:hasImage3D	<> .
+#anat:_F_R-mscl-ischiocaverneux	anat:hasImage3D	<> .
+#anat:_F_L-mscl-ischiocaverneux	anat:hasImage3D	<> .
+#anat:muscles-bulbospongieux	anat:hasImage3D	<> .
+#anat:R-mscl-bulbospongieux	anat:hasImage3D	<> .
+#anat:R-mscl-bulbospongieux-fx-ant	anat:hasImage3D	<> .
+#anat:R-mscl-bulbospongieux-fx-post	anat:hasImage3D	<> .
+#anat:_F_R-mscl-bulbospongieux-fx-post	anat:hasImage3D	<> .
+#anat:L-mscl-bulbospongieux	anat:hasImage3D	<> .
+#anat:L-mscl-bulbospongieux-fx-ant	anat:hasImage3D	<> .
+#anat:L-mscl-bulbospongieux-fx-post	anat:hasImage3D	<> .
+#anat:_F_L-mscl-bulbospongieux-fx-post	anat:hasImage3D	<> .
+#anat:muscles-trsv-supL-perinee	anat:hasImage3D	<> .
+#anat:R-mscl-trsv-supL-perinee	anat:hasImage3D	<> .
+#anat:L-mscl-trsv-supL-perinee	anat:hasImage3D	<> .
+#anat:_H_mscl-compressR-vein-dorsale-penis	anat:hasImage3D	<> .
+#anat:_F_mscl-compressR-vein-dorsale-clitoris	anat:hasImage3D	<> .
+#anat:muscles-perinee-urogenital-espace-pfd	anat:hasImage3D	<> .
+#anat:muscle-sphinkter-uretre	anat:hasImage3D	<> .
+#anat:mscl-compressR-uretre	anat:hasImage3D	<> .
+#anat:_H_mscl-uretroprostatique	anat:hasImage3D	<> .
+#anat:_F_mscl-uretrovaginal	anat:hasImage3D	<> .
+#anat:muscles-trsv-pfd-perinee	anat:hasImage3D	<> .
+#anat:R-mscl-trsv-pfd-perinee	anat:hasImage3D	<> .
+#anat:L-mscl-trsv-pfd-perinee	anat:hasImage3D	<> .
+#anat:_F_R-mscl-trsv-pfd-perinee	anat:hasImage3D	<> .
+#anat:_F_L-mscl-trsv-pfd-perinee	anat:hasImage3D	<> .
+anat:muscles-perinee-anal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=OfC8nqHviOjizSLvmGuaiq4j> .
+anat:mscl-sphinkter-ext-anus	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=OfC8nqHviOjizSLvmGuaiq4j> .
+#anat:mscl-sphinkter-ext-anus-fx-ss-cutane	anat:hasImage3D	<> .
+#anat:mscl-sphinkter-ext-anus-fx-supL	anat:hasImage3D	<> .
+#anat:mscl-sphinkter-ext-anus-fx-pfd	anat:hasImage3D	<> .
+#anat:lgmt-anococcygien	anat:hasImage3D	<> .
+#anat:noyau-fbx-central-perinee	anat:hasImage3D	<> .
+anat:muscles-extrinseq-pelvis	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=CiCq0v0P9Hfez8PX1jLTPrm4> .
+anat:muscles-diaphragme-pelvien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=eyO9Pv8Hja899fW1j8jKnaOH> .
+anat:muscles-elevatR-anus	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=iauOX9yqma45LfW9fyOfaODC> .
+anat:muscles-iliococcygien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=f01X5bmyyaCOnm8beO1TDiuO> .
+anat:R-mscl-iliococcygien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=bK5DiuHPza4Hz85r8P09TvuO> .
+anat:L-mscl-iliococcygien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=89fG5zHHHzOP4HLfWviKXTT9> .
+anat:muscles-pubococcygien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=KrmKXj1TL1PTnOz8TnjiWL5f> .
+anat:R-mscl-pubococcygien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=vSjGnOHjOXPvrKjOzG41TXvy> .
+anat:R-mscl-pubococcygien-puborectal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=vSjGnOHjOXPvrKjOzG41TXvy> .
+#anat:R-mscl-pubococcygien-puborectal-fx-laterorectal	anat:has3DmodelURL	<> .
+anat:R-mscl-pubococcygien-puborectal-fx-retrorectal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=H9zy09yam8DiCyK9jG4nCi0D> .
+anat:R-mscl-pubococcygien-puborectal-fx-coccygien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=SfGDC0Oj81LTu4TTnqPTjiq8> .
+#anat:_H_R-mscl-pubococcygien-puboprostatique	anat:has3DmodelURL	<> .
+#anat:_F_R-mscl-pubococcygien-pubovaginal	anat:has3DmodelURL	<> .
+anat:L-mscl-pubococcygien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=D0jeGnbyaSTnD0HvCm9DayCO> .
+anat:L-mscl-pubococcygien-puborectal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=D0jeGnbyaSTnD0HvCm9DayCO> .
+#anat:L-mscl-pubococcygien-puborectal-fx-laterorectal	anat:has3DmodelURL	<> .
+anat:L-mscl-pubococcygien-puborectal-fx-retrorectal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=0Hbu0jmaCmqSqOveaWnObe8L> .
+anat:L-mscl-pubococcygien-puborectal-fx-coccygien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=GjSHr0nG5bSHimWX1b4HjaeG> .
+#anat:_H_L-mscl-pubococcygien-puboprostatique	anat:has3DmodelURL	<> .
+#anat:_F_L-mscl-pubococcygien-pubovaginal	anat:has3DmodelURL	<> .
+anat:muscles-coccygien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=8XzSTXbSzO9z9rum0rr81Lb8> .
+anat:R-mscl-coccygien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Of059vqiuaeCqmm4Tvfm4DSr> .
+anat:L-mscl-coccygien	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=uS9naGT5HX1Dn4nea4KfWP1r> .
+anat:mscl-sangle-retrorectale	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Pj81DybKzyuGzKz85nz4vOHL> .
+#anat:muscles-perinee-urogenital	anat:has3DmodelURL	<> .
+#anat:muscles-perinee-urogenital-espace-supL	anat:has3DmodelURL	<> .
+#anat:muscles-ischiocaverneux	anat:has3DmodelURL	<> .
+#anat:R-mscl-ischiocaverneux	anat:has3DmodelURL	<> .
+#anat:L-mscl-ischiocaverneux	anat:has3DmodelURL	<> .
+#anat:_F_R-mscl-ischiocaverneux	anat:has3DmodelURL	<> .
+#anat:_F_L-mscl-ischiocaverneux	anat:has3DmodelURL	<> .
+#anat:muscles-bulbospongieux	anat:has3DmodelURL	<> .
+#anat:R-mscl-bulbospongieux	anat:has3DmodelURL	<> .
+#anat:R-mscl-bulbospongieux-fx-ant	anat:has3DmodelURL	<> .
+#anat:R-mscl-bulbospongieux-fx-post	anat:has3DmodelURL	<> .
+#anat:_F_R-mscl-bulbospongieux-fx-post	anat:has3DmodelURL	<> .
+#anat:L-mscl-bulbospongieux	anat:has3DmodelURL	<> .
+#anat:L-mscl-bulbospongieux-fx-ant	anat:has3DmodelURL	<> .
+#anat:L-mscl-bulbospongieux-fx-post	anat:has3DmodelURL	<> .
+#anat:_F_L-mscl-bulbospongieux-fx-post	anat:has3DmodelURL	<> .
+#anat:muscles-trsv-supL-perinee	anat:has3DmodelURL	<> .
+#anat:R-mscl-trsv-supL-perinee	anat:has3DmodelURL	<> .
+#anat:L-mscl-trsv-supL-perinee	anat:has3DmodelURL	<> .
+#anat:_H_mscl-compressR-vein-dorsale-penis	anat:has3DmodelURL	<> .
+#anat:_F_mscl-compressR-vein-dorsale-clitoris	anat:has3DmodelURL	<> .
+#anat:muscles-perinee-urogenital-espace-pfd	anat:has3DmodelURL	<> .
+#anat:muscle-sphinkter-uretre	anat:has3DmodelURL	<> .
+#anat:mscl-compressR-uretre	anat:has3DmodelURL	<> .
+#anat:_H_mscl-uretroprostatique	anat:has3DmodelURL	<> .
+#anat:_F_mscl-uretrovaginal	anat:has3DmodelURL	<> .
+#anat:muscles-trsv-pfd-perinee	anat:has3DmodelURL	<> .
+#anat:R-mscl-trsv-pfd-perinee	anat:has3DmodelURL	<> .
+#anat:L-mscl-trsv-pfd-perinee	anat:has3DmodelURL	<> .
+#anat:_F_R-mscl-trsv-pfd-perinee	anat:has3DmodelURL	<> .
+#anat:_F_L-mscl-trsv-pfd-perinee	anat:has3DmodelURL	<> .
+anat:muscles-perinee-anal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=CiWL1v5jC4buvOv0veGDW1P9> .
+anat:mscl-sphinkter-ext-anus	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=CiWL1v5jC4buvOv0veGDW1P9> .
+#anat:mscl-sphinkter-ext-anus-fx-ss-cutane	anat:has3DmodelURL	<> .
+#anat:mscl-sphinkter-ext-anus-fx-supL	anat:has3DmodelURL	<> .
+#anat:mscl-sphinkter-ext-anus-fx-pfd	anat:has3DmodelURL	<> .
+#anat:lgmt-anococcygien	anat:has3DmodelURL	<> .
+#anat:noyau-fbx-central-perinee	anat:has3DmodelURL	<> .
+
+anat:muscles-extrinseq-pelvis	rdfs:label	"Muscles extrinsèques du pelvis" .
+anat:muscles-diaphragme-pelvien	rdfs:label	"Muscles du diaphragme pelvien" .
+anat:muscles-elevatR-anus	rdfs:label	"Muscles élévateurs de l'anus" .
+anat:muscles-iliococcygien	rdfs:label	"Muscles ilio-coccygiens" .
+anat:R-mscl-iliococcygien	rdfs:label	"Muscle ilio-coccygien droit" .
+anat:L-mscl-iliococcygien	rdfs:label	"Muscle ilio-coccygien gauche" .
+anat:muscles-pubococcygien	rdfs:label	"Muscles pubo-coccygiens" .
+anat:R-mscl-pubococcygien	rdfs:label	"Muscle pubo-coccygien droit" .
+anat:R-mscl-pubococcygien-puborectal	rdfs:label	"Muscle pubo-rectal droit" .
+anat:R-mscl-pubococcygien-puborectal-fx-laterorectal	rdfs:label	"Faisceau latéro-rectal du muscle pubo-rectal droit" .
+anat:R-mscl-pubococcygien-puborectal-fx-retrorectal	rdfs:label	"Faisceau rétro-rectal du muscle pubo-rectal droit" .
+anat:R-mscl-pubococcygien-puborectal-fx-coccygien	rdfs:label	"Faisceau coccygien du muscle pubo-rectal droit" .
+anat:_H_R-mscl-pubococcygien-puboprostatique	rdfs:label	"Muscle pubo-prostatique (m. de la prostate) droit (chez l'homme)" .
+anat:_F_R-mscl-pubococcygien-pubovaginal	rdfs:label	"Muscle pubo-vaginal droit (chez la femme)" .
+anat:L-mscl-pubococcygien	rdfs:label	"Muscle pubo-coccygien gauche" .
+anat:L-mscl-pubococcygien-puborectal	rdfs:label	"Muscle pubo-rectal gauche" .
+anat:L-mscl-pubococcygien-puborectal-fx-laterorectal	rdfs:label	"Faisceau latéro-rectal du muscle pubo-rectal gauche" .
+anat:L-mscl-pubococcygien-puborectal-fx-retrorectal	rdfs:label	"Faisceau rétro-rectal du muscle pubo-rectal gauche" .
+anat:L-mscl-pubococcygien-puborectal-fx-coccygien	rdfs:label	"Faisceau coccygien du muscle pubo-rectal gauche" .
+anat:_H_L-mscl-pubococcygien-puboprostatique	rdfs:label	"Muscle pubo-prostatique (m. élévateur de la prostate) gauche (chez l'homme)" .
+anat:_F_L-mscl-pubococcygien-pubovaginal	rdfs:label	"Muscle pubo-vaginal gauche (chez la femme)" .
+anat:muscles-coccygien	rdfs:label	"Muscles coccygiens" .
+anat:R-mscl-coccygien	rdfs:label	"Muscle coccygien droit" .
+anat:L-mscl-coccygien	rdfs:label	"Muscle coccygien gauche" .
+anat:mscl-sangle-retrorectale	rdfs:label	"Sangle rétro-rectale" .
+anat:muscles-perinee-urogenital	rdfs:label	"Muscles du périnée uro-génital" .
+anat:muscles-perinee-urogenital-espace-supL	rdfs:label	"Muscles du périnée uro-génital : espace superficiel" .
+anat:muscles-ischiocaverneux	rdfs:label	"Muscles ischio-caverneux" .
+anat:R-mscl-ischiocaverneux	rdfs:label	"Muscle ischio-caverneux droit" .
+anat:L-mscl-ischiocaverneux	rdfs:label	"Muscle ischio-caverneux gauche" .
+anat:_F_R-mscl-ischiocaverneux	rdfs:label	"Muscle ischio-caverneux droit (chez la femme)" .
+anat:_F_L-mscl-ischiocaverneux	rdfs:label	"Muscle ischio-caverneux gauche (chez la femme)" .
+anat:muscles-bulbospongieux	rdfs:label	"Muscles bulbo-spongieux" .
+anat:R-mscl-bulbospongieux	rdfs:label	"Muscle bulbo-spongieux droit" .
+anat:R-mscl-bulbospongieux-fx-ant	rdfs:label	"Faisceau antérieur du muscle bulbo-spongieux droit" .
+anat:R-mscl-bulbospongieux-fx-post	rdfs:label	"Faisceau postérieur du muscle bulbo-spongieux droit" .
+anat:_F_R-mscl-bulbospongieux-fx-post	rdfs:label	"Faisceau postérieur du muscle bulbo-spongieux droit (chez la femme)" .
+anat:L-mscl-bulbospongieux	rdfs:label	"Muscle bulbo-spongieux gauche" .
+anat:L-mscl-bulbospongieux-fx-ant	rdfs:label	"Faisceau antérieur du muscle bulbo-spongieux gauche" .
+anat:L-mscl-bulbospongieux-fx-post	rdfs:label	"Faisceau postérieur du muscle bulbo-spongieux gauche" .
+anat:_F_L-mscl-bulbospongieux-fx-post	rdfs:label	"Faisceau postérieur du muscle bulbo-spongieux gauche (chez la femme)" .
+anat:muscles-trsv-supL-perinee	rdfs:label	"Muscles transverses superficiels du périnée" .
+anat:R-mscl-trsv-supL-perinee	rdfs:label	"Muscle transverse superficiel du périnée droit" .
+anat:L-mscl-trsv-supL-perinee	rdfs:label	"Muscle transverse superficiel du périnée gauche" .
+anat:_H_mscl-compressR-vein-dorsale-penis	rdfs:label	"Muscle compresseur de la veine dorsale du penis (chez l'homme)" .
+anat:_F_mscl-compressR-vein-dorsale-clitoris	rdfs:label	"Muscle compresseur de la veine dorsale du clitoris (chez la femme)" .
+anat:muscles-perinee-urogenital-espace-pfd	rdfs:label	"Muscles du périnée uro-génital : espace profond (diaphragme uro-génital)" .
+anat:muscle-sphincter-uretre	rdfs:label	"Muscle sphincter de l'urètre" .
+anat:mscl-compressR-uretre	rdfs:label	"Muscle compresseur de l'urètre" .
+anat:_H_mscl-uretroprostatique	rdfs:label	"Muscle urétro-prostatique (chez l'homme)" .
+anat:_F_mscl-uretrovaginal	rdfs:label	"Muscle urétro-vaginal (chez la femme)" .
+anat:muscles-trsv-pfd-perinee	rdfs:label	"Muscles transverses profonds du périnée" .
+anat:R-mscl-trsv-pfd-perinee	rdfs:label	"Muscle transverse profond du périnée droit" .
+anat:L-mscl-trsv-pfd-perinee	rdfs:label	"Muscle transverse profond du périnée gauche" .
+anat:_F_R-mscl-trsv-pfd-perinee	rdfs:label	"Muscle transverse profond du périnée droit (chez la femme)" .
+anat:_F_L-mscl-trsv-pfd-perinee	rdfs:label	"Muscle transverse profond du périnée gauche (chez la femme)" .
+anat:muscles-perinee-anal	rdfs:label	"Muscles du périnée anal" .
+anat:mscl-sphincter-ext-anus	rdfs:label	"Sphincter externe de l'anus" .
+anat:mscl-sphincter-ext-anus-fx-ss-cutane	rdfs:label	"Faisceau sous-cutané du sphincter externe de l'anus" .
+anat:mscl-sphincter-ext-anus-fx-supL	rdfs:label	"Faisceau superficiel du sphincter externe de l'anus" .
+anat:mscl-sphincter-ext-anus-fx-pfd	rdfs:label	"Faisceau profond du sphincter externe de l'anus" .
+anat:lgmt-anococcygien	rdfs:label	"Ligament ano-coccygien" .
+anat:noyau-fbx-central-perinee	rdfs:label	"Noyeux fibreux central du périnée" .
+
 

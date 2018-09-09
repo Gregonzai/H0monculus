@@ -333,39 +333,6 @@ get '/myologie' => sub {
 	template 'myologie.tt';
 };
 
-get '/individuals' => sub {
-
-	
-	my $query2 = RDF::Query->new( 'SELECT ?subject ?type WHERE {
-		?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?type
-	}' );
-	my $iterator2 = $query2->execute( $model );
-
-	my @data;
-	while (my $row = $iterator2->next) {
-		my $line = {};
-		$$line{subject} = $$row{subject}->as_string;
-		$$line{subject} =~ s/^<|>$//g;
-		$$line{label} = get_label("<$$line{subject}>");
-		$$line{type} = $$row{type}->as_string;
-		$$line{type} =~ s/^<|>$//g;
-		$$line{typelabel} = get_label("<$$line{type}>");
-		push @data, $line if $$line{type} ne 'http://www.w3.org/2002/07/owl#Restriction'
-		                 and $$line{type} ne 'http://www.w3.org/2002/07/owl#ObjectProperty'
-		                 and $$line{type} ne 'http://www.w3.org/2002/07/owl#Class'
-		                 and $$line{type} ne 'http://www.w3.org/2002/07/owl#AllDifferent'
-		                 and $$line{type} ne 'http://www.w3.org/2002/07/owl#Ontology'
-		                 and $$line{type} ne 'http://www.w3.org/2002/07/owl#FunctionalProperty'
-		                 and $$line{type} ne 'http://www.w3.org/2002/07/owl#InverseFunctionalProperty'
-		                 and $$line{type} ne 'http://www.w3.org/2002/07/owl#TransitiveProperty'
-		                 ;
-	}
-
-	template 'individuals.tt', {
-		results => \@data
-	};
-};
-
 get '/graph' => sub {
 
 	my $query = RDF::Query->new( 'SELECT ?s ?p ?o ?st ?ot ?sl ?ol WHERE { 

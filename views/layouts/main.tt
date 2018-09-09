@@ -20,6 +20,9 @@
 			padding-top: 60px;
 			padding-bottom: 0;
 		}
+		.brand {
+			font-family: "WenQuanYi Zen Hei Mono";
+		}
 		.sidebar-nav {
 			padding: 9px 0;
 		}
@@ -94,7 +97,6 @@
 						<ul class="nav">
 							<li [% IF request.path == '/osteologie' %]class="active"[% END %]><a href="/osteologie">Ostéologie</a></li>
 							<li [% IF request.path == '/myologie' %]class="active"[% END %]><a href="/myologie">Myologie</a></li>
-							<li [% IF request.path == '/individuals' %]class="active"[% END %]><a href="/individuals">Individuals</a></li>
 							<li [% IF request.path == '/graph' %]class="active"[% END %]><a href="/graph">Graph</a></li>
 						</ul>
 					</div><!--/.nav-collapse -->

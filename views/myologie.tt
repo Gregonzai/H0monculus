@@ -2746,8 +2746,947 @@
       <div class="panel-body">
 	<ul style="list-style-type:square">
 	<li><a href="/desc/http://anat.org/muscles-supL-dos">Muscles superficiels du dos</a></li>
-	<li><a href="/desc/http://anat.org/muscles-intermed-dos">Muscles intermédiaires du dos</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo6-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo6-1" aria-expanded="false" aria-controls="collapseMyo6-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo6-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo6-1">
+      <div class="panel-body">
+
+		<ul style="list-style-type:disc">
+		<li><a href="/desc/http://anat.org/muscles-angulaire-scapula">Muscles élévateurs des scapulas (anc. angulaires des omoplates)</a>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/R-mscl-angulaire-scapula">Muscle élévateur de la scapula (anc. angulaire de l'omoplate) droit</a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-angulaire-scapula">Muscle élévateur de la scapula (anc. angulaire de l'omoplate) gauche</a></li>
+			</ul>
+		</li>
+		<li><a href="/desc/http://anat.org/muscles-rhomboides">Muscles rhomboïdes</a>
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/muscles-pt-rhombo">Muscles petits rhomboïdes</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-pt-rhombo">Muscle petit rhomboïde droit</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-pt-rhombo">Muscle petit rhomboïde gauche</a></li>
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/muscles-gd-rhombo">Muscles grands rhomboïdes</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-gd-rhombo">Muscle grand rhomboïde droit</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-gd-rhombo">Muscle grand rhomboïde gauche</a></li>
+				</ul>
+			</li>
+			</ul>
+		</li>
+		<li><a href="/desc/http://anat.org/muscles-trapeze">Muscles trapèzes</a>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/R-mscl-trapeze">Muscle trapèze droit</a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-trapeze">Muscle trapèze gauche</a></li>
+			</ul>
+		</li>
+		<li><a href="/desc/http://anat.org/muscles-gd-dorsal">Muscles grands dorsaux</a>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/R-mscl-gd-dorsal">Muscle grand dorsal droit</a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-gd-dorsal">Muscle grand dorsal gauche</a></li>
+			</ul>
+		</li>
+		</ul>
+
+      </div>
+    </div>
+  </div>
+
+	<li><a href="/desc/http://anat.org/muscles-intermed-dos">Muscles intermédiaires du dos</a>
+		<ul style="list-style-type:disc">
+		<li><a href="/desc/http://anat.org/muscles-denteles-post">Muscles dentelés postérieurs</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo6-2-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo6-2-1" aria-expanded="false" aria-controls="collapseMyo6-2-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo6-2-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo6-2-1">
+      <div class="panel-body">
+
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/muscles-dentele-post-sup">Muscles dentelés postéro-supérieurs</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-dentele-post-sup">Muscle dentelé postéro-supérieur droit</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-dentele-post-sup">Muscle dentelé postéro-supérieur gauche</a></li>
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/muscles-dentele-post-inf">Muscles dentelés postéro-inférieurs</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-dentele-post-inf">Muscle dentelé postéro-inférieur droit</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-dentele-post-inf">Muscle dentelé postéro-inférieur gauche</a></li>
+				</ul>
+			</li>
+			</ul>
+
+      </div>
+    </div>
+  </div>
+
+		</ul>
+	</li>
 	<li><a href="/desc/http://anat.org/muscles-pfd-dos">Muscles profonds du dos</a></li>
+		<ul style="list-style-type:disc">
+		<li><a href="/desc/http://anat.org/muscles-splenius">Muscles splénius</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo6-3-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo6-3-1" aria-expanded="false" aria-controls="collapseMyo6-3-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo6-3-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo6-3-1">
+      <div class="panel-body">
+
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/muscles-splenius-tete">Muscles splénius de la tête</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-splenius-tete">Muscle splénius de la tête droit</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-splenius-tete">Muscle splénius de la tête gauche</a></li>
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/muscles-splenius-cou	">Muscles splénius du cou</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-splenius-cou">Muscle splénius du cou droit</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-splenius-cou">Muscle splénius du cou gauche</a></li>
+				</ul>
+			</li>
+			</ul>
+
+      </div>
+    </div>
+  </div>
+
+		<li><a href="/desc/http://anat.org/muscles-erectR-rachis">Muscles érecteurs du rachis</a>
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/muscles-iliocostaux">Muscles ilio-costaux</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo6-3-2-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo6-3-2-1" aria-expanded="false" aria-controls="collapseMyo6-3-2-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo6-3-2-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo6-3-2-1">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/muscles-iliocostal-lombes">Muscles ilio-costaux des lombes</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-iliocostal-lombes">Muscle ilio-costal des lombes droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-iliocostal-lombes">Muscle ilio-costal des lombes gauche</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-iliocostal-thorax">Muscles ilio-costaux du thorax</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-iliocostal-thorax">Muscle ilio-costal du thorax droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-iliocostal-thorax">Muscle ilio-costal du thorax gauche</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-iliocostal-cou">Muscles ilio-costaux du cou</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-iliocostal-cou">Muscle ilio-costal du cou droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-iliocostal-cou">Muscle ilio-costal du cou gauche</a></li>
+					</ul>
+				</li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			<li><a href="/desc/http://anat.org/muscles-longissimus">Muscles longissimus</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo6-3-2-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo6-3-2-2" aria-expanded="false" aria-controls="collapseMyo6-3-2-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo6-3-2-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo6-3-2-2">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/muscles-longissimus-thorax">Muscles longissimus du thorax</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-longissimus-thorax">Muscle longissimus du thorax droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-longissimus-thorax">Muscle longissimus du thorax gauche</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-longissimus-cou">Muscles longissimus du cou</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-longissimus-cou">Muscle longissimus du cou droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-longissimus-cou">Muscle longissimus du cou gauche</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-longissimus-tete">Muscles longissimus de la tête</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-longissimus-tete">Muscle longissimus de la tête droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-longissimus-tete">Muscle longissimus de la tête gauche</a></li>
+					</ul>
+				</li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			<li><a href="/desc/http://anat.org/muscles-epineux">Muscles épineux</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo6-3-2-3">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo6-3-2-3" aria-expanded="false" aria-controls="collapseMyo6-3-2-3">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo6-3-2-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo6-3-2-3">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/muscles-epineux-thorax">Muscles épineux du thorax</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-epineux-thorax">Muscle épineux du thorax droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-epineux-thorax">Muscle épineux du thorax gauche</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-epineux-cou">Muscles épineux du cou</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-epineux-cou">Muscle épineux du cou droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-epineux-cou">Muscle épineux du cou gauche</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-epineux-tete">Muscles épineux de la tête</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-epineux-tete">Muscle épineux de la tête droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-epineux-tete">Muscle épineux de la tête gauche</a></li>
+					</ul>
+				</li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			</ul>
+		</li>
+		<li><a href="/desc/http://anat.org/muscles-trvsR-epineux">Muscles transversaires épineux</a>
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/muscles-semi-epineux">Muscles semi-épineux</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo6-3-3-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo6-3-3-1" aria-expanded="false" aria-controls="collapseMyo6-3-3-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo6-3-3-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo6-3-3-1">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/muscles-semi-epineux-thorax">Muscles semi-épineux du thorax</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-semi-epineux-thorax">Muscle semi-épineux du thorax droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-semi-epineux-thorax">Muscle semi-épineux du thorax gauche</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-semi-epineux-cou">Muscles semi-épineux du cou</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-semi-epineux-cou">Muscle semi-épineux du cou droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-semi-epineux-cou">Muscle semi-épineux du cou gauche</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-semi-epineux-tete">Muscles semi-épineux de la tête</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-semi-epineux-tete">Muscle semi-épineux de la tête droit</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-semi-epineux-tete-fx-med">Faisceau médial du muscle semi-épineux de la tête droit</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-semi-epineux-tete-fx-lat">Faisceau latéral du muscle semi-épineux de la tête droit</a></li>
+						</ul>
+					</li>
+					<li><a href="/desc/http://anat.org/L-mscl-semi-epineux-tete">Muscle semi-épineux de la tête gauche</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/L-mscl-semi-epineux-tete-fx-med">Faisceau médial du muscle semi-épineux de la tête gauche</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-semi-epineux-tete-fx-lat">Faisceau latéral du muscle semi-épineux de la tête gauche</a></li>
+						</ul>
+					</li>
+					</ul>
+				</li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			<li><a href="/desc/http://anat.org/muscles-rotR-rachis">Muscles rotateurs du rachis</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo6-3-3-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo6-3-3-2" aria-expanded="false" aria-controls="collapseMyo6-3-3-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo6-3-3-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo6-3-3-2">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/muscles-rotR-rachis-cou">Muscles rotateurs du rachis cervical</a>
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/muscles-rotR-rachis-crt-cou">Muscles courts rotateurs du rachis cervical</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo6-3-3-2-1-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo6-3-3-2-1-1" aria-expanded="false" aria-controls="collapseMyo6-3-3-2-1-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo6-3-3-2-1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo6-3-3-2-1-1">
+      <div class="panel-body">
+
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-muscles-rotR-rachis-crt-cou">Muscles courts rotateurs droits du rachis cervical droits</a>
+							<ul style="list-style-type:circle">
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-crt-cou-C3-C2">Muscle court rotateur droit C3-C2</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-crt-cou-C4-C3">Muscle court rotateur droit C4-C3</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-crt-cou-C5-C4">Muscle court rotateur droit C5-C4</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-crt-cou-C6-C5">Muscle court rotateur droit C6-C5</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-crt-cou-C7-C6">Muscle court rotateur droit C7-C6</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-crt-cou-T1-C7">Muscle court rotateur droit T1-C7</a></li>
+							</ul>
+						</li>
+						<li><a href="/desc/http://anat.org/L-muscles-rotR-rachis-crt-cou">Muscles courts rotateurs gauches du rachis cervical</a>
+							<ul style="list-style-type:circle">
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-crt-cou-C3-C2">Muscle court rotateur gauche C3-C2</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-crt-cou-C4-C3">Muscle court rotateur gauche C4-C3</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-crt-cou-C5-C4">Muscle court rotateur gauche C5-C4</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-crt-cou-C6-C5">Muscle court rotateur gauche C6-C5</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-crt-cou-C7-C6">Muscle court rotateur gauche C7-C6</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-crt-cou-T1-C7">Muscle court rotateur gauche T1-C7</a></li>
+							</ul>
+						</li>
+						</ul>
+
+      </div>
+    </div>
+  </div>
+
+					<li><a href="/desc/http://anat.org/muscles-rotR-rachis-lg-cou">Muscles longs rotateurs du rachis cervical</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo6-3-3-2-1-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo6-3-3-2-1-2" aria-expanded="false" aria-controls="collapseMyo6-3-3-2-1-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo6-3-3-2-1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo6-3-3-2-1-2">
+      <div class="panel-body">
+
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-muscles-rotR-rachis-lg-cou">Muscles longs rotateurs droits du rachis cervical</a>
+							<ul style="list-style-type:circle">
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-lg-cou-C4-C2">Muscle long rotateur droit C4-C2</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-lg-cou-C5-C3">Muscle long rotateur droit C5-C3</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-lg-cou-C6-C4">Muscle long rotateur droit C6-C4</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-lg-cou-C7-C5">Muscle long rotateur droit C7-C5</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-lg-cou-T1-C6">Muscle long rotateur droit T1-C6</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-lg-thorax-T2-C7">Muscle long rotateur droit T2-C7</a></li>
+							</ul>
+						</li>
+						<li><a href="/desc/http://anat.org/L-muscles-rotR-rachis-lg-cou">Muscles longs rotateurs gauches du rachis cervical</a>
+							<ul style="list-style-type:circle">
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-lg-cou-C4-C2">Muscle long rotateur gauche C4-C2</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-lg-cou-C5-C3">Muscle long rotateur gauche C5-C3</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-lg-cou-C6-C4">Muscle long rotateur gauche C6-C4</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-lg-cou-C7-C5">Muscle long rotateur gauche C7-C5</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-lg-cou-T1-C6">Muscle long rotateur gauche T1-C6</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-lg-thorax-T2-C7">Muscle long rotateur gauche T2-C7</a></li>
+							</ul>
+						</li>
+						</ul>
+
+      </div>
+    </div>
+  </div>
+
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-rotR-rachis-thorax">Muscles rotateurs du rachis thoracique</a>
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/muscles-rotR-rachis-crt-thorax">Muscles courts rotateurs du rachis thoracique</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo6-3-3-2-2-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo6-3-3-2-2-1" aria-expanded="false" aria-controls="collapseMyo6-3-3-2-2-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo6-3-3-2-2-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo6-3-3-2-2-1">
+      <div class="panel-body">
+
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-muscles-rotR-rachis-crt-thorax">Muscles courts rotateurs droits du rachis thoracique</a>
+							<ul style="list-style-type:circle">
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-crt-thorax-T2-T1">Muscle court rotateur droit T2-T1</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-crt-thorax-T3-T2">Muscle court rotateur droit T3-T2</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-crt-thorax-T4-T3">Muscle court rotateur droit T4-T3</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-crt-thorax-T5-T4">Muscle court rotateur droit T5-T4</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-crt-thorax-T6-T5">Muscle court rotateur droit T6-T5</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-crt-thorax-T7-T6">Muscle court rotateur droit T7-T6</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-crt-thorax-T8-T7">Muscle court rotateur droit T8-T7</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-crt-thorax-T9-T8">Muscle court rotateur droit T9-T8</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-crt-thorax-T10-T9">Muscle court rotateur droit T10-T9</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-crt-thorax-T11-T10">Muscle court rotateur droit T11-T10</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-crt-thorax-T12-T11">Muscle court rotateur droit T12-T11</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-crt-thorax-L1-T12">Muscle court rotateur droit L1-T12</a></li>
+							</ul>
+						</li>
+						<li><a href="/desc/http://anat.org/L-muscles-rotR-rachis-crt-thorax">Muscles courts rotateurs gauches du rachis thoracique</a>
+							<ul style="list-style-type:circle">
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-crt-thorax-T2-T1">Muscle court rotateur gauche T2-T1</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-crt-thorax-T3-T2">Muscle court rotateur gauche T3-T2</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-crt-thorax-T4-T3">Muscle court rotateur gauche T4-T3</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-crt-thorax-T5-T4">Muscle court rotateur gauche T5-T4</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-crt-thorax-T6-T5">Muscle court rotateur gauche T6-T5</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-crt-thorax-T7-T6">Muscle court rotateur gauche T7-T6</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-crt-thorax-T8-T7">Muscle court rotateur gauche T8-T7</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-crt-thorax-T9-T8">Muscle court rotateur gauche T9-T8</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-crt-thorax-T10-T9">Muscle court rotateur gauche T10-T9</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-crt-thorax-T11-T10">Muscle court rotateur gauche T11-T10</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-crt-thorax-T12-T11">Muscle court rotateur gauche T12-T11</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-crt-thorax-L1-T12">Muscle court rotateur gauche L1-T12</a></li>
+							</ul>
+						</li>
+						</ul>
+
+      </div>
+    </div>
+  </div>
+
+					<li><a href="/desc/http://anat.org/muscles-rotR-rachis-lg-thorax">Muscles longs rotateurs du rachis thoracique</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo6-3-3-2-2-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo6-3-3-2-2-2" aria-expanded="false" aria-controls="collapseMyo6-3-3-2-2-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo6-3-3-2-2-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo6-3-3-2-2-2">
+      <div class="panel-body">
+
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-muscles-rotR-rachis-lg-thorax">Muscles longs rotateurs droits du rachis thoracique</a>
+							<ul style="list-style-type:circle">
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-lg-thorax-T3-T1">Muscle long rotateur droit T3-T1</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-lg-thorax-T4-T2">Muscle long rotateur droit T4-T2</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-lg-thorax-T5-T3">Muscle long rotateur droit T5-T3</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-lg-thorax-T6-T4">Muscle long rotateur droit T6-T4</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-lg-thorax-T7-T5">Muscle long rotateur droit T7-T5</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-lg-thorax-T8-T6">Muscle long rotateur droit T8-T6</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-lg-thorax-T9-T7">Muscle long rotateur droit T9-T7</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-lg-thorax-T10-T8">Muscle long rotateur droit T10-T8</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-lg-thorax-T11-T9">Muscle long rotateur droit T11-T9</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-lg-thorax-T12-T10">Muscle long rotateur droit T12-T10</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-lg-thorax-L1-T11">Muscle long rotateur droit L1-T11</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-lg-thorax-L2-T12">Muscle long rotateur droit L2-T12</a></li>
+							</ul>
+						</li>
+						<li><a href="/desc/http://anat.org/L-muscles-rotR-rachis-lg-thorax">Muscles longs rotateurs droits du rachis thoracique</a>
+							<ul style="list-style-type:circle">
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-lg-thorax-T3-T1">Muscle long rotateur gauche T3-T1</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-lg-thorax-T4-T2">Muscle long rotateur gauche T4-T2</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-lg-thorax-T5-T3">Muscle long rotateur gauche T5-T3</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-lg-thorax-T6-T4">Muscle long rotateur gauche T6-T4</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-lg-thorax-T7-T5">Muscle long rotateur gauche T7-T5</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-lg-thorax-T8-T6">Muscle long rotateur gauche T8-T6</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-lg-thorax-T9-T7">Muscle long rotateur gauche T9-T7</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-lg-thorax-T10-T8">Muscle long rotateur gauche T10-T8</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-lg-thorax-T11-T9">Muscle long rotateur gauche T11-T9</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-lg-thorax-T12-T10">Muscle long rotateur gauche T12-T10</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-lg-thorax-L1-T11">Muscle long rotateur gauche L1-T11</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-lg-thorax-L2-T12">Muscle long rotateur gauche L2-T12</a></li>
+							</ul>
+						</li>
+						</ul>
+
+      </div>
+    </div>
+  </div>
+
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-rotR-rachis-lombaire">Muscles rotateurs du rachis lombaire</a>
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/muscles-rotR-rachis-crt-lombaire">Muscles courts rotateurs du rachis lombaire</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo6-3-3-2-3-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo6-3-3-2-3-1" aria-expanded="false" aria-controls="collapseMyo6-3-3-2-3-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo6-3-3-2-3-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo6-3-3-2-3-1">
+      <div class="panel-body">
+
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-muscles-rotR-rachis-crt-lombaire">Muscles courts rotateurs droits du rachis lombaire</a>
+							<ul style="list-style-type:circle">
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-crt-lombaire-L2-L1">Muscle court rotateur droit L2-L1</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-crt-lombaire-L3-L2">Muscle court rotateur droit L3-L2</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-crt-lombaire-L4-L3">Muscle court rotateur droit L4-L3</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-crt-lombaire-L5-L4">Muscle court rotateur droit L5-L4</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-crt-lombaire-S1-L5">Muscle court rotateur droit S1-L5</a></li>
+							</ul>
+						</li>
+						<li><a href="/desc/http://anat.org/L-muscles-rotR-rachis-crt-lombaire">Muscles courts rotateurs gauches du rachis lombaire</a>
+							<ul style="list-style-type:circle">
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-crt-lombaire-L2-L1">Muscle court rotateur gauche L2-L1</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-crt-lombaire-L3-L2">Muscle court rotateur gauche L3-L2</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-crt-lombaire-L4-L3">Muscle court rotateur gauche L4-L3</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-crt-lombaire-L5-L4">Muscle court rotateur gauche L5-L4</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-crt-lombaire-S1-L5">Muscle court rotateur gauche S1-L5</a></li>
+							</ul>
+						</ul>
+
+      </div>
+    </div>
+  </div>
+
+					<li><a href="/desc/http://anat.org/muscles-rotR-rachis-lg-lombaire">Muscles longs rotateurs du rachis lombaire</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo6-3-3-2-3-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo6-3-3-2-3-2" aria-expanded="false" aria-controls="collapseMyo6-3-3-2-3-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo6-3-3-2-3-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo6-3-3-2-3-2">
+      <div class="panel-body">
+
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-muscles-rotR-rachis-lg-lombaire">Muscles longs rotateurs droits du rachis lombaire</a>
+							<ul style="list-style-type:circle">
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-lg-lombaire-L3-L1">Muscle long rotateur droit L3-L1</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-lg-lombaire-L4-L2">Muscle long rotateur droit L4-L2</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-lg-lombaire-L5-L3">Muscle long rotateur droit L5-L3</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-rotR-rachis-lg-lombaire-S1-L4">Muscle long rotateur droit S1-L4</a></li>
+							</ul>
+						</li>
+						<li><a href="/desc/http://anat.org/L-muscles-rotR-rachis-lg-lombaire">Muscles longs rotateurs gauches du rachis lombaire</a>
+							<ul style="list-style-type:circle">
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-lg-lombaire-L3-L1">Muscle long rotateur gauche L3-L1</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-lg-lombaire-L4-L2">Muscle long rotateur gauche L4-L2</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-lg-lombaire-L5-L3">Muscle long rotateur gauche L5-L3</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-rotR-rachis-lg-lombaire-S1-L4">Muscle long rotateur gauche S1-L4</a></li>
+							</ul>
+						</li>
+						</ul>
+
+      </div>
+    </div>
+  </div>
+
+					</ul>
+				</li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			<li><a href="/desc/http://anat.org/muscles-multifide">Muscles multifides</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo6-3-3-3">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo6-3-3-3" aria-expanded="false" aria-controls="collapseMyo6-3-3-3">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo6-3-3-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo6-3-3-3">
+      <div class="panel-body">
+
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-multifide">Muscle multifide droit</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-multifide">Muscle multifide gauche</a></li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			</ul>
+		</li>
+		<li><a href="/desc/http://anat.org/muscles-interepineux">Muscles inter-épineux</a>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo6-3-4">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo6-3-4" aria-expanded="false" aria-controls="collapseMyo6-3-4">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo6-3-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo6-3-4">
+      <div class="panel-body">
+
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/muscles-interepineux-cou">Muscles inter-épineux cervicaux</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo6-3-4-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo6-3-4-1" aria-expanded="false" aria-controls="collapseMyo6-3-4-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo6-3-4-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo6-3-4-1">
+      <div class="panel-body">
+
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-muscles-interepineux-cou">Muscles inter-épineux cervicaux droits</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-interepineux-cou-C2-C3">Muscle inter-épineux cervical droit C2-C3</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-interepineux-cou-C3-C4">Muscle inter-épineux cervical droit C3-C4</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-interepineux-cou-C4-C5">Muscle inter-épineux cervical droit C4-C5</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-interepineux-cou-C5-C6">Muscle inter-épineux cervical droit C5-C6</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-interepineux-cou-C6-C7">Muscle inter-épineux cervical droit C6-C7</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-interepineux-cou-C7-T1">Muscle inter-épineux cervical droit C7-T1</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/L-muscles-interepineux-cou">Muscles inter-épineux cervicaux gauches</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/L-mscl-interepineux-cou-C2-C3">Muscle inter-épineux cervical gauche C2-C3</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-interepineux-cou-C3-C4">Muscle inter-épineux cervical gauche C3-C4</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-interepineux-cou-C4-C5">Muscle inter-épineux cervical gauche C4-C5</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-interepineux-cou-C5-C6">Muscle inter-épineux cervical gauche C5-C6</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-interepineux-cou-C6-C7">Muscle inter-épineux cervical gauche C6-C7</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-interepineux-cou-C7-T1">Muscle inter-épineux cervical gauche C7-T1</a></li>
+					</ul>
+				</li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			<li><a href="/desc/http://anat.org/muscles-interepineux-thorax">Muscles inter-épineux thoraciques</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo6-3-4-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo6-3-4-2" aria-expanded="false" aria-controls="collapseMyo6-3-4-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo6-3-4-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo6-3-4-2">
+      <div class="panel-body">
+
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-muscles-interepineux-thorax">Muscles inter-épineux thoraciques droits</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-interepineux-thorax-T1-T2">Muscle inter-épineux thoracique droit T1-T2</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-interepineux-thorax-T2-T3">Muscle inter-épineux thoracique droit T2-T3</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-interepineux-thorax-T3-T4">Muscle inter-épineux thoracique droit T3-T4</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-interepineux-thorax-T4-T5">Muscle inter-épineux thoracique droit T4-T5</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-interepineux-thorax-T5-T6">Muscle inter-épineux thoracique droit T5-T6</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-interepineux-thorax-T6-T7">Muscle inter-épineux thoracique droit T6-T7</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-interepineux-thorax-T7-T8">Muscle inter-épineux thoracique droit T7-T8</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-interepineux-thorax-T8-T9">Muscle inter-épineux thoracique droit T8-T9</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-interepineux-thorax-T9-T10">Muscle inter-épineux thoracique droit T9-T10</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-interepineux-thorax-T10-T11">Muscle inter-épineux thoracique droit T10-T11</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-interepineux-thorax-T11-T12">Muscle inter-épineux thoracique droit T11-T12</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-interepineux-thorax-T12-L1">Muscle inter-épineux thoracique droit T12-L1</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/L-muscles-interepineux-thorax">Muscles inter-épineux thoraciques gauches</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/L-mscl-interepineux-thorax-T1-T2">Muscle inter-épineux thoracique gauche T1-T2</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-interepineux-thorax-T2-T3">Muscle inter-épineux thoracique gauche T2-T3</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-interepineux-thorax-T3-T4">Muscle inter-épineux thoracique gauche T3-T4</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-interepineux-thorax-T4-T5">Muscle inter-épineux thoracique gauche T4-T5</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-interepineux-thorax-T5-T6">Muscle inter-épineux thoracique gauche T5-T6</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-interepineux-thorax-T6-T7">Muscle inter-épineux thoracique gauche T6-T7</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-interepineux-thorax-T7-T8">Muscle inter-épineux thoracique gauche T7-T8</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-interepineux-thorax-T8-T9">Muscle inter-épineux thoracique gauche T8-T9</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-interepineux-thorax-T9-T10">Muscle inter-épineux thoracique gauche T9-T10</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-interepineux-thorax-T10-T11">Muscle inter-épineux thoracique gauche T10-T11</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-interepineux-thorax-T11-T12">Muscle inter-épineux thoracique gauche T11-T12</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-interepineux-thorax-T12-L1">Muscle inter-épineux thoracique gauche T12-L1</a></li>
+					</ul>
+				</li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			<li><a href="/desc/http://anat.org/muscles-interepineux-lombaire">Muscles inter-épineux lombaires</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo6-3-4-3">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo6-3-4-3" aria-expanded="false" aria-controls="collapseMyo6-3-4-3">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo6-3-4-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo6-3-4-3">
+      <div class="panel-body">
+
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-muscles-interepineux-lombaire">Muscles inter-épineux lombaires droits</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-interepineux-lombaire-L1-L2">Muscle inter-épineux lombaire droit L1-L2</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-interepineux-lombaire-L2-L3">Muscle inter-épineux lombaire droit L2-L3</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-interepineux-lombaire-L3-L4">Muscle inter-épineux lombaire droit L3-L4</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-interepineux-lombaire-L4-L5">Muscle inter-épineux lombaire droit L4-L5</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-interepineux-lombaire-L5-S1">Muscle inter-épineux lombaire droit L5-S1</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/L-muscles-interepineux-lombaire">Muscles inter-épineux lombaires gauches</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/L-mscl-interepineux-lombaire-L1-L2">Muscle inter-épineux lombaire gauche L1-L2</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-interepineux-lombaire-L2-L3">Muscle inter-épineux lombaire gauche L2-L3</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-interepineux-lombaire-L3-L4">Muscle inter-épineux lombaire gauche L3-L4</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-interepineux-lombaire-L4-L5">Muscle inter-épineux lombaire gauche L4-L5</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-interepineux-lombaire-L5-S1">Muscle inter-épineux lombaire gauche L5-S1</a></li>
+					</ul>
+				</li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			</ul>
+
+      </div>
+    </div>
+  </div>
+
+		<li><a href="/desc/http://anat.org/muscles-intertrsvR">Muscles inter-transversaires</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo6-3-5">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo6-3-5" aria-expanded="false" aria-controls="collapseMyo6-3-5">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo6-3-5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo6-3-5">
+      <div class="panel-body">
+
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/muscles-intertrsvR-cou">Muscles inter-transversaires cervicaux</a>
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/muscles-intertrsvR-cou-ant">Muscles inter-transversaires cervicaux antérieurs</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo6-3-5-1-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo6-3-5-1-1" aria-expanded="false" aria-controls="collapseMyo6-3-5-1-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo6-3-5-1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo6-3-5-1-1">
+      <div class="panel-body">
+
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-muscles-intertrsvR-cou-ant">Muscles inter-transversaires cervicaux antérieurs droits</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-cou-C2-C3-ant">Muscle inter-transversaire cervical antérieur droit C2-C3</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-cou-C3-C4-ant">Muscle inter-transversaire cervical antérieur droit C3-C4</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-cou-C4-C5-ant">Muscle inter-transversaire cervical antérieur droit C4-C5</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-cou-C5-C6-ant">Muscle inter-transversaire cervical antérieur droit C5-C6</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-cou-C6-C7-ant">Muscle inter-transversaire cervical antérieur droit C6-C7</a></li>
+						</ul>
+					</li>
+					<li><a href="/desc/http://anat.org/L-muscles-intertrsvR-cou-ant">Muscles inter-transversaires cervicaux antérieurs gauches</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-cou-C2-C3-ant">Muscle inter-transversaire cervical antérieur gauche C2-C3</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-cou-C3-C4-ant">Muscle inter-transversaire cervical antérieur gauche C3-C4</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-cou-C4-C5-ant">Muscle inter-transversaire cervical antérieur gauche C4-C5</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-cou-C5-C6-ant">Muscle inter-transversaire cervical antérieur gauche C5-C6</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-cou-C6-C7-ant">Muscle inter-transversaire cervical antérieur gauche C6-C7</a></li>
+						</ul>
+					</li>
+					</ul>
+
+      </div>
+    </div>
+  </div>
+
+				<li><a href="/desc/http://anat.org/muscles-intertrsvR-cou-post">Muscles inter-transversaires cervicaux postérieurs</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo6-3-5-1-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo6-3-5-1-2" aria-expanded="false" aria-controls="collapseMyo6-3-5-1-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo6-3-5-1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo6-3-5-1-2">
+      <div class="panel-body">
+
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-muscles-intertrsvR-cou-post">Muscles inter-transversaires cervicaux postérieurs droits</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-cou-C2-C3-post">Muscle inter-transversaire cervical postérieur droit C2-C3</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-cou-C3-C4-post">Muscle inter-transversaire cervical postérieur droit C3-C4</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-cou-C4-C5-post">Muscle inter-transversaire cervical postérieur droit C4-C5</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-cou-C5-C6-post">Muscle inter-transversaire cervical postérieur droit C5-C6</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-cou-C6-C7-post">Muscle inter-transversaire cervical postérieur droit C6-C7</a></li>
+						</ul>
+					</li>
+					<li><a href="/desc/http://anat.org/L-muscles-intertrsvR-cou-post">Muscles inter-transversaires cervicaux postérieurs gauches</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-cou-C2-C3-post">Muscle inter-transversaire cervical postérieur gauche C2-C3</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-cou-C3-C4-post">Muscle inter-transversaire cervical postérieur gauche C3-C4</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-cou-C4-C5-post">Muscle inter-transversaire cervical postérieur gauche C4-C5</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-cou-C5-C6-post">Muscle inter-transversaire cervical postérieur gauche C5-C6</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-cou-C6-C7-post">Muscle inter-transversaire cervical postérieur gauche C6-C7</a></li>
+						</ul>
+					</li>
+					</ul>
+
+      </div>
+    </div>
+  </div>
+
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/muscles-intertrsvR-thorax">Muscles inter-transversaires thoraciques</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo6-3-5-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo6-3-5-2" aria-expanded="false" aria-controls="collapseMyo6-3-5-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo6-3-5-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo6-3-5-2">
+      <div class="panel-body">
+
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-muscles-intertrsvR-thorax">Muscles inter-transversaires thoraciques droits</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-thorax-C7-T1">Muscle inter-transversaire thoracique droit C7-T1</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-thorax-T1-T2">Muscle inter-transversaire thoracique droit T1-T2</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-thorax-T2-T3">Muscle inter-transversaire thoracique droit T2-T3</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-thorax-T3-T4">Muscle inter-transversaire thoracique droit T3-T4</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-thorax-T4-T5">Muscle inter-transversaire thoracique droit T4-T5</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-thorax-T5-T6">Muscle inter-transversaire thoracique droit T5-T6</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-thorax-T6-T7">Muscle inter-transversaire thoracique droit T6-T7</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-thorax-T7-T8">Muscle inter-transversaire thoracique droit T7-T8</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-thorax-T8-T9">Muscle inter-transversaire thoracique droit T8-T9</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-thorax-T9-T10">Muscle inter-transversaire thoracique droit T9-T10</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-thorax-T10-T11">Muscle inter-transversaire thoracique droit T10-T11</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-thorax-T11-T12">Muscle inter-transversaire thoracique droit T11-T12</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/L-muscles-intertrsvR-thorax">Muscles inter-transversaires thoraciques gauches</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-thorax-C7-T1">Muscle inter-transversaire thoracique gauche C7-T1</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-thorax-T1-T2">Muscle inter-transversaire thoracique gauche T1-T2</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-thorax-T2-T3">Muscle inter-transversaire thoracique gauche T2-T3</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-thorax-T3-T4">Muscle inter-transversaire thoracique gauche T3-T4</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-thorax-T4-T5">Muscle inter-transversaire thoracique gauche T4-T5</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-thorax-T5-T6">Muscle inter-transversaire thoracique gauche T5-T6</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-thorax-T6-T7">Muscle inter-transversaire thoracique gauche T6-T7</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-thorax-T7-T8">Muscle inter-transversaire thoracique gauche T7-T8</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-thorax-T8-T9">Muscle inter-transversaire thoracique gauche T8-T9</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-thorax-T9-T10">Muscle inter-transversaire thoracique gauche T9-T10</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-thorax-T10-T11">Muscle inter-transversaire thoracique gauche T10-T11</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-thorax-T11-T12">Muscle inter-transversaire thoracique gauche T11-T12</a></li>
+					</ul>
+				</li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			<li><a href="/desc/http://anat.org/muscles-intertrsvR-lombaire">Muscles inter-transversaires lombaires</a>
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/muscles-intertrsvR-lombaire-med">Muscles inter-transversaires lombaires médiaux</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo6-3-5-3-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo6-3-5-3-1" aria-expanded="false" aria-controls="collapseMyo6-3-5-3-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo6-3-5-3-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo6-3-5-3-1">
+      <div class="panel-body">
+
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-muscles-intertrsvR-lombaire-med">Muscles inter-transversaires lombaires médiaux droits</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-lombaire-T12-L1-med">Muscle inter-transversaire lombaire médial droit T12-L1</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-lombaire-L1-L2-med">Muscle inter-transversaire lombaire médial droit L1-L2</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-lombaire-L2-L3-med">Muscle inter-transversaire lombaire médial droit L2-L3</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-lombaire-L3-L4-med">Muscle inter-transversaire lombaire médial droit L3-L4</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-lombaire-L4-L5-med">Muscle inter-transversaire lombaire médial droit L4-L5</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-lombaire-L5-S1-med">Muscle inter-transversaire lombaire médial droit L5-S1</a></li>
+						</ul>
+					</li>
+					<li><a href="/desc/http://anat.org/L-muscles-intertrsvR-lombaire-med">Muscles inter-transversaires lombaires médiaux gauches</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-lombaire-T12-L1-med">Muscle inter-transversaire lombaire médial gauche T12-L1</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-lombaire-L1-L2-med">Muscle inter-transversaire lombaire médial gauche L1-L2</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-lombaire-L2-L3-med">Muscle inter-transversaire lombaire médial gauche L2-L3</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-lombaire-L3-L4-med">Muscle inter-transversaire lombaire médial gauche L3-L4</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-lombaire-L4-L5-med">Muscle inter-transversaire lombaire médial gauche L4-L5</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-lombaire-L5-S1-med">Muscle inter-transversaire lombaire médial gauche L5-S1</a></li>
+						</ul>
+					</li>
+					</ul>
+
+      </div>
+    </div>
+  </div>
+
+				<li><a href="/desc/http://anat.org/muscles-intertrsvR-lombaire-lat">Muscles inter-transversaires lombaires latéraux</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo6-3-5-3-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo6-3-5-3-2" aria-expanded="false" aria-controls="collapseMyo6-3-5-3-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo6-3-5-3-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo6-3-5-3-2">
+      <div class="panel-body">
+
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-muscles-intertrsvR-lombaire-lat">Muscles inter-transversaires lombaires latéraux droits</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-lombaire-T12-L1-lat">Muscle inter-transversaire lombaire latéral droit T12-L1</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-lombaire-L1-L2-lat">Muscle inter-transversaire lombaire latéral droit L1-L2</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-lombaire-L2-L3-lat">Muscle inter-transversaire lombaire latéral droit L2-L3</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-lombaire-L3-L4-lat">Muscle inter-transversaire lombaire latéral droit L3-L4</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-lombaire-L4-L5-lat">Muscle inter-transversaire lombaire latéral droit L4-L5</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-intertrsvR-lombaire-L5-S1-lat">Muscle inter-transversaire lombaire latéral droit L5-S1</a></li>
+						</ul>
+					</li>
+					<li><a href="/desc/http://anat.org/L-muscles-intertrsvR-lombaire-lat">Muscles inter-transversaires lombaires latéraux gauches</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-lombaire-T12-L1-lat">Muscle inter-transversaire lombaire latéral gauche T12-L1</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-lombaire-L1-L2-lat">Muscle inter-transversaire lombaire latéral gauche L1-L2</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-lombaire-L2-L3-lat">Muscle inter-transversaire lombaire latéral gauche L2-L3</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-lombaire-L3-L4-lat">Muscle inter-transversaire lombaire latéral gauche L3-L4</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-lombaire-L4-L5-lat">Muscle inter-transversaire lombaire latéral gauche L4-L5</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-intertrsvR-lombaire-L5-S1-lat">Muscle inter-transversaire lombaire latéral gauche L5-S1</a></li>
+						</ul>
+					</li>
+					</ul>
+
+      </div>
+    </div>
+  </div>
+
+				</ul>
+			</li>
+			</ul>
+
+      </div>
+    </div>
+  </div>
+
+		</ul>
 	</ul>
 
       </div>

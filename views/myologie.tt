@@ -2434,14 +2434,14 @@
 		<ul style="list-style-type:disc">
 		<li><a href="/desc/http://anat.org/muscles-piriforme">Muscles piriformes</a></li>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/anat:R-mscl-piriforme">Muscle piriforme droit</a></li>
-			<li><a href="/desc/http://anat.org/anat:L-mscl-piriforme">Muscle piriforme gauche</a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-piriforme">Muscle piriforme droit</a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-piriforme">Muscle piriforme gauche</a></li>
 			</ul>
 		</li>
 		<li><a href="/desc/http://anat.org/muscles-obturateur-int">Muscles obturateurs internes</a></li>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/anat:R-mscl-obturateur-int">Muscle obturateur interne droit</a></li>
-			<li><a href="/desc/http://anat.org/anat:L-mscl-obturateur-int">Muscle obturateur interne gauche</a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-obturateur-int">Muscle obturateur interne droit</a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-obturateur-int">Muscle obturateur interne gauche</a></li>
 			</ul>
 		</li>
 		</ul>
@@ -3707,10 +3707,222 @@
     <div id="collapseMyo7-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo7-1">
       <div class="panel-body">
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/muscles-ceint-scap-couche-pfde">Muscles de la ceinture scapulaire : couche profonde</a></li>
-		<li><a href="/desc/http://anat.org/muscles-ceint-scap-couche-supL">Muscles de la ceinture scapulaire : couche superficielle</a></li>
+		<li><a href="/desc/http://anat.org/muscles-propres-ceint-scap">Muscles propres de la ceinture scapulaire</a>
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/muscles-ceint-scap-couche-pfde">Muscles de la ceinture scapulaire : couche profonde</a>
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/muscles-ceint-scap-couche-pfde1">Muscles de la ceinture scapulaire : couche profonde (1re subdivision)</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo7-1-1-1-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo7-1-1-1-1" aria-expanded="false" aria-controls="collapseMyo7-1-1-1-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo7-1-1-1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo7-1-1-1-1">
+      <div class="panel-body">
+
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/muscles-angulaire-scapula">Muscles élévateurs de la scapula</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-angulaire-scapula">Muscle élévateur de la scapula droit</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-angulaire-scapula">Muscle élévateur de la scapula gauche</a></li>
+						</ul>
+					</li>
+					<li><a href="/desc/http://anat.org/muscles-subclavier">Muscles subclaviers</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-subclavier">Muscle subclavier droit</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-subclavier">Muscle subclavier gauche</a></li>
+						</ul>
+					</li>
+					<li><a href="/desc/http://anat.org/muscles-pt-pectoral">Muscles petits pectoraux</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-pt-pectoral">Muscle petit pectoral droit</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-pt-pectoral">Muscle petit pectoral gauche</a></li>
+						</ul>
+					</li>
+					</ul>
+
+      </div>
+    </div>
+  </div>
+
+				<li><a href="/desc/http://anat.org/muscles-ceint-scap-couche-pfde2">Muscles de la ceinture scapulaire : couche profonde (2e subdivision)</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo7-1-1-1-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo7-1-1-1-2" aria-expanded="false" aria-controls="collapseMyo7-1-1-1-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo7-1-1-1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo7-1-1-1-2">
+      <div class="panel-body">
+
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/muscles-rhomboides">Muscles rhomboides</a>
+						<ul style="list-style-type:disc">
+						<li><a href="/desc/http://anat.org/muscles-pt-rhombo">Muscles petits rhomboides</a>
+							<ul style="list-style-type:circle">
+							<li><a href="/desc/http://anat.org/R-mscl-pt-rhombo">Muscle petit rhomboide droit</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-pt-rhombo">Muscle petit rhomboide droit</a></li>
+							</ul>
+						</li>
+						<li><a href="/desc/http://anat.org/muscles-gd-rhombo">Muscles grands rhomboides</a>
+							<ul style="list-style-type:circle">
+							<li><a href="/desc/http://anat.org/R-mscl-gd-rhombo">Muscle grand rhomboide droit</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-gd-rhombo">Muscle grand rhomboide droit</a></li>
+							</ul>
+						</li>
+						</ul>
+					</li>
+					<li><a href="/desc/http://anat.org/muscles-dentele-ant">Muscles dentelés antérieurs</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-dentele-ant">Muscle dentelé antérieur droit</a>
+							<ul style="list-style-type:circle">
+							<li><a href="/desc/http://anat.org/R-mscl-dentele-ant-fx-sup">Faisceau supérieur du muscle dentelé antérieur droit</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-dentele-ant-fx-moy">Faisceau moyen du muscle dentelé antérieur droit</a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-dentele-ant-fx-inf">Faisceau inférieur du muscle dentelé antérieur droit</a></li>
+							</ul>
+						</li>
+						<li><a href="/desc/http://anat.org/L-mscl-dentele-ant">Muscle dentelé antérieur gauche</a>
+							<ul style="list-style-type:circle">
+							<li><a href="/desc/http://anat.org/L-mscl-dentele-ant-fx-sup">Faisceau supérieur du muscle dentelé antérieur gauche</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-dentele-ant-fx-moy">Faisceau moyen du muscle dentelé antérieur gauche</a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-dentele-ant-fx-inf">Faisceau inférieur du muscle dentelé antérieur gauche</a></li>
+							</ul>
+						</li>
+						</ul>
+					</li>
+					</ul>
+
+      </div>
+    </div>
+  </div>
+
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/muscles-ceint-scap-couche-supL">Muscles de la ceinture scapulaire : couche superficielle</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo7-1-1-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo7-1-1-2" aria-expanded="false" aria-controls="collapseMyo7-1-1-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo7-1-1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo7-1-1-2">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/muscles-trapeze">Muscles trapèzes</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-trapeze">Muscle trapèze droit</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-trapeze-fx-sup">Faisceau supérieur du muscle trapèze droit</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-trapeze-fx-moy">Faisceau moyen du muscle trapèze droit</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-trapeze-fx-inf">Faisceau inférieur du muscle trapèze droit</a></li>
+						</ul>
+					</li>
+					<li><a href="/desc/http://anat.org/L-mscl-trapeze">Muscle trapèze gauche</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/L-mscl-trapeze-fx-sup">Faisceau supérieur du muscle trapèze gauche</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-trapeze-fx-moy">Faisceau moyen du muscle trapèze gauche</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-trapeze-fx-inf">Faisceau inférieur du muscle trapèze gauche</a></li>
+						</ul>
+					</li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-gd-dorsal">Muscles grands dorsaux</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-gd-dorsal">Muscle grand dorsal droit</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-gd-dorsal">Muscle grand dorsal gauche</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-gd-pectoral">Muscles grands pectoraux</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-gd-pectoral">Muscle grand pectoral droit</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-gd-pectoral-fx-sup">Faisceau supérieur du muscle grand pectoral droit</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-gd-pectoral-fx-moy">Faisceau moyen du muscle grand pectoral droit</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-gd-pectoral-fx-inf">Faisceau inférieur du muscle grand pectoral droit</a></li>
+						</ul>
+					</li>
+					<li><a href="/desc/http://anat.org/R-mscl-gd-pectoral">Muscle grand pectoral gauche</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-gd-pectoral-fx-sup">Faisceau supérieur du muscle grand pectoral gauche</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-gd-pectoral-fx-moy">Faisceau moyen du muscle grand pectoral gauche</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-gd-pectoral-fx-inf">Faisceau inférieur du muscle grand pectoral gauche</a></li>
+						</ul>
+					</li>
+					</ul>
+				</li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			</ul>
+		</li>
 		<li><a href="/desc/http://anat.org/R-muscles-propres-epaule">Muscles propres de l'épaule droite</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo7-1-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo7-1-2" aria-expanded="false" aria-controls="collapseMyo7-1-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo7-1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo7-1-2">
+      <div class="panel-body">
+
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/R-mscl-supraepineux">Muscle supraépineux droit</a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-infraepineux">Muscle infraépineux droit</a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-pt-rond">Muscle petit rond droit</a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-gd-rond">Muscle grand rond droit</a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-subscapulaire">Muscle subscapulaire droit</a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-deltoide">Muscle deltoïde droit</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-deltoide-fx-ant">Faisceau antérieur du muscle deltoïde droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-deltoide-fx-moy">Faisceau moyen du muscle deltoïde droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-deltoide-fx-post">Faisceau postérieur du muscle deltoïde droit</a></li>
+				</ul>
+			</li>
+			</ul>
+
+      </div>
+    </div>
+  </div>
+
 		<li><a href="/desc/http://anat.org/L-muscles-propres-epaule">Muscles propres de l'épaule gauche</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo7-1-3">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo7-1-3" aria-expanded="false" aria-controls="collapseMyo7-1-3">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo7-1-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo7-1-3">
+      <div class="panel-body">
+
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/L-mscl-supraepineux">Muscle supraépineux gauche</a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-infraepineux">Muscle infraépineux gauche</a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-pt-rond">Muscle petit rond gauche</a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-gd-rond">Muscle grand rond gauche</a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-subscapulaire">Muscle subscapulaire gauche</a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-deltoide">Muscle deltoïde gauche</a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/L-mscl-deltoide-fx-ant">Faisceau antérieur du muscle deltoïde gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-deltoide-fx-moy">Faisceau moyen du muscle deltoïde gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-deltoide-fx-post">Faisceau postérieur du muscle deltoïde gauche</a></li>
+				</ul>
+			</li>
+			</ul>
+
+      </div>
+    </div>
+  </div>
+
 		</ul>
 	</li>
 
@@ -3733,20 +3945,285 @@
 		<li><a href="/desc/http://anat.org/">MUSCLES DU BRAS DROIT</a></li>
 			<ul style="list-style-type:disc">
 			<li><a href="/desc/http://anat.org/R-muscles-bras-loge-ant">Muscles antérieurs du bras droit</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo7-2-1-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo7-2-1-1" aria-expanded="false" aria-controls="collapseMyo7-2-1-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo7-2-1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo7-2-1-1">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/R-mscl-biceps-brachial">Muscle biceps brachial droit</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-biceps-brachial-chef-crt">Chef courf du muscle biceps brachial droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-biceps-brachial-chef-lg">Chef long du muscle biceps brachial droit</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/R-mscl-coraco-brachial">Muscle coraco-brachial droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-brachial">Muscle brachial droit</a></li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
 			<li><a href="/desc/http://anat.org/R-muscles-bras-loge-post">Muscles postérieurs du bras droit</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo7-2-1-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo7-2-1-2" aria-expanded="false" aria-controls="collapseMyo7-2-1-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo7-2-1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo7-2-1-2">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/R-mscl-triceps-brachial">Muscle triceps brachial droit</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-triceps-brachial-chef-lg">Chef long du muscle triceps brachial droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-triceps-brachial-chef-med">Chef médial du muscle triceps brachial droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-triceps-brachial-chef-lat">Chef latéral du muscle triceps brachial droit</a></li>
+					</ul>
+				</li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/">MUSCLES DE L'AVANT-BRAS DROIT</a></li>
+		<li><a href="/desc/http://anat.org/">MUSCLES DE L'AVANT-BRAS DROIT</a>
 			<ul style="list-style-type:disc">
 			<li><a href="/desc/http://anat.org/R-muscles-ant-avt-bras">Muscles antérieurs de l’avant-bras droit</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo7-2-2-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo7-2-2-1" aria-expanded="false" aria-controls="collapseMyo7-2-2-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo7-2-2-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo7-2-2-1">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/R-mscl-brachio-radial">Muscle brachio-radial droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-rond-pronateur">Muscle rond pronateur droit</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-rond-pronateur-chef-humeral">Chef huméral du muscle rond pronateur droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-rond-pronateur-chef-ulnaire">Chef ulnaire du muscle rond pronateur droit</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/R-mscl-fleR-radial-carpe">Muscle fléchisseur radial du carpe droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-lg-palmaire">Muscle long palmaire droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-fleR-ulnaire-carpe">Muscle fléchisseur ulnaire du carpe droit</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-fleR-ulnaire-carpe-chef-humeral">Chef huméral du muscle fléchisseur ulnaire du carpe droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-fleR-ulnaire-carpe-chef-ulnaire">Chef ulnaire du muscle fléchisseur ulnaire du carpe droit</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/R-mscl-fleR-pfd-doigts">Muscle fléchisseur profond des doigts droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-fleR-supL-doigts">Muscle fléchisseur superficiel des doigts droit</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-fleR-supL-doigts-chef-humero-ulnaire">Chef huméro-ulnaire du muscle fléchisseur superficiel des doigts droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-fleR-supL-doigts-chef-radial">Chef radial du muscle fléchisseur superficiel des doigts droit</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/R-mscl-lg-fleR-pouce">Muscle long fléchisseur du pouce droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-supinateur">Muscle supinateur droit</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-supinateur-fx-supL">Faisceau superficiel du muscle supinateur droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-supinateur-fx-pfd">Faisceau profond du muscle supinateur droit</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/R-mscl-carre-pronateur">Muscle carré pronateur droit</a></li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
 			<li><a href="/desc/http://anat.org/R-muscles-post-avt-bras">Muscles postérieurs de l’avant-bras droit</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo7-2-2-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo7-2-2-2" aria-expanded="false" aria-controls="collapseMyo7-2-2-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo7-2-2-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo7-2-2-2">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/R-mscl-lg-extR-radial-carpe">Muscle long extenseur radial du carpe droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-crt-extR-radial-carpe">Muscle court extenseur radial du carpe droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-extR-doigts">Muscle extenseur des doigts droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-extR-pt-doigt">Muscle extenseur du petit doigt droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-extR-ulnaire-carpe">Muscle extenseur ulnaire du carpe droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-ancone">Muscle anconé droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-lg-abdR-pouce">Muscle long abducteur du pouce droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-crt-extR-pouce">Muscle court extenseur du pouce droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-extR-index">Muscle extenseur de l’index droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-lg-extR-pouce">Muscle long extenseur du pouce droit</a></li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/">MUSCLES DE LA MAIN DROITE</a></li>
+		<li><a href="/desc/http://anat.org/">MUSCLES DE LA MAIN DROITE</a>
 			<ul style="list-style-type:disc">
 			<li><a href="/desc/http://anat.org/R-muscles-loge-med-main">Muscles de la loge médiale de la main droite</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo7-2-3-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo7-2-3-1" aria-expanded="false" aria-controls="collapseMyo7-2-3-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo7-2-3-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo7-2-3-1">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/R-muscles-loge-med-main-plan-supL">Muscles de la loge médiale de la main droite : plan superficiel</a>
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/R-mscl-crt-fleR-auriculaire">Muscle court fléchisseur du petit doigt droit</a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-abdR-auriculaire">Muscle abducteur du petit doigt droit</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/R-muscles-loge-med-main-plan-pfd">Muscles de la loge médiale de la main droite : plan profond</a>
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/R-mscl-opposant-auriculaire">Muscle opposant du petit doigt droit</a></li>
+					</ul>
+				</li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
 			<li><a href="/desc/http://anat.org/R-muscles-loge-lat-main">Muscles de la loge latérale de la main droite</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo7-2-3-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo7-2-3-2" aria-expanded="false" aria-controls="collapseMyo7-2-3-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo7-2-3-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo7-2-3-2">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/R-muscles-loge-lat-main-plan-supL">Muscles de la loge latérale de la main droite : plan superficiel</a>
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/R-mscl-crt-abdR-pouce">Muscle court abducteur du pouce droit</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/R-muscles-loge-lat-main-plan-moy">Muscles de la loge latérale de la main droite : plan moyen</a>
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/R-mscl-crt-fleR-pouce">Muscle court fléchisseur du pouce droit</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-crt-fleR-pouce-fx-supL">Faisceau superficiel du muscle court fléchisseur du pouce droit</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-crt-fleR-pouce-fx-pfd">Faisceau profond du muscle court fléchisseur du pouce droit</a></li>
+						</ul>
+					</li>
+					<li><a href="/desc/http://anat.org/R-mscl-opposant-pouce">Muscle opposant du pouce droit</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/R-muscles-loge-lat-main-plan-pfd">Muscles de la loge latérale de la main droite : plan profond</a>
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/R-mscl-addR-pouce">Muscle adducteur du pouce droit</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-addR-pouce-fx-oblique">Faisceau oblique du muscle adducteur du pouce droit</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-addR-pouce-fx-trsv">Faisceau transverse du muscle adducteur du pouce droit</a></li>
+						</ul>
+					</li>
+					</ul>
+				</li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
 			<li><a href="/desc/http://anat.org/R-muscles-loge-moy-main">Muscles de la loge moyenne de la main droite</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo7-2-3-3">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo7-2-3-3" aria-expanded="false" aria-controls="collapseMyo7-2-3-3">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo7-2-3-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo7-2-3-3">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/R-muscles-loge-moy-main-plan-supL">Muscles de la loge moyenne de la main droite : plan superficiel</a>
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/R-muscles-lombricaux-main">Muscles lombricaux de la main droite</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-lombrical-du-II-main">Premier muscle lombrical de la main droite</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-lombrical-du-III-main">Deuxième muscle lombrical de la main droite</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-lombrical-du-IV-main">Troisième muscle lombrical de la main droite</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-lombrical-du-V-main">Quatrième muscle lombrical de la main droite</a></li>
+						</ul>
+					</li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/R-muscles-loge-moy-main-plan-pfd">Muscles de la loge moyenne de la main droite : plan profond</a>
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/R-muscles-interosseux-dorsaux-main">Muscles interosseux dorsaux de la main droite</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-interosseux-dorsal-main-1">Premier muscle interosseux dorsal de la main droite</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-interosseux-dorsal-main-2">Deuxième muscle interosseux dorsal de la main droite</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-interosseux-dorsal-main-3">Troisième muscle interosseux dorsal de la main droite</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-interosseux-dorsal-main-4">Quatrième muscle interosseux dorsal de la main droite</a></li>
+						</ul>
+					</li>
+					<li><a href="/desc/http://anat.org/R-muscles-interosseux-palmaire-main">Muscles interosseux palmaires de la main droite</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-interosseux-palmaire-main-1">Premier muscle interosseux palmaire de la main droite</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-interosseux-palmaire-main-2">Deuxième muscle interosseux palmaire de la main droite</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-interosseux-palmaire-main-3">Troisième muscle interosseux palmaire de la main droite</a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-interosseux-palmaire-main-4">Quatrième muscle interosseux palmaire de la main droite</a></li>
+						</ul>
+					</li>
+					</ul>
+				</li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			<li><a href="/desc/http://anat.org/R-mscl-tabatiere-anatomique">Muscles de la tabatière anatomique droite</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo7-2-3-4">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo7-2-3-4" aria-expanded="false" aria-controls="collapseMyo7-2-3-4">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo7-2-3-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo7-2-3-4">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/R-mscl-lg-abdR-pouce">Muscle long abducteur du pouce droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-crt-extR-pouce">Muscle court extenseur du pouce droit</a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-lg-extR-pouce">Muscle long extenseur du pouce droit</a></li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			<li><a href="/desc/http://anat.org/R-retinaculum-fleR-main">Rétinaculum des fléchisseurs de la main droite</a></li>
 			</ul>
 		</li>
 		</ul>
@@ -3767,17 +4244,292 @@
     </div>
     <div id="collapseMyo7-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo7-3">
       <div class="panel-body">
-		MUSCLES DU BRAS GAUCHE
-			anat:L-muscles-bras-loge-ant .
-			anat:L-muscles-bras-loge-post .
-		MUSCLES DE L'AVANT-BRAS GAUCHE
-			anat:L-muscles-ant-avt-bras .
-			anat:L-muscles-post-avt-bras .
-		MUSCLES DE LA MAIN GAUCHE
-			anat:L-muscles-loge-med-main .
-			anat:L-muscles-loge-lat-main .
-			anat:L-muscles-loge-moy-main .
+		<ul style="list-style-type:square">
+		<li><a href="/desc/http://anat.org/">MUSCLES DU BRAS GAUCHE</a></li>
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/L-muscles-bras-loge-ant">Muscles antérieurs du bras gauche</a></li>
 
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo7-3-1-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo7-3-1-1" aria-expanded="false" aria-controls="collapseMyo7-3-1-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo7-3-1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo7-3-1-1">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/L-mscl-biceps-brachial">Muscle biceps brachial gauche</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/L-mscl-biceps-brachial-chef-crt">Chef courf du muscle biceps brachial gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-biceps-brachial-chef-lg">Chef long du muscle biceps brachial gauche</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/L-mscl-coraco-brachial">Muscle coraco-brachial gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-brachial">Muscle brachial gauche</a></li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			<li><a href="/desc/http://anat.org/L-muscles-bras-loge-post">Muscles postérieurs du bras gauche</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo7-3-1-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo7-3-1-2" aria-expanded="false" aria-controls="collapseMyo7-3-1-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo7-3-1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo7-3-1-2">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/L-mscl-triceps-brachial">Muscle triceps brachial gauche</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/L-mscl-triceps-brachial-chef-lg">Chef long du muscle triceps brachial gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-triceps-brachial-chef-med">Chef médial du muscle triceps brachial gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-triceps-brachial-chef-lat">Chef latéral du muscle triceps brachial gauche</a></li>
+					</ul>
+				</li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			</ul>
+		</li>
+		<li><a href="/desc/http://anat.org/">MUSCLES DE L'AVANT-BRAS GAUCHE</a>
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/L-muscles-ant-avt-bras">Muscles antérieurs de l’avant-bras gauche</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo7-3-2-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo7-3-2-1" aria-expanded="false" aria-controls="collapseMyo7-3-2-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo7-3-2-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo7-3-2-1">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/L-mscl-brachio-radial">Muscle brachio-radial gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-rond-pronateur">Muscle rond pronateur gauche</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/L-mscl-rond-pronateur-chef-humeral">Chef huméral du muscle rond pronateur gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-rond-pronateur-chef-ulnaire">Chef ulnaire du muscle rond pronateur gauche</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/L-mscl-fleR-radial-carpe">Muscle fléchisseur radial du carpe gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-lg-palmaire">Muscle long palmaire gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-fleR-ulnaire-carpe">Muscle fléchisseur ulnaire du carpe gauche</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/L-mscl-fleR-ulnaire-carpe-chef-humeral">Chef huméral du muscle fléchisseur ulnaire du carpe gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-fleR-ulnaire-carpe-chef-ulnaire">Chef ulnaire du muscle fléchisseur ulnaire du carpe gauche</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/L-mscl-fleR-pfd-doigts">Muscle fléchisseur profond des doigts gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-fleR-supL-doigts">Muscle fléchisseur superficiel des doigts gauche</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/L-mscl-fleR-supL-doigts-chef-humero-ulnaire">Chef huméro-ulnaire du muscle fléchisseur superficiel des doigts gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-fleR-supL-doigts-chef-radial">Chef radial du muscle fléchisseur superficiel des doigts gauche</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/L-mscl-lg-fleR-pouce">Muscle long fléchisseur du pouce gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-supinateur">Muscle supinateur gauche</a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/L-mscl-supinateur-fx-supL">Faisceau superficiel du muscle supinateur gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-supinateur-fx-pfd">Faisceau profond du muscle supinateur gauche</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/L-mscl-carre-pronateur">Muscle carré pronateur gauche</a></li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			<li><a href="/desc/http://anat.org/L-muscles-post-avt-bras">Muscles postérieurs de l’avant-bras gauche</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo7-3-2-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo7-3-2-2" aria-expanded="false" aria-controls="collapseMyo7-3-2-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo7-3-2-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo7-3-2-2">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/L-mscl-lg-extR-radial-carpe">Muscle long extenseur radial du carpe gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-crt-extR-radial-carpe">Muscle court extenseur radial du carpe gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-extR-doigts">Muscle extenseur des doigts gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-extR-pt-doigt">Muscle extenseur du petit doigt gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-extR-ulnaire-carpe">Muscle extenseur ulnaire du carpe gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-ancone">Muscle anconé gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-lg-abdR-pouce">Muscle long abducteur du pouce gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-crt-extR-pouce">Muscle court extenseur du pouce gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-extR-index">Muscle extenseur de l’index gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-lg-extR-pouce">Muscle long extenseur du pouce gauche</a></li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			</ul>
+		</li>
+		<li><a href="/desc/http://anat.org/">MUSCLES DE LA MAIN GAUCHE</a>
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/L-muscles-loge-med-main">Muscles de la loge médiale de la main gauche</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo7-3-3-1">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo7-3-3-1" aria-expanded="false" aria-controls="collapseMyo7-3-3-1">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo7-3-3-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo7-3-3-1">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/L-muscles-loge-med-main-plan-supL">Muscles de la loge médiale de la main gauche : plan superficiel</a>
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/L-mscl-crt-fleR-auriculaire">Muscle court fléchisseur du petit doigt gauche</a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-abdR-auriculaire">Muscle abducteur du petit doigt gauche</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/L-muscles-loge-med-main-plan-pfd">Muscles de la loge médiale de la main gauche : plan profond</a>
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/L-mscl-opposant-auriculaire">Muscle opposant du petit doigt gauche</a></li>
+					</ul>
+				</li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			<li><a href="/desc/http://anat.org/L-muscles-loge-lat-main">Muscles de la loge latérale de la main gauche</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo7-3-3-2">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo7-3-3-2" aria-expanded="false" aria-controls="collapseMyo7-3-3-2">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo7-3-3-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo7-3-3-2">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/L-muscles-loge-lat-main-plan-supL">Muscles de la loge latérale de la main gauche : plan superficiel</a>
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/L-mscl-crt-abdR-pouce">Muscle court abducteur du pouce gauche</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/L-muscles-loge-lat-main-plan-moy">Muscles de la loge latérale de la main gauche : plan moyen</a>
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/L-mscl-crt-fleR-pouce">Muscle court fléchisseur du pouce gauche</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/L-mscl-crt-fleR-pouce-fx-supL">Faisceau superficiel du muscle court fléchisseur du pouce gauche</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-crt-fleR-pouce-fx-pfd">Faisceau profond du muscle court fléchisseur du pouce gauche</a></li>
+						</ul>
+					</li>
+					<li><a href="/desc/http://anat.org/L-mscl-opposant-pouce">Muscle opposant du pouce gauche</a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/L-muscles-loge-lat-main-plan-pfd">Muscles de la loge latérale de la main gauche : plan profond</a>
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/L-mscl-addR-pouce">Muscle adducteur du pouce gauche</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/L-mscl-addR-pouce-fx-oblique">Faisceau oblique du muscle adducteur du pouce gauche</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-addR-pouce-fx-trsv">Faisceau transverse du muscle adducteur du pouce gauche</a></li>
+						</ul>
+					</li>
+					</ul>
+				</li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			<li><a href="/desc/http://anat.org/L-muscles-loge-moy-main">Muscles de la loge moyenne de la main gauche</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo7-3-3-3">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo7-3-3-3" aria-expanded="false" aria-controls="collapseMyo7-3-3-3">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo7-3-3-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo7-3-3-3">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/L-muscles-loge-moy-main-plan-supL">Muscles de la loge moyenne de la main gauche : plan superficiel</a>
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/L-muscles-lombricaux-main">Muscles lombricaux de la main gauche</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/L-mscl-lombrical-du-II-main">Premier muscle lombrical de la main gauche</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-lombrical-du-III-main">Deuxième muscle lombrical de la main gauche</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-lombrical-du-IV-main">Troisième muscle lombrical de la main gauche</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-lombrical-du-V-main">Quatrième muscle lombrical de la main gauche</a></li>
+						</ul>
+					</li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/L-muscles-loge-moy-main-plan-pfd">Muscles de la loge moyenne de la main gauche : plan profond</a>
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/L-muscles-interosseux-dorsaux-main">Muscles interosseux dorsaux de la main gauche</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/L-mscl-interosseux-dorsal-main-1">Premier muscle interosseux dorsal de la main gauche</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-interosseux-dorsal-main-2">Deuxième muscle interosseux dorsal de la main gauche</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-interosseux-dorsal-main-3">Troisième muscle interosseux dorsal de la main gauche</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-interosseux-dorsal-main-4">Quatrième muscle interosseux dorsal de la main gauche</a></li>
+						</ul>
+					</li>
+					<li><a href="/desc/http://anat.org/L-muscles-interosseux-palmaire-main">Muscles interosseux palmaires de la main gauche</a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/L-mscl-interosseux-palmaire-main-1">Premier muscle interosseux palmaire de la main gauche</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-interosseux-palmaire-main-2">Deuxième muscle interosseux palmaire de la main gauche</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-interosseux-palmaire-main-3">Troisième muscle interosseux palmaire de la main gauche</a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-interosseux-palmaire-main-4">Quatrième muscle interosseux palmaire de la main gauche</a></li>
+						</ul>
+					</li>
+					</ul>
+				</li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			<li><a href="/desc/http://anat.org/L-mscl-tabatiere-anatomique">Muscles de la tabatière anatomique gauche</a></li>
+
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="Myo7-3-3-4">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMyo7-3-3-4" aria-expanded="false" aria-controls="collapseMyo7-3-3-4">
+	▼ 
+        </a>
+    </div>
+    <div id="collapseMyo7-3-3-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="Myo7-3-3-4">
+      <div class="panel-body">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/L-mscl-lg-abdR-pouce">Muscle long abducteur du pouce gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-crt-extR-pouce">Muscle court extenseur du pouce gauche</a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-lg-extR-pouce">Muscle long extenseur du pouce gauche</a></li>
+				</ul>
+
+      </div>
+    </div>
+  </div>
+
+			<li><a href="/desc/http://anat.org/L-retinaculum-fleR-main">Rétinaculum des fléchisseurs de la main gauche</a></li>
+			</ul>
+		</li>
+		</ul>
 	</li>
 
       </div>

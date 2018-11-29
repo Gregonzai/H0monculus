@@ -11321,4 +11321,1825 @@ anat:L-mscl-intertrsvR-lombaire-L3-L4-lat	rdfs:label	"Muscle inter-transversaire
 anat:L-mscl-intertrsvR-lombaire-L4-L5-lat	rdfs:label	"Muscle inter-transversaire lombaire latéral gauche L4-L5" .
 anat:L-mscl-intertrsvR-lombaire-L5-S1-lat	rdfs:label	"Muscle inter-transversaire lombaire latéral gauche L5-S1" .
 
+anat:muscles-propres-ceint-scap	rdf:type	anat:groupe-musculaire .
+anat:muscles-ceint-scap-couche-pfde	rdf:type	anat:groupe-musculaire .
+anat:muscles-ceint-scap-couche-pfde1	rdf:type	anat:groupe-musculaire .
+anat:muscles-angulaire-scapula	rdf:type	anat:muscle .
+anat:R-mscl-angulaire-scapula	rdf:type	anat:muscle .
+anat:L-mscl-angulaire-scapula	rdf:type	anat:muscle .
+anat:muscles-subclavier	rdf:type	anat:muscle .
+anat:R-mscl-subclavier	rdf:type	anat:muscle .
+anat:L-mscl-subclavier	rdf:type	anat:muscle .
+anat:muscles-pt-pectoral	rdf:type	anat:muscle .
+anat:R-mscl-pt-pectoral	rdf:type	anat:muscle .
+anat:L-mscl-pt-pectoral	rdf:type	anat:muscle .
+anat:muscles-ceint-scap-couche-pfde2	rdf:type	anat:groupe-musculaire .
+anat:muscles-rhomboides	rdf:type	anat:groupe-musculaire .
+anat:muscles-pt-rhombo	rdf:type	anat:muscle .
+anat:R-mscl-pt-rhombo	rdf:type	anat:muscle .
+anat:L-mscl-pt-rhombo	rdf:type	anat:muscle .
+anat:muscles-gd-rhombo	rdf:type	anat:muscle .
+anat:R-mscl-gd-rhombo	rdf:type	anat:muscle .
+anat:L-mscl-gd-rhombo	rdf:type	anat:muscle .
+anat:muscles-dentele-ant	rdf:type	anat:muscle .
+anat:R-mscl-dentele-ant	rdf:type	anat:muscle .
+anat:R-mscl-dentele-ant-fx-sup	rdf:type	anat:chef-musculaire .
+anat:R-mscl-dentele-ant-fx-moy	rdf:type	anat:chef-musculaire .
+anat:R-mscl-dentele-ant-fx-inf	rdf:type	anat:chef-musculaire .
+anat:L-mscl-dentele-ant	rdf:type	anat:muscle .
+anat:L-mscl-dentele-ant-fx-sup	rdf:type	anat:chef-musculaire .
+anat:L-mscl-dentele-ant-fx-moy	rdf:type	anat:chef-musculaire .
+anat:L-mscl-dentele-ant-fx-inf	rdf:type	anat:chef-musculaire .
+anat:muscles-ceint-scap-couche-supL	rdf:type	anat:groupe-musculaire .
+anat:muscles-trapeze	rdf:type	anat:muscle .
+anat:R-mscl-trapeze	rdf:type	anat:muscle .
+anat:R-mscl-trapeze-fx-sup	rdf:type	anat:chef-musculaire .
+anat:R-mscl-trapeze-fx-moy	rdf:type	anat:chef-musculaire .
+anat:R-mscl-trapeze-fx-inf	rdf:type	anat:chef-musculaire .
+anat:L-mscl-trapeze	rdf:type	anat:muscle .
+anat:L-mscl-trapeze-fx-sup	rdf:type	anat:chef-musculaire .
+anat:L-mscl-trapeze-fx-moy	rdf:type	anat:chef-musculaire .
+anat:L-mscl-trapeze-fx-inf	rdf:type	anat:chef-musculaire .
+anat:muscles-gd-dorsal	rdf:type	anat:muscle .
+anat:R-mscl-gd-dorsal	rdf:type	anat:muscle .
+anat:L-mscl-gd-dorsal	rdf:type	anat:muscle .
+anat:muscles-gd-pectoral	rdf:type	anat:muscle .
+anat:R-mscl-gd-pectoral	rdf:type	anat:muscle .
+anat:R-mscl-gd-pectoral-fx-sup	rdf:type	anat:chef-musculaire .
+anat:R-mscl-gd-pectoral-fx-moy	rdf:type	anat:chef-musculaire .
+anat:R-mscl-gd-pectoral-fx-inf	rdf:type	anat:chef-musculaire .
+anat:L-mscl-gd-pectoral	rdf:type	anat:muscle .
+anat:L-mscl-gd-pectoral-fx-sup	rdf:type	anat:chef-musculaire .
+anat:L-mscl-gd-pectoral-fx-moy	rdf:type	anat:chef-musculaire .
+anat:L-mscl-gd-pectoral-fx-inf	rdf:type	anat:chef-musculaire .
+anat:R-muscles-propres-epaule	rdf:type	anat:groupe-musculaire .
+anat:R-mscl-supraepineux	rdf:type	anat:muscle .
+anat:R-mscl-infraepineux	rdf:type	anat:muscle .
+anat:R-mscl-pt-rond	rdf:type	anat:muscle .
+anat:R-mscl-gd-rond	rdf:type	anat:muscle .
+anat:R-mscl-subscapulaire	rdf:type	anat:muscle .
+anat:R-mscl-deltoide	rdf:type	anat:muscle .
+anat:R-mscl-deltoide-fx-ant	rdf:type	anat:chef-musculaire .
+anat:R-mscl-deltoide-fx-moy	rdf:type	anat:chef-musculaire .
+anat:R-mscl-deltoide-fx-post	rdf:type	anat:chef-musculaire .
+anat:R-muscles-bras-loge-ant	rdf:type	anat:groupe-musculaire .
+anat:R-mscl-biceps-brachial	rdf:type	anat:muscle .
+anat:R-mscl-biceps-brachial-chef-crt	rdf:type	anat:chef-musculaire .
+anat:R-mscl-biceps-brachial-chef-lg	rdf:type	anat:chef-musculaire .
+anat:R-mscl-coraco-brachial	rdf:type	anat:muscle .
+anat:R-mscl-brachial	rdf:type	anat:muscle .
+anat:R-muscles-bras-loge-post	rdf:type	anat:groupe-musculaire .
+anat:R-mscl-triceps-brachial	rdf:type	anat:muscle .
+anat:R-mscl-triceps-brachial-chef-lg	rdf:type	anat:chef-musculaire .
+anat:R-mscl-triceps-brachial-chef-med	rdf:type	anat:chef-musculaire .
+anat:R-mscl-triceps-brachial-chef-lat	rdf:type	anat:chef-musculaire .
+anat:R-muscles-ant-avt-bras	rdf:type	anat:groupe-musculaire .
+anat:R-mscl-brachio-radial	rdf:type	anat:muscle .
+anat:R-mscl-rond-pronateur	rdf:type	anat:muscle .
+anat:R-mscl-rond-pronateur-chef-humeral	rdf:type	anat:chef-musculaire .
+anat:R-mscl-rond-pronateur-chef-ulnaire	rdf:type	anat:chef-musculaire .
+anat:R-mscl-fleR-radial-carpe	rdf:type	anat:muscle .
+anat:R-mscl-lg-palmaire	rdf:type	anat:muscle .
+anat:R-mscl-fleR-ulnaire-carpe	rdf:type	anat:muscle .
+anat:R-mscl-fleR-ulnaire-carpe-chef-humeral	rdf:type	anat:chef-musculaire .
+anat:R-mscl-fleR-ulnaire-carpe-chef-ulnaire	rdf:type	anat:chef-musculaire .
+anat:R-mscl-fleR-pfd-doigts	rdf:type	anat:muscle .
+anat:R-mscl-fleR-supL-doigts	rdf:type	anat:muscle .
+anat:R-mscl-fleR-supL-doigts-chef-humero-ulnaire	rdf:type	anat:chef-musculaire .
+anat:R-mscl-fleR-supL-doigts-chef-radial	rdf:type	anat:chef-musculaire .
+anat:R-mscl-lg-fleR-pouce	rdf:type	anat:muscle .
+anat:R-mscl-supinateur	rdf:type	anat:muscle .
+anat:R-mscl-supinateur-fx-supL	rdf:type	anat:chef-musculaire .
+anat:R-mscl-supinateur-fx-pfd	rdf:type	anat:chef-musculaire .
+anat:R-mscl-carre-pronateur	rdf:type	anat:muscle .
+anat:R-muscles-post-avt-bras	rdf:type	anat:groupe-musculaire .
+anat:R-mscl-lg-extR-radial-carpe	rdf:type	anat:muscle .
+anat:R-mscl-crt-extR-radial-carpe	rdf:type	anat:muscle .
+anat:R-mscl-extR-doigts	rdf:type	anat:muscle .
+anat:R-mscl-extR-pt-doigt	rdf:type	anat:muscle .
+anat:R-mscl-extR-ulnaire-carpe	rdf:type	anat:muscle .
+anat:R-mscl-ancone	rdf:type	anat:muscle .
+anat:R-mscl-lg-abdR-pouce	rdf:type	anat:muscle .
+anat:R-mscl-crt-extR-pouce	rdf:type	anat:muscle .
+anat:R-mscl-extR-index	rdf:type	anat:muscle .
+anat:R-mscl-lg-extR-pouce	rdf:type	anat:muscle .
+anat:R-muscles-loge-med-main	rdf:type	anat:groupe-musculaire .
+anat:R-muscles-loge-med-main-plan-supL	rdf:type	anat:groupe-musculaire .
+anat:R-mscl-crt-fleR-auriculaire	rdf:type	anat:muscle .
+anat:R-mscl-abdR-auriculaire	rdf:type	anat:muscle .
+anat:R-muscles-loge-med-main-plan-pfd	rdf:type	anat:groupe-musculaire .
+anat:R-mscl-opposant-auriculaire	rdf:type	anat:muscle .
+anat:R-muscles-loge-lat-main	rdf:type	anat:groupe-musculaire .
+anat:R-muscles-loge-lat-main-plan-supL	rdf:type	anat:groupe-musculaire .
+anat:R-mscl-crt-abdR-pouce	rdf:type	anat:muscle .
+anat:R-muscles-loge-lat-main-plan-moy	rdf:type	anat:groupe-musculaire .
+anat:R-mscl-crt-fleR-pouce	rdf:type	anat:muscle .
+anat:R-mscl-crt-fleR-pouce-fx-supL	rdf:type	anat:chef-musculaire .
+anat:R-mscl-crt-fleR-pouce-fx-pfd	rdf:type	anat:chef-musculaire .
+anat:R-mscl-opposant-pouce	rdf:type	anat:muscle .
+anat:R-muscles-loge-lat-main-plan-pfd	rdf:type	anat:groupe-musculaire .
+anat:R-mscl-addR-pouce	rdf:type	anat:muscle .
+anat:R-mscl-addR-pouce-fx-oblique	rdf:type	anat:chef-musculaire .
+anat:R-mscl-addR-pouce-fx-trsv	rdf:type	anat:chef-musculaire .
+anat:R-muscles-loge-moy-main	rdf:type	anat:groupe-musculaire .
+anat:R-muscles-loge-moy-main-plan-supL	rdf:type	anat:groupe-musculaire .
+anat:R-muscles-lombricaux-main	rdf:type	anat:groupe-musculaire .
+anat:R-mscl-lombrical-du-II-main	rdf:type	anat:muscle .
+anat:R-mscl-lombrical-du-III-main	rdf:type	anat:muscle .
+anat:R-mscl-lombrical-du-IV-main	rdf:type	anat:muscle .
+anat:R-mscl-lombrical-du-V-main	rdf:type	anat:muscle .
+anat:R-muscles-loge-moy-main-plan-pfd	rdf:type	anat:groupe-musculaire .
+anat:R-muscles-interosseux-dorsaux-main	rdf:type	anat:groupe-musculaire .
+anat:R-mscl-interosseux-dorsal-main-1	rdf:type	anat:muscle .
+anat:R-mscl-interosseux-dorsal-main-2	rdf:type	anat:muscle .
+anat:R-mscl-interosseux-dorsal-main-3	rdf:type	anat:muscle .
+anat:R-mscl-interosseux-dorsal-main-4	rdf:type	anat:muscle .
+anat:R-muscles-interosseux-palmaire-main	rdf:type	anat:groupe-musculaire .
+anat:R-mscl-interosseux-palmaire-main-1	rdf:type	anat:muscle .
+anat:R-mscl-interosseux-palmaire-main-2	rdf:type	anat:muscle .
+anat:R-mscl-interosseux-palmaire-main-3	rdf:type	anat:muscle .
+anat:R-mscl-interosseux-palmaire-main-4	rdf:type	anat:muscle .
+anat:R-mscl-tabatiere-anatomique	rdf:type	anat:groupe-musculaire .
+anat:R-retinaculum-fleR-main	rdf:type	anat:structure-fibreuse .
+anat:L-muscles-propres-epaule	rdf:type	anat:groupe-musculaire .
+anat:L-mscl-supraepineux	rdf:type	anat:muscle .
+anat:L-mscl-infraepineux	rdf:type	anat:muscle .
+anat:L-mscl-pt-rond	rdf:type	anat:muscle .
+anat:L-mscl-gd-rond	rdf:type	anat:muscle .
+anat:L-mscl-subscapulaire	rdf:type	anat:muscle .
+anat:L-mscl-deltoide	rdf:type	anat:muscle .
+anat:L-mscl-deltoide-fx-ant	rdf:type	anat:chef-musculaire .
+anat:L-mscl-deltoide-fx-moy	rdf:type	anat:chef-musculaire .
+anat:L-mscl-deltoide-fx-post	rdf:type	anat:chef-musculaire .
+anat:L-muscles-bras-loge-ant	rdf:type	anat:groupe-musculaire .
+anat:L-mscl-biceps-brachial	rdf:type	anat:muscle .
+anat:L-mscl-biceps-brachial-chef-crt	rdf:type	anat:chef-musculaire .
+anat:L-mscl-biceps-brachial-chef-lg	rdf:type	anat:chef-musculaire .
+anat:L-mscl-coraco-brachial	rdf:type	anat:muscle .
+anat:L-mscl-brachial	rdf:type	anat:muscle .
+anat:L-muscles-bras-loge-post	rdf:type	anat:groupe-musculaire .
+anat:L-mscl-triceps-brachial	rdf:type	anat:muscle .
+anat:L-mscl-triceps-brachial-chef-lg	rdf:type	anat:chef-musculaire .
+anat:L-mscl-triceps-brachial-chef-med	rdf:type	anat:chef-musculaire .
+anat:L-mscl-triceps-brachial-chef-lat	rdf:type	anat:chef-musculaire .
+anat:L-muscles-ant-avt-bras	rdf:type	anat:groupe-musculaire .
+anat:L-mscl-brachio-radial	rdf:type	anat:muscle .
+anat:L-mscl-rond-pronateur	rdf:type	anat:muscle .
+anat:L-mscl-rond-pronateur-chef-humeral	rdf:type	anat:chef-musculaire .
+anat:L-mscl-rond-pronateur-chef-ulnaire	rdf:type	anat:chef-musculaire .
+anat:L-mscl-fleR-radial-carpe	rdf:type	anat:muscle .
+anat:L-mscl-lg-palmaire	rdf:type	anat:muscle .
+anat:L-mscl-fleR-ulnaire-carpe	rdf:type	anat:muscle .
+anat:L-mscl-fleR-ulnaire-carpe-chef-humeral	rdf:type	anat:chef-musculaire .
+anat:L-mscl-fleR-ulnaire-carpe-chef-ulnaire	rdf:type	anat:chef-musculaire .
+anat:L-mscl-fleR-pfd-doigts	rdf:type	anat:muscle .
+anat:L-mscl-fleR-supL-doigts	rdf:type	anat:muscle .
+anat:L-mscl-fleR-supL-doigts-chef-humero-ulnaire	rdf:type	anat:chef-musculaire .
+anat:L-mscl-fleR-supL-doigts-chef-radial	rdf:type	anat:chef-musculaire .
+anat:L-mscl-lg-fleR-pouce	rdf:type	anat:muscle .
+anat:L-mscl-supinateur	rdf:type	anat:muscle .
+anat:L-mscl-supinateur-fx-supL	rdf:type	anat:chef-musculaire .
+anat:L-mscl-supinateur-fx-pfd	rdf:type	anat:chef-musculaire .
+anat:L-mscl-carre-pronateur	rdf:type	anat:muscle .
+anat:L-muscles-post-avt-bras	rdf:type	anat:groupe-musculaire .
+anat:L-mscl-lg-extR-radial-carpe	rdf:type	anat:muscle .
+anat:L-mscl-crt-extR-radial-carpe	rdf:type	anat:muscle .
+anat:L-mscl-extR-doigts	rdf:type	anat:muscle .
+anat:L-mscl-extR-pt-doigt	rdf:type	anat:muscle .
+anat:L-mscl-extR-ulnaire-carpe	rdf:type	anat:muscle .
+anat:L-mscl-ancone	rdf:type	anat:muscle .
+anat:L-mscl-lg-abdR-pouce	rdf:type	anat:muscle .
+anat:L-mscl-crt-extR-pouce	rdf:type	anat:muscle .
+anat:L-mscl-extR-index	rdf:type	anat:muscle .
+anat:L-mscl-lg-extR-pouce	rdf:type	anat:muscle .
+anat:L-muscles-loge-med-main	rdf:type	anat:groupe-musculaire .
+anat:L-muscles-loge-med-main-plan-supL	rdf:type	anat:groupe-musculaire .
+anat:L-mscl-crt-fleR-auriculaire	rdf:type	anat:muscle .
+anat:L-mscl-abdR-auriculaire	rdf:type	anat:muscle .
+anat:L-muscles-loge-med-main-plan-pfd	rdf:type	anat:groupe-musculaire .
+anat:L-mscl-opposant-auriculaire	rdf:type	anat:muscle .
+anat:L-muscles-loge-lat-main	rdf:type	anat:groupe-musculaire .
+anat:L-muscles-loge-lat-main-plan-supL	rdf:type	anat:groupe-musculaire .
+anat:L-mscl-crt-abdR-pouce	rdf:type	anat:muscle .
+anat:L-muscles-loge-lat-main-plan-moy	rdf:type	anat:groupe-musculaire .
+anat:L-mscl-crt-fleR-pouce	rdf:type	anat:muscle .
+anat:L-mscl-crt-fleR-pouce-fx-supL	rdf:type	anat:chef-musculaire .
+anat:L-mscl-crt-fleR-pouce-fx-pfd	rdf:type	anat:chef-musculaire .
+anat:L-mscl-opposant-pouce	rdf:type	anat:muscle .
+anat:L-muscles-loge-lat-main-plan-pfd	rdf:type	anat:groupe-musculaire .
+anat:L-mscl-addR-pouce	rdf:type	anat:muscle .
+anat:L-mscl-addR-pouce-fx-oblique	rdf:type	anat:chef-musculaire .
+anat:L-mscl-addR-pouce-fx-trsv	rdf:type	anat:chef-musculaire .
+anat:L-muscles-loge-moy-main	rdf:type	anat:groupe-musculaire .
+anat:L-muscles-loge-moy-main-plan-supL	rdf:type	anat:groupe-musculaire .
+anat:L-muscles-lombricaux-main	rdf:type	anat:groupe-musculaire .
+anat:L-mscl-lombrical-du-II-main	rdf:type	anat:muscle .
+anat:L-mscl-lombrical-du-III-main	rdf:type	anat:muscle .
+anat:L-mscl-lombrical-du-IV-main	rdf:type	anat:muscle .
+anat:L-mscl-lombrical-du-V-main	rdf:type	anat:muscle .
+anat:L-muscles-loge-moy-main-plan-pfd	rdf:type	anat:groupe-musculaire .
+anat:L-muscles-interosseux-dorsaux-main	rdf:type	anat:groupe-musculaire .
+anat:L-mscl-interosseux-dorsal-main-1	rdf:type	anat:muscle .
+anat:L-mscl-interosseux-dorsal-main-2	rdf:type	anat:muscle .
+anat:L-mscl-interosseux-dorsal-main-3	rdf:type	anat:muscle .
+anat:L-mscl-interosseux-dorsal-main-4	rdf:type	anat:muscle .
+anat:L-muscles-interosseux-palmaire-main	rdf:type	anat:groupe-musculaire .
+anat:L-mscl-interosseux-palmaire-main-1	rdf:type	anat:muscle .
+anat:L-mscl-interosseux-palmaire-main-2	rdf:type	anat:muscle .
+anat:L-mscl-interosseux-palmaire-main-3	rdf:type	anat:muscle .
+anat:L-mscl-interosseux-palmaire-main-4	rdf:type	anat:muscle .
+anat:L-mscl-tabatiere-anatomique	rdf:type	anat:groupe-musculaire .
+anat:L-retinaculum-fleR-main	rdf:type	anat:structure-fibreuse .
+		
+anat:muscles-propres-ceint-scap	anat:comprend	anat:muscles-ceint-scap-couche-pfde .
+anat:muscles-propres-ceint-scap	anat:comprend	anat:muscles-ceint-scap-couche-supL .
+anat:muscles-ceint-scap-couche-pfde	anat:comprend	anat:muscles-ceint-scap-couche-pfde1 .
+anat:muscles-ceint-scap-couche-pfde	anat:comprend	anat:muscles-ceint-scap-couche-pfde2 .
+anat:muscles-ceint-scap-couche-pfde1	anat:comprend	anat:muscles-angulaire-scapula .
+anat:muscles-ceint-scap-couche-pfde1	anat:comprend	anat:muscles-subclavier .
+anat:muscles-ceint-scap-couche-pfde1	anat:comprend	anat:muscles-pt-pectoral .
+anat:muscles-angulaire-scapula	anat:comprend	anat:R-mscl-angulaire-scapula .
+anat:muscles-angulaire-scapula	anat:comprend	anat:L-mscl-angulaire-scapula .
+anat:muscles-subclavier	anat:comprend	anat:R-mscl-subclavier .
+anat:muscles-subclavier	anat:comprend	anat:L-mscl-subclavier .
+anat:muscles-pt-pectoral	anat:comprend	anat:R-mscl-pt-pectoral .
+anat:muscles-pt-pectoral	anat:comprend	anat:L-mscl-pt-pectoral .
+anat:muscles-ceint-scap-couche-pfde2	anat:comprend	anat:muscles-rhomboides .
+anat:muscles-ceint-scap-couche-pfde2	anat:comprend	anat:muscles-dentele-ant .
+anat:muscles-rhomboides	anat:comprend	anat:muscles-pt-rhombo .
+anat:muscles-rhomboides	anat:comprend	anat:muscles-gd-rhombo .
+anat:muscles-pt-rhombo	anat:comprend	anat:R-mscl-pt-rhombo .
+anat:muscles-pt-rhombo	anat:comprend	anat:L-mscl-pt-rhombo .
+anat:muscles-gd-rhombo	anat:comprend	anat:R-mscl-gd-rhombo .
+anat:muscles-gd-rhombo	anat:comprend	anat:L-mscl-gd-rhombo .
+anat:muscles-dentele-ant	anat:comprend	anat:R-mscl-dentele-ant .
+anat:muscles-dentele-ant	anat:comprend	anat:L-mscl-dentele-ant .
+anat:R-mscl-dentele-ant	anat:comprend	anat:R-mscl-dentele-ant-fx-sup .
+anat:R-mscl-dentele-ant	anat:comprend	anat:R-mscl-dentele-ant-fx-moy .
+anat:R-mscl-dentele-ant	anat:comprend	anat:R-mscl-dentele-ant-fx-inf .
+anat:L-mscl-dentele-ant	anat:comprend	anat:L-mscl-dentele-ant-fx-sup .
+anat:L-mscl-dentele-ant	anat:comprend	anat:L-mscl-dentele-ant-fx-moy .
+anat:L-mscl-dentele-ant	anat:comprend	anat:L-mscl-dentele-ant-fx-inf .
+anat:muscles-ceint-scap-couche-supL	anat:comprend	anat:muscles-trapeze .
+anat:muscles-ceint-scap-couche-supL	anat:comprend	anat:muscles-gd-dorsal .
+anat:muscles-ceint-scap-couche-supL	anat:comprend	anat:muscles-gd-pectoral .
+anat:muscles-trapeze	anat:comprend	anat:R-mscl-trapeze .
+anat:muscles-trapeze	anat:comprend	anat:L-mscl-trapeze .
+anat:R-mscl-trapeze	anat:comprend	anat:R-mscl-trapeze-fx-sup .
+anat:R-mscl-trapeze	anat:comprend	anat:R-mscl-trapeze-fx-moy .
+anat:R-mscl-trapeze	anat:comprend	anat:R-mscl-trapeze-fx-inf .
+anat:L-mscl-trapeze	anat:comprend	anat:L-mscl-trapeze-fx-sup .
+anat:L-mscl-trapeze	anat:comprend	anat:L-mscl-trapeze-fx-moy .
+anat:L-mscl-trapeze	anat:comprend	anat:L-mscl-trapeze-fx-inf .
+anat:muscles-gd-dorsal	anat:comprend	anat:R-mscl-gd-dorsal .
+anat:muscles-gd-dorsal	anat:comprend	anat:L-mscl-gd-dorsal .
+anat:muscles-gd-pectoral	anat:comprend	anat:R-mscl-gd-pectoral .
+anat:muscles-gd-pectoral	anat:comprend	anat:L-mscl-gd-pectoral .
+anat:R-mscl-gd-pectoral	anat:comprend	anat:R-mscl-gd-pectoral-fx-sup .
+anat:R-mscl-gd-pectoral	anat:comprend	anat:R-mscl-gd-pectoral-fx-moy .
+anat:R-mscl-gd-pectoral	anat:comprend	anat:R-mscl-gd-pectoral-fx-inf .
+anat:L-mscl-gd-pectoral	anat:comprend	anat:L-mscl-gd-pectoral-fx-sup .
+anat:L-mscl-gd-pectoral	anat:comprend	anat:L-mscl-gd-pectoral-fx-moy .
+anat:L-mscl-gd-pectoral	anat:comprend	anat:L-mscl-gd-pectoral-fx-inf .
+anat:R-muscles-propres-epaule	anat:comprend	anat:R-mscl-supraepineux .
+anat:R-muscles-propres-epaule	anat:comprend	anat:R-mscl-infraepineux .
+anat:R-muscles-propres-epaule	anat:comprend	anat:R-mscl-pt-rond .
+anat:R-muscles-propres-epaule	anat:comprend	anat:R-mscl-gd-rond .
+anat:R-muscles-propres-epaule	anat:comprend	anat:R-mscl-subscapulaire .
+anat:R-muscles-propres-epaule	anat:comprend	anat:R-mscl-deltoide .
+anat:R-mscl-deltoide	anat:comprend	anat:R-mscl-deltoide-fx-ant .
+anat:R-mscl-deltoide	anat:comprend	anat:R-mscl-deltoide-fx-moy .
+anat:R-mscl-deltoide	anat:comprend	anat:R-mscl-deltoide-fx-post .
+anat:R-muscles-bras-loge-ant	anat:comprend	anat:R-mscl-biceps-brachial .
+anat:R-muscles-bras-loge-ant	anat:comprend	anat:R-mscl-coraco-brachial .
+anat:R-muscles-bras-loge-ant	anat:comprend	anat:R-mscl-brachial .
+anat:R-mscl-biceps-brachial	anat:comprend	anat:R-mscl-biceps-brachial-chef-crt .
+anat:R-mscl-biceps-brachial	anat:comprend	anat:R-mscl-biceps-brachial-chef-lg .
+anat:R-muscles-bras-loge-post	anat:comprend	anat:R-mscl-triceps-brachial .
+anat:R-mscl-triceps-brachial	anat:comprend	anat:R-mscl-triceps-brachial-chef-lg .
+anat:R-mscl-triceps-brachial	anat:comprend	anat:R-mscl-triceps-brachial-chef-med .
+anat:R-mscl-triceps-brachial	anat:comprend	anat:R-mscl-triceps-brachial-chef-lat .
+anat:R-muscles-ant-avt-bras	anat:comprend	anat:R-mscl-brachio-radial .
+anat:R-muscles-ant-avt-bras	anat:comprend	anat:R-mscl-rond-pronateur .
+anat:R-muscles-ant-avt-bras	anat:comprend	anat:R-mscl-fleR-radial-carpe .
+anat:R-muscles-ant-avt-bras	anat:comprend	anat:R-mscl-lg-palmaire .
+anat:R-muscles-ant-avt-bras	anat:comprend	anat:R-mscl-fleR-ulnaire-carpe .
+anat:R-muscles-ant-avt-bras	anat:comprend	anat:R-mscl-fleR-pfd-doigts .
+anat:R-muscles-ant-avt-bras	anat:comprend	anat:R-mscl-fleR-supL-doigts .
+anat:R-muscles-ant-avt-bras	anat:comprend	anat:R-mscl-lg-fleR-pouce .
+anat:R-muscles-ant-avt-bras	anat:comprend	anat:R-mscl-supinateur .
+anat:R-muscles-ant-avt-bras	anat:comprend	anat:R-mscl-carre-pronateur .
+anat:R-mscl-rond-pronateur	anat:comprend	anat:R-mscl-rond-pronateur-chef-humeral .
+anat:R-mscl-rond-pronateur	anat:comprend	anat:R-mscl-rond-pronateur-chef-ulnaire .
+anat:R-mscl-fleR-ulnaire-carpe	anat:comprend	anat:R-mscl-fleR-ulnaire-carpe-chef-humeral .
+anat:R-mscl-fleR-ulnaire-carpe	anat:comprend	anat:R-mscl-fleR-ulnaire-carpe-chef-ulnaire .
+anat:R-mscl-fleR-supL-doigts	anat:comprend	anat:R-mscl-fleR-supL-doigts-chef-humero-ulnaire .
+anat:R-mscl-fleR-supL-doigts	anat:comprend	anat:R-mscl-fleR-supL-doigts-chef-radial .
+anat:R-mscl-supinateur	anat:comprend	anat:R-mscl-supinateur-fx-supL .
+anat:R-mscl-supinateur	anat:comprend	anat:R-mscl-supinateur-fx-pfd .
+anat:R-muscles-post-avt-bras	anat:comprend	anat:R-mscl-lg-extR-radial-carpe .
+anat:R-muscles-post-avt-bras	anat:comprend	anat:R-mscl-crt-extR-radial-carpe .
+anat:R-muscles-post-avt-bras	anat:comprend	anat:R-mscl-extR-doigts .
+anat:R-muscles-post-avt-bras	anat:comprend	anat:R-mscl-extR-pt-doigt .
+anat:R-muscles-post-avt-bras	anat:comprend	anat:R-mscl-extR-ulnaire-carpe .
+anat:R-muscles-post-avt-bras	anat:comprend	anat:R-mscl-ancone .
+anat:R-muscles-post-avt-bras	anat:comprend	anat:R-mscl-lg-abdR-pouce .
+anat:R-muscles-post-avt-bras	anat:comprend	anat:R-mscl-crt-extR-pouce .
+anat:R-muscles-post-avt-bras	anat:comprend	anat:R-mscl-extR-index .
+anat:R-muscles-post-avt-bras	anat:comprend	anat:R-mscl-lg-extR-pouce .
+anat:R-muscles-loge-med-main	anat:comprend	anat:R-muscles-loge-med-main-plan-supL .
+anat:R-muscles-loge-med-main	anat:comprend	anat:R-muscles-loge-med-main-plan-pfd .
+anat:R-muscles-loge-lat-main	anat:comprend	anat:R-muscles-loge-lat-main-plan-supL .
+anat:R-muscles-loge-lat-main	anat:comprend	anat:R-muscles-loge-lat-main-plan-moy .
+anat:R-muscles-loge-lat-main	anat:comprend	anat:R-muscles-loge-lat-main-plan-pfd .
+anat:R-muscles-loge-moy-main	anat:comprend	anat:R-muscles-loge-moy-main-plan-supL .
+anat:R-muscles-loge-moy-main	anat:comprend	anat:R-muscles-loge-moy-main-plan-pfd .
+anat:R-muscles-loge-med-main-plan-supL	anat:comprend	anat:R-mscl-crt-fleR-auriculaire .
+anat:R-muscles-loge-med-main-plan-supL	anat:comprend	anat:R-mscl-abdR-auriculaire .
+anat:R-muscles-loge-med-main-plan-pfd	anat:comprend	anat:R-mscl-opposant-auriculaire .
+anat:R-muscles-loge-lat-main-plan-supL	anat:comprend	anat:R-mscl-crt-abdR-pouce .
+anat:R-muscles-loge-lat-main-plan-moy	anat:comprend	anat:R-mscl-crt-fleR-pouce .
+anat:R-muscles-loge-lat-main-plan-moy	anat:comprend	anat:R-mscl-opposant-pouce .
+anat:R-muscles-loge-lat-main-plan-pfd	anat:comprend	anat:R-mscl-addR-pouce .
+anat:R-mscl-addR-pouce	anat:comprend	anat:R-mscl-addR-pouce-fx-oblique .
+anat:R-mscl-addR-pouce	anat:comprend	anat:R-mscl-addR-pouce-fx-trsv .
+anat:R-mscl-crt-fleR-pouce	anat:comprend	anat:R-mscl-crt-fleR-pouce-fx-supL .
+anat:R-mscl-crt-fleR-pouce	anat:comprend	anat:R-mscl-crt-fleR-pouce-fx-pfd .
+anat:R-muscles-loge-moy-main-plan-supL	anat:comprend	anat:R-muscles-lombricaux-main .
+anat:R-muscles-lombricaux-main	anat:comprend	anat:R-mscl-lombrical-du-II-main .
+anat:R-muscles-lombricaux-main	anat:comprend	anat:R-mscl-lombrical-du-III-main .
+anat:R-muscles-lombricaux-main	anat:comprend	anat:R-mscl-lombrical-du-IV-main .
+anat:R-muscles-lombricaux-main	anat:comprend	anat:R-mscl-lombrical-du-V-main .
+anat:R-muscles-loge-moy-main-plan-pfd	anat:comprend	anat:R-muscles-interosseux-dorsaux-main .
+anat:R-muscles-loge-moy-main-plan-pfd	anat:comprend	anat:R-muscles-interosseux-palmaire-main .
+anat:R-muscles-interosseux-dorsaux-main	anat:comprend	anat:R-mscl-interosseux-dorsal-main-1 .
+anat:R-muscles-interosseux-dorsaux-main	anat:comprend	anat:R-mscl-interosseux-dorsal-main-2 .
+anat:R-muscles-interosseux-dorsaux-main	anat:comprend	anat:R-mscl-interosseux-dorsal-main-3 .
+anat:R-muscles-interosseux-dorsaux-main	anat:comprend	anat:R-mscl-interosseux-dorsal-main-4 .
+anat:R-muscles-interosseux-palmaire-main	anat:comprend	anat:R-mscl-interosseux-palmaire-main-1 .
+anat:R-muscles-interosseux-palmaire-main	anat:comprend	anat:R-mscl-interosseux-palmaire-main-2 .
+anat:R-muscles-interosseux-palmaire-main	anat:comprend	anat:R-mscl-interosseux-palmaire-main-3 .
+anat:R-muscles-interosseux-palmaire-main	anat:comprend	anat:R-mscl-interosseux-palmaire-main-4 .
+anat:R-mscl-tabatiere-anatomique	anat:comprend	anat:R-mscl-lg-abdR-pouce .
+anat:R-mscl-tabatiere-anatomique	anat:comprend	anat:R-mscl-crt-extR-pouce .
+anat:R-mscl-tabatiere-anatomique	anat:comprend	anat:R-mscl-lg-extR-pouce .
+anat:L-muscles-propres-epaule	anat:comprend	anat:L-mscl-supraepineux .
+anat:L-muscles-propres-epaule	anat:comprend	anat:L-mscl-infraepineux .
+anat:L-muscles-propres-epaule	anat:comprend	anat:L-mscl-pt-rond .
+anat:L-muscles-propres-epaule	anat:comprend	anat:L-mscl-gd-rond .
+anat:L-muscles-propres-epaule	anat:comprend	anat:L-mscl-subscapulaire .
+anat:L-muscles-propres-epaule	anat:comprend	anat:L-mscl-deltoide .
+anat:L-mscl-deltoide	anat:comprend	anat:L-mscl-deltoide-fx-ant .
+anat:L-mscl-deltoide	anat:comprend	anat:L-mscl-deltoide-fx-moy .
+anat:L-mscl-deltoide	anat:comprend	anat:L-mscl-deltoide-fx-post .
+anat:L-muscles-bras-loge-ant	anat:comprend	anat:L-mscl-biceps-brachial .
+anat:L-muscles-bras-loge-ant	anat:comprend	anat:L-mscl-coraco-brachial .
+anat:L-muscles-bras-loge-ant	anat:comprend	anat:L-mscl-brachial .
+anat:L-mscl-biceps-brachial	anat:comprend	anat:L-mscl-biceps-brachial-chef-crt .
+anat:L-mscl-biceps-brachial	anat:comprend	anat:L-mscl-biceps-brachial-chef-lg .
+anat:L-muscles-bras-loge-post	anat:comprend	anat:L-mscl-triceps-brachial .
+anat:L-mscl-triceps-brachial	anat:comprend	anat:L-mscl-triceps-brachial-chef-lg .
+anat:L-mscl-triceps-brachial	anat:comprend	anat:L-mscl-triceps-brachial-chef-med .
+anat:L-mscl-triceps-brachial	anat:comprend	anat:L-mscl-triceps-brachial-chef-lat .
+anat:L-muscles-ant-avt-bras	anat:comprend	anat:L-mscl-brachio-radial .
+anat:L-muscles-ant-avt-bras	anat:comprend	anat:L-mscl-rond-pronateur .
+anat:L-muscles-ant-avt-bras	anat:comprend	anat:L-mscl-fleR-radial-carpe .
+anat:L-muscles-ant-avt-bras	anat:comprend	anat:L-mscl-lg-palmaire .
+anat:L-muscles-ant-avt-bras	anat:comprend	anat:L-mscl-fleR-ulnaire-carpe .
+anat:L-muscles-ant-avt-bras	anat:comprend	anat:L-mscl-fleR-pfd-doigts .
+anat:L-muscles-ant-avt-bras	anat:comprend	anat:L-mscl-fleR-supL-doigts .
+anat:L-muscles-ant-avt-bras	anat:comprend	anat:L-mscl-lg-fleR-pouce .
+anat:L-muscles-ant-avt-bras	anat:comprend	anat:L-mscl-supinateur .
+anat:L-muscles-ant-avt-bras	anat:comprend	anat:L-mscl-carre-pronateur .
+anat:L-mscl-rond-pronateur	anat:comprend	anat:L-mscl-rond-pronateur-chef-humeral .
+anat:L-mscl-rond-pronateur	anat:comprend	anat:L-mscl-rond-pronateur-chef-ulnaire .
+anat:L-mscl-fleR-ulnaire-carpe	anat:comprend	anat:L-mscl-fleR-ulnaire-carpe-chef-humeral .
+anat:L-mscl-fleR-ulnaire-carpe	anat:comprend	anat:L-mscl-fleR-ulnaire-carpe-chef-ulnaire .
+anat:L-mscl-fleR-supL-doigts	anat:comprend	anat:L-mscl-fleR-supL-doigts-chef-humero-ulnaire .
+anat:L-mscl-fleR-supL-doigts	anat:comprend	anat:L-mscl-fleR-supL-doigts-chef-radial .
+anat:L-mscl-supinateur	anat:comprend	anat:L-mscl-supinateur-fx-supL .
+anat:L-mscl-supinateur	anat:comprend	anat:L-mscl-supinateur-fx-pfd .
+anat:L-muscles-post-avt-bras	anat:comprend	anat:L-mscl-lg-extR-radial-carpe .
+anat:L-muscles-post-avt-bras	anat:comprend	anat:L-mscl-crt-extR-radial-carpe .
+anat:L-muscles-post-avt-bras	anat:comprend	anat:L-mscl-extR-doigts .
+anat:L-muscles-post-avt-bras	anat:comprend	anat:L-mscl-extR-pt-doigt .
+anat:L-muscles-post-avt-bras	anat:comprend	anat:L-mscl-extR-ulnaire-carpe .
+anat:L-muscles-post-avt-bras	anat:comprend	anat:L-mscl-ancone .
+anat:L-muscles-post-avt-bras	anat:comprend	anat:L-mscl-lg-abdR-pouce .
+anat:L-muscles-post-avt-bras	anat:comprend	anat:L-mscl-crt-extR-pouce .
+anat:L-muscles-post-avt-bras	anat:comprend	anat:L-mscl-extR-index .
+anat:L-muscles-post-avt-bras	anat:comprend	anat:L-mscl-lg-extR-pouce .
+anat:L-muscles-loge-med-main	anat:comprend	anat:L-muscles-loge-med-main-plan-supL .
+anat:L-muscles-loge-med-main	anat:comprend	anat:L-muscles-loge-med-main-plan-pfd .
+anat:L-muscles-loge-lat-main	anat:comprend	anat:L-muscles-loge-lat-main-plan-supL .
+anat:L-muscles-loge-lat-main	anat:comprend	anat:L-muscles-loge-lat-main-plan-moy .
+anat:L-muscles-loge-lat-main	anat:comprend	anat:L-muscles-loge-lat-main-plan-pfd .
+anat:L-muscles-loge-moy-main	anat:comprend	anat:L-muscles-loge-moy-main-plan-supL .
+anat:L-muscles-loge-moy-main	anat:comprend	anat:L-muscles-loge-moy-main-plan-pfd .
+anat:L-muscles-loge-med-main-plan-supL	anat:comprend	anat:L-mscl-crt-fleR-auriculaire .
+anat:L-muscles-loge-med-main-plan-supL	anat:comprend	anat:L-mscl-abdR-auriculaire .
+anat:L-muscles-loge-med-main-plan-pfd	anat:comprend	anat:L-mscl-opposant-auriculaire .
+anat:L-muscles-loge-lat-main-plan-supL	anat:comprend	anat:L-mscl-crt-abdR-pouce .
+anat:L-muscles-loge-lat-main-plan-moy	anat:comprend	anat:L-mscl-crt-fleR-pouce .
+anat:L-muscles-loge-lat-main-plan-moy	anat:comprend	anat:L-mscl-opposant-pouce .
+anat:L-muscles-loge-lat-main-plan-pfd	anat:comprend	anat:L-mscl-addR-pouce .
+anat:L-mscl-addR-pouce	anat:comprend	anat:L-mscl-addR-pouce-fx-oblique .
+anat:L-mscl-addR-pouce	anat:comprend	anat:L-mscl-addR-pouce-fx-trsv .
+anat:L-mscl-crt-fleR-pouce	anat:comprend	anat:L-mscl-crt-fleR-pouce-fx-supL .
+anat:L-mscl-crt-fleR-pouce	anat:comprend	anat:L-mscl-crt-fleR-pouce-fx-pfd .
+anat:L-muscles-loge-moy-main-plan-supL	anat:comprend	anat:L-muscles-lombricaux-main .
+anat:L-muscles-lombricaux-main	anat:comprend	anat:L-mscl-lombrical-du-II-main .
+anat:L-muscles-lombricaux-main	anat:comprend	anat:L-mscl-lombrical-du-III-main .
+anat:L-muscles-lombricaux-main	anat:comprend	anat:L-mscl-lombrical-du-IV-main .
+anat:L-muscles-lombricaux-main	anat:comprend	anat:L-mscl-lombrical-du-V-main .
+anat:L-muscles-loge-moy-main-plan-pfd	anat:comprend	anat:L-muscles-interosseux-dorsaux-main .
+anat:L-muscles-loge-moy-main-plan-pfd	anat:comprend	anat:L-muscles-interosseux-palmaire-main .
+anat:L-muscles-interosseux-dorsaux-main	anat:comprend	anat:L-mscl-interosseux-dorsal-main-1 .
+anat:L-muscles-interosseux-dorsaux-main	anat:comprend	anat:L-mscl-interosseux-dorsal-main-2 .
+anat:L-muscles-interosseux-dorsaux-main	anat:comprend	anat:L-mscl-interosseux-dorsal-main-3 .
+anat:L-muscles-interosseux-dorsaux-main	anat:comprend	anat:L-mscl-interosseux-dorsal-main-4 .
+anat:L-muscles-interosseux-palmaire-main	anat:comprend	anat:L-mscl-interosseux-palmaire-main-1 .
+anat:L-muscles-interosseux-palmaire-main	anat:comprend	anat:L-mscl-interosseux-palmaire-main-2 .
+anat:L-muscles-interosseux-palmaire-main	anat:comprend	anat:L-mscl-interosseux-palmaire-main-3 .
+anat:L-muscles-interosseux-palmaire-main	anat:comprend	anat:L-mscl-interosseux-palmaire-main-4 .
+anat:L-mscl-tabatiere-anatomique	anat:comprend	anat:L-mscl-lg-abdR-pouce .
+anat:L-mscl-tabatiere-anatomique	anat:comprend	anat:L-mscl-crt-extR-pouce .
+anat:L-mscl-tabatiere-anatomique	anat:comprend	anat:L-mscl-lg-extR-pouce .
+		
+anat:R-mscl-angulaire-scapula	anat:origi-insere-sur	anat:v-C1 .
+anat:R-mscl-angulaire-scapula	anat:origi-insere-sur	anat:v-C2 .
+anat:R-mscl-angulaire-scapula	anat:origi-insere-sur	anat:v-C3 .
+anat:R-mscl-angulaire-scapula	anat:origi-insere-sur	anat:v-C4 .
+anat:R-mscl-angulaire-scapula	anat:termi-insere-sur	anat:R-scapula .
+anat:R-mscl-subclavier	anat:origi-insere-sur	anat:R-cote-1 .
+anat:R-mscl-subclavier	anat:origi-insere-sur	anat:R-carti-costal-1 .
+anat:R-mscl-subclavier	anat:termi-insere-sur	anat:R-clavicule .
+anat:R-mscl-pt-pectoral	anat:origi-insere-sur	anat:R-cote-3 .
+anat:R-mscl-pt-pectoral	anat:origi-insere-sur	anat:R-cote-4 .
+anat:R-mscl-pt-pectoral	anat:origi-insere-sur	anat:R-cote-5 .
+anat:R-mscl-pt-pectoral	anat:termi-insere-sur	anat:R-scapula .
+anat:R-mscl-pt-rhombo	anat:origi-insere-sur	anat:v-C7 .
+anat:R-mscl-pt-rhombo	anat:origi-insere-sur	anat:v-T1 .
+anat:R-mscl-pt-rhombo	anat:termi-insere-sur	anat:R-scapula .
+anat:R-mscl-gd-rhombo	anat:origi-insere-sur	anat:v-T2 .
+anat:R-mscl-gd-rhombo	anat:origi-insere-sur	anat:v-T3 .
+anat:R-mscl-gd-rhombo	anat:origi-insere-sur	anat:v-T4 .
+anat:R-mscl-gd-rhombo	anat:origi-insere-sur	anat:v-T5 .
+anat:R-mscl-gd-rhombo	anat:termi-insere-sur	anat:R-scapula .
+anat:R-mscl-dentele-ant	anat:origi-insere-sur	anat:R-cote-1 .
+anat:R-mscl-dentele-ant	anat:origi-insere-sur	anat:R-cote-2 .
+anat:R-mscl-dentele-ant	anat:origi-insere-sur	anat:R-cote-2 .
+anat:R-mscl-dentele-ant	anat:origi-insere-sur	anat:R-cote-3 .
+anat:R-mscl-dentele-ant	anat:origi-insere-sur	anat:R-cote-4 .
+anat:R-mscl-dentele-ant	anat:origi-insere-sur	anat:R-cote-5 .
+anat:R-mscl-dentele-ant	anat:origi-insere-sur	anat:R-cote-6 .
+anat:R-mscl-dentele-ant	anat:origi-insere-sur	anat:R-cote-7 .
+anat:R-mscl-dentele-ant	anat:origi-insere-sur	anat:R-cote-8 .
+anat:R-mscl-dentele-ant	anat:origi-insere-sur	anat:R-cote-9 .
+anat:R-mscl-dentele-ant	anat:origi-insere-sur	anat:R-cote-10 .
+anat:R-mscl-dentele-ant	anat:termi-insere-sur	anat:R-scapula .
+anat:R-mscl-dentele-ant-fx-sup	anat:origi-insere-sur	anat:R-cote-1 .
+anat:R-mscl-dentele-ant-fx-sup	anat:origi-insere-sur	anat:R-cote-2 .
+anat:R-mscl-dentele-ant-fx-moy	anat:origi-insere-sur	anat:R-cote-2 .
+anat:R-mscl-dentele-ant-fx-moy	anat:origi-insere-sur	anat:R-cote-3 .
+anat:R-mscl-dentele-ant-fx-moy	anat:origi-insere-sur	anat:R-cote-4 .
+anat:R-mscl-dentele-ant-fx-inf	anat:origi-insere-sur	anat:R-cote-5 .
+anat:R-mscl-dentele-ant-fx-inf	anat:origi-insere-sur	anat:R-cote-6 .
+anat:R-mscl-dentele-ant-fx-inf	anat:origi-insere-sur	anat:R-cote-7 .
+anat:R-mscl-dentele-ant-fx-inf	anat:origi-insere-sur	anat:R-cote-8 .
+anat:R-mscl-dentele-ant-fx-inf	anat:origi-insere-sur	anat:R-cote-9 .
+anat:R-mscl-dentele-ant-fx-inf	anat:origi-insere-sur	anat:R-cote-10 .
+anat:R-mscl-dentele-ant-fx-sup	anat:termi-insere-sur	anat:R-scapula .
+anat:R-mscl-dentele-ant-fx-moy	anat:termi-insere-sur	anat:R-scapula .
+anat:R-mscl-dentele-ant-fx-inf	anat:termi-insere-sur	anat:R-scapula .
+anat:R-mscl-trapeze	anat:origi-insere-sur	anat:occiput .
+anat:R-mscl-trapeze	anat:origi-insere-sur	anat:lgmt-nucal .
+anat:R-mscl-trapeze	anat:origi-insere-sur	anat:v-C7 .
+anat:R-mscl-trapeze	anat:origi-insere-sur	anat:v-T1 .
+anat:R-mscl-trapeze	anat:origi-insere-sur	anat:v-T2 .
+anat:R-mscl-trapeze	anat:origi-insere-sur	anat:v-T3 .
+anat:R-mscl-trapeze	anat:origi-insere-sur	anat:v-T4 .
+anat:R-mscl-trapeze	anat:origi-insere-sur	anat:v-T5 .
+anat:R-mscl-trapeze	anat:origi-insere-sur	anat:v-T6 .
+anat:R-mscl-trapeze	anat:origi-insere-sur	anat:v-T7 .
+anat:R-mscl-trapeze	anat:origi-insere-sur	anat:v-T8 .
+anat:R-mscl-trapeze	anat:origi-insere-sur	anat:v-T9 .
+anat:R-mscl-trapeze	anat:origi-insere-sur	anat:v-T10 .
+anat:R-mscl-trapeze	anat:origi-insere-sur	anat:v-T11 .
+anat:R-mscl-trapeze	anat:origi-insere-sur	anat:v-T12 .
+anat:R-mscl-trapeze	anat:termi-insere-sur	anat:R-clavicule .
+anat:R-mscl-trapeze	anat:termi-insere-sur	anat:R-scapula .
+anat:R-mscl-trapeze-fx-sup	anat:origi-insere-sur	anat:occiput .
+anat:R-mscl-trapeze-fx-sup	anat:origi-insere-sur	anat:lgmt-nucal .
+anat:R-mscl-trapeze-fx-moy	anat:origi-insere-sur	anat:v-C7 .
+anat:R-mscl-trapeze-fx-moy	anat:origi-insere-sur	anat:v-T1 .
+anat:R-mscl-trapeze-fx-moy	anat:origi-insere-sur	anat:v-T2 .
+anat:R-mscl-trapeze-fx-moy	anat:origi-insere-sur	anat:v-T3 .
+anat:R-mscl-trapeze-fx-moy	anat:origi-insere-sur	anat:v-T4 .
+anat:R-mscl-trapeze-fx-inf	anat:origi-insere-sur	anat:v-T5 .
+anat:R-mscl-trapeze-fx-inf	anat:origi-insere-sur	anat:v-T6 .
+anat:R-mscl-trapeze-fx-inf	anat:origi-insere-sur	anat:v-T7 .
+anat:R-mscl-trapeze-fx-inf	anat:origi-insere-sur	anat:v-T8 .
+anat:R-mscl-trapeze-fx-inf	anat:origi-insere-sur	anat:v-T9 .
+anat:R-mscl-trapeze-fx-inf	anat:origi-insere-sur	anat:v-T10 .
+anat:R-mscl-trapeze-fx-inf	anat:origi-insere-sur	anat:v-T11 .
+anat:R-mscl-trapeze-fx-inf	anat:origi-insere-sur	anat:v-T12 .
+anat:R-mscl-trapeze-fx-sup	anat:termi-insere-sur	anat:R-clavicule .
+anat:R-mscl-trapeze-fx-moy	anat:termi-insere-sur	anat:R-scapula .
+anat:R-mscl-trapeze-fx-inf	anat:termi-insere-sur	anat:R-scapula .
+anat:R-mscl-gd-dorsal	anat:origi-insere-sur	anat:v-T7 .
+anat:R-mscl-gd-dorsal	anat:origi-insere-sur	anat:v-T8 .
+anat:R-mscl-gd-dorsal	anat:origi-insere-sur	anat:v-T9 .
+anat:R-mscl-gd-dorsal	anat:origi-insere-sur	anat:v-T10 .
+anat:R-mscl-gd-dorsal	anat:origi-insere-sur	anat:v-T11 .
+anat:R-mscl-gd-dorsal	anat:origi-insere-sur	anat:v-T12 .
+anat:R-mscl-gd-dorsal	anat:origi-insere-sur	anat:v-L1 .
+anat:R-mscl-gd-dorsal	anat:origi-insere-sur	anat:v-L2 .
+anat:R-mscl-gd-dorsal	anat:origi-insere-sur	anat:v-L3 .
+anat:R-mscl-gd-dorsal	anat:origi-insere-sur	anat:v-L4 .
+anat:R-mscl-gd-dorsal	anat:origi-insere-sur	anat:v-L5 .
+anat:R-mscl-gd-dorsal	anat:origi-insere-sur	anat:sacrum .
+anat:R-mscl-gd-dorsal	anat:origi-insere-sur	anat:R-iliaque .
+anat:R-mscl-gd-dorsal	anat:origi-insere-sur	anat:R-cote-10 .
+anat:R-mscl-gd-dorsal	anat:origi-insere-sur	anat:R-cote-11 .
+anat:R-mscl-gd-dorsal	anat:origi-insere-sur	anat:R-cote-12 .
+anat:R-mscl-gd-dorsal	anat:origi-insere-sur	anat:R-scapula .
+anat:R-mscl-gd-dorsal	anat:termi-insere-sur	anat:R-humerus .
+anat:R-mscl-gd-pectoral	anat:origi-insere-sur	anat:R-clavicule .
+anat:R-mscl-gd-pectoral	anat:origi-insere-sur	anat:sternum .
+anat:R-mscl-gd-pectoral	anat:origi-insere-sur	anat:R-carti-costal-2 .
+anat:R-mscl-gd-pectoral	anat:origi-insere-sur	anat:R-carti-costal-3 .
+anat:R-mscl-gd-pectoral	anat:origi-insere-sur	anat:R-carti-costal-4 .
+anat:R-mscl-gd-pectoral	anat:origi-insere-sur	anat:R-carti-costal-5 .
+anat:R-mscl-gd-pectoral	anat:origi-insere-sur	anat:R-carti-costal-6 .
+anat:R-mscl-gd-pectoral	anat:origi-insere-sur	anat:R-cote-5 .
+anat:R-mscl-gd-pectoral	anat:origi-insere-sur	anat:R-cote-6 .
+anat:R-mscl-gd-pectoral	anat:origi-insere-sur	anat:R-gaine-mscl-abdo-droit .
+anat:R-mscl-gd-pectoral	anat:termi-insere-sur	anat:R-humerus .
+anat:R-mscl-gd-pectoral-fx-sup	anat:origi-insere-sur	anat:R-clavicule .
+anat:R-mscl-gd-pectoral-fx-moy	anat:origi-insere-sur	anat:sternum .
+anat:R-mscl-gd-pectoral-fx-moy	anat:origi-insere-sur	anat:R-carti-costal-2 .
+anat:R-mscl-gd-pectoral-fx-moy	anat:origi-insere-sur	anat:R-carti-costal-3 .
+anat:R-mscl-gd-pectoral-fx-moy	anat:origi-insere-sur	anat:R-carti-costal-4 .
+anat:R-mscl-gd-pectoral-fx-moy	anat:origi-insere-sur	anat:R-carti-costal-5 .
+anat:R-mscl-gd-pectoral-fx-moy	anat:origi-insere-sur	anat:R-carti-costal-6 .
+anat:R-mscl-gd-pectoral-fx-moy	anat:origi-insere-sur	anat:R-cote-5 .
+anat:R-mscl-gd-pectoral-fx-moy	anat:origi-insere-sur	anat:R-cote-6 .
+anat:R-mscl-gd-pectoral-fx-inf	anat:origi-insere-sur	anat:R-gaine-mscl-abdo-droit .
+anat:R-mscl-gd-pectoral-fx-sup	anat:termi-insere-sur	anat:R-humerus .
+anat:R-mscl-gd-pectoral-fx-moy	anat:termi-insere-sur	anat:R-humerus .
+anat:R-mscl-gd-pectoral-fx-inf	anat:termi-insere-sur	anat:R-humerus .
+anat:R-mscl-supraepineux	anat:origi-insere-sur	anat:R-scapula .
+anat:R-mscl-supraepineux	anat:origi-insere-sur	anat:R-fascia-supraepineux .
+anat:R-mscl-supraepineux	anat:termi-insere-sur	anat:R-humerus .
+anat:R-mscl-infraepineux	anat:origi-insere-sur	anat:R-scapula .
+anat:R-mscl-infraepineux	anat:origi-insere-sur	anat:R-fascia-infraepineux .
+anat:R-mscl-infraepineux	anat:termi-insere-sur	anat:R-humerus .
+anat:R-mscl-pt-rond	anat:origi-insere-sur	anat:R-scapula .
+anat:R-mscl-pt-rond	anat:termi-insere-sur	anat:R-humerus .
+anat:R-mscl-gd-rond	anat:origi-insere-sur	anat:R-scapula .
+anat:R-mscl-gd-rond	anat:termi-insere-sur	anat:R-humerus .
+anat:R-mscl-subscapulaire	anat:origi-insere-sur	anat:R-scapula .
+anat:R-mscl-subscapulaire	anat:termi-insere-sur	anat:R-humerus .
+anat:R-mscl-deltoide-fx-ant	anat:origi-insere-sur	anat:R-clavicule .
+anat:R-mscl-deltoide-fx-moy	anat:origi-insere-sur	anat:R-scapula .
+anat:R-mscl-deltoide-fx-post	anat:origi-insere-sur	anat:R-scapula .
+anat:R-mscl-deltoide	anat:origi-insere-sur	anat:R-clavicule .
+anat:R-mscl-deltoide	anat:origi-insere-sur	anat:R-scapula .
+anat:R-mscl-deltoide	anat:termi-insere-sur	anat:R-humerus .
+anat:R-mscl-biceps-brachial-chef-crt	anat:origi-insere-sur	anat:R-scapula .
+anat:R-mscl-biceps-brachial-chef-lg	anat:origi-insere-sur	anat:R-scapula .
+anat:R-mscl-biceps-brachial	anat:origi-insere-sur	anat:R-scapula .
+anat:R-mscl-biceps-brachial	anat:termi-insere-sur	anat:R-radius .
+anat:R-mscl-coraco-brachial	anat:origi-insere-sur	anat:R-scapula .
+anat:R-mscl-coraco-brachial	anat:termi-insere-sur	anat:R-humerus .
+anat:R-mscl-brachial	anat:origi-insere-sur	anat:R-humerus .
+anat:R-mscl-brachial	anat:origi-insere-sur	anat:R-septum-intermscl-lat-bras .
+anat:R-mscl-brachial	anat:origi-insere-sur	anat:R-septum-intermscl-med-bras .
+anat:R-mscl-brachial	anat:termi-insere-sur	anat:R-ulna .
+anat:R-mscl-triceps-brachial-chef-lg	anat:origi-insere-sur	anat:R-scapula .
+anat:R-mscl-triceps-brachial-chef-med	anat:origi-insere-sur	anat:R-humerus .
+anat:R-mscl-triceps-brachial-chef-med	anat:origi-insere-sur	anat:R-septum-intermscl-med-bras .
+anat:R-mscl-triceps-brachial-chef-lat	anat:origi-insere-sur	anat:R-humerus .
+anat:R-mscl-triceps-brachial-chef-lat	anat:origi-insere-sur	anat:R-septum-intermscl-lat-bras .
+anat:R-mscl-triceps-brachial	anat:origi-insere-sur	anat:R-scapula .
+anat:R-mscl-triceps-brachial	anat:origi-insere-sur	anat:R-humerus .
+anat:R-mscl-triceps-brachial	anat:origi-insere-sur	anat:R-septum-intermscl-med-bras .
+anat:R-mscl-triceps-brachial	anat:origi-insere-sur	anat:R-septum-intermscl-lat-bras .
+anat:R-mscl-triceps-brachial	anat:termi-insere-sur	anat:R-ulna .
+anat:R-mscl-triceps-brachial	anat:termi-insere-sur	anat:R-fascia-antebrachial .
+anat:R-mscl-brachio-radial	anat:origi-insere-sur	anat:R-humerus .
+anat:R-mscl-brachio-radial	anat:origi-insere-sur	anat:R-septum-intermscl-lat-bras .
+anat:R-mscl-brachio-radial	anat:termi-insere-sur	anat:R-radius .
+anat:R-mscl-rond-pronateur-chef-humeral	anat:origi-insere-sur	anat:R-humerus .
+anat:R-mscl-rond-pronateur-chef-humeral	anat:origi-insere-sur	anat:R-fascia-antebrachial .
+anat:R-mscl-rond-pronateur-chef-ulnaire	anat:origi-insere-sur	anat:R-ulna .
+anat:R-mscl-rond-pronateur	anat:origi-insere-sur	anat:R-humerus .
+anat:R-mscl-rond-pronateur	anat:origi-insere-sur	anat:R-fascia-antebrachial .
+anat:R-mscl-rond-pronateur	anat:origi-insere-sur	anat:R-ulna .
+anat:R-mscl-rond-pronateur	anat:termi-insere-sur	anat:R-radius .
+anat:R-mscl-fleR-radial-carpe	anat:origi-insere-sur	anat:R-humerus .
+anat:R-mscl-fleR-radial-carpe	anat:origi-insere-sur	anat:R-fascia-antebrachial .
+anat:R-mscl-fleR-radial-carpe	anat:termi-insere-sur	anat:R-metaC-II .
+anat:R-mscl-fleR-radial-carpe	anat:termi-insere-sur	anat:R-metaC-III .
+anat:R-mscl-lg-palmaire	anat:origi-insere-sur	anat:R-humerus .
+anat:R-mscl-lg-palmaire	anat:origi-insere-sur	anat:R-fascia-antebrachial .
+anat:R-mscl-lg-palmaire	anat:termi-insere-sur	anat:R-aponevrose-palmaire .
+anat:R-mscl-fleR-ulnaire-carpe-chef-humeral	anat:origi-insere-sur	anat:R-humerus .
+anat:R-mscl-fleR-ulnaire-carpe-chef-ulnaire	anat:origi-insere-sur	anat:R-ulna .
+anat:R-mscl-fleR-ulnaire-carpe	anat:origi-insere-sur	anat:R-humerus .
+anat:R-mscl-fleR-ulnaire-carpe	anat:origi-insere-sur	anat:R-ulna .
+anat:R-mscl-fleR-ulnaire-carpe	anat:termi-insere-sur	anat:R-pisiforme .
+anat:R-mscl-fleR-ulnaire-carpe	anat:termi-insere-sur	anat:R-lgmt-pisiforme .
+anat:R-mscl-fleR-ulnaire-carpe	anat:termi-insere-sur	anat:R-metaC-V .
+anat:R-mscl-fleR-ulnaire-carpe	anat:termi-insere-sur	anat:R-hamatum .
+anat:R-mscl-fleR-pfd-doigts	anat:origi-insere-sur	anat:R-ulna .
+anat:R-mscl-fleR-pfd-doigts	anat:origi-insere-sur	anat:R-radius .
+anat:R-mscl-fleR-pfd-doigts	anat:origi-insere-sur	anat:R-mb-interosseuse-antebrachiale .
+anat:R-mscl-fleR-pfd-doigts	anat:termi-insere-sur	anat:R-main-phal-dist-II .
+anat:R-mscl-fleR-pfd-doigts	anat:termi-insere-sur	anat:R-main-phal-dist-III .
+anat:R-mscl-fleR-pfd-doigts	anat:termi-insere-sur	anat:R-main-phal-dist-IV .
+anat:R-mscl-fleR-pfd-doigts	anat:termi-insere-sur	anat:R-main-phal-dist-V .
+anat:R-mscl-fleR-supL-doigts-chef-humero-ulnaire	anat:origi-insere-sur	anat:R-humerus .
+anat:R-mscl-fleR-supL-doigts-chef-humero-ulnaire	anat:origi-insere-sur	anat:R-ulna .
+anat:R-mscl-fleR-supL-doigts-chef-radial	anat:origi-insere-sur	anat:R-radius .
+anat:R-mscl-fleR-supL-doigts	anat:origi-insere-sur	anat:R-humerus .
+anat:R-mscl-fleR-supL-doigts	anat:origi-insere-sur	anat:R-ulna .
+anat:R-mscl-fleR-supL-doigts	anat:origi-insere-sur	anat:R-radius .
+anat:R-mscl-fleR-supL-doigts	anat:termi-insere-sur	anat:R-main-phal-moy-II .
+anat:R-mscl-fleR-supL-doigts	anat:termi-insere-sur	anat:R-main-phal-moy-III .
+anat:R-mscl-fleR-supL-doigts	anat:termi-insere-sur	anat:R-main-phal-moy-IV .
+anat:R-mscl-fleR-supL-doigts	anat:termi-insere-sur	anat:R-main-phal-moy-V .
+anat:R-mscl-lg-fleR-pouce	anat:origi-insere-sur	anat:R-radius .
+anat:R-mscl-lg-fleR-pouce	anat:origi-insere-sur	anat:R-mb-interosseuse-antebrachiale .
+anat:R-mscl-lg-fleR-pouce	anat:termi-insere-sur	anat:R-main-phal-dist-I .
+anat:R-mscl-supinateur	anat:origi-insere-sur	anat:R-humerus .
+anat:R-mscl-supinateur	anat:origi-insere-sur	anat:R-ulna .
+anat:R-mscl-supinateur	anat:origi-insere-sur	anat:R-lgmt-collat-radial .
+anat:R-mscl-supinateur	anat:termi-insere-sur	anat:R-radius .
+anat:R-mscl-supinateur-fx-supL	anat:termi-insere-sur	anat:R-radius .
+anat:R-mscl-supinateur-fx-pfd	anat:termi-insere-sur	anat:R-radius .
+anat:R-mscl-carre-pronateur	anat:origi-insere-sur	anat:R-ulna .
+anat:R-mscl-carre-pronateur	anat:termi-insere-sur	anat:R-radius .
+anat:R-mscl-lg-extR-radial-carpe	anat:origi-insere-sur	anat:R-humerus .
+anat:R-mscl-lg-extR-radial-carpe	anat:origi-insere-sur	anat:R-septum-intermscl-lat-bras .
+anat:R-mscl-lg-extR-radial-carpe	anat:termi-insere-sur	anat:R-metaC-II .
+anat:R-mscl-crt-extR-radial-carpe	anat:origi-insere-sur	anat:R-humerus .
+anat:R-mscl-crt-extR-radial-carpe	anat:termi-insere-sur	anat:R-metaC-III .
+anat:R-mscl-extR-doigts	anat:origi-insere-sur	anat:R-humerus .
+anat:R-mscl-extR-doigts	anat:origi-insere-sur	anat:R-fascia-antebrachial .
+anat:R-mscl-extR-doigts	anat:termi-insere-sur	anat:R-main-phal-proxi-II .
+anat:R-mscl-extR-doigts	anat:termi-insere-sur	anat:R-main-phal-moy-II .
+anat:R-mscl-extR-doigts	anat:termi-insere-sur	anat:R-main-phal-dist-II .
+anat:R-mscl-extR-doigts	anat:termi-insere-sur	anat:R-main-phal-proxi-III .
+anat:R-mscl-extR-doigts	anat:termi-insere-sur	anat:R-main-phal-moy-III .
+anat:R-mscl-extR-doigts	anat:termi-insere-sur	anat:R-main-phal-dist-III .
+anat:R-mscl-extR-doigts	anat:termi-insere-sur	anat:R-main-phal-proxi-IV .
+anat:R-mscl-extR-doigts	anat:termi-insere-sur	anat:R-main-phal-moy-IV .
+anat:R-mscl-extR-doigts	anat:termi-insere-sur	anat:R-main-phal-dist-IV .
+anat:R-mscl-extR-doigts	anat:termi-insere-sur	anat:R-main-phal-proxi-V .
+anat:R-mscl-extR-doigts	anat:termi-insere-sur	anat:R-main-phal-moy-V .
+anat:R-mscl-extR-doigts	anat:termi-insere-sur	anat:R-main-phal-dist-V .
+anat:R-mscl-extR-pt-doigt	anat:origi-insere-sur	anat:R-humerus .
+anat:R-mscl-extR-pt-doigt	anat:origi-insere-sur	anat:R-fascia-antebrachial .
+anat:R-mscl-extR-pt-doigt	anat:termi-insere-sur	anat:R-mscl-extR-doigts .
+anat:R-mscl-extR-ulnaire-carpe	anat:origi-insere-sur	anat:R-humerus .
+anat:R-mscl-extR-ulnaire-carpe	anat:origi-insere-sur	anat:R-ulna .
+anat:R-mscl-extR-ulnaire-carpe	anat:origi-insere-sur	anat:R-fascia-antebrachial .
+anat:R-mscl-extR-ulnaire-carpe	anat:termi-insere-sur	anat:R-metaC-V .
+anat:R-mscl-ancone	anat:origi-insere-sur	anat:R-humerus .
+anat:R-mscl-ancone	anat:termi-insere-sur	anat:R-ulna .
+anat:R-mscl-lg-abdR-pouce	anat:origi-insere-sur	anat:R-ulna .
+anat:R-mscl-lg-abdR-pouce	anat:origi-insere-sur	anat:R-radius .
+anat:R-mscl-lg-abdR-pouce	anat:origi-insere-sur	anat:R-mb-interosseuse-antebrachiale .
+anat:R-mscl-lg-abdR-pouce	anat:termi-insere-sur	anat:R-metaC-I .
+anat:R-mscl-lg-abdR-pouce	anat:termi-insere-sur	anat:R-mscl-crt-abdR-pouce .
+anat:R-mscl-crt-extR-pouce	anat:origi-insere-sur	anat:R-radius .
+anat:R-mscl-crt-extR-pouce	anat:origi-insere-sur	anat:R-mb-interosseuse-antebrachiale .
+anat:R-mscl-crt-extR-pouce	anat:termi-insere-sur	anat:R-main-phal-proxi-I .
+anat:R-mscl-extR-index	anat:origi-insere-sur	anat:R-ulna .
+anat:R-mscl-extR-index	anat:origi-insere-sur	anat:R-mb-interosseuse-antebrachiale .
+anat:R-mscl-extR-index	anat:termi-insere-sur	anat:R-mscl-extR-doigts .
+anat:R-mscl-lg-extR-pouce	anat:origi-insere-sur	anat:R-ulna .
+anat:R-mscl-lg-extR-pouce	anat:origi-insere-sur	anat:R-mb-interosseuse-antebrachiale .
+anat:R-mscl-lg-extR-pouce	anat:termi-insere-sur	anat:R-main-phal-dist-I .
+anat:R-mscl-crt-fleR-auriculaire	anat:origi-insere-sur	anat:R-hamatum .
+anat:R-mscl-crt-fleR-auriculaire	anat:origi-insere-sur	anat:R-retinaculum-fleR-main .
+anat:R-mscl-crt-fleR-auriculaire	anat:termi-insere-sur	anat:R-main-phal-proxi-V .
+anat:R-mscl-abdR-auriculaire	anat:origi-insere-sur	anat:R-pisiforme .
+anat:R-mscl-abdR-auriculaire	anat:origi-insere-sur	anat:R-retinaculum-fleR-main .
+anat:R-mscl-abdR-auriculaire	anat:termi-insere-sur	anat:R-main-phal-proxi-V .
+anat:R-mscl-opposant-auriculaire	anat:origi-insere-sur	anat:R-hamatum .
+anat:R-mscl-opposant-auriculaire	anat:origi-insere-sur	anat:R-retinaculum-fleR-main .
+anat:R-mscl-opposant-auriculaire	anat:termi-insere-sur	anat:R-metaC-V .
+anat:R-mscl-crt-abdR-pouce	anat:origi-insere-sur	anat:R-scaphoide .
+anat:R-mscl-crt-abdR-pouce	anat:origi-insere-sur	anat:R-retinaculum-fleR-main .
+anat:R-mscl-crt-abdR-pouce	anat:termi-insere-sur	anat:R-main-phal-proxi-I .
+anat:R-mscl-crt-abdR-pouce	anat:termi-insere-sur	anat:R-pouce-sesamoide-lat .
+anat:R-mscl-crt-fleR-pouce-fx-supL	anat:origi-insere-sur	anat:R-trapeze .
+anat:R-mscl-crt-fleR-pouce-fx-supL	anat:origi-insere-sur	anat:R-retinaculum-fleR-main .
+anat:R-mscl-crt-fleR-pouce-fx-pfd	anat:origi-insere-sur	anat:R-capitatum .
+anat:R-mscl-crt-fleR-pouce-fx-pfd	anat:origi-insere-sur	anat:R-trapezoide .
+anat:R-mscl-crt-fleR-pouce	anat:origi-insere-sur	anat:R-trapeze .
+anat:R-mscl-crt-fleR-pouce	anat:origi-insere-sur	anat:R-retinaculum-fleR-main .
+anat:R-mscl-crt-fleR-pouce	anat:origi-insere-sur	anat:R-capitatum .
+anat:R-mscl-crt-fleR-pouce	anat:origi-insere-sur	anat:R-trapezoide .
+anat:R-mscl-crt-fleR-pouce	anat:termi-insere-sur	anat:R-main-phal-proxi-I .
+anat:R-mscl-crt-fleR-pouce	anat:termi-insere-sur	anat:R-pouce-sesamoide-lat .
+anat:R-mscl-opposant-pouce	anat:origi-insere-sur	anat:R-trapeze .
+anat:R-mscl-opposant-pouce	anat:origi-insere-sur	anat:R-retinaculum-fleR-main .
+anat:R-mscl-opposant-pouce	anat:termi-insere-sur	anat:R-metaC-I .
+anat:R-mscl-addR-pouce-fx-oblique	anat:origi-insere-sur	anat:R-capitatum .
+anat:R-mscl-addR-pouce-fx-oblique	anat:origi-insere-sur	anat:R-trapezoide .
+anat:R-mscl-addR-pouce-fx-oblique	anat:origi-insere-sur	anat:R-metaC-II .
+anat:R-mscl-addR-pouce-fx-trsv	anat:origi-insere-sur	anat:R-metaC-III .
+anat:R-mscl-addR-pouce	anat:origi-insere-sur	anat:R-capitatum .
+anat:R-mscl-addR-pouce	anat:origi-insere-sur	anat:R-trapezoide .
+anat:R-mscl-addR-pouce	anat:origi-insere-sur	anat:R-metaC-II .
+anat:R-mscl-addR-pouce	anat:origi-insere-sur	anat:R-metaC-III .
+anat:R-mscl-addR-pouce	anat:termi-insere-sur	anat:R-main-phal-proxi-I .
+anat:R-mscl-addR-pouce	anat:termi-insere-sur	anat:R-pouce-sesamoide-med .
+anat:R-mscl-lombrical-du-II-main	anat:origi-insere-sur	anat:R-mscl-fleR-pfd-doigts .
+anat:R-mscl-lombrical-du-II-main	anat:termi-insere-sur	anat:R-mscl-extR-doigts .
+anat:R-mscl-lombrical-du-II-main	anat:termi-insere-sur	anat:R-aponevrose-dorsale-doigts .
+anat:R-mscl-lombrical-du-III-main	anat:origi-insere-sur	anat:R-mscl-fleR-pfd-doigts .
+anat:R-mscl-lombrical-du-III-main	anat:termi-insere-sur	anat:R-mscl-extR-doigts .
+anat:R-mscl-lombrical-du-III-main	anat:termi-insere-sur	anat:R-aponevrose-dorsale-doigts .
+anat:R-mscl-lombrical-du-IV-main	anat:origi-insere-sur	anat:R-mscl-fleR-pfd-doigts .
+anat:R-mscl-lombrical-du-IV-main	anat:termi-insere-sur	anat:R-mscl-extR-doigts .
+anat:R-mscl-lombrical-du-IV-main	anat:termi-insere-sur	anat:R-aponevrose-dorsale-doigts .
+anat:R-mscl-lombrical-du-V-main	anat:origi-insere-sur	anat:R-mscl-fleR-pfd-doigts .
+anat:R-mscl-lombrical-du-V-main	anat:termi-insere-sur	anat:R-mscl-extR-doigts .
+anat:R-mscl-lombrical-du-V-main	anat:termi-insere-sur	anat:R-aponevrose-dorsale-doigts .
+anat:R-mscl-interosseux-dorsal-main-1	anat:origi-insere-sur	anat:R-metaC-I .
+anat:R-mscl-interosseux-dorsal-main-1	anat:origi-insere-sur	anat:R-metaC-II .
+anat:R-mscl-interosseux-dorsal-main-1	anat:termi-insere-sur	anat:R-main-phal-proxi-II .
+anat:R-mscl-interosseux-dorsal-main-1	anat:termi-insere-sur	anat:R-mscl-extR-doigts .
+anat:R-mscl-interosseux-dorsal-main-1	anat:termi-insere-sur	anat:R-aponevrose-dorsale-doigts .
+anat:R-mscl-interosseux-dorsal-main-2	anat:origi-insere-sur	anat:R-metaC-II .
+anat:R-mscl-interosseux-dorsal-main-2	anat:origi-insere-sur	anat:R-metaC-III .
+anat:R-mscl-interosseux-dorsal-main-2	anat:termi-insere-sur	anat:R-main-phal-proxi-III .
+anat:R-mscl-interosseux-dorsal-main-2	anat:termi-insere-sur	anat:R-mscl-extR-doigts .
+anat:R-mscl-interosseux-dorsal-main-2	anat:termi-insere-sur	anat:R-aponevrose-dorsale-doigts .
+anat:R-mscl-interosseux-dorsal-main-3	anat:origi-insere-sur	anat:R-metaC-III .
+anat:R-mscl-interosseux-dorsal-main-3	anat:origi-insere-sur	anat:R-metaC-IV .
+anat:R-mscl-interosseux-dorsal-main-3	anat:termi-insere-sur	anat:R-main-phal-proxi-III .
+anat:R-mscl-interosseux-dorsal-main-3	anat:termi-insere-sur	anat:R-mscl-extR-doigts .
+anat:R-mscl-interosseux-dorsal-main-3	anat:termi-insere-sur	anat:R-aponevrose-dorsale-doigts .
+anat:R-mscl-interosseux-dorsal-main-4	anat:origi-insere-sur	anat:R-metaC-IV .
+anat:R-mscl-interosseux-dorsal-main-4	anat:origi-insere-sur	anat:R-metaC-V .
+anat:R-mscl-interosseux-dorsal-main-4	anat:termi-insere-sur	anat:R-main-phal-proxi-IV .
+anat:R-mscl-interosseux-dorsal-main-4	anat:termi-insere-sur	anat:R-mscl-extR-doigts .
+anat:R-mscl-interosseux-dorsal-main-4	anat:termi-insere-sur	anat:R-aponevrose-dorsale-doigts .
+anat:R-mscl-interosseux-palmaire-main-1	anat:origi-insere-sur	anat:R-trapeze .
+anat:R-mscl-interosseux-palmaire-main-1	anat:origi-insere-sur	anat:R-metaC-I .
+anat:R-mscl-interosseux-palmaire-main-1	anat:origi-insere-sur	anat:R-metaC-II .
+anat:R-mscl-interosseux-palmaire-main-1	anat:termi-insere-sur	anat:R-main-phal-proxi-I .
+anat:R-mscl-interosseux-palmaire-main-1	anat:termi-insere-sur	anat:R-pouce-sesamoide-med .
+anat:R-mscl-interosseux-palmaire-main-2	anat:origi-insere-sur	anat:R-metaC-II .
+anat:R-mscl-interosseux-palmaire-main-2	anat:termi-insere-sur	anat:R-main-phal-proxi-II .
+anat:R-mscl-interosseux-palmaire-main-2	anat:termi-insere-sur	anat:R-mscl-extR-doigts .
+anat:R-mscl-interosseux-palmaire-main-2	anat:termi-insere-sur	anat:R-aponevrose-dorsale-doigts .
+anat:R-mscl-interosseux-palmaire-main-3	anat:origi-insere-sur	anat:R-metaC-IV .
+anat:R-mscl-interosseux-palmaire-main-3	anat:termi-insere-sur	anat:R-main-phal-proxi-IV .
+anat:R-mscl-interosseux-palmaire-main-3	anat:termi-insere-sur	anat:R-mscl-extR-doigts .
+anat:R-mscl-interosseux-palmaire-main-3	anat:termi-insere-sur	anat:R-aponevrose-dorsale-doigts .
+anat:R-mscl-interosseux-palmaire-main-4	anat:origi-insere-sur	anat:R-metaC-V .
+anat:R-mscl-interosseux-palmaire-main-4	anat:termi-insere-sur	anat:R-main-phal-proxi-V .
+anat:R-mscl-interosseux-palmaire-main-4	anat:termi-insere-sur	anat:R-mscl-extR-doigts .
+anat:R-mscl-interosseux-palmaire-main-4	anat:termi-insere-sur	anat:R-aponevrose-dorsale-doigts .
+anat:L-mscl-angulaire-scapula	anat:origi-insere-sur	anat:v-C1 .
+anat:L-mscl-angulaire-scapula	anat:origi-insere-sur	anat:v-C2 .
+anat:L-mscl-angulaire-scapula	anat:origi-insere-sur	anat:v-C3 .
+anat:L-mscl-angulaire-scapula	anat:origi-insere-sur	anat:v-C4 .
+anat:L-mscl-angulaire-scapula	anat:termi-insere-sur	anat:L-scapula .
+anat:L-mscl-subclavier	anat:origi-insere-sur	anat:L-cote-1 .
+anat:L-mscl-subclavier	anat:origi-insere-sur	anat:L-carti-costal-1 .
+anat:L-mscl-subclavier	anat:termi-insere-sur	anat:L-clavicule .
+anat:L-mscl-pt-pectoral	anat:origi-insere-sur	anat:L-cote-3 .
+anat:L-mscl-pt-pectoral	anat:origi-insere-sur	anat:L-cote-4 .
+anat:L-mscl-pt-pectoral	anat:origi-insere-sur	anat:L-cote-5 .
+anat:L-mscl-pt-pectoral	anat:termi-insere-sur	anat:L-scapula .
+anat:L-mscl-pt-rhombo	anat:origi-insere-sur	anat:v-C7 .
+anat:L-mscl-pt-rhombo	anat:origi-insere-sur	anat:v-T1 .
+anat:L-mscl-pt-rhombo	anat:termi-insere-sur	anat:L-scapula .
+anat:L-mscl-gd-rhombo	anat:origi-insere-sur	anat:v-T2 .
+anat:L-mscl-gd-rhombo	anat:origi-insere-sur	anat:v-T3 .
+anat:L-mscl-gd-rhombo	anat:origi-insere-sur	anat:v-T4 .
+anat:L-mscl-gd-rhombo	anat:origi-insere-sur	anat:v-T5 .
+anat:L-mscl-gd-rhombo	anat:termi-insere-sur	anat:L-scapula .
+anat:L-mscl-dentele-ant	anat:origi-insere-sur	anat:L-cote-1 .
+anat:L-mscl-dentele-ant	anat:origi-insere-sur	anat:L-cote-2 .
+anat:L-mscl-dentele-ant	anat:origi-insere-sur	anat:L-cote-2 .
+anat:L-mscl-dentele-ant	anat:origi-insere-sur	anat:L-cote-3 .
+anat:L-mscl-dentele-ant	anat:origi-insere-sur	anat:L-cote-4 .
+anat:L-mscl-dentele-ant	anat:origi-insere-sur	anat:L-cote-5 .
+anat:L-mscl-dentele-ant	anat:origi-insere-sur	anat:L-cote-6 .
+anat:L-mscl-dentele-ant	anat:origi-insere-sur	anat:L-cote-7 .
+anat:L-mscl-dentele-ant	anat:origi-insere-sur	anat:L-cote-8 .
+anat:L-mscl-dentele-ant	anat:origi-insere-sur	anat:L-cote-9 .
+anat:L-mscl-dentele-ant	anat:origi-insere-sur	anat:L-cote-10 .
+anat:L-mscl-dentele-ant	anat:termi-insere-sur	anat:L-scapula .
+anat:L-mscl-dentele-ant-fx-sup	anat:origi-insere-sur	anat:L-cote-1 .
+anat:L-mscl-dentele-ant-fx-sup	anat:origi-insere-sur	anat:L-cote-2 .
+anat:L-mscl-dentele-ant-fx-moy	anat:origi-insere-sur	anat:L-cote-2 .
+anat:L-mscl-dentele-ant-fx-moy	anat:origi-insere-sur	anat:L-cote-3 .
+anat:L-mscl-dentele-ant-fx-moy	anat:origi-insere-sur	anat:L-cote-4 .
+anat:L-mscl-dentele-ant-fx-inf	anat:origi-insere-sur	anat:L-cote-5 .
+anat:L-mscl-dentele-ant-fx-inf	anat:origi-insere-sur	anat:L-cote-6 .
+anat:L-mscl-dentele-ant-fx-inf	anat:origi-insere-sur	anat:L-cote-7 .
+anat:L-mscl-dentele-ant-fx-inf	anat:origi-insere-sur	anat:L-cote-8 .
+anat:L-mscl-dentele-ant-fx-inf	anat:origi-insere-sur	anat:L-cote-9 .
+anat:L-mscl-dentele-ant-fx-inf	anat:origi-insere-sur	anat:L-cote-10 .
+anat:L-mscl-dentele-ant-fx-sup	anat:termi-insere-sur	anat:L-scapula .
+anat:L-mscl-dentele-ant-fx-moy	anat:termi-insere-sur	anat:L-scapula .
+anat:L-mscl-dentele-ant-fx-inf	anat:termi-insere-sur	anat:L-scapula .
+anat:L-mscl-trapeze	anat:origi-insere-sur	anat:occiput .
+anat:L-mscl-trapeze	anat:origi-insere-sur	anat:lgmt-nucal .
+anat:L-mscl-trapeze	anat:origi-insere-sur	anat:v-C7 .
+anat:L-mscl-trapeze	anat:origi-insere-sur	anat:v-T1 .
+anat:L-mscl-trapeze	anat:origi-insere-sur	anat:v-T2 .
+anat:L-mscl-trapeze	anat:origi-insere-sur	anat:v-T3 .
+anat:L-mscl-trapeze	anat:origi-insere-sur	anat:v-T4 .
+anat:L-mscl-trapeze	anat:origi-insere-sur	anat:v-T5 .
+anat:L-mscl-trapeze	anat:origi-insere-sur	anat:v-T6 .
+anat:L-mscl-trapeze	anat:origi-insere-sur	anat:v-T7 .
+anat:L-mscl-trapeze	anat:origi-insere-sur	anat:v-T8 .
+anat:L-mscl-trapeze	anat:origi-insere-sur	anat:v-T9 .
+anat:L-mscl-trapeze	anat:origi-insere-sur	anat:v-T10 .
+anat:L-mscl-trapeze	anat:origi-insere-sur	anat:v-T11 .
+anat:L-mscl-trapeze	anat:origi-insere-sur	anat:v-T12 .
+anat:L-mscl-trapeze	anat:termi-insere-sur	anat:L-clavicule .
+anat:L-mscl-trapeze	anat:termi-insere-sur	anat:L-scapula .
+anat:L-mscl-trapeze-fx-sup	anat:origi-insere-sur	anat:occiput .
+anat:L-mscl-trapeze-fx-sup	anat:origi-insere-sur	anat:lgmt-nucal .
+anat:L-mscl-trapeze-fx-moy	anat:origi-insere-sur	anat:v-C7 .
+anat:L-mscl-trapeze-fx-moy	anat:origi-insere-sur	anat:v-T1 .
+anat:L-mscl-trapeze-fx-moy	anat:origi-insere-sur	anat:v-T2 .
+anat:L-mscl-trapeze-fx-moy	anat:origi-insere-sur	anat:v-T3 .
+anat:L-mscl-trapeze-fx-moy	anat:origi-insere-sur	anat:v-T4 .
+anat:L-mscl-trapeze-fx-inf	anat:origi-insere-sur	anat:v-T5 .
+anat:L-mscl-trapeze-fx-inf	anat:origi-insere-sur	anat:v-T6 .
+anat:L-mscl-trapeze-fx-inf	anat:origi-insere-sur	anat:v-T7 .
+anat:L-mscl-trapeze-fx-inf	anat:origi-insere-sur	anat:v-T8 .
+anat:L-mscl-trapeze-fx-inf	anat:origi-insere-sur	anat:v-T9 .
+anat:L-mscl-trapeze-fx-inf	anat:origi-insere-sur	anat:v-T10 .
+anat:L-mscl-trapeze-fx-inf	anat:origi-insere-sur	anat:v-T11 .
+anat:L-mscl-trapeze-fx-inf	anat:origi-insere-sur	anat:v-T12 .
+anat:L-mscl-trapeze-fx-sup	anat:termi-insere-sur	anat:L-clavicule .
+anat:L-mscl-trapeze-fx-moy	anat:termi-insere-sur	anat:L-scapula .
+anat:L-mscl-trapeze-fx-inf	anat:termi-insere-sur	anat:L-scapula .
+anat:L-mscl-gd-dorsal	anat:origi-insere-sur	anat:v-T7 .
+anat:L-mscl-gd-dorsal	anat:origi-insere-sur	anat:v-T8 .
+anat:L-mscl-gd-dorsal	anat:origi-insere-sur	anat:v-T9 .
+anat:L-mscl-gd-dorsal	anat:origi-insere-sur	anat:v-T10 .
+anat:L-mscl-gd-dorsal	anat:origi-insere-sur	anat:v-T11 .
+anat:L-mscl-gd-dorsal	anat:origi-insere-sur	anat:v-T12 .
+anat:L-mscl-gd-dorsal	anat:origi-insere-sur	anat:v-L1 .
+anat:L-mscl-gd-dorsal	anat:origi-insere-sur	anat:v-L2 .
+anat:L-mscl-gd-dorsal	anat:origi-insere-sur	anat:v-L3 .
+anat:L-mscl-gd-dorsal	anat:origi-insere-sur	anat:v-L4 .
+anat:L-mscl-gd-dorsal	anat:origi-insere-sur	anat:v-L5 .
+anat:L-mscl-gd-dorsal	anat:origi-insere-sur	anat:sacrum .
+anat:L-mscl-gd-dorsal	anat:origi-insere-sur	anat:L-iliaque .
+anat:L-mscl-gd-dorsal	anat:origi-insere-sur	anat:L-cote-10 .
+anat:L-mscl-gd-dorsal	anat:origi-insere-sur	anat:L-cote-11 .
+anat:L-mscl-gd-dorsal	anat:origi-insere-sur	anat:L-cote-12 .
+anat:L-mscl-gd-dorsal	anat:origi-insere-sur	anat:L-scapula .
+anat:L-mscl-gd-dorsal	anat:termi-insere-sur	anat:L-humerus .
+anat:L-mscl-gd-pectoral	anat:origi-insere-sur	anat:L-clavicule .
+anat:L-mscl-gd-pectoral	anat:origi-insere-sur	anat:sternum .
+anat:L-mscl-gd-pectoral	anat:origi-insere-sur	anat:L-carti-costal-2 .
+anat:L-mscl-gd-pectoral	anat:origi-insere-sur	anat:L-carti-costal-3 .
+anat:L-mscl-gd-pectoral	anat:origi-insere-sur	anat:L-carti-costal-4 .
+anat:L-mscl-gd-pectoral	anat:origi-insere-sur	anat:L-carti-costal-5 .
+anat:L-mscl-gd-pectoral	anat:origi-insere-sur	anat:L-carti-costal-6 .
+anat:L-mscl-gd-pectoral	anat:origi-insere-sur	anat:L-cote-5 .
+anat:L-mscl-gd-pectoral	anat:origi-insere-sur	anat:L-cote-6 .
+anat:L-mscl-gd-pectoral	anat:origi-insere-sur	anat:L-gaine-mscl-abdo-droit .
+anat:L-mscl-gd-pectoral	anat:termi-insere-sur	anat:L-humerus .
+anat:L-mscl-gd-pectoral-fx-sup	anat:origi-insere-sur	anat:L-clavicule .
+anat:L-mscl-gd-pectoral-fx-moy	anat:origi-insere-sur	anat:sternum .
+anat:L-mscl-gd-pectoral-fx-moy	anat:origi-insere-sur	anat:L-carti-costal-2 .
+anat:L-mscl-gd-pectoral-fx-moy	anat:origi-insere-sur	anat:L-carti-costal-3 .
+anat:L-mscl-gd-pectoral-fx-moy	anat:origi-insere-sur	anat:L-carti-costal-4 .
+anat:L-mscl-gd-pectoral-fx-moy	anat:origi-insere-sur	anat:L-carti-costal-5 .
+anat:L-mscl-gd-pectoral-fx-moy	anat:origi-insere-sur	anat:L-carti-costal-6 .
+anat:L-mscl-gd-pectoral-fx-moy	anat:origi-insere-sur	anat:L-cote-5 .
+anat:L-mscl-gd-pectoral-fx-moy	anat:origi-insere-sur	anat:L-cote-6 .
+anat:L-mscl-gd-pectoral-fx-inf	anat:origi-insere-sur	anat:L-gaine-mscl-abdo-droit .
+anat:L-mscl-gd-pectoral-fx-sup	anat:termi-insere-sur	anat:L-humerus .
+anat:L-mscl-gd-pectoral-fx-moy	anat:termi-insere-sur	anat:L-humerus .
+anat:L-mscl-gd-pectoral-fx-inf	anat:termi-insere-sur	anat:L-humerus .
+anat:L-mscl-supraepineux	anat:origi-insere-sur	anat:L-scapula .
+anat:L-mscl-supraepineux	anat:origi-insere-sur	anat:L-fascia-supraepineux .
+anat:L-mscl-supraepineux	anat:termi-insere-sur	anat:L-humerus .
+anat:L-mscl-infraepineux	anat:origi-insere-sur	anat:L-scapula .
+anat:L-mscl-infraepineux	anat:origi-insere-sur	anat:L-fascia-infraepineux .
+anat:L-mscl-infraepineux	anat:termi-insere-sur	anat:L-humerus .
+anat:L-mscl-pt-rond	anat:origi-insere-sur	anat:L-scapula .
+anat:L-mscl-pt-rond	anat:termi-insere-sur	anat:L-humerus .
+anat:L-mscl-gd-rond	anat:origi-insere-sur	anat:L-scapula .
+anat:L-mscl-gd-rond	anat:termi-insere-sur	anat:L-humerus .
+anat:L-mscl-subscapulaire	anat:origi-insere-sur	anat:L-scapula .
+anat:L-mscl-subscapulaire	anat:termi-insere-sur	anat:L-humerus .
+anat:L-mscl-deltoide-fx-ant	anat:origi-insere-sur	anat:L-clavicule .
+anat:L-mscl-deltoide-fx-moy	anat:origi-insere-sur	anat:L-scapula .
+anat:L-mscl-deltoide-fx-post	anat:origi-insere-sur	anat:L-scapula .
+anat:L-mscl-deltoide	anat:origi-insere-sur	anat:L-clavicule .
+anat:L-mscl-deltoide	anat:origi-insere-sur	anat:L-scapula .
+anat:L-mscl-deltoide	anat:termi-insere-sur	anat:L-humerus .
+anat:L-mscl-biceps-brachial-chef-crt	anat:origi-insere-sur	anat:L-scapula .
+anat:L-mscl-biceps-brachial-chef-lg	anat:origi-insere-sur	anat:L-scapula .
+anat:L-mscl-biceps-brachial	anat:origi-insere-sur	anat:L-scapula .
+anat:L-mscl-biceps-brachial	anat:termi-insere-sur	anat:L-radius .
+anat:L-mscl-coraco-brachial	anat:origi-insere-sur	anat:L-scapula .
+anat:L-mscl-coraco-brachial	anat:termi-insere-sur	anat:L-humerus .
+anat:L-mscl-brachial	anat:origi-insere-sur	anat:L-humerus .
+anat:L-mscl-brachial	anat:origi-insere-sur	anat:L-septum-intermscl-lat-bras .
+anat:L-mscl-brachial	anat:origi-insere-sur	anat:L-septum-intermscl-med-bras .
+anat:L-mscl-brachial	anat:termi-insere-sur	anat:L-ulna .
+anat:L-mscl-triceps-brachial-chef-lg	anat:origi-insere-sur	anat:L-scapula .
+anat:L-mscl-triceps-brachial-chef-med	anat:origi-insere-sur	anat:L-humerus .
+anat:L-mscl-triceps-brachial-chef-med	anat:origi-insere-sur	anat:L-septum-intermscl-med-bras .
+anat:L-mscl-triceps-brachial-chef-lat	anat:origi-insere-sur	anat:L-humerus .
+anat:L-mscl-triceps-brachial-chef-lat	anat:origi-insere-sur	anat:L-septum-intermscl-lat-bras .
+anat:L-mscl-triceps-brachial	anat:origi-insere-sur	anat:L-scapula .
+anat:L-mscl-triceps-brachial	anat:origi-insere-sur	anat:L-humerus .
+anat:L-mscl-triceps-brachial	anat:origi-insere-sur	anat:L-septum-intermscl-med-bras .
+anat:L-mscl-triceps-brachial	anat:origi-insere-sur	anat:L-septum-intermscl-lat-bras .
+anat:L-mscl-triceps-brachial	anat:termi-insere-sur	anat:L-ulna .
+anat:L-mscl-triceps-brachial	anat:termi-insere-sur	anat:L-fascia-antebrachial .
+anat:L-mscl-brachio-radial	anat:origi-insere-sur	anat:L-humerus .
+anat:L-mscl-brachio-radial	anat:origi-insere-sur	anat:L-septum-intermscl-lat-bras .
+anat:L-mscl-brachio-radial	anat:termi-insere-sur	anat:L-radius .
+anat:L-mscl-rond-pronateur-chef-humeral	anat:origi-insere-sur	anat:L-humerus .
+anat:L-mscl-rond-pronateur-chef-humeral	anat:origi-insere-sur	anat:L-fascia-antebrachial .
+anat:L-mscl-rond-pronateur-chef-ulnaire	anat:origi-insere-sur	anat:L-ulna .
+anat:L-mscl-rond-pronateur	anat:origi-insere-sur	anat:L-humerus .
+anat:L-mscl-rond-pronateur	anat:origi-insere-sur	anat:L-fascia-antebrachial .
+anat:L-mscl-rond-pronateur	anat:origi-insere-sur	anat:L-ulna .
+anat:L-mscl-rond-pronateur	anat:termi-insere-sur	anat:L-radius .
+anat:L-mscl-fleR-radial-carpe	anat:origi-insere-sur	anat:L-humerus .
+anat:L-mscl-fleR-radial-carpe	anat:origi-insere-sur	anat:L-fascia-antebrachial .
+anat:L-mscl-fleR-radial-carpe	anat:termi-insere-sur	anat:L-metaC-II .
+anat:L-mscl-fleR-radial-carpe	anat:termi-insere-sur	anat:L-metaC-III .
+anat:L-mscl-lg-palmaire	anat:origi-insere-sur	anat:L-humerus .
+anat:L-mscl-lg-palmaire	anat:origi-insere-sur	anat:L-fascia-antebrachial .
+anat:L-mscl-lg-palmaire	anat:termi-insere-sur	anat:L-aponevrose-palmaire .
+anat:L-mscl-fleR-ulnaire-carpe-chef-humeral	anat:origi-insere-sur	anat:L-humerus .
+anat:L-mscl-fleR-ulnaire-carpe-chef-ulnaire	anat:origi-insere-sur	anat:L-ulna .
+anat:L-mscl-fleR-ulnaire-carpe	anat:origi-insere-sur	anat:L-humerus .
+anat:L-mscl-fleR-ulnaire-carpe	anat:origi-insere-sur	anat:L-ulna .
+anat:L-mscl-fleR-ulnaire-carpe	anat:termi-insere-sur	anat:L-pisiforme .
+anat:L-mscl-fleR-ulnaire-carpe	anat:termi-insere-sur	anat:L-lgmt-pisiforme .
+anat:L-mscl-fleR-ulnaire-carpe	anat:termi-insere-sur	anat:L-metaC-V .
+anat:L-mscl-fleR-ulnaire-carpe	anat:termi-insere-sur	anat:L-hamatum .
+anat:L-mscl-fleR-pfd-doigts	anat:origi-insere-sur	anat:L-ulna .
+anat:L-mscl-fleR-pfd-doigts	anat:origi-insere-sur	anat:L-radius .
+anat:L-mscl-fleR-pfd-doigts	anat:origi-insere-sur	anat:L-mb-interosseuse-antebrachiale .
+anat:L-mscl-fleR-pfd-doigts	anat:termi-insere-sur	anat:L-main-phal-dist-II .
+anat:L-mscl-fleR-pfd-doigts	anat:termi-insere-sur	anat:L-main-phal-dist-III .
+anat:L-mscl-fleR-pfd-doigts	anat:termi-insere-sur	anat:L-main-phal-dist-IV .
+anat:L-mscl-fleR-pfd-doigts	anat:termi-insere-sur	anat:L-main-phal-dist-V .
+anat:L-mscl-fleR-supL-doigts-chef-humero-ulnaire	anat:origi-insere-sur	anat:L-humerus .
+anat:L-mscl-fleR-supL-doigts-chef-humero-ulnaire	anat:origi-insere-sur	anat:L-ulna .
+anat:L-mscl-fleR-supL-doigts-chef-radial	anat:origi-insere-sur	anat:L-radius .
+anat:L-mscl-fleR-supL-doigts	anat:origi-insere-sur	anat:L-humerus .
+anat:L-mscl-fleR-supL-doigts	anat:origi-insere-sur	anat:L-ulna .
+anat:L-mscl-fleR-supL-doigts	anat:origi-insere-sur	anat:L-radius .
+anat:L-mscl-fleR-supL-doigts	anat:termi-insere-sur	anat:L-main-phal-moy-II .
+anat:L-mscl-fleR-supL-doigts	anat:termi-insere-sur	anat:L-main-phal-moy-III .
+anat:L-mscl-fleR-supL-doigts	anat:termi-insere-sur	anat:L-main-phal-moy-IV .
+anat:L-mscl-fleR-supL-doigts	anat:termi-insere-sur	anat:L-main-phal-moy-V .
+anat:L-mscl-lg-fleR-pouce	anat:origi-insere-sur	anat:L-radius .
+anat:L-mscl-lg-fleR-pouce	anat:origi-insere-sur	anat:L-mb-interosseuse-antebrachiale .
+anat:L-mscl-lg-fleR-pouce	anat:termi-insere-sur	anat:L-main-phal-dist-I .
+anat:L-mscl-supinateur	anat:origi-insere-sur	anat:L-humerus .
+anat:L-mscl-supinateur	anat:origi-insere-sur	anat:L-ulna .
+anat:L-mscl-supinateur	anat:origi-insere-sur	anat:L-lgmt-collat-radial .
+anat:L-mscl-supinateur	anat:termi-insere-sur	anat:L-radius .
+anat:L-mscl-supinateur-fx-supL	anat:termi-insere-sur	anat:L-radius .
+anat:L-mscl-supinateur-fx-pfd	anat:termi-insere-sur	anat:L-radius .
+anat:L-mscl-carre-pronateur	anat:origi-insere-sur	anat:L-ulna .
+anat:L-mscl-carre-pronateur	anat:termi-insere-sur	anat:L-radius .
+anat:L-mscl-lg-extR-radial-carpe	anat:origi-insere-sur	anat:L-humerus .
+anat:L-mscl-lg-extR-radial-carpe	anat:origi-insere-sur	anat:L-septum-intermscl-lat-bras .
+anat:L-mscl-lg-extR-radial-carpe	anat:termi-insere-sur	anat:L-metaC-II .
+anat:L-mscl-crt-extR-radial-carpe	anat:origi-insere-sur	anat:L-humerus .
+anat:L-mscl-crt-extR-radial-carpe	anat:termi-insere-sur	anat:L-metaC-III .
+anat:L-mscl-extR-doigts	anat:origi-insere-sur	anat:L-humerus .
+anat:L-mscl-extR-doigts	anat:origi-insere-sur	anat:L-fascia-antebrachial .
+anat:L-mscl-extR-doigts	anat:termi-insere-sur	anat:L-main-phal-proxi-II .
+anat:L-mscl-extR-doigts	anat:termi-insere-sur	anat:L-main-phal-moy-II .
+anat:L-mscl-extR-doigts	anat:termi-insere-sur	anat:L-main-phal-dist-II .
+anat:L-mscl-extR-doigts	anat:termi-insere-sur	anat:L-main-phal-proxi-III .
+anat:L-mscl-extR-doigts	anat:termi-insere-sur	anat:L-main-phal-moy-III .
+anat:L-mscl-extR-doigts	anat:termi-insere-sur	anat:L-main-phal-dist-III .
+anat:L-mscl-extR-doigts	anat:termi-insere-sur	anat:L-main-phal-proxi-IV .
+anat:L-mscl-extR-doigts	anat:termi-insere-sur	anat:L-main-phal-moy-IV .
+anat:L-mscl-extR-doigts	anat:termi-insere-sur	anat:L-main-phal-dist-IV .
+anat:L-mscl-extR-doigts	anat:termi-insere-sur	anat:L-main-phal-proxi-V .
+anat:L-mscl-extR-doigts	anat:termi-insere-sur	anat:L-main-phal-moy-V .
+anat:L-mscl-extR-doigts	anat:termi-insere-sur	anat:L-main-phal-dist-V .
+anat:L-mscl-extR-pt-doigt	anat:origi-insere-sur	anat:L-humerus .
+anat:L-mscl-extR-pt-doigt	anat:origi-insere-sur	anat:L-fascia-antebrachial .
+anat:L-mscl-extR-pt-doigt	anat:termi-insere-sur	anat:L-mscl-extR-doigts .
+anat:L-mscl-extR-ulnaire-carpe	anat:origi-insere-sur	anat:L-humerus .
+anat:L-mscl-extR-ulnaire-carpe	anat:origi-insere-sur	anat:L-ulna .
+anat:L-mscl-extR-ulnaire-carpe	anat:origi-insere-sur	anat:L-fascia-antebrachial .
+anat:L-mscl-extR-ulnaire-carpe	anat:termi-insere-sur	anat:L-metaC-V .
+anat:L-mscl-ancone	anat:origi-insere-sur	anat:L-humerus .
+anat:L-mscl-ancone	anat:termi-insere-sur	anat:L-ulna .
+anat:L-mscl-lg-abdR-pouce	anat:origi-insere-sur	anat:L-ulna .
+anat:L-mscl-lg-abdR-pouce	anat:origi-insere-sur	anat:L-radius .
+anat:L-mscl-lg-abdR-pouce	anat:origi-insere-sur	anat:L-mb-interosseuse-antebrachiale .
+anat:L-mscl-lg-abdR-pouce	anat:termi-insere-sur	anat:L-metaC-I .
+anat:L-mscl-lg-abdR-pouce	anat:termi-insere-sur	anat:L-mscl-crt-abdR-pouce .
+anat:L-mscl-crt-extR-pouce	anat:origi-insere-sur	anat:L-radius .
+anat:L-mscl-crt-extR-pouce	anat:origi-insere-sur	anat:L-mb-interosseuse-antebrachiale .
+anat:L-mscl-crt-extR-pouce	anat:termi-insere-sur	anat:L-main-phal-proxi-I .
+anat:L-mscl-extR-index	anat:origi-insere-sur	anat:L-ulna .
+anat:L-mscl-extR-index	anat:origi-insere-sur	anat:L-mb-interosseuse-antebrachiale .
+anat:L-mscl-extR-index	anat:termi-insere-sur	anat:L-mscl-extR-doigts .
+anat:L-mscl-lg-extR-pouce	anat:origi-insere-sur	anat:L-ulna .
+anat:L-mscl-lg-extR-pouce	anat:origi-insere-sur	anat:L-mb-interosseuse-antebrachiale .
+anat:L-mscl-lg-extR-pouce	anat:termi-insere-sur	anat:L-main-phal-dist-I .
+anat:L-mscl-crt-fleR-auriculaire	anat:origi-insere-sur	anat:L-hamatum .
+anat:L-mscl-crt-fleR-auriculaire	anat:origi-insere-sur	anat:L-retinaculum-fleR-main .
+anat:L-mscl-crt-fleR-auriculaire	anat:termi-insere-sur	anat:L-main-phal-proxi-V .
+anat:L-mscl-abdR-auriculaire	anat:origi-insere-sur	anat:L-pisiforme .
+anat:L-mscl-abdR-auriculaire	anat:origi-insere-sur	anat:L-retinaculum-fleR-main .
+anat:L-mscl-abdR-auriculaire	anat:termi-insere-sur	anat:L-main-phal-proxi-V .
+anat:L-mscl-opposant-auriculaire	anat:origi-insere-sur	anat:L-hamatum .
+anat:L-mscl-opposant-auriculaire	anat:origi-insere-sur	anat:L-retinaculum-fleR-main .
+anat:L-mscl-opposant-auriculaire	anat:termi-insere-sur	anat:L-metaC-V .
+anat:L-mscl-crt-abdR-pouce	anat:origi-insere-sur	anat:L-scaphoide .
+anat:L-mscl-crt-abdR-pouce	anat:origi-insere-sur	anat:L-retinaculum-fleR-main .
+anat:L-mscl-crt-abdR-pouce	anat:termi-insere-sur	anat:L-main-phal-proxi-I .
+anat:L-mscl-crt-abdR-pouce	anat:termi-insere-sur	anat:L-pouce-sesamoide-lat .
+anat:L-mscl-crt-fleR-pouce-fx-supL	anat:origi-insere-sur	anat:L-trapeze .
+anat:L-mscl-crt-fleR-pouce-fx-supL	anat:origi-insere-sur	anat:L-retinaculum-fleR-main .
+anat:L-mscl-crt-fleR-pouce-fx-pfd	anat:origi-insere-sur	anat:L-capitatum .
+anat:L-mscl-crt-fleR-pouce-fx-pfd	anat:origi-insere-sur	anat:L-trapezoide .
+anat:L-mscl-crt-fleR-pouce	anat:origi-insere-sur	anat:L-trapeze .
+anat:L-mscl-crt-fleR-pouce	anat:origi-insere-sur	anat:L-retinaculum-fleR-main .
+anat:L-mscl-crt-fleR-pouce	anat:origi-insere-sur	anat:L-capitatum .
+anat:L-mscl-crt-fleR-pouce	anat:origi-insere-sur	anat:L-trapezoide .
+anat:L-mscl-crt-fleR-pouce	anat:termi-insere-sur	anat:L-main-phal-proxi-I .
+anat:L-mscl-crt-fleR-pouce	anat:termi-insere-sur	anat:L-pouce-sesamoide-lat .
+anat:L-mscl-opposant-pouce	anat:origi-insere-sur	anat:L-trapeze .
+anat:L-mscl-opposant-pouce	anat:origi-insere-sur	anat:L-retinaculum-fleR-main .
+anat:L-mscl-opposant-pouce	anat:termi-insere-sur	anat:L-metaC-I .
+anat:L-mscl-addR-pouce-fx-oblique	anat:origi-insere-sur	anat:L-capitatum .
+anat:L-mscl-addR-pouce-fx-oblique	anat:origi-insere-sur	anat:L-trapezoide .
+anat:L-mscl-addR-pouce-fx-oblique	anat:origi-insere-sur	anat:L-metaC-II .
+anat:L-mscl-addR-pouce-fx-trsv	anat:origi-insere-sur	anat:L-metaC-III .
+anat:L-mscl-addR-pouce	anat:origi-insere-sur	anat:L-capitatum .
+anat:L-mscl-addR-pouce	anat:origi-insere-sur	anat:L-trapezoide .
+anat:L-mscl-addR-pouce	anat:origi-insere-sur	anat:L-metaC-II .
+anat:L-mscl-addR-pouce	anat:origi-insere-sur	anat:L-metaC-III .
+anat:L-mscl-addR-pouce	anat:termi-insere-sur	anat:L-main-phal-proxi-I .
+anat:L-mscl-addR-pouce	anat:termi-insere-sur	anat:L-pouce-sesamoide-med .
+anat:L-mscl-lombrical-du-II-main	anat:origi-insere-sur	anat:L-mscl-fleR-pfd-doigts .
+anat:L-mscl-lombrical-du-II-main	anat:termi-insere-sur	anat:L-mscl-extR-doigts .
+anat:L-mscl-lombrical-du-II-main	anat:termi-insere-sur	anat:L-aponevrose-dorsale-doigts .
+anat:L-mscl-lombrical-du-III-main	anat:origi-insere-sur	anat:L-mscl-fleR-pfd-doigts .
+anat:L-mscl-lombrical-du-III-main	anat:termi-insere-sur	anat:L-mscl-extR-doigts .
+anat:L-mscl-lombrical-du-III-main	anat:termi-insere-sur	anat:L-aponevrose-dorsale-doigts .
+anat:L-mscl-lombrical-du-IV-main	anat:origi-insere-sur	anat:L-mscl-fleR-pfd-doigts .
+anat:L-mscl-lombrical-du-IV-main	anat:termi-insere-sur	anat:L-mscl-extR-doigts .
+anat:L-mscl-lombrical-du-IV-main	anat:termi-insere-sur	anat:L-aponevrose-dorsale-doigts .
+anat:L-mscl-lombrical-du-V-main	anat:origi-insere-sur	anat:L-mscl-fleR-pfd-doigts .
+anat:L-mscl-lombrical-du-V-main	anat:termi-insere-sur	anat:L-mscl-extR-doigts .
+anat:L-mscl-lombrical-du-V-main	anat:termi-insere-sur	anat:L-aponevrose-dorsale-doigts .
+anat:L-mscl-interosseux-dorsal-main-1	anat:origi-insere-sur	anat:L-metaC-I .
+anat:L-mscl-interosseux-dorsal-main-1	anat:origi-insere-sur	anat:L-metaC-II .
+anat:L-mscl-interosseux-dorsal-main-1	anat:termi-insere-sur	anat:L-main-phal-proxi-II .
+anat:L-mscl-interosseux-dorsal-main-1	anat:termi-insere-sur	anat:L-mscl-extR-doigts .
+anat:L-mscl-interosseux-dorsal-main-1	anat:termi-insere-sur	anat:L-aponevrose-dorsale-doigts .
+anat:L-mscl-interosseux-dorsal-main-2	anat:origi-insere-sur	anat:L-metaC-II .
+anat:L-mscl-interosseux-dorsal-main-2	anat:origi-insere-sur	anat:L-metaC-III .
+anat:L-mscl-interosseux-dorsal-main-2	anat:termi-insere-sur	anat:L-main-phal-proxi-III .
+anat:L-mscl-interosseux-dorsal-main-2	anat:termi-insere-sur	anat:L-mscl-extR-doigts .
+anat:L-mscl-interosseux-dorsal-main-2	anat:termi-insere-sur	anat:L-aponevrose-dorsale-doigts .
+anat:L-mscl-interosseux-dorsal-main-3	anat:origi-insere-sur	anat:L-metaC-III .
+anat:L-mscl-interosseux-dorsal-main-3	anat:origi-insere-sur	anat:L-metaC-IV .
+anat:L-mscl-interosseux-dorsal-main-3	anat:termi-insere-sur	anat:L-main-phal-proxi-III .
+anat:L-mscl-interosseux-dorsal-main-3	anat:termi-insere-sur	anat:L-mscl-extR-doigts .
+anat:L-mscl-interosseux-dorsal-main-3	anat:termi-insere-sur	anat:L-aponevrose-dorsale-doigts .
+anat:L-mscl-interosseux-dorsal-main-4	anat:origi-insere-sur	anat:L-metaC-IV .
+anat:L-mscl-interosseux-dorsal-main-4	anat:origi-insere-sur	anat:L-metaC-V .
+anat:L-mscl-interosseux-dorsal-main-4	anat:termi-insere-sur	anat:L-main-phal-proxi-IV .
+anat:L-mscl-interosseux-dorsal-main-4	anat:termi-insere-sur	anat:L-mscl-extR-doigts .
+anat:L-mscl-interosseux-dorsal-main-4	anat:termi-insere-sur	anat:L-aponevrose-dorsale-doigts .
+anat:L-mscl-interosseux-palmaire-main-1	anat:origi-insere-sur	anat:L-trapeze .
+anat:L-mscl-interosseux-palmaire-main-1	anat:origi-insere-sur	anat:L-metaC-I .
+anat:L-mscl-interosseux-palmaire-main-1	anat:origi-insere-sur	anat:L-metaC-II .
+anat:L-mscl-interosseux-palmaire-main-1	anat:termi-insere-sur	anat:L-main-phal-proxi-I .
+anat:L-mscl-interosseux-palmaire-main-1	anat:termi-insere-sur	anat:L-pouce-sesamoide-med .
+anat:L-mscl-interosseux-palmaire-main-2	anat:origi-insere-sur	anat:L-metaC-II .
+anat:L-mscl-interosseux-palmaire-main-2	anat:termi-insere-sur	anat:L-main-phal-proxi-II .
+anat:L-mscl-interosseux-palmaire-main-2	anat:termi-insere-sur	anat:L-mscl-extR-doigts .
+anat:L-mscl-interosseux-palmaire-main-2	anat:termi-insere-sur	anat:L-aponevrose-dorsale-doigts .
+anat:L-mscl-interosseux-palmaire-main-3	anat:origi-insere-sur	anat:L-metaC-IV .
+anat:L-mscl-interosseux-palmaire-main-3	anat:termi-insere-sur	anat:L-main-phal-proxi-IV .
+anat:L-mscl-interosseux-palmaire-main-3	anat:termi-insere-sur	anat:L-mscl-extR-doigts .
+anat:L-mscl-interosseux-palmaire-main-3	anat:termi-insere-sur	anat:L-aponevrose-dorsale-doigts .
+anat:L-mscl-interosseux-palmaire-main-4	anat:origi-insere-sur	anat:L-metaC-V .
+anat:L-mscl-interosseux-palmaire-main-4	anat:termi-insere-sur	anat:L-main-phal-proxi-V .
+anat:L-mscl-interosseux-palmaire-main-4	anat:termi-insere-sur	anat:L-mscl-extR-doigts .
+anat:L-mscl-interosseux-palmaire-main-4	anat:termi-insere-sur	anat:L-aponevrose-dorsale-doigts .
+		
+#anat:MSCL-ceinture-scap	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=iuaKfyeiqCWbfO9nqaPDOzuO> .
+anat:muscles-propres-ceint-scap	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=KriO5DGrmyyK519rWf5T9f0f> .
+anat:muscles-ceint-scap-couche-pfde	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=HLTXfGea05nySD8PruCSvWvy> .
+anat:muscles-ceint-scap-couche-pfde1	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=bumW5jamGfqmK9H5jOCqyWvO> .
+anat:muscles-angulaire-scapula	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=b8Tf8bfKHXXrCyiyCqbuuSv0> .
+anat:R-mscl-angulaire-scapula	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=uKHveq09fe0bX5zy0P8bOzmq> .
+anat:L-mscl-angulaire-scapula	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=raSLT9Kzy0zWT1Pf0Pz4Lnum> .
+anat:muscles-subclavier	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=9PjCOHK1fSHj5j8bC0XLLb0f> .
+anat:R-mscl-subclavier	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=DuOPT9OHXHHfXnO1n8bWPziC> .
+anat:L-mscl-subclavier	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=mSv4P95juaK1vmOnCiaGf4vK> .
+anat:muscles-pt-pectoral	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=1vma494HbCK14jiWTXre8XPj> .
+anat:R-mscl-pt-pectoral	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=SjWbyWOf85vqvm8Xna8Hby8j> .
+anat:L-mscl-pt-pectoral	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=1beey4eSz8XXq4LrqSLzGD8T> .
+anat:muscles-ceint-scap-couche-pfde2	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=0XnKvyW1zmeCqaCaue1TnK55> .
+anat:muscles-rhomboides	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=9X9rKTO1D4Tjvyu0b85T9DWf> .
+anat:muscles-pt-rhombo	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=CmKXDqeySHv05Diy8DDWvSPr> .
+anat:R-mscl-pt-rhombo	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=fWfCayXb0DCOjeyOLHn8X1LX> .
+anat:L-mscl-pt-rhombo	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=iKDKzmj0re4PGDey8DLn4XH1> .
+anat:muscles-gd-rhombo	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Sj0v01X9nymSjuSHzuiGnmua> .
+anat:R-mscl-gd-rhombo	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=uOLLXzGjCuKPiuS9TnDeGrue> .
+anat:L-mscl-gd-rhombo	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=mmCiWn0P5Hf0bSP5DiX9za45> .
+anat:muscles-dentele-ant	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=8PHreyGnWXziruObqOOnWTLj> .
+anat:R-mscl-dentele-ant	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=u0PTnKeaaGzuv4XHbmCiu4Tr> .
+#anat:R-mscl-dentele-ant-fx-sup	anat:hasImage3D	<> .
+#anat:R-mscl-dentele-ant-fx-moy	anat:hasImage3D	<> .
+#anat:R-mscl-dentele-ant-fx-inf	anat:hasImage3D	<> .
+anat:L-mscl-dentele-ant	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=CKDiiermO9zSnCe0r8GLbSjq> .
+#anat:L-mscl-dentele-ant-fx-sup	anat:hasImage3D	<> .
+#anat:L-mscl-dentele-ant-fx-moy	anat:hasImage3D	<> .
+#anat:L-mscl-dentele-ant-fx-inf	anat:hasImage3D	<> .
+anat:muscles-ceint-scap-couche-supL	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=auK9THa0T5XTyKfOzyqOniGX> .
+anat:muscles-trapeze	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ue0ra4zauW1TmqSb4X5HjaeW> .
+anat:R-mscl-trapeze	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=uOfWHTreaa4PeOHD4PnqyqK5> .
+anat:R-mscl-trapeze-fx-sup	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=aGXzy0P1vG5fHH95XHfSzGP1> .
+anat:R-mscl-trapeze-fx-moy	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=8DeW1j8jaiK1zGji4XPX1fSn> .
+anat:R-mscl-trapeze-fx-inf	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=W11r8bHbW1Pfm4LnGnjCme8D> .
+anat:L-mscl-trapeze	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=bSTniy5XX1rCDG5XLDf0DWrm> .
+anat:L-mscl-trapeze-fx-sup	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ze8fiGf4beCmaiiu81Xje8Tf> .
+anat:L-mscl-trapeze-fx-moy	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=CiGLbCOXPnSrbeeSzCvyey0v> .
+anat:L-mscl-trapeze-fx-inf	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=THv8zOqeKreei0v4jG8Hz8fi> .
+anat:muscles-gd-dorsal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=9fSbWjH5LvCuCe0XT9D4D8Xr> .
+anat:R-mscl-gd-dorsal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=fqOvGX0HD0PvD4r0L5XXf49P> .
+anat:L-mscl-gd-dorsal	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=eym8Xj59jqW5rWPDuez8HzWn> .
+anat:muscles-gd-pectoral	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=SnW5nKzyKXz80b05jWuSnyG5> .
+anat:R-mscl-gd-pectoral	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=HDy8n0yqOfyOKbGXfqWrG9PD> .
+anat:R-mscl-gd-pectoral-fx-sup	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=fOLPTDmeiSvqaW5vqSzeSPHT> .
+anat:R-mscl-gd-pectoral-fx-moy	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=91TT1H51XbSPTfuSzOT99LrC> .
+anat:R-mscl-gd-pectoral-fx-inf	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=HHPnKH19viGXeaiK9zvu89L1> .
+anat:L-mscl-gd-pectoral	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=8zuK5z8L9viuGHj45H8T5XDW> .
+anat:L-mscl-gd-pectoral-fx-sup	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Snyi8bHDObyS15nuamXnaC0T> .
+anat:L-mscl-gd-pectoral-fx-moy	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=jOD091aiimSzPj8v0jeK1DWn> .
+anat:L-mscl-gd-pectoral-fx-inf	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=iOn0TXDiCKfiP5vSzmb49nW9> .
+anat:R-muscles-propres-epaule	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=nmK1LPWzKTvmOjqKrevyuWrm> .
+anat:R-mscl-supraepineux	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=XTP9vG0zGb81OzC45rSLraK5> .
+anat:R-mscl-infraepineux	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=51D0TTbOPXLDTHjaa8vKHfuO> .
+anat:R-mscl-pt-rond	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=9f0TfGKrKbqmWz89PzTX5zGn> .
+anat:R-mscl-gd-rond	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=WfqKHz81zqGXqaa0H9Dqyia4> .
+anat:R-mscl-subscapulaire	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=rm4XvSLjyiCKzuWfmOPzqGTP> .
+anat:R-mscl-deltoide	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=GH55LvmuK9zuHHDe81LDaiWv> .
+anat:R-mscl-deltoide-fx-ant	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=5rKHn4u8fqW9fy4zayymG9H1> .
+anat:R-mscl-deltoide-fx-moy	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=raKDiur8nCeO89DeCy4fieGn> .
+anat:R-mscl-deltoide-fx-post	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=GfiG9vHriuamGTH1H1a4PTvy> .
+anat:R-muscles-bras-loge-ant	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=rm8PX5bK9fyuim8TrivuqKPX> .
+anat:R-mscl-biceps-brachial	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=be8Xnqra01zGSjGnCSieSrWb> .
+anat:R-mscl-biceps-brachial-chef-crt	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=L19jWbGjm4L1uiOv0fDiSf4j> .
+anat:R-mscl-biceps-brachial-chef-lg	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=O99XbmG5HzKTKTTTbKrmODeK> .
+anat:R-mscl-coraco-brachial	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=59Tza0DCC0XHz8zCiGa8fy4f> .
+anat:R-mscl-brachial	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Tfua0b1zOH5rrOPrCmzia8TL> .
+anat:R-muscles-bras-loge-post	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=09fSTr01vCG1i01Ln48XnCyS> .
+anat:R-mscl-triceps-brachial	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=09fSTr01vCG1i01Ln48XnCyS> .
+anat:R-mscl-triceps-brachial-chef-lg	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=qW1vWnGruq0bmeWjG91HLPP5> .
+anat:R-mscl-triceps-brachial-chef-med	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Wr0nO11z4v0rK1jGHHfuOfSn> .
+anat:R-mscl-triceps-brachial-chef-lat	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=DOv8fS8XrGP5uqCKzuDSjW5z> .
+anat:R-muscles-ant-avt-bras	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=TfKL1Xia01HDbq0LrmLLbu8n> .
+anat:R-mscl-brachio-radial	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=HbqGjaD8ryKX5zeqy0q8H5jy> .
+anat:R-mscl-rond-pronateur	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=SfqGjCq4Tr0La4fOTX1vSfC4> .
+anat:R-mscl-rond-pronateur-chef-humeral	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=aCO999PPTnqK1Di4bK0je49D> .
+anat:R-mscl-rond-pronateur-chef-ulnaire	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=i45fWf4LPHbu81reSbf0neem> .
+anat:R-mscl-fleR-radial-carpe	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=j8P5vyT1nOH10jyy8LWDyKv8> .
+anat:R-mscl-lg-palmaire	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=aqSTLHKLP55rfGzOLTWH5vST> .
+anat:R-mscl-fleR-ulnaire-carpe	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=HPPbyGq4fGPzKfiq8nqa8L9T> .
+anat:R-mscl-fleR-ulnaire-carpe-chef-humeral	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=aaSfuGDmOT5LCG1zKbCiGbmC> .
+anat:R-mscl-fleR-ulnaire-carpe-chef-ulnaire	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=GLrma8KjOrm0HrW19fP15XzW> .
+anat:R-mscl-fleR-pfd-doigts	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=LLLH1nbaa45vzqWL5DCCSnW9> .
+anat:R-mscl-fleR-supL-doigts	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=niyquiHnCiOTi85fSbO5bGnu> .
+anat:R-mscl-fleR-supL-doigts-chef-humero-ulnaire	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=0DCqmue0f85rSPbCmSP1z8zC> .
+anat:R-mscl-fleR-supL-doigts-chef-radial	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=vyOLTP0j4Lva1Xj8vaqiui8j> .
+anat:R-mscl-lg-fleR-pouce	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=XneK1TbiqKPLimqimi5Xre8z> .
+anat:R-mscl-supinateur	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=eC05nGzGHbGjOve01fy0ju8r> .
+#anat:R-mscl-supinateur-fx-supL	anat:hasImage3D	<> .
+#anat:R-mscl-supinateur-fx-pfd	anat:hasImage3D	<> .
+anat:R-mscl-carre-pronateur	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=O99vW9aiuuSTf0Xf81qyCKPH> .
+anat:R-muscles-post-avt-bras	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=8vuyuqf8fiOTSfOTvCuOPPja> .
+anat:R-mscl-lg-extR-radial-carpe	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=4PDObmaOnuaqX91XfKviGD8H> .
+anat:R-mscl-crt-extR-radial-carpe	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=9rODua0bueCG8r8L1HjCeiSr> .
+anat:R-mscl-extR-doigts	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=S95b8T9TXra0fyqWXffSrWny> .
+anat:R-mscl-extR-pt-doigt	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=rWPD81m8faOLue4D4r5zieCO> .
+anat:R-mscl-extR-ulnaire-carpe	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=5f4jKzyqaaGva8L9jGDyqyOz> .
+anat:R-mscl-ancone	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=TP5HnC4X55LrCmyuuWD495fm> .
+anat:R-mscl-lg-abdR-pouce	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=m8vOneaWfuqCWXPL1ju0vu0j> .
+anat:R-mscl-crt-extR-pouce	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=CGbyquP11DSTC0rWjWiqCqWH> .
+anat:R-mscl-extR-index	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=H1zmyaamKXPb1rOT1z5bGrCe> .
+anat:R-mscl-lg-extR-pouce	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=G1vyuCOHbi0rSLXzy0fCWnaS> .
+anat:R-muscles-loge-med-main	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=mOTvCeXjuq4bHDK5HXbuO5je> .
+anat:R-muscles-loge-med-main-plan-supL	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=yqmWjuz8PDmufuOvmmrCqOve> .
+anat:R-mscl-crt-fleR-auriculaire	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=b4jGHjLbGT9XaqeCmeCiCOfe> .
+anat:R-mscl-abdR-auriculaire	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=rGvO5rDeGn0L9viKraq8zquq> .
+anat:R-muscles-loge-med-main-plan-pfd	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ObC4LfiGrqSfTnGTbOzGLTvq> .
+anat:R-mscl-opposant-auriculaire	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=D0vamWyKz0rOvq4ruOXPjSLT> .
+anat:R-muscles-loge-lat-main	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=HnmmK11L5jqmb8f0D88faiKT> .
+anat:R-muscles-loge-lat-main-plan-supL	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=b4zCC4eSHP5HzqKzC0CS191f> .
+anat:R-mscl-crt-abdR-pouce	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=b4zCC4eSHP5HzqKzC0CS191f> .
+anat:R-muscles-loge-lat-main-plan-moy	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=rOTXPbT95LTfaeua01z4L1vi> .
+anat:R-mscl-crt-fleR-pouce	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=qeO9PLuWn0Dm4fm89bzaK5Dy> .
+anat:R-mscl-crt-fleR-pouce-fx-supL	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=4Dey0bf8jyGTjS5bqyryW5j4> .
+anat:R-mscl-crt-fleR-pouce-fx-pfd	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=OTPr4L05fGb8auqqi4WreWDi> .
+anat:R-mscl-opposant-pouce	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=G1XPnOyaGTnCHrWjSnD4z4bq> .
+anat:R-muscles-loge-lat-main-plan-pfd	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=vGnqK58X1PHPz4bia08vyG5X> .
+anat:R-mscl-addR-pouce	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=vGnqK58X1PHPz4bia08vyG5X> .
+anat:R-mscl-addR-pouce-fx-oblique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=nGLPjOTj8fWD9TvSj0Gbyuay> .
+anat:R-mscl-addR-pouce-fx-trsv	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=LHnKbaqKzSzyj4PTzCCOjmqq> .
+anat:R-muscles-loge-moy-main	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=91nyqKb0Lram0Hf81r8HH1Hn> .
+anat:R-muscles-loge-moy-main-plan-supL	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=1rSjKTOfeWDSe8PbCCXnaSnS> .
+anat:R-muscles-lombricaux-main	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=1rSjKTOfeWDSe8PbCCXnaSnS> .
+anat:R-mscl-lombrical-du-II-main	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=jSn8XbHbWvuaq8X1PjHbm4v0> .
+anat:R-mscl-lombrical-du-III-main	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=01LDmuOjqaSj0Xjmey9zuCGr> .
+anat:R-mscl-lombrical-du-IV-main	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=bCiuK5rSjuem8zGnyGODuKjW> .
+anat:R-mscl-lombrical-du-V-main	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=eyyiiCXXfmCOD8b8HXP19rGn> .
+anat:R-muscles-loge-moy-main-plan-pfd	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=8DG1zG8vWfOb1HnO5Pn81XP5> .
+anat:R-muscles-interosseux-dorsaux-main	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=mGH9jmzuKPDWzeO99P8vqq09> .
+anat:R-mscl-interosseux-dorsal-main-1	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ra8vuSySPfimr899j4i4n05P> .
+anat:R-mscl-interosseux-dorsal-main-2	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=CKDee4vWfCiqX9faea0jKXny> .
+anat:R-mscl-interosseux-dorsal-main-3	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=zSreKv8LT1vezymieySrGXPb> .
+anat:R-mscl-interosseux-dorsal-main-4	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=5XDOLHryuCqyyi85vmPjSXv8> .
+anat:R-muscles-interosseux-palmaire-main	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=beaCairWrSbaSDKDCyzm09vG> .
+#anat:R-mscl-interosseux-palmaire-main-1	anat:hasImage3D	<> .
+anat:R-mscl-interosseux-palmaire-main-2	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=PXnuSve8nWfGiCSfm41jeuiC> .
+anat:R-mscl-interosseux-palmaire-main-3	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=99TXvCq49P1L4XbO9D9951vO> .
+anat:R-mscl-interosseux-palmaire-main-4	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=T9rObqqSfyuG8nCyyOH95TH9> .
+anat:R-mscl-tabatiere-anatomique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Xvqq4vCuOPTri0DmaGHXvGra> .
+anat:R-retinaculum-fleR-main	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=0DiyaeKbCCWD0vOLPj01P5Xb> .
+anat:L-muscles-propres-epaule	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Tr0jC89Tj4nqzeuW1biGjyqG> .
+anat:L-mscl-supraepineux	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=nmKfaqLXnWnWWPHHnWueiKzi> .
+anat:L-mscl-infraepineux	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=WXPb0XrOrquGTj81XnOHTrGz> .
+anat:L-mscl-pt-rond	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=fyGfOjWL99jaH5DOX5GPramG> .
+anat:L-mscl-gd-rond	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=T55ruKnqq4HrOz8fKrHnuiyK> .
+anat:L-mscl-subscapulaire	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=LjCySLy0zWD88jSHruj89XDK> .
+anat:L-mscl-deltoide	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=f0rKv8vmCO19n4HP9jPvaaOH> .
+anat:L-mscl-deltoide-fx-ant	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=TjaWrKfuKfien0nWfiLHjiOP> .
+anat:L-mscl-deltoide-fx-moy	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=zKz0LXSPDSnmi0Hjy4jC0L1j> .
+anat:L-mscl-deltoide-fx-post	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=9X5DObTDuqyqze8b0HzWjqym> .
+anat:L-muscles-bras-loge-ant	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=DKDSbq0LbKz4qCu0ruyiC0Lb> .
+anat:L-mscl-biceps-brachial	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=iWL5XriGPniSDSPT59GreKDG> .
+anat:L-mscl-biceps-brachial-chef-crt	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=DCuuq8OL1re8vGr095y0jGPP> .
+anat:L-mscl-biceps-brachial-chef-lg	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=SP9LXDO9n0z8OPLrS1beKzWP> .
+anat:L-mscl-coraco-brachial	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=OrObCOy4j4Tv05f8HLX55Dmu> .
+anat:L-mscl-brachial	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=9Tr4DyaSfG5zemeGvimS5LzO> .
+anat:L-muscles-bras-loge-post	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=TLvCSHTbSX95nKXLjS959fKX> .
+anat:L-mscl-triceps-brachial	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=TLvCSHTbSX95nKXLjS959fKX> .
+anat:L-mscl-triceps-brachial-chef-lg	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=0z4PDiXXPfKnzy45TfWHnOvq> .
+anat:L-mscl-triceps-brachial-chef-med	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=zyiySHO5TPDGnODyWb11DKbK> .
+anat:L-mscl-triceps-brachial-chef-lat	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=5TbaSrKLLrmWGTfKriam0H15> .
+anat:L-muscles-ant-avt-bras	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=G1veG5v49fyeKjqSvm8XfSTv> .
+anat:L-mscl-brachio-radial	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=XbGnuSrGXbay49vu8fb0rWPH> .
+anat:L-mscl-rond-pronateur	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=GrSzSvbiWPjuz4TjGzmyaaO9> .
+anat:L-mscl-rond-pronateur-chef-humeral	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=f8bSLT5jW9viDWf8b0PvaGfy> .
+anat:L-mscl-rond-pronateur-chef-ulnaire	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=mySPv8uKbueueWzaOfrq0HTD> .
+anat:L-mscl-fleR-radial-carpe	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Gz49HLTbaCaOzy099fGPz0nq> .
+anat:L-mscl-lg-palmaire	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=emCqqeCaquySWHziGHze4T1r> .
+anat:L-mscl-fleR-ulnaire-carpe	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ySD4PzGH5H1fn8fKb4biGXTv> .
+anat:L-mscl-fleR-ulnaire-carpe-chef-humeral	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=jm0j8jnGDSb04TzmqKTjKr4D> .
+anat:L-mscl-fleR-ulnaire-carpe-chef-ulnaire	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=SvqWL9Hbu4959LzKDi4HLziC> .
+anat:L-mscl-fleR-pfd-doigts	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=KrCemCe0PPDyWzWbqu9H9PT5> .
+anat:L-mscl-fleR-supL-doigts	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Lzm4P14beSTLfGPbCaGLzKXn> .
+anat:L-mscl-fleR-supL-doigts-chef-humero-ulnaire	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=beSbOT8rqa4zamCeSbyuGjeq> .
+anat:L-mscl-fleR-supL-doigts-chef-radial	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ne45DKb0v4XLOL5DSHS5Xjea> .
+anat:L-mscl-lg-fleR-pouce	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=5DWb0Pei0TnKC81HHrW9HTPz> .
+anat:L-mscl-supinateur	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Pf4H59bm8fKrr8r09fTn05je> .
+#anat:L-mscl-supinateur-fx-supL	anat:hasImage3D	<> .
+#anat:L-mscl-supinateur-fx-pfd	anat:hasImage3D	<> .
+anat:L-mscl-carre-pronateur	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=KnSPvq9DmSb0rWrKreaiu8rm> .
+anat:L-muscles-post-avt-bras	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=4rKXT5HX5TX9XXXfKz1nWP1v> .
+anat:L-mscl-lg-extR-radial-carpe	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=fSLP9f1HLzu8euOrOff4DyGT> .
+anat:L-mscl-crt-extR-radial-carpe	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=nC4Lf0rGXnW59b8Xrm5Lv09H> .
+anat:L-mscl-extR-doigts	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=vmmSfWeuCWfy5ri4zy49fSXz> .
+anat:L-mscl-extR-pt-doigt	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=n8XjS1GLviqOSf4vWTySfGvm> .
+anat:L-mscl-extR-ulnaire-carpe	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=yiSTDu0DWLX9i0HHferWLrCu> .
+anat:L-mscl-ancone	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=a8jKPfjiimWzOD4bu4DWjWbS> .
+anat:L-mscl-lg-abdR-pouce	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=KnaCiWKH99DCj8L5nmSPLzCq> .
+anat:L-mscl-crt-extR-pouce	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=GbyKPjXjyaODOXfuWfjqWj8j> .
+anat:L-mscl-extR-index	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=5HXjqeS1TvWLGLrymC1fO11z> .
+anat:L-mscl-lg-extR-pouce	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=TnCmGTXfKj8nrS99bG1n0zqu> .
+anat:L-muscles-loge-med-main	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Pr4DGzOPzK1jHPXXzO9fKjiu> .
+anat:L-muscles-loge-med-main-plan-supL	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=X9Pz0HOzuGHL1Hrmey4DuKfq> .
+anat:L-mscl-crt-fleR-auriculaire	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=vqCCemqCyqu01L9rmamSHT15> .
+anat:L-mscl-abdR-auriculaire	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=jueKz8ey8DGbruKL5fGLjC0T> .
+anat:L-muscles-loge-med-main-plan-pfd	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=SLjGTfaKPXTTS95beOjOz4ju> .
+anat:L-mscl-opposant-auriculaire	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=SLjGTfaKPXTTS95beOjOz4ju> .
+anat:L-muscles-loge-lat-main	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=C05zyyPL1fOLn4Xj4Pz8n4PD> .
+anat:L-muscles-loge-lat-main-plan-supL	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=DyWrqKSbKvyuDqiuSHeuWbOT> .
+anat:L-mscl-crt-abdR-pouce	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=DyWrqKSbKvyuDqiuSHeuWbOT> .
+anat:L-muscles-loge-lat-main-plan-moy	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=PvCGriya8byKCeyObaiySzum> .
+anat:L-mscl-crt-fleR-pouce	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=GPfeu08b0v8DaC41beSLjWnG> .
+anat:L-mscl-crt-fleR-pouce-fx-supL	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ja8HTf5fW1ny9LHnWz8DueyG> .
+anat:L-mscl-crt-fleR-pouce-fx-pfd	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=L1DuqeHPzueaquSLXD4DGfu4> .
+anat:L-mscl-opposant-pouce	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=jeSTrWHHzqiOzeCGLHSXLjqu> .
+anat:L-muscles-loge-lat-main-plan-pfd	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=4PHL9HzGHLjejuSL55aGj4ve> .
+anat:L-mscl-addR-pouce	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=4PHL9HzGHLjejuSL55aGj4ve> .
+anat:L-mscl-addR-pouce-fx-oblique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=HLX5L9HjKXjuGvODSnTX5zmO> .
+anat:L-mscl-addR-pouce-fx-trsv	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=fiyuKbeGvqi0jOjGTv9rqyKv> .
+anat:L-muscles-loge-moy-main	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=zuKLT5z0fCK5Oz0Lbi8nSjqS> .
+anat:L-muscles-loge-moy-main-plan-supL	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=iyKXvKCe4T1j8PDCG1a4z0f4> .
+anat:L-muscles-lombricaux-main	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=iyKXvKCe4T1j8PDCG1a4z0f4> .
+anat:L-mscl-lombrical-du-II-main	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=XzmyC8ruC8fmiei8LXvCSjOb> .
+anat:L-mscl-lombrical-du-III-main	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=v8jiiiye8naiHPnaGzbSzq4T> .
+anat:L-mscl-lombrical-du-IV-main	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=On4L51G19D0b1XnWHrSHH1TP> .
+anat:L-mscl-lombrical-du-V-main	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=1rK5beb0vm0X8vmK1j5HPzCW> .
+anat:L-muscles-loge-moy-main-plan-pfd	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=PLbOLnqWnqGXa4bWPrHnuGT1> .
+anat:L-muscles-interosseux-dorsaux-main	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ObWfySKDmWbmWLneCKeSTP1b> .
+anat:L-mscl-interosseux-dorsal-main-1	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=HzaCC415jGPT0DSHL9SjKjSv> .
+anat:L-mscl-interosseux-dorsal-main-2	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=CaO99Tni8rCu5viSTPzSHfWz> .
+anat:L-mscl-interosseux-dorsal-main-3	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ruWPXD4fOzGHP9vqKbu0by0f> .
+anat:L-mscl-interosseux-dorsal-main-4	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=C4LDuSj051Pj1ny0fCbuy4Lj> .
+anat:L-muscles-interosseux-palmaire-main	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=PDa8raj4L5DmKnC4XrWP9TvC> .
+#anat:L-mscl-interosseux-palmaire-main-1	anat:hasImage3D	<> .
+anat:L-mscl-interosseux-palmaire-main-2	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=OjWX5r41LLL51jCuKDSDGLDW> .
+anat:L-mscl-interosseux-palmaire-main-3	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=jma89D11D0Pbe0HDmyuWXX1v> .
+anat:L-mscl-interosseux-palmaire-main-4	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=jma89jaWnuWvje0jGXeq4PLD> .
+anat:L-mscl-tabatiere-anatomique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=HjaueyGra0bKr459Tvz8r0nm> .
+anat:L-retinaculum-fleR-main	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=viqeCqP9r4nWzSf4DyTnGPDq> .
+		
+#anat:MSCL-ceinture-scap	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=ruaq4bq0LPbqCq4H1jD4Xv4D> .
+anat:muscles-propres-ceint-scap	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=r8HrqKCae8HPmKnCyK9vySXH> .
+anat:muscles-ceint-scap-couche-pfde	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=je4HvKuW9TXr5vGH5PSraaCm> .
+anat:muscles-ceint-scap-couche-pfde1	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=SjGbCyTHvObeOb0fWPDS19Hj> .
+anat:muscles-angulaire-scapula	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=9j4TLfqaqOfGv0nOHDe81fui> .
+anat:R-mscl-angulaire-scapula	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=01L5915DyiKr5bemOD4rKDyK> .
+anat:L-mscl-angulaire-scapula	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=9nSTPLjiSbODCWn0TnvaSL1L> .
+anat:muscles-subclavier	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=ruGz0jemueS5yii4fmDuGLby> .
+anat:R-mscl-subclavier	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=H91byK8nGnqOWnC81DLnauKr> .
+anat:L-mscl-subclavier	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=uOj8X1ayCSPXiyOTPfPbyWD4> .
+anat:muscles-pt-pectoral	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=uSHjuGqCKzu8ry8bmKW5TfCO> .
+anat:R-mscl-pt-pectoral	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Kj81bujqyemen4nu4H11je0n> .
+anat:L-mscl-pt-pectoral	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=uOfyG9KbymyqviGr0jiiOvyK> .
+anat:muscles-ceint-scap-couche-pfde2	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=P5j4LLqWH9LHGr8nuGKjK5Lf> .
+anat:muscles-rhomboides	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Kr4HDKmS5XvqDq05n8H9XTfe> .
+anat:muscles-pt-rhombo	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=b4HPHnLLXHjqLfSbaeG99zKH> .
+anat:R-mscl-pt-rhombo	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=4THzSraqqWP5GzO5bObOXHLT> .
+anat:L-mscl-pt-rhombo	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=nO5DWPuWfC0zKbOT154j81jS> .
+anat:muscles-gd-rhombo	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=eOfWj01zmuyau4vmWTKzmCaC> .
+anat:R-mscl-gd-rhombo	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=jKjeGH5fW1P9fCmmqy9jSbmy> .
+anat:L-mscl-gd-rhombo	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=e8XPryyO5rSXnCySTHG15nWP> .
+anat:muscles-dentele-ant	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=e81Pj8u89P9nKfWX1TXXHHfq> .
+anat:R-mscl-dentele-ant	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=iCeiCuK1va8z0XfCyGbem8zO> .
+#anat:R-mscl-dentele-ant-fx-sup	anat:has3DmodelURL	<> .
+#anat:R-mscl-dentele-ant-fx-moy	anat:has3DmodelURL	<> .
+#anat:R-mscl-dentele-ant-fx-inf	anat:has3DmodelURL	<> .
+anat:L-mscl-dentele-ant	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=q8Pb4nT1r4jarq099r0PPvK1> .
+#anat:L-mscl-dentele-ant-fx-sup	anat:has3DmodelURL	<> .
+#anat:L-mscl-dentele-ant-fx-moy	anat:has3DmodelURL	<> .
+#anat:L-mscl-dentele-ant-fx-inf	anat:has3DmodelURL	<> .
+anat:muscles-ceint-scap-couche-supL	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=jW1jqiuyGnqSf8199ry499vK> .
+anat:muscles-trapeze	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=y0ze41iWjWbOvS1HjK1bSb8f> .
+anat:R-mscl-trapeze	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=H1vGnGrOrqymLvy85PCKn4bK> .
+anat:R-mscl-trapeze-fx-sup	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=aGXr0jvumWHPjWrua8PfW1Xb> .
+anat:R-mscl-trapeze-fx-moy	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=OzKL1D4ziOja1fSPL5Gr0THn> .
+anat:R-mscl-trapeze-fx-inf	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=GjCSDG4TL9Lf9zyuS5W19rWj> .
+anat:L-mscl-trapeze	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=W155T5TfSPX10zGjuyPTr4L5> .
+anat:L-mscl-trapeze-fx-sup	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=jeWLDCjSba8vf4vSz8aaOXvW> .
+anat:L-mscl-trapeze-fx-moy	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=ameSTLz0LzaiKruuGzaWrOj0> .
+anat:L-mscl-trapeze-fx-inf	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Lfy0LDKjSHbqz4T9LXyaCWDm> .
+anat:muscles-gd-dorsal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=nOn8veb0Dq8jjaSDqC1Tv4Xz> .
+anat:R-mscl-gd-dorsal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=DWrmCyKDmqKbi4fCS90XLPLT> .
+anat:L-mscl-gd-dorsal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=ueaaWvzieK9TGLbeGb45r8vC> .
+anat:muscles-gd-pectoral	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=yaGfuaf89XP1TXTreey0PfqW> .
+anat:R-mscl-gd-pectoral	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=DyOHjOLjyO5nK5r0LLyWXnO5> .
+anat:R-mscl-gd-pectoral-fx-sup	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=nGnimWy4zCyi0H9DaCbCae4H> .
+anat:R-mscl-gd-pectoral-fx-moy	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=m8zuuOX555550Hn8PzXzmSzi> .
+anat:R-mscl-gd-pectoral-fx-inf	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=9fS9nCjqCiKP99jWb8ObeCuG> .
+anat:L-mscl-gd-pectoral	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=zSDWbWvSPbeqOX55fWCSvKrK> .
+anat:L-mscl-gd-pectoral-fx-sup	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=naeaiu9zyOjeCSb8H1vOLzS5> .
+anat:L-mscl-gd-pectoral-fx-moy	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=qyKzaCbeiqiGK1vqyOvK5fSr> .
+anat:L-mscl-gd-pectoral-fx-inf	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Prq0L5Kj45XfSHHv4HTPXLLD> .
+anat:R-muscles-propres-epaule	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=8vSvSrb8vCi4uqKrCGiyaa8L> .
+anat:R-mscl-supraepineux	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=L1vS1vLHvWf0rymS5rmKv45T> .
+anat:R-mscl-infraepineux	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=yquSDS5vCCyCqumeyqPPnCGz> .
+anat:R-mscl-pt-rond	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=TLH5zq915vK54rWb0zayWvuG> .
+anat:R-mscl-gd-rond	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=XvGfuqiWHP9PeK5DaOLnyyqS> .
+anat:R-mscl-subscapulaire	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=aSTLXTe45HfKCi8PnmLX9v8f> .
+anat:R-mscl-deltoide	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=vSHHL1TzKvuySPDequb8vS1X> .
+anat:R-mscl-deltoide-fx-ant	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=S5DqWnPXXjmueWn8zeqObiSn> .
+anat:R-mscl-deltoide-fx-moy	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=TnmKXH9PH91THXvyC04zuuKb> .
+anat:R-mscl-deltoide-fx-post	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=z85P5rKnO5HLL59HjKDeqO55> .
+anat:R-muscles-bras-loge-ant	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=qGPTfG0DCGDeyyK9fS0PfSb8> .
+anat:R-mscl-biceps-brachial	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=OHHz8HKjeS95X5TPjueyaWT1> .
+anat:R-mscl-biceps-brachial-chef-crt	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=aG9jWb0j0Tv00LHL19ySj0XX> .
+anat:R-mscl-biceps-brachial-chef-lg	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=9PDqyGGvGPHXS5r8DmqmuK9b> .
+anat:R-mscl-coraco-brachial	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=vOH9zySH1HPz0jqaW1eeqKTD> .
+anat:R-mscl-brachial	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=HHDKjOmyiGHnz89PveGvqGv8> .
+anat:R-muscles-bras-loge-post	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=LzieueGjS1LXGP5LDS5nSzKb> .
+anat:R-mscl-triceps-brachial	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=LzieueGjS1LXGP5LDS5nSzKb> .
+anat:R-mscl-triceps-brachial-chef-lg	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=9XrWja0nmS9bXrS11DrK51Hf> .
+anat:R-mscl-triceps-brachial-chef-med	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=HnyyCmWH9jaa55r4fOG1HfGH> .
+anat:R-mscl-triceps-brachial-chef-lat	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Lj8bGj9PX9zmPPHLnaLLzyyK> .
+anat:R-muscles-ant-avt-bras	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=D4XjGfaamKbe8z4b8HLj4zyC> .
+anat:R-mscl-brachio-radial	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=X5r8fWTXz8rOvOLPnOuumSjK> .
+anat:R-mscl-rond-pronateur	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=jqSLvCuWf8jqiSfSbaHHPfOP> .
+anat:R-mscl-rond-pronateur-chef-humeral	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=TfuauKTruO1PSDKX5TOLb0vG> .
+anat:R-mscl-rond-pronateur-chef-ulnaire	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=SraWj4XrOnyCfqqW9jyKT9DO> .
+anat:R-mscl-fleR-radial-carpe	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=KvyyuG9jSjiGaWHbOD9LD4zG> .
+anat:R-mscl-lg-palmaire	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=OT51bKGLbKHTj45Tna8buqKT> .
+anat:R-mscl-fleR-ulnaire-carpe	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=85jOvqD059PTXHvayqrqy4T9> .
+anat:R-mscl-fleR-ulnaire-carpe-chef-humeral	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=OPHHTzeeSDeSrquqeqvaKvea> .
+anat:R-mscl-fleR-ulnaire-carpe-chef-ulnaire	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=DWviqWGDq4bC9PPPb4P5XnGL> .
+anat:R-mscl-fleR-pfd-doigts	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=qiySv0qC4biOjWz4LzKnimey> .
+anat:R-mscl-fleR-supL-doigts	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=me0XHL4PDuWHCaaaCWLT1bGX> .
+anat:R-mscl-fleR-supL-doigts-chef-humero-ulnaire	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=iKjKzermuW1fy4T5rmv4za0D> .
+anat:R-mscl-fleR-supL-doigts-chef-radial	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=G5rC0XKzCaGPCmCyG9GDmqma> .
+anat:R-mscl-lg-fleR-pouce	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=5Dmyi4jmCS1XrWjOnmfOnWPr> .
+anat:R-mscl-supinateur	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=mqSDie1PnSXv4nyayKba0PPn> .
+#anat:R-mscl-supinateur-fx-supL	anat:has3DmodelURL	<> .
+#anat:R-mscl-supinateur-fx-pfd	anat:has3DmodelURL	<> .
+anat:R-mscl-carre-pronateur	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=ieKXzSXfiKbG0v81TH8nS9nK> .
+anat:R-muscles-post-avt-bras	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=H1b01LTvO9PPTDWf4X1v4Pvi> .
+anat:R-mscl-lg-extR-radial-carpe	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=i49D8P9XrW95aW5519vKrOLf> .
+anat:R-mscl-crt-extR-radial-carpe	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=yGj8D4biaCWTqqyemmD0Tjia> .
+anat:R-mscl-extR-doigts	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Szq4HDuCm0bmPruaiSm0r0fC> .
+anat:R-mscl-extR-pt-doigt	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=5zGfmOuyWXzC9Lvmmenq49fG> .
+anat:R-mscl-extR-ulnaire-carpe	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=WjeSv0CaiC0rn0fSDCnSXvu8> .
+anat:R-mscl-ancone	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=imK9jyCeiKfmHnSXTr5zi0Pb> .
+anat:R-mscl-lg-abdR-pouce	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=5DiqSvDuO1PTeeuGH1SLzmq4> .
+anat:R-mscl-crt-extR-pouce	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=TvKjKL9zSDuCL1DmyCLjKXv8> .
+anat:R-mscl-extR-index	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=uGHLnO9v8b414jKLzWeaOjOT> .
+anat:R-mscl-lg-extR-pouce	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=4TLr81PXn0LXueqCC05v8DqW> .
+anat:R-muscles-loge-med-main	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=iS1j8jHfyuCGGD059PimuWTr> .
+anat:R-muscles-loge-med-main-plan-supL	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Dyu85nPfyKj4fu81ju9juWzC> .
+anat:R-mscl-crt-fleR-auriculaire	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=TTnmi81zCGzm8n0bCi4TbeOf> .
+anat:R-mscl-abdR-auriculaire	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=iqumKvWz0jeuDyC4TjvaqCKf> .
+anat:R-muscles-loge-med-main-plan-pfd	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=G9LHfCyWLPvef8PPLbmiqKzW> .
+anat:R-mscl-opposant-auriculaire	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=G9LHfCyWLPvef8PPLbmiqKzW> .
+anat:R-muscles-loge-lat-main	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=G555TD4Di8jGXLruyeGjmqK9> .
+anat:R-muscles-loge-lat-main-plan-supL	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=PTzOjy8ju8fuPDGT5LiamCCq> .
+anat:R-mscl-crt-abdR-pouce	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=PTzOjy8ju8fuPDGT5LiamCCq> .
+anat:R-muscles-loge-lat-main-plan-moy	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=yGTjKrTrWTz4qKjS9bKjWz4f> .
+anat:R-mscl-crt-fleR-pouce	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=PP1HDmfaKzayCiG1D8XTLvKT> .
+anat:R-mscl-crt-fleR-pouce-fx-supL	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=4Di85rWjWPzWGDK9vWXPHvm0> .
+anat:R-mscl-crt-fleR-pouce-fx-pfd	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=rS19DqSHH9LPKnWzG9G99Di8> .
+anat:R-mscl-opposant-pouce	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=5r89rK0bGXzm99zeyWSje0rK> .
+anat:R-muscles-loge-lat-main-plan-pfd	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=OvSj4XSrSbqyaq05ziPHnKX1> .
+anat:R-mscl-addR-pouce	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=OvSj4XSrSbqyaq05ziPHnKX1> .
+anat:R-mscl-addR-pouce-fx-oblique	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=nm0D09SL55nmODGXrmbuCaCG> .
+anat:R-mscl-addR-pouce-fx-trsv	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=jSbS959nCmmuLH9riunOjei8> .
+anat:R-muscles-loge-moy-main	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=zKLrimn4jiSj0j0XvuP9zaa4> .
+anat:R-muscles-loge-moy-main-plan-supL	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=q0LnOrGbe4DajmqC0nKHX5ru> .
+anat:R-muscles-lombricaux-main	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=q0LnOrGbe4DajmqC0nKHX5ru> .
+anat:R-mscl-lombrical-du-II-main	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=fSzKf0bye0LTmam4TT5DqSny> .
+anat:R-mscl-lombrical-du-III-main	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=51X5XHmSzqqeSnqaeyaWbC4T> .
+anat:R-mscl-lombrical-du-IV-main	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=X1niOnCS1jOXGnuuyuTPfWv4> .
+anat:R-mscl-lombrical-du-V-main	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=v0nW5frqO9LXbamyW951niaO> .
+anat:R-muscles-loge-moy-main-plan-pfd	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Sf45L9qmSXTHf8b0TjSbiKrK> .
+anat:R-muscles-interosseux-dorsaux-main	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=0Pv8PzOD8vW19TPXram0TrKL> .
+anat:R-mscl-interosseux-dorsal-main-1	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=PbOHj0eWnqKLa0LvuuH5vmqy> .
+anat:R-mscl-interosseux-dorsal-main-2	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=juqyKf1rOz4bODaqqqymG11H> .
+anat:R-mscl-interosseux-dorsal-main-3	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=1PXnO5KT5PHHeKLDu4iKb8Pv> .
+anat:R-mscl-interosseux-dorsal-main-4	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=WLrWT9C45b8vCuWD8Tn4DuOL> .
+anat:R-muscles-interosseux-palmaire-main	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=PzyemmjO1va88j8DOT591zqi> .
+#anat:R-mscl-interosseux-palmaire-main-1	anat:has3DmodelURL	<> .
+anat:R-mscl-interosseux-palmaire-main-2	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=bSbqeCO5LPrq51re4vmmWbSP> .
+anat:R-mscl-interosseux-palmaire-main-3	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=WbeG9HuSfqiya4nS9P9nWfC0> .
+anat:R-mscl-interosseux-palmaire-main-4	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=0PDKPjbST5nOHj0zCuTv4bG5> .
+anat:R-mscl-tabatiere-anatomique	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=0rGje8CG9f8Hn8rWTbiS999L> .
+anat:R-retinaculum-fleR-main	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=STLnmuLjGD4T5D0nummSXfeC> .
+anat:L-muscles-propres-epaule	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=vKbqKDvieGDWj8THfOiayqym> .
+anat:L-mscl-supraepineux	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=GLv89ruauaKfyaqyOfmua0Xr> .
+anat:L-mscl-infraepineux	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=1nWP1bD8biaGqqyOjK15ryi4> .
+anat:L-mscl-pt-rond	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=nWjiuebyOLfOOjq8TPuODK9X> .
+anat:L-mscl-gd-rond	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=K91L15naWT9THTP15rDq0vKb> .
+anat:L-mscl-subscapulaire	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=4j0jSD455LXLuWD4rea8vO15> .
+anat:L-mscl-deltoide	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=1fGnaurm8TviyS5Pf0r0rWLz> .
+anat:L-mscl-deltoide-fx-ant	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=GPnmaSqyaSLPeuOr0jSDGDSH> .
+anat:L-mscl-deltoide-fx-moy	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=qu09v0yiSTTr9DGn8zHXT5LT> .
+anat:L-mscl-deltoide-fx-post	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=CimqKXGHv8Hviy0rauPDWHT9> .
+anat:L-muscles-bras-loge-ant	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=muqG1fyiCS9DeOf0vaz4z8Lv> .
+anat:L-mscl-biceps-brachial	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=5v0LbyWTLb4vaGzCSn0jGnyu> .
+anat:L-mscl-biceps-brachial-chef-crt	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=buCaqiW9Xrq0mKb8HvXTru4D> .
+anat:L-mscl-biceps-brachial-chef-lg	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=K9TjK9vWje85faSXrOPvmeaG> .
+anat:L-mscl-coraco-brachial	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=T1fmiieSjeCSz4biaCm4PHjm> .
+anat:L-mscl-brachial	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=euimamPjKHLr5HPfOX4TLnKn> .
+anat:L-muscles-bras-loge-post	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=vqyemuPj455v5b4nSDjGziie> .
+anat:L-mscl-triceps-brachial	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=vqyemuPj455v5b4nSDjGziie> .
+anat:L-mscl-triceps-brachial-chef-lg	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=qaGzKvLnuG91SbaeSHT5fO9T> .
+anat:L-mscl-triceps-brachial-chef-med	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=95TT5fnqaOn4Sn0H5Lbi0L15> .
+anat:L-mscl-triceps-brachial-chef-lat	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=5PzOvOK9nue0qGbq49Xv4H9H> .
+anat:L-muscles-ant-avt-bras	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=qGTTri0b0HrmTPH9b4mm4D4L> .
+anat:L-mscl-brachio-radial	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=SbGvSreCC0j8iOr8rWnqKrq0> .
+anat:L-mscl-rond-pronateur	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=TnWnGHH5vSraPPz8zyqSXDey> .
+anat:L-mscl-rond-pronateur-chef-humeral	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=vKjaG15veCOvim8PXrTremei> .
+anat:L-mscl-rond-pronateur-chef-ulnaire	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=mCe09HjuSfaefqGf0vLXfOfG> .
+anat:L-mscl-fleR-radial-carpe	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Xz4b0rODy0juOXz8jK0vuS5n> .
+anat:L-mscl-lg-palmaire	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=GX1rCmX1Dmy4yqqaim9zCGjC> .
+anat:L-mscl-fleR-ulnaire-carpe	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=XHv4zaGvuiWjmuS9L1L5zu4j> .
+anat:L-mscl-fleR-ulnaire-carpe-chef-humeral	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=LLHHj84nO1TLX5jmyuTvSv4T> .
+anat:L-mscl-fleR-ulnaire-carpe-chef-ulnaire	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=OLfCaqvueeaGObGPrSCSb8rO> .
+anat:L-mscl-fleR-pfd-doigts	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=WziGX5zyeG5LvOrCiOnqyyC8> .
+anat:L-mscl-fleR-supL-doigts	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=WrG9naOnCaqujqGHj4HvmquS> .
+anat:L-mscl-fleR-supL-doigts-chef-humero-ulnaire	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=5zSTTTOjWrqenWHDyS511fmq> .
+anat:L-mscl-fleR-supL-doigts-chef-radial	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=8bq4TDP1bWTbb0ru4LyuKTze> .
+anat:L-mscl-lg-fleR-pouce	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=HvSfaaSjKPfWniWf0Pi4ree4> .
+anat:L-mscl-supinateur	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=eGHvuuuy4ramDGvW9zW1jKr4> .
+#anat:L-mscl-supinateur-fx-supL	anat:has3DmodelURL	<> .
+#anat:L-mscl-supinateur-fx-pfd	anat:has3DmodelURL	<> .
+anat:L-mscl-carre-pronateur	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=fW1De4f8bCq00num8XXnaia8> .
+anat:L-muscles-post-avt-bras	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Lf4Pra4Xryqeeq8nG59bOjSj> .
+anat:L-mscl-lg-extR-radial-carpe	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=DCG1594P15DOXneW5PSfauKL> .
+anat:L-mscl-crt-extR-radial-carpe	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=mK1PfS8XPvmeXTPf0bSzOjKv> .
+anat:L-mscl-extR-doigts	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=KjmGHPja8ve8u8bOLnP1jiOX> .
+anat:L-mscl-extR-pt-doigt	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=05L1zeX5TDSf4bCea0H5zS1r> .
+anat:L-mscl-extR-ulnaire-carpe	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=9LvOfmGTH9Xzi4r8XDfSvGXD> .
+anat:L-mscl-ancone	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=LXbiGzjaGv0LzGPPf8TPfGDS> .
+anat:L-mscl-lg-abdR-pouce	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Ova8TbeC4fy0iueOHbPTnWTn> .
+anat:L-mscl-crt-extR-pouce	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=eSbSTjjGnC4Xae4HPL99veue> .
+anat:L-mscl-extR-index	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=ie8f4zquKfuCvyueqC4z4nma> .
+anat:L-mscl-lg-extR-pouce	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Hf0b8n1LbGzurqieWXCOT5Xz> .
+anat:L-muscles-loge-med-main	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=1zmimaPXreyiPLX5TTe0fayO> .
+anat:L-muscles-loge-med-main-plan-supL	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Ove0LnzuCaqOGXXvCWSzeuGH> .
+anat:L-mscl-crt-fleR-auriculaire	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=uKTn0HuCuWnyuGn4HH9PvWv8> .
+anat:L-mscl-abdR-auriculaire	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=WrqGruu8beOHiKvOfG0D4jaO> .
+anat:L-muscles-loge-med-main-plan-pfd	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=L9HnmSL1LT55PX5zuGzGrWzi> .
+anat:L-mscl-opposant-auriculaire	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=L9HnmSL1LT55PX5zuGzGrWzi> .
+anat:L-muscles-loge-lat-main	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=TTfy8PXTb41veq4reuS9XDOL> .
+anat:L-muscles-loge-lat-main-plan-supL	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=0bSHruWnuOHbOziSj8SXfOL1> .
+anat:L-mscl-crt-abdR-pouce	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=0bSHruWnuOHbOziSj8SXfOL1> .
+anat:L-muscles-loge-lat-main-plan-moy	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=81XLfSSbeKbaKD8HremCeuKf> .
+anat:L-mscl-crt-fleR-pouce	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=v41PXvSTzODCbiy8XTjy8fiO> .
+anat:L-mscl-crt-fleR-pouce-fx-supL	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=eCC8jeW5PnayLnSzCWKX1LP1> .
+anat:L-mscl-crt-fleR-pouce-fx-pfd	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=CCGXTnjy0H5zTLvKfmjuaW9P> .
+anat:L-mscl-opposant-pouce	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=jyC4fquC0PD8uemiCue4zumK> .
+anat:L-muscles-loge-lat-main-plan-pfd	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=CyG5XrSLfmGj4PzyOjGzGDKT> .
+anat:L-mscl-addR-pouce	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=CyG5XrSLfmGj4PzyOjGzGDKT> .
+anat:L-mscl-addR-pouce-fx-oblique	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=zyGDGvKXzGbCXjOTbWu81v8L> .
+anat:L-mscl-addR-pouce-fx-trsv	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=CeOfyCCWbeaiyy01XPfm0LL9> .
+anat:L-muscles-loge-moy-main	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=jKjq0PCa8nyGruiy89bKXLT9> .
+anat:L-muscles-loge-moy-main-plan-supL	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=H5LrO9LDm49riKDySvnemWja> .
+anat:L-muscles-lombricaux-main	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=H5LrO9LDm49riKDySvnemWja> .
+anat:L-mscl-lombrical-du-II-main	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=ae8XfuDiuSnW4X5T5DKXfe4L> .
+anat:L-mscl-lombrical-du-III-main	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=WzCS5jaimOTPqKTb81SXHfWT> .
+anat:L-mscl-lombrical-du-IV-main	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=PLzyCqjiKjGn0jmqma9rieqq> .
+anat:L-mscl-lombrical-du-V-main	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=T1j0nKTf05Tn4DSPvO4jWDie> .
+anat:L-muscles-loge-moy-main-plan-pfd	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=aeGDmKriyCyC1nGviCqOXjG9> .
+anat:L-muscles-interosseux-dorsaux-main	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=imiqGrbeWnKj5fyuuKPnS1Lv> .
+anat:L-mscl-interosseux-dorsal-main-1	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=vGDyGjDCqqKDO5rimCO9n4Pj> .
+anat:L-mscl-interosseux-dorsal-main-2	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=5Lz0vubqK9Pn4bCm85H9DWb4> .
+anat:L-mscl-interosseux-dorsal-main-3	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=jqGnm8DuCuCunGneyGmyeCSf> .
+anat:L-mscl-interosseux-dorsal-main-4	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=4bSzC49HrWLTCee4fOPTjyim> .
+anat:L-muscles-interosseux-palmaire-main	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=LrSnee4DeK5vTj0LTziqi8r0> .
+#anat:L-mscl-interosseux-palmaire-main-1	anat:has3DmodelURL	<> .
+anat:L-mscl-interosseux-palmaire-main-2	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=q0nKXjrGHDeiCS5baWP9DOre> .
+anat:L-mscl-interosseux-palmaire-main-3	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=KbueK1fKPDeKyWDKDayiK5ri> .
+anat:L-mscl-interosseux-palmaire-main-4	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=CiW51Dby8XrWiueOHruK1XLT> .
+anat:L-mscl-tabatiere-anatomique	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=WLP9TL5Xj0X5b8n4TDTbCKDe> .
+anat:L-retinaculum-fleR-main	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Dym8fKCW1LPD9T55j4C0X15H> .
+
+anat:muscles-propres-ceint-scap	rdfs:label	"Muscles propres de la ceinture scapulaire" .
+anat:muscles-ceint-scap-couche-pfde	rdfs:label	"Muscles de la ceinture scapulaire : couche profonde" .
+anat:muscles-ceint-scap-couche-pfde1	rdfs:label	"Muscles de la ceinture scapulaire : couche profonde (1re subdivision)" .
+anat:muscles-angulaire-scapula	rdfs:label	"Muscles élévateurs de la scapula" .
+anat:R-mscl-angulaire-scapula	rdfs:label	"Muscle élévateur de la scapula droit" .
+anat:L-mscl-angulaire-scapula	rdfs:label	"Muscle élévateur de la scapula gauche" .
+anat:muscles-subclavier	rdfs:label	"Muscles subclaviers" .
+anat:R-mscl-subclavier	rdfs:label	"Muscle subclavier droit" .
+anat:L-mscl-subclavier	rdfs:label	"Muscle subclavier gauche" . 
+anat:muscles-pt-pectoral	rdfs:label	"Muscles petits pectoraux" .
+anat:R-mscl-pt-pectoral	rdfs:label	"Muscle petit pectoral droit" .
+anat:L-mscl-pt-pectoral	rdfs:label	"Muscle petit pectoral gauche" . 
+anat:muscles-ceint-scap-couche-pfde2	rdfs:label	"Muscles de la ceinture scapulaire : couche profonde (2e subdivision)" .
+anat:muscles-rhomboides	rdfs:label	"Muscles rhomboides" .
+anat:muscles-pt-rhombo	rdfs:label	"Muscles petits rhomboides" .
+anat:R-mscl-pt-rhombo	rdfs:label	"Muscle petit rhomboide droit" .
+anat:L-mscl-pt-rhombo	rdfs:label	"Muscle petit rhomboide gauche" . 
+anat:muscles-gd-rhombo	rdfs:label	"Muscles grands rhomboides" .
+anat:R-mscl-gd-rhombo	rdfs:label	"Muscle grand rhomboide droit" .
+anat:L-mscl-gd-rhombo	rdfs:label	"Muscle grand rhomboide gauche" . 
+anat:muscles-dentele-ant	rdfs:label	"Muscles dentelés antérieurs" .
+anat:R-mscl-dentele-ant	rdfs:label	"Muscle dentelé antérieur droit" .
+anat:R-mscl-dentele-ant-fx-sup	rdfs:label	"Faisceau supérieur du muscle dentelé antérieur droit" .
+anat:R-mscl-dentele-ant-fx-moy	rdfs:label	"Faisceau moyen du muscle dentelé antérieur droit" .
+anat:R-mscl-dentele-ant-fx-inf	rdfs:label	"Faisceau inférieur du muscle dentelé antérieur droit" .
+anat:L-mscl-dentele-ant	rdfs:label	"Muscle dentelé antérieur gauche" . 
+anat:L-mscl-dentele-ant-fx-sup	rdfs:label	"Faisceau supérieur du muscle dentelé antérieur gauche" .
+anat:L-mscl-dentele-ant-fx-moy	rdfs:label	"Faisceau moyen du muscle dentelé antérieur gauche" .
+anat:L-mscl-dentele-ant-fx-inf	rdfs:label	"Faisceau inférieur du muscle dentelé antérieur gauche" .
+anat:muscles-ceint-scap-couche-supL	rdfs:label	"Muscles de la ceinture scapulaire : couche superficielle" .
+anat:muscles-trapeze	rdfs:label	"Muscles trapèzes" .
+anat:R-mscl-trapeze	rdfs:label	"Muscle trapèze droit" .
+anat:R-mscl-trapeze-fx-sup	rdfs:label	"Faisceau supérieur du muscle trapèze droit" .
+anat:R-mscl-trapeze-fx-moy	rdfs:label	"Faisceau moyen du muscle trapèze droit" .
+anat:R-mscl-trapeze-fx-inf	rdfs:label	"Faisceau inférieur du muscle trapèze droit" .
+anat:L-mscl-trapeze	rdfs:label	"Muscle trapèze gauche" . 
+anat:L-mscl-trapeze-fx-sup	rdfs:label	"Faisceau supérieur du muscle trapèze gauche" .
+anat:L-mscl-trapeze-fx-moy	rdfs:label	"Faisceau moyen du muscle trapèze gauche" .
+anat:L-mscl-trapeze-fx-inf	rdfs:label	"Faisceau inférieur du muscle trapèze gauche" .
+anat:muscles-gd-dorsal	rdfs:label	"Muscles grands dorsaux" .
+anat:R-mscl-gd-dorsal	rdfs:label	"Muscle grand dorsal droit" .
+anat:L-mscl-gd-dorsal	rdfs:label	"Muscle grand dorsal gauche" . 
+anat:muscles-gd-pectoral	rdfs:label	"Muscles grands pectoraux" .
+anat:R-mscl-gd-pectoral	rdfs:label	"Muscle grand pectoral droit" .
+anat:R-mscl-gd-pectoral-fx-sup	rdfs:label	"Faisceau supérieur du muscle grand pectoral droit" .
+anat:R-mscl-gd-pectoral-fx-moy	rdfs:label	"Faisceau moyen du muscle grand pectoral droit" .
+anat:R-mscl-gd-pectoral-fx-inf	rdfs:label	"Faisceau inférieur du muscle grand pectoral droit" .
+anat:L-mscl-gd-pectoral	rdfs:label	"Muscle grand pectoral gauche" . 
+anat:L-mscl-gd-pectoral-fx-sup	rdfs:label	"Faisceau supérieur du muscle grand pectoral gauche" .
+anat:L-mscl-gd-pectoral-fx-moy	rdfs:label	"Faisceau moyen du muscle grand pectoral gauche" .
+anat:L-mscl-gd-pectoral-fx-inf	rdfs:label	"Faisceau inférieur du muscle grand pectoral gauche" .
+anat:R-muscles-propres-epaule	rdfs:label	"Muscle propres de l’épaule droite" .
+anat:R-mscl-supraepineux	rdfs:label	"Muscle supraépineux droit" .
+anat:R-mscl-infraepineux	rdfs:label	"Muscle infraépineux droit" .
+anat:R-mscl-pt-rond	rdfs:label	"Muscle petit rond droit" .
+anat:R-mscl-gd-rond	rdfs:label	"Muscle grand rond droit" .
+anat:R-mscl-subscapulaire	rdfs:label	"Muscle subscapulaire droit" .
+anat:R-mscl-deltoide	rdfs:label	"Muscle deltoïde droit" .
+anat:R-mscl-deltoide-fx-ant	rdfs:label	"Faisceau antérieur du muscle deltoïde droit" .
+anat:R-mscl-deltoide-fx-moy	rdfs:label	"Faisceau moyen du muscle deltoïde droit" .
+anat:R-mscl-deltoide-fx-post	rdfs:label	"Faisceau postérieur du muscle deltoïde droit" .
+anat:R-muscles-bras-loge-ant	rdfs:label	"Muscles antérieurs du bras droit" .
+anat:R-mscl-biceps-brachial	rdfs:label	"Muscle biceps brachial droit" .
+anat:R-mscl-biceps-brachial-chef-crt	rdfs:label	"Chef courf du muscle biceps brachial droit" .
+anat:R-mscl-biceps-brachial-chef-lg	rdfs:label	"Chef long du muscle biceps brachial droit" .
+anat:R-mscl-coraco-brachial	rdfs:label	"Muscle coraco-brachial droit" .
+anat:R-mscl-brachial	rdfs:label	"Muscle brachial droit" .
+anat:R-muscles-bras-loge-post	rdfs:label	"Muscles postérieurs du bras droit" .
+anat:R-mscl-triceps-brachial	rdfs:label	"Muscle triceps brachial droit" .
+anat:R-mscl-triceps-brachial-chef-lg	rdfs:label	"Chef long du muscle triceps brachial droit" .
+anat:R-mscl-triceps-brachial-chef-med	rdfs:label	"Chef médial du muscle triceps brachial droit" .
+anat:R-mscl-triceps-brachial-chef-lat	rdfs:label	"Chef latéral du muscle triceps brachial droit" .
+anat:R-muscles-ant-avt-bras	rdfs:label	"Muscles antérieurs de l’avant-bras droit" .
+anat:R-mscl-brachio-radial	rdfs:label	"Muscle brachio-radial droit" .
+anat:R-mscl-rond-pronateur	rdfs:label	"Muscle rond pronateur droit" .
+anat:R-mscl-rond-pronateur-chef-humeral	rdfs:label	"Chef huméral du muscle rond pronateur droit" .
+anat:R-mscl-rond-pronateur-chef-ulnaire	rdfs:label	"Chef ulnaire du muscle rond pronateur droit" .
+anat:R-mscl-fleR-radial-carpe	rdfs:label	"Muscle fléchisseur radial du carpe droit" .
+anat:R-mscl-lg-palmaire	rdfs:label	"Muscle long palmaire droit" .
+anat:R-mscl-fleR-ulnaire-carpe	rdfs:label	"Muscle fléchisseur ulnaire du carpe droit" .
+anat:R-mscl-fleR-ulnaire-carpe-chef-humeral	rdfs:label	"Chef huméral du muscle fléchisseur ulnaire du carpe droit" .
+anat:R-mscl-fleR-ulnaire-carpe-chef-ulnaire	rdfs:label	"Chef ulnaire du muscle fléchisseur ulnaire du carpe droit" .
+anat:R-mscl-fleR-pfd-doigts	rdfs:label	"Muscle fléchisseur profond des doigts droit" .
+anat:R-mscl-fleR-supL-doigts	rdfs:label	"Muscle fléchisseur superficiel des doigts droit" .
+anat:R-mscl-fleR-supL-doigts-chef-humero-ulnaire	rdfs:label	"Chef huméro-ulnaire du muscle fléchisseur superficiel des doigts droit" .
+anat:R-mscl-fleR-supL-doigts-chef-radial	rdfs:label	"Chef radial du muscle fléchisseur superficiel des doigts droit" .
+anat:R-mscl-lg-fleR-pouce	rdfs:label	"Muscle long fléchisseur du pouce droit" .
+anat:R-mscl-supinateur	rdfs:label	"Muscle supinateur droit" .
+anat:R-mscl-supinateur-fx-supL	rdfs:label	"Faisceau superficiel du muscle supinateur droit" .
+anat:R-mscl-supinateur-fx-pfd	rdfs:label	"Faisceau profond du muscle supinateur droit" .
+anat:R-mscl-carre-pronateur	rdfs:label	"Muscle carré pronateur droit" .
+anat:R-muscles-post-avt-bras	rdfs:label	"Muscles postérieurs de l’avant-bras droit" .
+anat:R-mscl-lg-extR-radial-carpe	rdfs:label	"Muscle long extenseur radial du carpe droit" .
+anat:R-mscl-crt-extR-radial-carpe	rdfs:label	"Muscle court extenseur radial du carpe droit" .
+anat:R-mscl-extR-doigts	rdfs:label	"Muscle extenseur des doigts droit" .
+anat:R-mscl-extR-pt-doigt	rdfs:label	"Muscle extenseur du petit doigt droit" .
+anat:R-mscl-extR-ulnaire-carpe	rdfs:label	"Muscle extenseur ulnaire du carpe droit" .
+anat:R-mscl-ancone	rdfs:label	"Muscle anconé droit" .
+anat:R-mscl-lg-abdR-pouce	rdfs:label	"Muscle long abducteur du pouce droit" .
+anat:R-mscl-crt-extR-pouce	rdfs:label	"Muscle court extenseur du pouce droit" .
+anat:R-mscl-extR-index	rdfs:label	"Muscle extenseur de l’index droit" .
+anat:R-mscl-lg-extR-pouce	rdfs:label	"Muscle long extenseur du pouce droit" .
+anat:R-muscles-loge-med-main	rdfs:label	"Muscles de la loge médiale de la main droite" .
+anat:R-muscles-loge-med-main-plan-supL	rdfs:label	"Muscles de la loge médiale de la main droite : plan superficiel" .
+anat:R-mscl-crt-fleR-auriculaire	rdfs:label	"Muscle court fléchisseur du petit doigt droit" .
+anat:R-mscl-abdR-auriculaire	rdfs:label	"Muscle abducteur du petit doigt droit" .
+anat:R-muscles-loge-med-main-plan-pfd	rdfs:label	"Muscles de la loge médiale de la main droite : plan profond" .
+anat:R-mscl-opposant-auriculaire	rdfs:label	"Muscle opposant du petit doigt droit" .
+anat:R-muscles-loge-lat-main	rdfs:label	"Muscles de la loge latérale de la main droite" .
+anat:R-muscles-loge-lat-main-plan-supL	rdfs:label	"Muscles de la loge latérale de la main droite : plan superficiel" .
+anat:R-mscl-crt-abdR-pouce	rdfs:label	"Muscle court abducteur du pouce droit" .
+anat:R-muscles-loge-lat-main-plan-moy	rdfs:label	"Muscles de la loge latérale de la main droite : plan moyen" .
+anat:R-mscl-crt-fleR-pouce	rdfs:label	"Muscle court fléchisseur du pouce droit" .
+anat:R-mscl-crt-fleR-pouce-fx-supL	rdfs:label	"Faisceau superficiel du muscle court fléchisseur du pouce droit" .
+anat:R-mscl-crt-fleR-pouce-fx-pfd	rdfs:label	"Faisceau profond du muscle court fléchisseur du pouce droit" .
+anat:R-mscl-opposant-pouce	rdfs:label	"Muscle opposant du pouce droit" .
+anat:R-muscles-loge-lat-main-plan-pfd	rdfs:label	"Muscles de la loge latérale de la main droite : plan profond" .
+anat:R-mscl-addR-pouce	rdfs:label	"Muscle adducteur du pouce droit" .
+anat:R-mscl-addR-pouce-fx-oblique	rdfs:label	"Faisceau oblique du muscle adducteur du pouce droit" .
+anat:R-mscl-addR-pouce-fx-trsv	rdfs:label	"Faisceau transverse du muscle adducteur du pouce droit" .
+anat:R-muscles-loge-moy-main	rdfs:label	"Muscles de la loge moyenne de la main droite" .
+anat:R-muscles-loge-moy-main-loge-supL	rdfs:label	"Muscles de la loge moyenne de la main droite : plan superficiel" .
+anat:R-muscles-lombricaux-main	rdfs:label	"Muscles lombricaux de la main droite" .
+anat:R-mscl-lombrical-du-II-main	rdfs:label	"Premier muscle lombrical de la main droite" .
+anat:R-mscl-lombrical-du-III-main	rdfs:label	"Deuxième muscle lombrical de la main droite" .
+anat:R-mscl-lombrical-du-IV-main	rdfs:label	"Troisième muscle lombrical de la main droite" .
+anat:R-mscl-lombrical-du-V-main	rdfs:label	"Quatrième muscle lombrical de la main droite" .
+anat:R-muscles-loge-moy-main-loge-pfde	rdfs:label	"Muscles de la loge moyenne de la main droite : plan profond" .
+anat:R-muscles-interosseux-dorsaux-main	rdfs:label	"Muscles interosseux dorsaux de la main droite" .
+anat:R-mscl-interosseux-dorsal-main-1	rdfs:label	"Premier muscle interosseux dorsal de la main droite" .
+anat:R-mscl-interosseux-dorsal-main-2	rdfs:label	"Deuxième muscle interosseux dorsal de la main droite" .
+anat:R-mscl-interosseux-dorsal-main-3	rdfs:label	"Troisième muscle interosseux dorsal de la main droite" .
+anat:R-mscl-interosseux-dorsal-main-4	rdfs:label	"Quatrième muscle interosseux dorsal de la main droite" .
+anat:R-muscles-interosseux-palmaire-main	rdfs:label	"Muscles interosseux palmaires de la main droite" .
+anat:R-mscl-interosseux-palmaire-main-1	rdfs:label	"Premier muscle interosseux palmaire de la main droite" .
+anat:R-mscl-interosseux-palmaire-main-2	rdfs:label	"Deuxième muscle interosseux palmaire de la main droite" .
+anat:R-mscl-interosseux-palmaire-main-3	rdfs:label	"Troisième muscle interosseux palmaire de la main droite" .
+anat:R-mscl-interosseux-palmaire-main-4	rdfs:label	"Quatrième muscle interosseux palmaire de la main droite" .
+anat:R-mscl-tabatiere-anatomique	rdfs:label	"Muscles de la tabatière anatomique de la main droite" .
+anat:R-retinaculum-fleR-main	rdfs:label	"Rétinaculum des fléchisseurs de la main droite" .
+anat:L-muscles-propres-epaule	rdfs:label	"Muscle propres de l’épaule gauche" . 
+anat:L-mscl-supraepineux	rdfs:label	"Muscle supraépineux gauche" . 
+anat:L-mscl-infraepineux	rdfs:label	"Muscle infraépineux gauche" . 
+anat:L-mscl-pt-rond	rdfs:label	"Muscle petit rond gauche" . 
+anat:L-mscl-gd-rond	rdfs:label	"Muscle grand rond gauche" . 
+anat:L-mscl-subscapulaire	rdfs:label	"Muscle subscapulaire gauche" . 
+anat:L-mscl-deltoide	rdfs:label	"Muscle deltoïde gauche" . 
+anat:L-mscl-deltoide-fx-ant	rdfs:label	"Faisceau antérieur du muscle deltoïde gauche" .
+anat:L-mscl-deltoide-fx-moy	rdfs:label	"Faisceau moyen du muscle deltoïde gauche" .
+anat:L-mscl-deltoide-fx-post	rdfs:label	"Faisceau postérieur du muscle deltoïde gauche" .
+anat:L-muscles-bras-loge-ant	rdfs:label	"Muscles antérieurs du bras gauche" . 
+anat:L-mscl-biceps-brachial	rdfs:label	"Muscle biceps brachial gauche" . 
+anat:L-mscl-biceps-brachial-chef-crt	rdfs:label	"Chef court du muscle biceps brachial gauche" . 
+anat:L-mscl-biceps-brachial-chef-lg	rdfs:label	"Chef long du muscle biceps brachial gauche" . 
+anat:L-mscl-coraco-brachial	rdfs:label	"Muscle coraco-brachial gauche" . 
+anat:L-mscl-brachial	rdfs:label	"Muscle brachial gauche" . 
+anat:L-muscles-bras-loge-ant	rdfs:label	"Muscles postérieurs du bras gauche" . 
+anat:L-mscl-triceps-brachial	rdfs:label	"Muscle triceps brachial gauche" . 
+anat:L-mscl-triceps-brachial-chef-lg	rdfs:label	"Chef long du muscle triceps brachial gauche" . 
+anat:L-mscl-triceps-brachial-chef-med	rdfs:label	"Chef médial du muscle triceps brachial gauche" . 
+anat:L-mscl-triceps-brachial-chef-lat	rdfs:label	"Chef latéral du muscle triceps brachial gauche" . 
+anat:L-muscles-ant-avt-bras	rdfs:label	"Muscles antérieurs de l’avant-bras gauche" . 
+anat:L-mscl-brachio-radial	rdfs:label	"Muscle brachio-radial gauche" . 
+anat:L-mscl-rond-pronateur	rdfs:label	"Muscle rond pronateur gauche" . 
+anat:L-mscl-rond-pronateur-chef-humeral	rdfs:label	"Chef huméral du muscle rond pronateur gauche" . 
+anat:L-mscl-rond-pronateur-chef-ulnaire	rdfs:label	"Chef ulnaire du muscle rond pronateur gauche" . 
+anat:L-mscl-fleR-radial-carpe	rdfs:label	"Muscle fléchisseur radial du carpe gauche" . 
+anat:L-mscl-lg-palmaire	rdfs:label	"Muscle long palmaire gauche" . 
+anat:L-mscl-fleR-ulnaire-carpe	rdfs:label	"Muscle fléchisseur ulnaire du carpe gauche" . 
+anat:L-mscl-fleR-ulnaire-carpe-chef-humeral	rdfs:label	"Chef huméral du muscle fléchisseur ulnaire du carpe gauche" . 
+anat:L-mscl-fleR-ulnaire-carpe-chef-ulnaire	rdfs:label	"Chef ulnaire du muscle fléchisseur ulnaire du carpe gauche" . 
+anat:L-mscl-fleR-pfd-doigts	rdfs:label	"Muscle fléchisseur profond des doigts gauche" . 
+anat:L-mscl-fleR-supL-doigts	rdfs:label	"Muscle fléchisseur superficiel des doigts gauche" . 
+anat:L-mscl-fleR-supL-doigts-chef-humero-ulnaire	rdfs:label	"Chef huméro-ulnaire du muscle fléchisseur superficiel des doigts gauche" . 
+anat:L-mscl-fleR-supL-doigts-chef-radial	rdfs:label	"Chef radial du muscle fléchisseur superficiel des doigts gauche" . 
+anat:L-mscl-lg-fleR-pouce	rdfs:label	"Muscle long fléchisseur du pouce gauche" . 
+anat:L-mscl-supinateur	rdfs:label	"Muscle supinateur gauche" . 
+anat:L-mscl-supinateur-fx-supL	rdfs:label	"Faisceau superficiel du muscle supinateur gauche" . 
+anat:L-mscl-supinateur-fx-pfd	rdfs:label	"Faisceau profond du muscle supinateur gauche" . 
+anat:L-mscl-carre-pronateur	rdfs:label	"Muscle carré pronateur gauche" . 
+anat:L-muscles-post-avt-bras	rdfs:label	"Muscles postérieurs de l’avant-bras gauche" . 
+anat:L-mscl-lg-extR-radial-carpe	rdfs:label	"Muscle long extenseur radial du carpe gauche" . 
+anat:L-mscl-crt-extR-radial-carpe	rdfs:label	"Muscle court extenseur radial du carpe gauche" . 
+anat:L-mscl-extR-doigts	rdfs:label	"Muscle extenseur des doigts gauche" . 
+anat:L-mscl-extR-pt-doigt	rdfs:label	"Muscle extenseur du petit doigt gauche" . 
+anat:L-mscl-extR-ulnaire-carpe	rdfs:label	"Muscle extenseur ulnaire du carpe gauche" . 
+anat:L-mscl-ancone	rdfs:label	"Muscle anconé gauche" . 
+anat:L-mscl-lg-abdR-pouce	rdfs:label	"Muscle long abducteur du pouce gauche" . 
+anat:L-mscl-crt-extR-pouce	rdfs:label	"Muscle court extenseur du pouce gauche" . 
+anat:L-mscl-extR-index	rdfs:label	"Muscle extenseur de l’index gauche" . 
+anat:L-mscl-lg-extR-pouce	rdfs:label	"Muscle long extenseur du pouce gauche" . 
+anat:L-muscles-loge-med-main	rdfs:label	"Muscles de la loge médiale de la main gauche" . 
+anat:L-muscles-loge-med-main-plan-supL	rdfs:label	"Muscles de la loge médiale de la main gauche : plan superficiel" . 
+anat:L-mscl-crt-fleR-auriculaire	rdfs:label	"Muscle court fléchisseur du petit doigt gauche" . 
+anat:L-mscl-abdR-auriculaire	rdfs:label	"Muscle abducteur du petit doigt gauche" . 
+anat:L-muscles-loge-med-main-plan-pfd	rdfs:label	"Muscles de la loge médiale de la main gauche : plan profond" . 
+anat:L-mscl-opposant-auriculaire	rdfs:label	"Muscle opposant du petit doigt gauche" . 
+anat:L-muscles-loge-lat-main	rdfs:label	"Muscles de la loge latérale de la main gauche" . 
+anat:L-muscles-loge-lat-main-plan-supL	rdfs:label	"Muscles de la loge latérale de la main gauche : plan superficiel" . 
+anat:L-mscl-crt-abdR-pouce	rdfs:label	"Muscle court abducteur du pouce gauche" . 
+anat:L-muscles-loge-lat-main-plan-moy	rdfs:label	"Muscles de la loge latérale de la main gauche : plan moyen" . 
+anat:L-mscl-crt-fleR-pouce	rdfs:label	"Muscle court fléchisseur du pouce gauche" . 
+anat:L-mscl-crt-fleR-pouce-fx-supL	rdfs:label	"Faisceau superficiel du muscle court fléchisseur du pouce gauche" . 
+anat:L-mscl-crt-fleR-pouce-fx-pfd	rdfs:label	"Faisceau profond du muscle court fléchisseur du pouce gauche" . 
+anat:L-mscl-opposant-pouce	rdfs:label	"Muscle opposant du pouce gauche" . 
+anat:L-muscles-loge-lat-main-plan-pfd	rdfs:label	"Muscles de la loge latérale de la main gauche : plan profond" . 
+anat:L-mscl-addR-pouce	rdfs:label	"Muscle adducteur du pouce gauche" . 
+anat:L-mscl-addR-pouce-fx-oblique	rdfs:label	"Faisceau oblique du muscle adducteur du pouce gauche" . 
+anat:L-mscl-addR-pouce-fx-trsv	rdfs:label	"Faisceau transverse du muscle adducteur du pouce gauche" . 
+anat:L-muscles-loge-moy-main	rdfs:label	"Muscles de la loge moyenne de la main gauche" . 
+anat:L-muscles-loge-moy-main-loge-supL	rdfs:label	"Muscles de la loge moyenne de la main gauche : plan superficiel" .
+anat:L-muscles-lombricaux-main	rdfs:label	"Muscles lombricaux de la main gauche" . 
+anat:L-mscl-lombrical-du-II-main	rdfs:label	"Premier muscle lombrical de la main gauche" . 
+anat:L-mscl-lombrical-du-III-main	rdfs:label	"Deuxième muscle lombrical de la main gauche" . 
+anat:L-mscl-lombrical-du-IV-main	rdfs:label	"Troisième muscle lombrical de la main gauche" . 
+anat:L-mscl-lombrical-du-V-main	rdfs:label	"Quatrième muscle lombrical de la main gauche" . 
+anat:L-muscles-loge-moy-main-loge-pfde	rdfs:label	"Muscles de la loge moyenne de la main gauche : plan profond" . 
+anat:L-muscles-interosseux-dorsaux-main	rdfs:label	"Muscles interosseux dorsaux de la main gauche" . 
+anat:L-mscl-interosseux-dorsal-main-1	rdfs:label	"Premier muscle interosseux dorsal de la main gauche" . 
+anat:L-mscl-interosseux-dorsal-main-2	rdfs:label	"Deuxième muscle interosseux dorsal de la main gauche" . 
+anat:L-mscl-interosseux-dorsal-main-3	rdfs:label	"Troisième muscle interosseux dorsal de la main gauche" . 
+anat:L-mscl-interosseux-dorsal-main-4	rdfs:label	"Quatrième muscle interosseux dorsal de la main gauche" . 
+anat:L-muscles-interosseux-palmaire-main	rdfs:label	"Muscles interosseux palmaires de la main gauche" . 
+anat:L-mscl-interosseux-palmaire-main-1	rdfs:label	"Premier muscle interosseux palmaire de la main gauche" . 
+anat:L-mscl-interosseux-palmaire-main-2	rdfs:label	"Deuxième muscle interosseux palmaire de la main gauche" . 
+anat:L-mscl-interosseux-palmaire-main-3	rdfs:label	"Troisième muscle interosseux palmaire de la main gauche" . 
+anat:L-mscl-interosseux-palmaire-main-4	rdfs:label	"Quatrième muscle interosseux palmaire de la main gauche" . 
+anat:L-mscl-tabatiere-anatomique	rdfs:label	"Muscles de la tabatière anatomique de la main gauche" .
+anat:L-retinaculum-fleR-main	rdfs:label	"Rétinaculum des fléchisseurs de la main gauche" .
 

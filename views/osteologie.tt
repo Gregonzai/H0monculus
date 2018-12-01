@@ -98,10 +98,10 @@ max-width:inherit;
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/frontal">Os frontal<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5D411TemmCyWvuKLXXDSrSTP" alt="img. frontal"/></span></a></li>
 						<li><a href="/desc/http://anat.org/sphenoide">Os sphénoïde<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uemeW1e4b0DaXreWPr9zC4bi" alt="img. sphenoide"/></span></a></li>
-						<li><a href="/desc/http://anat.org/occiput">Os occiput<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TX59PrKDiCiSSDeaKXOHneeG" alt="img. occiput"/></a></li>
-						<li><a href="/desc/http://anat.org/R-temporal">Os temporal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5nGP9PTPnq0LzC4nGj85zC8b" alt="img. temporal droit"/></a></li>
-						<li><a href="/desc/http://anat.org/L-temporal">Os temporal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jmy0X9jaGDCSW9vymezKzqmO" alt="img. temporal gauche"/></a></li>
-						<li><a href="/desc/http://anat.org/ethmoide">Os ethmoïde<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nCuu8zTnuC4XWHPnuWCSbKze" alt="img. ethmoide"/></a></li>
+						<li><a href="/desc/http://anat.org/occiput">Os occiput<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TX59PrKDiCiSSDeaKXOHneeG" alt="img. occiput"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-temporal">Os temporal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5nGP9PTPnq0LzC4nGj85zC8b" alt="img. temporal droit"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-temporal">Os temporal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jmy0X9jaGDCSW9vymezKzqmO" alt="img. temporal gauche"/></span></a></li>
+						<li><a href="/desc/http://anat.org/ethmoide">Os ethmoïde<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nCuu8zTnuC4XWHPnuWCSbKze" alt="img. ethmoide"/></span></a></li>
 						</ul>
 
 </div>
@@ -114,11 +114,11 @@ max-width:inherit;
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/frontal">Os frontal<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5D411TemmCyWvuKLXXDSrSTP" alt="img. frontal"/></span></a></li>
 						<li><a href="/desc/http://anat.org/sphenoide">Os sphénoïde<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uemeW1e4b0DaXreWPr9zC4bi" alt="img. sphenoide"/></span></a></li>
-						<li><a href="/desc/http://anat.org/occiput">Os occiput<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TX59PrKDiCiSSDeaKXOHneeG" alt="img. occiput"/></a></li>
-						<li><a href="/desc/http://anat.org/R-parietal">Os pariétal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yamyeSCi8P9L1nCqCSC81n0r" alt="img. parietal droit"/></a></li>
-						<li><a href="/desc/http://anat.org/L-parietal">Os pariétal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=f0PDy8TTb8rOya8jWr9Tzui0" alt="img. parietal gauche"/></a></li>
-						<li><a href="/desc/http://anat.org/R-temporal">Os temporal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5nGP9PTPnq0LzC4nGj85zC8b" alt="img. temporal droit"/></a></li>
-						<li><a href="/desc/http://anat.org/L-temporal">Os temporal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jmy0X9jaGDCSW9vymezKzqmO" alt="img. temporal gauche"/></a></li>
+						<li><a href="/desc/http://anat.org/occiput">Os occiput<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TX59PrKDiCiSSDeaKXOHneeG" alt="img. occiput"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-parietal">Os pariétal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yamyeSCi8P9L1nCqCSC81n0r" alt="img. parietal droit"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-parietal">Os pariétal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=f0PDy8TTb8rOya8jWr9Tzui0" alt="img. parietal gauche"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-temporal">Os temporal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5nGP9PTPnq0LzC4nGj85zC8b" alt="img. temporal droit"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-temporal">Os temporal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jmy0X9jaGDCSW9vymezKzqmO" alt="img. temporal gauche"/></span></a></li>
 						</ul>
 
 
@@ -134,25 +134,25 @@ max-width:inherit;
 					<ul style="list-style-type:disc">
 					<li><a href="/desc/http://anat.org/massif-facial-ant">Os du massif facial antérieur<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LHnKjiGvyS1jiyyie8jey4fW" alt="img. massif facial ant"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/ethmoide">Os ethmoïde<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nCuu8zTnuC4XWHPnuWCSbKze" alt="img. ethmoide"/></a></li>
-						<li><a href="/desc/http://anat.org/vomer">Os vomer<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=45XTvq4Lbuqa8LH5ryDSramy" alt="img. vomer"/></a></li>
-						<li><a href="/desc/http://anat.org/R-maxilaire">Os maxilaire droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=maG95n1HD8ryOrOfmWfimiS1" alt="img. maxilaire droit"/></a></li>
-						<li><a href="/desc/http://anat.org/L-maxilaire">Os maxilaire gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=G95TjuTn0fG5D8DSTDuC81Hr" alt="img. maxilaire gauche"/></a></li>
-						<li><a href="/desc/http://anat.org/R-palatin">Os palatin droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LfCOraSrWDqmqq4DGbOT1jGP" alt="img. palatin droit"/></a></li>
-						<li><a href="/desc/http://anat.org/L-palatin">Os palatin gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LbOnCKLv0f8nf0nGPPaWfKza" alt="img. palatin gauche"/></a></li>
-						<li><a href="/desc/http://anat.org/R-os-lacrimal">Os lacrimal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Ci8f0zOL9vmeSjauuuvqOr8z" alt="img. lacrimal droit"/></a></li>
-						<li><a href="/desc/http://anat.org/L-os-lacrimal">Os lacrimal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bSzuGb8L5TXviu8Tvybi8P5r" alt="img. lacrimal gauche"/></a></li>
-						<li><a href="/desc/http://anat.org/R-cornet-nasal-inf">Os cornet nasal inférieur droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jaCKDW8vGzuSXTjCSD91Pjua" alt="img. CNI droit"/></a></li>
-						<li><a href="/desc/http://anat.org/L-cornet-nasal-inf">Os cornet nasal inférieur gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=HPj0nyeOD0L1Lna4f8GTvO11" alt="img. CNI gauche"/></a></li>
-						<li><a href="/desc/http://anat.org/R-os-nasal">Os nasal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Kn4D85GX5nSvqyGjWbu8b4vi" alt="img. nasal droit"/></a></li>
-						<li><a href="/desc/http://anat.org/L-os-nasal">Os nasal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Sr0vGPLD45rqj85vSHHH9j45" alt="img. nasal gauche"/></a></li>
-						<li><a href="/desc/http://anat.org/R-malaire">Os malaire (anc. zygomatique) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rGbSTnLP5nCmauWT1PSj41n4" alt="img. malaire droit"/></a></li>
-						<li><a href="/desc/http://anat.org/L-malaire">Os malaire (anc. zygomatique) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=419L91SzGTnOSLTzai9fCq8D" alt="img. malaire gauche"/></a></li>
+						<li><a href="/desc/http://anat.org/ethmoide">Os ethmoïde<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nCuu8zTnuC4XWHPnuWCSbKze" alt="img. ethmoide"/></span></a></li>
+						<li><a href="/desc/http://anat.org/vomer">Os vomer<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=45XTvq4Lbuqa8LH5ryDSramy" alt="img. vomer"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-maxilaire">Os maxilaire droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=maG95n1HD8ryOrOfmWfimiS1" alt="img. maxilaire droit"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-maxilaire">Os maxilaire gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=G95TjuTn0fG5D8DSTDuC81Hr" alt="img. maxilaire gauche"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-palatin">Os palatin droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LfCOraSrWDqmqq4DGbOT1jGP" alt="img. palatin droit"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-palatin">Os palatin gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LbOnCKLv0f8nf0nGPPaWfKza" alt="img. palatin gauche"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-os-lacrimal">Os lacrimal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Ci8f0zOL9vmeSjauuuvqOr8z" alt="img. lacrimal droit"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-os-lacrimal">Os lacrimal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bSzuGb8L5TXviu8Tvybi8P5r" alt="img. lacrimal gauche"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-cornet-nasal-inf">Os cornet nasal inférieur droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jaCKDW8vGzuSXTjCSD91Pjua" alt="img. CNI droit"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-cornet-nasal-inf">Os cornet nasal inférieur gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=HPj0nyeOD0L1Lna4f8GTvO11" alt="img. CNI gauche"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-os-nasal">Os nasal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Kn4D85GX5nSvqyGjWbu8b4vi" alt="img. nasal droit"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-os-nasal">Os nasal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Sr0vGPLD45rqj85vSHHH9j45" alt="img. nasal gauche"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-malaire">Os malaire (anc. zygomatique) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rGbSTnLP5nCmauWT1PSj41n4" alt="img. malaire droit"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-malaire">Os malaire (anc. zygomatique) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=419L91SzGTnOSLTzai9fCq8D" alt="img. malaire gauche"/></span></a></li>
 						</ul>
 					</li>
 					<li><a href="/desc/http://anat.org/massif-facial-moy">Os du massif facial moyen<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=iqiSTH5rSP1jv8nSTXi8191b" alt="img. massif facial moy"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/mandibule">Mandibule<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eG5DOXf0bmaarq09ryTT9TnC" alt="img. mandibule"/></a></li>
+						<li><a href="/desc/http://anat.org/mandibule">Mandibule<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eG5DOXf0bmaarq09ryTT9TnC" alt="img. mandibule"/></span></a></li>
 						</ul>
 					</li>
 					<li><a href="/desc/http://anat.org/massif-facial-post">Os du massif facial postérieur<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=D0zWTriiiObyOHv4fWyGrqOf" alt="img. massif facial post"/></span></a>
@@ -163,9 +163,9 @@ max-width:inherit;
 <div class="content">
 
 							<ul style="list-style-type:circle">
-							<li><a href="/desc/http://anat.org/R-marteau">Malleus (anc. marteau) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=D0DG1nSHnm0DbWXbOHbiWLHf" alt="img. malleus droit"/></a></li>
-							<li><a href="/desc/http://anat.org/R-enclume">Incus (anc. enclume) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ySzuW58n8jeuze0TDW155Lzm" alt="img. incus droit"/></a></li>
-							<li><a href="/desc/http://anat.org/R-etrier">Stapes (anc. étrier) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OTPLfaaCWbCu8veO5bHbe4vW" alt="img. stapes droit"/></a></li>
+							<li><a href="/desc/http://anat.org/R-marteau">Malleus (anc. marteau) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=D0DG1nSHnm0DbWXbOHbiWLHf" alt="img. malleus droit"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-enclume">Incus (anc. enclume) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ySzuW58n8jeuze0TDW155Lzm" alt="img. incus droit"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-etrier">Stapes (anc. étrier) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OTPLfaaCWbCu8veO5bHbe4vW" alt="img. stapes droit"/></span></a></li>
 							</ul>
 </div>
 						<li><a href="/desc/http://anat.org/L-osselets-oreille">Osselets de l'oreille gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CWT9z0WjCimS5H1LDy0DiiOj" alt="img. osselets oreille G"/></span></a></li>
@@ -174,9 +174,9 @@ max-width:inherit;
 <div class="content">
 
 							<ul style="list-style-type:circle">
-							<li><a href="/desc/http://anat.org/L-marteau">Malleus (anc. marteau) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=SzOn01Hnm4DWaWniCibCmKvi" alt="img. malleus gauche"/></a></li>
-							<li><a href="/desc/http://anat.org/L-enclume">Incus (anc. enclume) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OLHv45DSv0v8CCGTb0j45fi0" alt="img. incus gauche"/></a></li>
-							<li><a href="/desc/http://anat.org/L-etrier">Stapes (anc. étrier) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=r0zmGDHzGPn8LfKf4jDOTT9v" alt="img. stapes gauche"/></a></li>
+							<li><a href="/desc/http://anat.org/L-marteau">Malleus (anc. marteau) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=SzOn01Hnm4DWaWniCibCmKvi" alt="img. malleus gauche"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-enclume">Incus (anc. enclume) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OLHv45DSv0v8CCGTb0j45fi0" alt="img. incus gauche"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-etrier">Stapes (anc. étrier) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=r0zmGDHzGPn8LfKf4jDOTT9v" alt="img. stapes gauche"/></span></a></li>
 							</ul>
 
 </div>
@@ -192,8 +192,8 @@ max-width:inherit;
 <div class="content">
 
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-menisque-temporo-mandi">Ménisque temporo-mandibulaire droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jSTHvevuiamaOvaG15mC811n" alt="img. menisque temporo-mandibulaire droit"/></a></li>
-					<li><a href="/desc/http://anat.org/L-menisque-temporo-mandi">Ménisque temporo-mandibulaire gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OTbe8v59jW5beiy4XHrKXnWH" alt="img. menisque temporo-mandibulaire gauche"/></a></li>
+					<li><a href="/desc/http://anat.org/R-menisque-temporo-mandi">Ménisque temporo-mandibulaire droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jSTHvevuiamaOvaG15mC811n" alt="img. menisque temporo-mandibulaire droit"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-menisque-temporo-mandi">Ménisque temporo-mandibulaire gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OTbe8v59jW5beiy4XHrKXnWH" alt="img. menisque temporo-mandibulaire gauche"/></span></a></li>
 					</ul>
 
 </div>
@@ -216,20 +216,20 @@ max-width:inherit;
 					</li>
 					<li><a href="/desc/http://anat.org/massif-facial-ant">Os du massif facial antérieur<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LHnKjiGvyS1jiyyie8jey4fW" alt="img. massif facial ant"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/ethmoide">Os ethmoïde<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nCuu8zTnuC4XWHPnuWCSbKze" alt="img. ethmoide"/></a></li>
-						<li><a href="/desc/http://anat.org/vomer">Os vomer<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=45XTvq4Lbuqa8LH5ryDSramy" alt="img. vomer"/></a></li>
-						<li><a href="/desc/http://anat.org/R-maxilaire">Os maxilaire droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=maG95n1HD8ryOrOfmWfimiS1" alt="img. maxilaire droit"/></a></li>
-						<li><a href="/desc/http://anat.org/L-maxilaire">Os maxilaire gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=G95TjuTn0fG5D8DSTDuC81Hr" alt="img. maxilaire gauche"/></a></li>
-						<li><a href="/desc/http://anat.org/R-palatin">Os palatin droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LfCOraSrWDqmqq4DGbOT1jGP" alt="img. palatin droit"/></a></li>
-						<li><a href="/desc/http://anat.org/L-palatin">Os palatin gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LbOnCKLv0f8nf0nGPPaWfKza" alt="img. palatin gauche"/></a></li>
-						<li><a href="/desc/http://anat.org/R-os-lacrimal">Os lacrimal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Ci8f0zOL9vmeSjauuuvqOr8z" alt="img. lacrimal droit"/></a></li>
-						<li><a href="/desc/http://anat.org/L-os-lacrimal">Os lacrimal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bSzuGb8L5TXviu8Tvybi8P5r" alt="img. lacrimal gauche"/></a></li>
-						<li><a href="/desc/http://anat.org/R-cornet-nasal-inf">Os cornet nasal inférieur droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jaCKDW8vGzuSXTjCSD91Pjua" alt="img. CNI droit"/></a></li>
-						<li><a href="/desc/http://anat.org/L-cornet-nasal-inf">Os cornet nasal inférieur gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=HPj0nyeOD0L1Lna4f8GTvO11" alt="img. CNI gauche"/></a></li>
-						<li><a href="/desc/http://anat.org/R-os-nasal">Os nasal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Kn4D85GX5nSvqyGjWbu8b4vi" alt="img. nasal droit"/></a></li>
-						<li><a href="/desc/http://anat.org/L-os-nasal">Os nasal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Sr0vGPLD45rqj85vSHHH9j45" alt="img. nasal gauche"/></a></li>
-						<li><a href="/desc/http://anat.org/R-malaire">Os malaire (anc. zygomatique) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rGbSTnLP5nCmauWT1PSj41n4" alt="img. malaire droit"/></a></li>
-						<li><a href="/desc/http://anat.org/L-malaire">Os malaire (anc. zygomatique) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=419L91SzGTnOSLTzai9fCq8D" alt="img. malaire gauche"/></a></li>
+						<li><a href="/desc/http://anat.org/ethmoide">Os ethmoïde<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nCuu8zTnuC4XWHPnuWCSbKze" alt="img. ethmoide"/></span></a></li>
+						<li><a href="/desc/http://anat.org/vomer">Os vomer<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=45XTvq4Lbuqa8LH5ryDSramy" alt="img. vomer"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-maxilaire">Os maxilaire droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=maG95n1HD8ryOrOfmWfimiS1" alt="img. maxilaire droit"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-maxilaire">Os maxilaire gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=G95TjuTn0fG5D8DSTDuC81Hr" alt="img. maxilaire gauche"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-palatin">Os palatin droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LfCOraSrWDqmqq4DGbOT1jGP" alt="img. palatin droit"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-palatin">Os palatin gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LbOnCKLv0f8nf0nGPPaWfKza" alt="img. palatin gauche"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-os-lacrimal">Os lacrimal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Ci8f0zOL9vmeSjauuuvqOr8z" alt="img. lacrimal droit"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-os-lacrimal">Os lacrimal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bSzuGb8L5TXviu8Tvybi8P5r" alt="img. lacrimal gauche"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-cornet-nasal-inf">Os cornet nasal inférieur droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jaCKDW8vGzuSXTjCSD91Pjua" alt="img. CNI droit"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-cornet-nasal-inf">Os cornet nasal inférieur gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=HPj0nyeOD0L1Lna4f8GTvO11" alt="img. CNI gauche"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-os-nasal">Os nasal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Kn4D85GX5nSvqyGjWbu8b4vi" alt="img. nasal droit"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-os-nasal">Os nasal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Sr0vGPLD45rqj85vSHHH9j45" alt="img. nasal gauche"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-malaire">Os malaire (anc. zygomatique) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rGbSTnLP5nCmauWT1PSj41n4" alt="img. malaire droit"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-malaire">Os malaire (anc. zygomatique) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=419L91SzGTnOSLTzai9fCq8D" alt="img. malaire gauche"/></span></a></li>
 						</ul>
 					</li>
 					<li><a href="/desc/http://anat.org/dents-sup">Dents supérieures<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=PDCy4f95vW5PLTnyKfLXDuGf" alt="img. dents sup"/></span></a></li>
@@ -270,21 +270,21 @@ max-width:inherit;
 					<ul style="list-style-type:disc">
 					<li><a href="/desc/http://anat.org/crane-vertebral-moy">Vertèbre crânienne moyenne<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=euW9XvT1rWv81DWD4D0Tr8Du" alt="img. vertèbre crâne moy"/></span></a>						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/sphenoide">Os sphénoïde<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uemeW1e4b0DaXreWPr9zC4bi" alt="img. sphenoide"/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-parietal">Os pariétal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yamyeSCi8P9L1nCqCSC81n0r" alt="img. parietal droit"/></a></li>
-						<li><a href="/desc/http://anat.org/L-parietal">Os pariétal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=f0PDy8TTb8rOya8jWr9Tzui0" alt="img. parietal gauche"/></a></li>
-						<li><a href="/desc/http://anat.org/R-temporal">Os temporal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5nGP9PTPnq0LzC4nGj85zC8b" alt="img. temporal droit"/></a></li>
-						<li><a href="/desc/http://anat.org/L-temporal">Os temporal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jmy0X9jaGDCSW9vymezKzqmO" alt="img. temporal gauche"/></a></li>
+						<li><a href="/desc/http://anat.org/R-parietal">Os pariétal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yamyeSCi8P9L1nCqCSC81n0r" alt="img. parietal droit"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-parietal">Os pariétal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=f0PDy8TTb8rOya8jWr9Tzui0" alt="img. parietal gauche"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-temporal">Os temporal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5nGP9PTPnq0LzC4nGj85zC8b" alt="img. temporal droit"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-temporal">Os temporal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jmy0X9jaGDCSW9vymezKzqmO" alt="img. temporal gauche"/></span></a></li>
 						</ul>
 					</li>
 					<li><a href="/desc/http://anat.org/massif-facial-moy">Os du massif facial moyen<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=iqiSTH5rSP1jv8nSTXi8191b" alt="img. massif facial moy"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/mandibule">Mandibule<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eG5DOXf0bmaarq09ryTT9TnC" alt="img. mandibule"/></a></li>
+						<li><a href="/desc/http://anat.org/mandibule">Mandibule<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eG5DOXf0bmaarq09ryTT9TnC" alt="img. mandibule"/></span></a></li>
 						</ul>
 					</li>
 					<li><a href="/desc/http://anat.org/menisques-temporo-mandibulaires">Ménisques temporo-mandibulaires<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OPHD495DeKbKiC0fWTHb8TPL" alt="img. Ménisq temporo-mandi"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-menisque-temporo-mandi">Ménisque temporo-mandibulaire droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jSTHvevuiamaOvaG15mC811n" alt="img. menisque temporo-mandibulaire droit"/></a></li>
-						<li><a href="/desc/http://anat.org/L-menisque-temporo-mandi">Ménisque temporo-mandibulaire gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OTbe8v59jW5beiy4XHrKXnWH" alt="img. menisque temporo-mandibulaire gauche"/></a></li>
+						<li><a href="/desc/http://anat.org/R-menisque-temporo-mandi">Ménisque temporo-mandibulaire droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jSTHvevuiamaOvaG15mC811n" alt="img. menisque temporo-mandibulaire droit"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-menisque-temporo-mandi">Ménisque temporo-mandibulaire gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OTbe8v59jW5beiy4XHrKXnWH" alt="img. menisque temporo-mandibulaire gauche"/></span></a></li>
 						</ul>
 					</li>
 					<li><a href="/desc/http://anat.org/dents-inf">Dents inférieures<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=GLL9LDaCOPP5599juuviGzuS" alt="img. dents inf"/></span></a></li>
@@ -325,25 +325,25 @@ max-width:inherit;
 					<ul style="list-style-type:disc">
 					<li><a href="/desc/http://anat.org/crane-vertebral-post">Vertèbre crânienne postérieure<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LzOz4T1vWjmSCuS1T5qSjSHH" alt="img. vertèbre crâne post"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/occiput">Os occiput<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TX59PrKDiCiSSDeaKXOHneeG" alt="img. occiput"/></a></li>
-						<li><a href="/desc/http://anat.org/R-temporal">Os temporal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5nGP9PTPnq0LzC4nGj85zC8b" alt="img. temporal droit"/></a></li>
-						<li><a href="/desc/http://anat.org/L-temporal">Os temporal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jmy0X9jaGDCSW9vymezKzqmO" alt="img. temporal gauche"/></a></li>
+						<li><a href="/desc/http://anat.org/occiput">Os occiput<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TX59PrKDiCiSSDeaKXOHneeG" alt="img. occiput"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-temporal">Os temporal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5nGP9PTPnq0LzC4nGj85zC8b" alt="img. temporal droit"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-temporal">Os temporal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jmy0X9jaGDCSW9vymezKzqmO" alt="img. temporal gauche"/></span></a></li>
 						</ul>
 					</li>
 					<li><a href="/desc/http://anat.org/massif-facial-post">Os du massif facial postérieur<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=D0zWTriiiObyOHv4fWyGrqOf" alt="img. massif facial post"/></span></a>
 						<ul style="list-style-type:disc">
 						<li><a href="/desc/http://anat.org/R-osselets-oreille">Osselets de l'oreille droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LbOXneTvuCSfOLz411D4faCa" alt="img. osselets oreille D"/></span></a>
 							<ul style="list-style-type:circle">
-							<li><a href="/desc/http://anat.org/R-marteau">Malleus (anc. marteau) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=D0DG1nSHnm0DbWXbOHbiWLHf" alt="img. malleus droit"/></a></li>
-							<li><a href="/desc/http://anat.org/R-enclume">Incus (anc. enclume) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ySzuW58n8jeuze0TDW155Lzm" alt="img. incus droit"/></a></li>
-							<li><a href="/desc/http://anat.org/R-etrier">Stapes (anc. étrier) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OTPLfaaCWbCu8veO5bHbe4vW" alt="img. stapes droit"/></a></li>
+							<li><a href="/desc/http://anat.org/R-marteau">Malleus (anc. marteau) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=D0DG1nSHnm0DbWXbOHbiWLHf" alt="img. malleus droit"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-enclume">Incus (anc. enclume) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ySzuW58n8jeuze0TDW155Lzm" alt="img. incus droit"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-etrier">Stapes (anc. étrier) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OTPLfaaCWbCu8veO5bHbe4vW" alt="img. stapes droit"/></span></a></li>
 							</ul>
 						</li>
 						<li><a href="/desc/http://anat.org/L-osselets-oreille">Osselets de l'oreille gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CWT9z0WjCimS5H1LDy0DiiOj" alt="img. osselets oreille G"/></span></a>
 							<ul style="list-style-type:circle">
-							<li><a href="/desc/http://anat.org/L-marteau">Malleus (anc. marteau) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=SzOn01Hnm4DWaWniCibCmKvi" alt="img. malleus gauche"/></a></li>
-							<li><a href="/desc/http://anat.org/L-enclume">Incus (anc. enclume) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OLHv45DSv0v8CCGTb0j45fi0" alt="img. incus gauche"/></a></li>
-							<li><a href="/desc/http://anat.org/L-etrier">Stapes (anc. étrier) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=r0zmGDHzGPn8LfKf4jDOTT9v" alt="img. stapes gauche"/></a></li>
+							<li><a href="/desc/http://anat.org/L-marteau">Malleus (anc. marteau) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=SzOn01Hnm4DWaWniCibCmKvi" alt="img. malleus gauche"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-enclume">Incus (anc. enclume) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OLHv45DSv0v8CCGTb0j45fi0" alt="img. incus gauche"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-etrier">Stapes (anc. étrier) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=r0zmGDHzGPn8LfKf4jDOTT9v" alt="img. stapes gauche"/></span></a></li>
 							</ul>
 						</li>
 						</ul>
@@ -534,17 +534,17 @@ max-width:inherit;
 		<li><a href="/desc/http://anat.org/crane-vertebral-moy">Vertèbre crânienne moyenne<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=euW9XvT1rWv81DWD4D0Tr8Du" alt="img. vertèbre crâne moy"/></span></a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/sphenoide">Os sphénoïde<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uemeW1e4b0DaXreWPr9zC4bi" alt="img. sphenoide"/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-parietal">Os pariétal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yamyeSCi8P9L1nCqCSC81n0r" alt="img. parietal droit"/></a></li>
-			<li><a href="/desc/http://anat.org/L-parietal">Os pariétal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=f0PDy8TTb8rOya8jWr9Tzui0" alt="img. parietal gauche"/></a></li>
-			<li><a href="/desc/http://anat.org/R-temporal">Os temporal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5nGP9PTPnq0LzC4nGj85zC8b" alt="img. temporal droit"/></a></li>
-			<li><a href="/desc/http://anat.org/L-temporal">Os temporal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jmy0X9jaGDCSW9vymezKzqmO" alt="img. temporal gauche"/></a></li>
+			<li><a href="/desc/http://anat.org/R-parietal">Os pariétal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yamyeSCi8P9L1nCqCSC81n0r" alt="img. parietal droit"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-parietal">Os pariétal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=f0PDy8TTb8rOya8jWr9Tzui0" alt="img. parietal gauche"/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-temporal">Os temporal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5nGP9PTPnq0LzC4nGj85zC8b" alt="img. temporal droit"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-temporal">Os temporal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jmy0X9jaGDCSW9vymezKzqmO" alt="img. temporal gauche"/></span></a></li>
 			</ul>
 		</li>
 		<li><a href="/desc/http://anat.org/crane-vertebral-post">Vertèbre crânienne postérieure<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LzOz4T1vWjmSCuS1T5qSjSHH" alt="img. vertèbre crâne post"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/occiput">Os occiput<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TX59PrKDiCiSSDeaKXOHneeG" alt="img. occiput"/></a></li>
-			<li><a href="/desc/http://anat.org/R-temporal">Os temporal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5nGP9PTPnq0LzC4nGj85zC8b" alt="img. temporal droit"/></a></li>
-			<li><a href="/desc/http://anat.org/L-temporal">Os temporal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jmy0X9jaGDCSW9vymezKzqmO" alt="img. temporal gauche"/></a></li>
+			<li><a href="/desc/http://anat.org/occiput">Os occiput<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TX59PrKDiCiSSDeaKXOHneeG" alt="img. occiput"/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-temporal">Os temporal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5nGP9PTPnq0LzC4nGj85zC8b" alt="img. temporal droit"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-temporal">Os temporal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jmy0X9jaGDCSW9vymezKzqmO" alt="img. temporal gauche"/></span></a></li>
 			</ul>
 		</li>
 		</ul>
@@ -789,7 +789,7 @@ max-width:inherit;
 
 		<ul style="list-style-type:disc">
 		<li><a href="/desc/http://anat.org/charniere-C0-C1-C2">Charnière C0-C1-C2</a>			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/occiput">Os occiput<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TX59PrKDiCiSSDeaKXOHneeG" alt="img. occiput"/></a></li>
+			<li><a href="/desc/http://anat.org/occiput">Os occiput<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TX59PrKDiCiSSDeaKXOHneeG" alt="img. occiput"/></span></a></li>
 			<li><a href="/desc/http://anat.org/v-C1">Vertèbre C1</a></li>
 			<li><a href="/desc/http://anat.org/v-C2">Vertèbre C2</a></li>
 			</ul>

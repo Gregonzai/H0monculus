@@ -48,19 +48,38 @@ max-width:inherit;
 </style>
 </head>
 
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.collapsible {
+  color: white;
+  cursor: pointer;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: grey;
+}
+
+.content {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: none;
+}
+</style>
+</head>
+
 <body>
 
-<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="false">
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1">
-      <h4 class="panel-title">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="false" aria-controls="collapse1">
-<h4 class="area">RÉGION DE LA TÊTE</h4>
-        </a>
-      </h4>
-    </div>
-    <div id="collapse1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1">
-      <div class="panel-body">
+<button class="collapsible"><h4 class="area">RÉGION DE LA TÊTE</h4></button>
+<div class="content">
+
 	<ul style="list-style-type:square">
 	<li><a href="/desc/http://anat.org/os-crane">CRÂNE OSSEUX<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1nKD8DG1L9rqDGrO9f9fuq0X" alt="img. crâne"/></span></a>
 
@@ -73,14 +92,8 @@ max-width:inherit;
 					<ul style="list-style-type:disc">
 					<li><a href="/desc/http://anat.org/os-base-crane">Os de la base du crâne<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=89PDSvaiuWn4i0vWLvvaSfiO" alt="img. base crâne"/></span></a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-1-1-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1-1-1" aria-expanded="false" aria-controls="collapse1-1-1-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-1-1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1-1-1">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/frontal">Os frontal<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5D411TemmCyWvuKLXXDSrSTP" alt="img. frontal"/></span></a></li>
@@ -91,20 +104,12 @@ max-width:inherit;
 						<li><a href="/desc/http://anat.org/ethmoide">Os ethmoïde<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nCuu8zTnuC4XWHPnuWCSbKze" alt="img. ethmoide"/></a></li>
 						</ul>
 
-      </div>
-    </div>
-  </div>
+</div>
 
 					<li><a href="/desc/http://anat.org/os-voute-crane">Os de la voûte crânienne<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XzOHjWjaqaaWj0L5DqSnO5fW" alt="img. voûte crâne"/></span></a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-1-1-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1-1-2" aria-expanded="false" aria-controls="collapse1-1-1-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-1-1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1-1-2">
-      <div class="panel-body">
+<button class="collapsible">▼ </button>
+<div class="content">
 
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/frontal">Os frontal<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5D411TemmCyWvuKLXXDSrSTP" alt="img. frontal"/></span></a></li>
@@ -116,22 +121,15 @@ max-width:inherit;
 						<li><a href="/desc/http://anat.org/L-temporal">Os temporal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jmy0X9jaGDCSW9vymezKzqmO" alt="img. temporal gauche"/></a></li>
 						</ul>
 
-      </div>
-    </div>
-  </div>
+
+</div>
 
 					</ul>
 				</li>
 				<li><a href="/desc/http://anat.org/massif-facial">Os du massif facial<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=0zC4LTbimW1rOnuO918XXDmS" alt="img. massif facial"/></span></a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-1-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1-2" aria-expanded="false" aria-controls="collapse1-1-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1-2">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 					<ul style="list-style-type:disc">
 					<li><a href="/desc/http://anat.org/massif-facial-ant">Os du massif facial antérieur<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LHnKjiGvyS1jiyyie8jey4fW" alt="img. massif facial ant"/></span></a>
@@ -161,67 +159,44 @@ max-width:inherit;
 						<ul style="list-style-type:disc">
 						<li><a href="/desc/http://anat.org/R-osselets-oreille">Osselets de l'oreille droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LbOXneTvuCSfOLz411D4faCa" alt="img. osselets oreille D"/></span></a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-1-2-3-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1-2-3-1" aria-expanded="false" aria-controls="collapse1-1-2-3-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-1-2-3-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1-2-3-1">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-marteau">Malleus (anc. marteau) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=D0DG1nSHnm0DbWXbOHbiWLHf" alt="img. malleus droit"/></a></li>
 							<li><a href="/desc/http://anat.org/R-enclume">Incus (anc. enclume) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ySzuW58n8jeuze0TDW155Lzm" alt="img. incus droit"/></a></li>
 							<li><a href="/desc/http://anat.org/R-etrier">Stapes (anc. étrier) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OTPLfaaCWbCu8veO5bHbe4vW" alt="img. stapes droit"/></a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
+</div>
 						<li><a href="/desc/http://anat.org/L-osselets-oreille">Osselets de l'oreille gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CWT9z0WjCimS5H1LDy0DiiOj" alt="img. osselets oreille G"/></span></a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-1-2-3-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1-2-3-2" aria-expanded="false" aria-controls="collapse1-1-2-3-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-1-2-3-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1-2-3-2">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/L-marteau">Malleus (anc. marteau) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=SzOn01Hnm4DWaWniCibCmKvi" alt="img. malleus gauche"/></a></li>
 							<li><a href="/desc/http://anat.org/L-enclume">Incus (anc. enclume) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OLHv45DSv0v8CCGTb0j45fi0" alt="img. incus gauche"/></a></li>
 							<li><a href="/desc/http://anat.org/L-etrier">Stapes (anc. étrier) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=r0zmGDHzGPn8LfKf4jDOTT9v" alt="img. stapes gauche"/></a></li>
 							</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 						</ul>
 					</li>
 					</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 				<li><a href="/desc/http://anat.org/menisques-temporo-mandibulaires">Ménisques temporo-mandibulaires<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OPHD495DeKbKiC0fWTHb8TPL" alt="img. Ménisq temporo-mandi"/></span></a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-1-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1-3" aria-expanded="false" aria-controls="collapse1-1-3">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-1-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1-3">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 					<ul style="list-style-type:circle">
 					<li><a href="/desc/http://anat.org/R-menisque-temporo-mandi">Ménisque temporo-mandibulaire droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jSTHvevuiamaOvaG15mC811n" alt="img. menisque temporo-mandibulaire droit"/></a></li>
 					<li><a href="/desc/http://anat.org/L-menisque-temporo-mandi">Ménisque temporo-mandibulaire gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OTbe8v59jW5beiy4XHrKXnWH" alt="img. menisque temporo-mandibulaire gauche"/></a></li>
 					</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 				</ul>
 			</td>
@@ -229,14 +204,8 @@ max-width:inherit;
 				<ul style="list-style-type:disc">
 				<li><a href="/desc/http://anat.org/os-crane-ant">Crâne antérieur<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OvSbeKmWXTzKaiiaCO4T1byO" alt="img. crâne ant"/></span></a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-1-4">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1-4" aria-expanded="false" aria-controls="collapse1-1-4">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-1-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1-4">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 					<ul style="list-style-type:disc">
 					<li><a href="/desc/http://anat.org/crane-vertebral-ant">Vertèbre crânienne antérieure<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9PvaiO9Xjqeubu0HvOm4buua" alt="img. vertèbre crâne ant"/></span></a>
@@ -265,14 +234,8 @@ max-width:inherit;
 					</li>
 					<li><a href="/desc/http://anat.org/dents-sup">Dents supérieures<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=PDCy4f95vW5PLTnyKfLXDuGf" alt="img. dents sup"/></span></a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-1-4-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1-4-3" aria-expanded="false" aria-controls="collapse1-1-4-3">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-1-4-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1-4-3">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/R-incisive-sup-1">Incisive centrale supérieure droite</a></li>
@@ -292,25 +255,17 @@ max-width:inherit;
 						<li><a href="/desc/http://anat.org/R-dent-sagesse-sup">Dent de sagesse supérieure droite</a></li>
 						<li><a href="/desc/http://anat.org/L-dent-sagesse-sup">Dent de sagesse supérieure gauche</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 					</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 				<li><a href="/desc/http://anat.org/os-crane-moy">Crâne moyen<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KHfWruLD8DiSjyqm89SrK9ju" alt="img. crâne moy"/></span></a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-1-5">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1-5" aria-expanded="false" aria-controls="collapse1-1-5">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-1-5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1-5">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 					<ul style="list-style-type:disc">
 					<li><a href="/desc/http://anat.org/crane-vertebral-moy">Vertèbre crânienne moyenne<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=euW9XvT1rWv81DWD4D0Tr8Du" alt="img. vertèbre crâne moy"/></span></a>						<ul style="list-style-type:circle">
@@ -334,14 +289,8 @@ max-width:inherit;
 					</li>
 					<li><a href="/desc/http://anat.org/dents-inf">Dents inférieures<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=GLL9LDaCOPP5599juuviGzuS" alt="img. dents inf"/></span></a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-1-5-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1-5-3" aria-expanded="false" aria-controls="collapse1-1-5-3">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-1-5-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1-5-3">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/R-incisive-inf-1">Incisive centrale inférieure droite</a></li>
@@ -361,25 +310,17 @@ max-width:inherit;
 						<li><a href="/desc/http://anat.org/R-dent-sagesse-inf">Dent de sagesse inférieure droite</a></li>
 						<li><a href="/desc/http://anat.org/L-dent-sagesse-inf">Dent de sagesse inférieure gauche</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 					</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 				<li><a href="/desc/http://anat.org/os-crane-post">Crâne postérieur<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=q8rOv4i4na0LqSnW9LqSv8D0" alt="img. crâne post"/></span></a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-1-6">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-1-6" aria-expanded="false" aria-controls="collapse1-1-6">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-1-6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-1-6">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 					<ul style="list-style-type:disc">
 					<li><a href="/desc/http://anat.org/crane-vertebral-post">Vertèbre crânienne postérieure<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LzOz4T1vWjmSCuS1T5qSjSHH" alt="img. vertèbre crâne post"/></span></a>
@@ -408,9 +349,8 @@ max-width:inherit;
 						</ul>
 					</li>
 					</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 				</ul>
 			</td>
@@ -428,14 +368,8 @@ max-width:inherit;
 				<ul style="list-style-type:disc">
 				<li><a href="/desc/http://anat.org/incisives">Incisives<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=vmq4ryCWDe8vST1b49r0zWfW" alt="img. incisives"/></span></a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-2-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-2-1" aria-expanded="false" aria-controls="collapse1-2-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-2-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-2-1">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 					<ul style="list-style-type:circle">
 					<li><a href="/desc/http://anat.org/R-incisive-sup-1">Incisive centrale supérieure droite</a></li>
@@ -447,20 +381,13 @@ max-width:inherit;
 					<li><a href="/desc/http://anat.org/L-incisive-inf-1">Incisive centrale inférieure gauche</a></li>
 					<li><a href="/desc/http://anat.org/L-incisive-inf-2">Incisive latérale inférieure gauche</a></li>
 					</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 				<li><a href="/desc/http://anat.org/canines">Canines<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=11jqOTD0zyGT8XvuaOnye89L" alt="img. canines"/></span></a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-2-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-2-2" aria-expanded="false" aria-controls="collapse1-2-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-2-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-2-2">
-      <div class="panel-body">
+<button class="collapsible">▼ </button>
+<div class="content">
 
 					<ul style="list-style-type:circle">
 					<li><a href="/desc/http://anat.org/R-canine-sup">Canine supérieure droite</a></li>
@@ -468,20 +395,13 @@ max-width:inherit;
 					<li><a href="/desc/http://anat.org/R-canine-inf">Canine inférieure droite</a></li>
 					<li><a href="/desc/http://anat.org/L-canine-inf">Canine inférieure gauche</a></li>
 					</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 				<li><a href="/desc/http://anat.org/pre-molaires">Prémolaires<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=S5LPHr8raSP9aKX1XrW1ny81" alt="img. prémolaires"/></span></a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-2-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-2-3" aria-expanded="false" aria-controls="collapse1-2-3">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-2-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-2-3">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 					<ul style="list-style-type:circle">
 					<li><a href="/desc/http://anat.org/R-pre-molaire-sup-1">1ere prémolaire supérieure droite</a></li>
@@ -493,20 +413,13 @@ max-width:inherit;
 					<li><a href="/desc/http://anat.org/L-pre-molaire-inf-1">1ere prémolaire inférieure gauche</a></li>
 					<li><a href="/desc/http://anat.org/L-pre-molaire-inf-2">2e prémolaire inférieure gauche</a></li>
 					</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 				<li><a href="/desc/http://anat.org/molaires">Molaires<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nmuGHzWfeuumSPHPPvayeaWT" alt="img. molaires"/></span></a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-2-4">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-2-4" aria-expanded="false" aria-controls="collapse1-2-4">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-2-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-2-4">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 					<ul style="list-style-type:circle">
 					<li><a href="/desc/http://anat.org/R-molaire-sup-1">1ere molaire supérieure droite</a></li>
@@ -518,20 +431,13 @@ max-width:inherit;
 					<li><a href="/desc/http://anat.org/L-molaire-inf-1">1ere molaire inférieure gauche</a></li>
 					<li><a href="/desc/http://anat.org/L-molaire-inf-2">2e molaire inférieure gauche</a></li>
 					</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 				<li><a href="/desc/http://anat.org/dents-sagesse">Dents de sagesse</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-2-5">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-2-5" aria-expanded="false" aria-controls="collapse1-2-5">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-2-5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-2-5">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 					<ul style="list-style-type:circle">
 					<li><a href="/desc/http://anat.org/R-dent-sagesse-sup">Dent de sagesse supérieure droite</a></li>
@@ -539,9 +445,8 @@ max-width:inherit;
 					<li><a href="/desc/http://anat.org/R-dent-sagesse-inf">Dent de sagesse inférieure droite</a></li>
 					<li><a href="/desc/http://anat.org/L-dent-sagesse-inf">Dent de sagesse inférieure gauche</a></li>
 					</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 				</ul>
 			</td>
@@ -549,14 +454,8 @@ max-width:inherit;
 				<ul style="list-style-type:disc">
 				<li><a href="/desc/http://anat.org/dents-sup">Dents supérieures<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=PDCy4f95vW5PLTnyKfLXDuGf" alt="img. dents sup"/></span></a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-2-6">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-2-6" aria-expanded="false" aria-controls="collapse1-2-6">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-2-6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-2-6">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 					<ul style="list-style-type:circle">
 					<li><a href="/desc/http://anat.org/R-incisive-sup-1">Incisive centrale supérieure droite</a></li>
@@ -576,20 +475,13 @@ max-width:inherit;
 					<li><a href="/desc/http://anat.org/R-dent-sagesse-sup">Dent de sagesse supérieure droite</a></li>
 					<li><a href="/desc/http://anat.org/L-dent-sagesse-sup">Dent de sagesse supérieure gauche</a></li>
 					</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 				<li><a href="/desc/http://anat.org/dents-inf">Dents inférieures<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=GLL9LDaCOPP5599juuviGzuS" alt="img. dents inf"/></span></a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="1-2-7">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1-2-7" aria-expanded="false" aria-controls="collapse1-2-7">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse1-2-7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1-2-7">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 					<ul style="list-style-type:circle">
 					<li><a href="/desc/http://anat.org/R-incisive-inf-1">Incisive centrale inférieure droite</a></li>
@@ -609,9 +501,8 @@ max-width:inherit;
 					<li><a href="/desc/http://anat.org/R-dent-sagesse-inf">Dent de sagesse inférieure droite</a></li>
 					<li><a href="/desc/http://anat.org/L-dent-sagesse-inf">Dent de sagesse inférieure gauche</a></li>
 					</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 				</ul>
 			</td>
@@ -622,30 +513,16 @@ max-width:inherit;
 	</li>
 	</ul>
 
-      </div>
-    </div>
-  </div>
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="2">
-      <h4 class="panel-title">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="false" aria-controls="collapse2">
-<h4 class="area">AXE VERTÉBRAL : crâne, colonne et charnières vertébrales</h4>
-        </a>
-      </h4>
-    </div>
-    <div id="collapse2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2">
-      <div class="panel-body">
+</div>
+
+<button class="collapsible"><h4 class="area">AXE VERTÉBRAL : crâne, colonne et charnières vertébrales</h4></button>
+<div class="content">
+
 	<ul style="list-style-type:square">
 	<li><a href="/desc/http://anat.org/crane-v">CRÂNE VERTÉBRAL</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="2-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2-1" aria-expanded="false" aria-controls="collapse2-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse2-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2-1">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 		<ul style="list-style-type:disc">
 		<li><a href="/desc/http://anat.org/crane-vertebral-ant">Vertèbre crânienne antérieure<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9PvaiO9Xjqeubu0HvOm4buua" alt="img. vertèbre crâne ant"/></span></a>
@@ -671,9 +548,8 @@ max-width:inherit;
 			</ul>
 		</li>
 		</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 	<li><a href="/desc/http://anat.org/colonne-v">COLONNE VERTÉBRALE</a>
 
@@ -684,14 +560,8 @@ max-width:inherit;
 				<ul style="list-style-type:disc">
 				<li><a href="/desc/http://anat.org/cv-cervicale">Colonne vertébrale cervicale</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="2-2-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2-2-1" aria-expanded="false" aria-controls="collapse2-2-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse2-2-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2-2-1">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 					<ul style="list-style-type:disc">
 					<li><a href="/desc/http://anat.org/cv-cervicale-sup">Colonne vertébrale cervicale supérieure</a>
@@ -721,20 +591,13 @@ max-width:inherit;
 						</ul>
 					</li>
 					</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 				<li><a href="/desc/http://anat.org/cv-thoraciq">Colonne vertébrale thoracique</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="2-2-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2-2-2" aria-expanded="false" aria-controls="collapse2-2-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse2-2-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2-2-2">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 					<ul style="list-style-type:disc">
 					<li><a href="/desc/http://anat.org/cv-thoraciq-sup">Colonne vertébrale thoracique supérieure</a>
@@ -775,20 +638,13 @@ max-width:inherit;
 						</ul>
 					</li>
 					</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 				<li><a href="/desc/http://anat.org/cv-lombaire">Colonne vertébrale lombaire</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="2-2-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2-2-3" aria-expanded="false" aria-controls="collapse2-2-3">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse2-2-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2-2-3">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 					<ul style="list-style-type:disc">
 					<li><a href="/desc/http://anat.org/cv-lombaire-sup">Colonne vertébrale lombaire supérieure</a>
@@ -810,20 +666,13 @@ max-width:inherit;
 						</ul>
 					</li>
 					</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 				<li><a href="/desc/http://anat.org/cv-pelvienne">Colonne vertébrale pelvienne</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="2-2-4">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2-2-4" aria-expanded="false" aria-controls="collapse2-2-4">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse2-2-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2-2-4">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 					<ul style="list-style-type:disc">
 					<li><a href="/desc/http://anat.org/cv-pelvienne-sup">Colonne vertébrale pelvienne supérieure</a>
@@ -842,9 +691,8 @@ max-width:inherit;
 						</ul>
 					</li>
 					</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 				</ul>
 			</td>
@@ -852,14 +700,8 @@ max-width:inherit;
 				<ul style="list-style-type:disc">
 				<li><a href="/desc/http://anat.org/vertebres">Vertèbres</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="2-2-5">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2-2-5" aria-expanded="false" aria-controls="collapse2-2-5">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse2-2-5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2-2-5">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 					<ul style="list-style-type:circle">
 					<li><a href="/desc/http://anat.org/v-C1">Vertèbre C1</a></li>
@@ -897,20 +739,13 @@ max-width:inherit;
 					</li>
 					<li><a href="/desc/http://anat.org/coccyx">Coccyx</a></li>
 					</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 				<li><a href="/desc/http://anat.org/disques-intervertebraux">Disques intervertébraux</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="2-2-6">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2-2-6" aria-expanded="false" aria-controls="collapse2-2-6">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse2-2-6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2-2-6">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 					<ul style="list-style-type:circle">
 					<li><a href="/desc/http://anat.org/div-C2-C3">Disque intervertébral C2-C3</a></li>
@@ -938,9 +773,8 @@ max-width:inherit;
 					<li><a href="/desc/http://anat.org/div-L5-S1">Disque intervertébral L5-S1</a></li>
 					<li><a href="/desc/http://anat.org/div-S5-Co">Disque intervertébral S5-Co</a></li>
 					</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 				</ul>
 			</td>
@@ -950,14 +784,8 @@ max-width:inherit;
 	</li>
 	<li><a href="/desc/http://anat.org/charnieres-vertebrales">CHARNIÈRES VERTÉBRALES</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="2-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2-3" aria-expanded="false" aria-controls="collapse2-3">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse2-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="2-3">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 		<ul style="list-style-type:disc">
 		<li><a href="/desc/http://anat.org/charniere-C0-C1-C2">Charnière C0-C1-C2</a>			<ul style="list-style-type:circle">
@@ -999,37 +827,23 @@ max-width:inherit;
 			</ul>
 		</li>
 		</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 	</ul>
 
-      </div>
-    </div>
-  </div>
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="3">
-      <h4 class="panel-title">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false" aria-controls="collapse3">
-<h4 class="area">RÉGION DU COU</h4>
-        </a>
-      </h4>
-    </div>
-    <div id="collapse3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="3">
-      <div class="panel-body">
+
+</div>
+
+<button class="collapsible"><h4 class="area">RÉGION DU COU</h4></button>
+<div class="content">
+
 	<ul style="list-style-type:square">
 	<li><a href="/desc/http://anat.org/os-hyoide">Os hyoïde<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bmai8PfKfWDO1r8Tn4fKbW9D" alt="img. hyoide"/></span></a></li>
 	<li><a href="/desc/http://anat.org/cv-cervicale">COLONNE VERTÉBRALE CERVICALE</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="3-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3-1" aria-expanded="false" aria-controls="collapse3-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse3-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="3-1">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 		<ul style="list-style-type:disc">
 		<li><a href="/desc/http://anat.org/cv-cervicale-sup">Colonne vertébrale cervicale supérieure</a>
@@ -1059,36 +873,22 @@ max-width:inherit;
 			</ul>
 		</li>
 		</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 	</ul>
 
-      </div>
-    </div>
-  </div>
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="4">
-      <h4 class="panel-title">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="false" aria-controls="collapse4">
-<h4 class="area">RÉGION DU THORAX</h4>
-        </a>
-      </h4>
-    </div>
-    <div id="collapse4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="4">
-      <div class="panel-body">
+
+</div>
+
+<button class="collapsible"><h4 class="area">RÉGION DU THORAX</h4></button>
+<div class="content">
+
 	<ul style="list-style-type:square">
 	<li><a href="/desc/http://anat.org/cv-thoraciq">COLONNE VERTÉBRALE THORACIQUE</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="4-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4-1" aria-expanded="false" aria-controls="collapse4-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse4-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="4-1">
-      <div class="panel-body">
+<button class="collapsible">▼ </button>
+<div class="content">
 
 		<ul style="list-style-type:disc">
 		<li><a href="/desc/http://anat.org/cv-thoraciq-sup">Colonne vertébrale thoracique supérieure</a>
@@ -1129,20 +929,13 @@ max-width:inherit;
 			</ul>
 		</li>
 		</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 	<li><a href="/desc/http://anat.org/cage-thoracique">CAGE THORACIQUE</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="4-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4-2" aria-expanded="false" aria-controls="collapse4-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse4-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="4-2">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 		<ul style="list-style-type:none">
 		<table>
@@ -1151,27 +944,15 @@ max-width:inherit;
 				<ul style="list-style-type:disc">
 				<li><a href="/desc/http://anat.org/cage-thoracique-sup">Cage thoracique supérieure</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="4-2-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4-2-1" aria-expanded="false" aria-controls="collapse4-2-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse4-2-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="4-2-1">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 					<ul style="list-style-type:disc">
 					<li><a href="/desc/http://anat.org/sternum">Sternum</a></li>
 					<li><a href="/desc/http://anat.org/arc-costal-1">1er arc costal</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="4-2-1-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4-2-1-1" aria-expanded="false" aria-controls="collapse4-2-1-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse4-2-1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="4-2-1-1">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/R-cote-1">1ere côte droite</a></li>
@@ -1179,20 +960,13 @@ max-width:inherit;
 						<li><a href="/desc/http://anat.org/R-carti-costal-1">1er cartilage costal droit</a></li>
 						<li><a href="/desc/http://anat.org/L-carti-costal-1">1er cartilage costal gauche</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 					<li><a href="/desc/http://anat.org/arc-costal-2">2e arc costal</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="4-2-1-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4-2-1-2" aria-expanded="false" aria-controls="collapse4-2-1-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse4-2-1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="4-2-1-2">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/R-cote-2">2e côte droite</a></li>
@@ -1200,20 +974,13 @@ max-width:inherit;
 						<li><a href="/desc/http://anat.org/R-carti-costal-2">2e cartilage costal droit</a></li>
 						<li><a href="/desc/http://anat.org/L-carti-costal-2">2e cartilage costal gauche</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 					<li><a href="/desc/http://anat.org/arc-costal-3">3e arc costal</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="4-2-1-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4-2-1-3" aria-expanded="false" aria-controls="collapse4-2-1-3">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse4-2-1-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="4-2-1-3">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/R-cote-3">3e côte droite</a></li>
@@ -1221,20 +988,13 @@ max-width:inherit;
 						<li><a href="/desc/http://anat.org/R-carti-costal-3">3e cartilage costal droit</a></li>
 						<li><a href="/desc/http://anat.org/L-carti-costal-3">3e cartilage costal gauche</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 					<li><a href="/desc/http://anat.org/arc-costal-4">4e arc costal</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="4-2-1-4">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4-2-1-4" aria-expanded="false" aria-controls="collapse4-2-1-4">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse4-2-1-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="4-2-1-4">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/R-cote-4">4e côte droite</a></li>
@@ -1242,20 +1002,13 @@ max-width:inherit;
 						<li><a href="/desc/http://anat.org/R-carti-costal-4">4e cartilage costal droit</a></li>
 						<li><a href="/desc/http://anat.org/L-carti-costal-4">4e cartilage costal gauche</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 					<li><a href="/desc/http://anat.org/arc-costal-5">5e arc costal</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="4-2-1-5">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4-2-1-5" aria-expanded="false" aria-controls="collapse4-2-1-5">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse4-2-1-5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="4-2-1-5">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/R-cote-5">5e côte droite</a></li>
@@ -1263,20 +1016,13 @@ max-width:inherit;
 						<li><a href="/desc/http://anat.org/R-carti-costal-5">5e cartilage costal droit</a></li>
 						<li><a href="/desc/http://anat.org/L-carti-costal-5">5e cartilage costal gauche</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 					<li><a href="/desc/http://anat.org/arc-costal-6">6e arc costal</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="4-2-1-6">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4-2-1-6" aria-expanded="false" aria-controls="collapse4-2-1-6">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse4-2-1-6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="4-2-1-6">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/R-cote-6">6e côte droite</a></li>
@@ -1284,38 +1030,24 @@ max-width:inherit;
 						<li><a href="/desc/http://anat.org/R-carti-costal-6">6e cartilage costal droit</a></li>
 						<li><a href="/desc/http://anat.org/L-carti-costal-6">6e cartilage costal gauche</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 					</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 				<li><a href="/desc/http://anat.org/cage-thoracique-moy">Cage thoracique moyenne</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="4-2-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4-2-2" aria-expanded="false" aria-controls="collapse4-2-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse4-2-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="4-2-2">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 					<ul style="list-style-type:disc">
 					<li><a href="/desc/http://anat.org/sternum">Sternum</a></li>
 					<li><a href="/desc/http://anat.org/arc-costal-7">7e arc costal</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="4-2-2-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4-2-2-1" aria-expanded="false" aria-controls="collapse4-2-2-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse4-2-2-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="4-2-2-1">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/R-cote-7">7e côte droite</a></li>
@@ -1323,20 +1055,13 @@ max-width:inherit;
 						<li><a href="/desc/http://anat.org/R-carti-costal-7">7e cartilage costal droit</a></li>
 						<li><a href="/desc/http://anat.org/L-carti-costal-7">7e cartilage costal gauche</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 					<li><a href="/desc/http://anat.org/arc-costal-8">8e arc costal</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="4-2-2-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4-2-2-2" aria-expanded="false" aria-controls="collapse4-2-2-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse4-2-2-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="4-2-2-2">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/R-cote-8">8e côte droite</a></li>
@@ -1344,20 +1069,13 @@ max-width:inherit;
 						<li><a href="/desc/http://anat.org/R-carti-costal-8">8e cartilage costal droit</a></li>
 						<li><a href="/desc/http://anat.org/L-carti-costal-8">8e cartilage costal gauche</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 					<li><a href="/desc/http://anat.org/arc-costal-9">9e arc costal</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="4-2-2-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4-2-2-3" aria-expanded="false" aria-controls="collapse4-2-2-3">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse4-2-2-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="4-2-2-3">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/R-cote-9">9e côte droite</a></li>
@@ -1365,20 +1083,13 @@ max-width:inherit;
 						<li><a href="/desc/http://anat.org/R-carti-costal-9">9e cartilage costal droit</a></li>
 						<li><a href="/desc/http://anat.org/L-carti-costal-9">9e cartilage costal gauche</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 					<li><a href="/desc/http://anat.org/arc-costal-10">10e arc costal</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="4-2-2-4">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4-2-2-4" aria-expanded="false" aria-controls="collapse4-2-2-4">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse4-2-2-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="4-2-2-4">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/R-cote-10">10e côte droite</a></li>
@@ -1386,69 +1097,46 @@ max-width:inherit;
 						<li><a href="/desc/http://anat.org/R-carti-costal-10">10e cartilage costal droit</a></li>
 						<li><a href="/desc/http://anat.org/L-carti-costal-10">10e cartilage costal gauche</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 					</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 				<li><a href="/desc/http://anat.org/cage-thoracique-inf">Cage thoracique inférieure</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="4-2-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4-2-3" aria-expanded="false" aria-controls="collapse4-2-3">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse4-2-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="4-2-3">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 					<ul style="list-style-type:disc">
 					<li><a href="/desc/http://anat.org/arc-costal-11">11e arc costal</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="4-2-3-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4-2-3-1" aria-expanded="false" aria-controls="collapse4-2-3-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse4-2-3-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="4-2-3-1">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/R-cote-11">11e côte droite</a></li>
 						<li><a href="/desc/http://anat.org/L-cote-11">11e côte gauche</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 					<li><a href="/desc/http://anat.org/arc-costal-12">12e arc costal</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="4-2-3-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4-2-3-2" aria-expanded="false" aria-controls="collapse4-2-3-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse4-2-3-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="4-2-3-2">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/R-cote-12">12e côte droite</a></li>
 						<li><a href="/desc/http://anat.org/L-cote-12">12e côte gauche</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 					</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 				</ul>
 			</td>
@@ -1457,14 +1145,8 @@ max-width:inherit;
 				<li><a href="/desc/http://anat.org/sternum">Sternum</a></li>
 				<li><a href="/desc/http://anat.org/cotes">Côtes</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="4-2-4">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4-2-4" aria-expanded="false" aria-controls="collapse4-2-4">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse4-2-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="4-2-4">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 					<ul style="list-style-type:circle">
 					<li><a href="/desc/http://anat.org/R-cote-1">1ere côte droite</a></li>
@@ -1492,20 +1174,13 @@ max-width:inherit;
 					<li><a href="/desc/http://anat.org/L-cote-11">11e côte gauche</a></li>
 					<li><a href="/desc/http://anat.org/L-cote-12">12e côte gauche</a></li>
 					</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 				<li><a href="/desc/http://anat.org/cartilages-costaux">Cartilages costaux</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="4-2-5">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4-2-5" aria-expanded="false" aria-controls="collapse4-2-5">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse4-2-5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="4-2-5">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 					<ul style="list-style-type:circle">
 					<li><a href="/desc/http://anat.org/R-carti-costal-1">1er cartilage costal droit</a></li>
@@ -1529,45 +1204,30 @@ max-width:inherit;
 					<li><a href="/desc/http://anat.org/L-carti-costal-9">9e cartilage costal gauche</a></li>
 					<li><a href="/desc/http://anat.org/L-carti-costal-10">10e cartilage costal gauche</a></li>
 					</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 				</ul>
 			</td>
 		</tr>
 		</table>
 		</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 	</ul>
 
-      </div>
-    </div>
-  </div>
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="5">
-      <h4 class="panel-title">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse5" aria-expanded="false" aria-controls="collapse5">
-<h4 class="area">RÉGION LOMBAIRE</h4>
-        </a>
-      </h4>
-    </div>
-    <div id="collapse5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="5">
-      <div class="panel-body">
+
+</div>
+
+<button class="collapsible"><h4 class="area">RÉGION LOMBAIRE</h4></button>
+<div class="content">
+
 	<ul style="list-style-type:square">
 	<li><a href="/desc/http://anat.org/cv-lombaire">COLONNE VERTÉBRALE LOMBAIRE</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="5-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse5-1" aria-expanded="false" aria-controls="collapse5-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse5-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="5-1">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 		<ul style="list-style-type:disc">
 		<li><a href="/desc/http://anat.org/cv-lombaire-sup">Colonne vertébrale lombaire supérieure</a></li>
@@ -1589,36 +1249,22 @@ max-width:inherit;
 			</ul>
 		</li>
 		</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 	</ul>
 
-      </div>
-    </div>
-  </div>
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="6">
-      <h4 class="panel-title">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse6" aria-expanded="false" aria-controls="collapse6">
-<h4 class="area">RÉGION DU PELVIS</h4>
-        </a>
-      </h4>
-    </div>
-    <div id="collapse6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="6">
-      <div class="panel-body">
+
+</div>
+
+<button class="collapsible"><h4 class="area">RÉGION DU PELVIS</h4></button>
+<div class="content">
+
 	<ul style="list-style-type:square">
 	<li><a href="/desc/http://anat.org/pelvis-osseux">PELVIS OSSEUX</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="6-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse6-1" aria-expanded="false" aria-controls="collapse6-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse6-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="6-1">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 		<ul style="list-style-type:circle">
 		<li><a href="/desc/http://anat.org/sacrum">Sacrum</a>
@@ -1634,38 +1280,24 @@ max-width:inherit;
 		<li><a href="/desc/http://anat.org/R-iliaque">Os coxal (iliaque) droit</a></li>
 		<li><a href="/desc/http://anat.org/L-iliaque">Os coxal (iliaque) gauche</a></li>
 		</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 	<li><a href="/desc/http://anat.org/div-S5-Co">Disque intervertébral S5-Co</a></li>
 	<li><a href="/desc/http://anat.org/disque-interpubien">Disque interpubien</a></li>
 	</ul>
 
-      </div>
-    </div>
-  </div>
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="7">
-      <h4 class="panel-title">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse7" aria-expanded="false" aria-controls="collapse7">
-<h4 class="area">CEINTURE PELVIENNE et CEINTURE SCAPULAIRE</h4>
-        </a>
-      </h4>
-    </div>
-    <div id="collapse7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="7">
-      <div class="panel-body">
+
+</div>
+
+<button class="collapsible"><h4 class="area">CEINTURE PELVIENNE et CEINTURE SCAPULAIRE</h4></button>
+<div class="content">
+
 	<ul style="list-style-type:square">
 	<li><a href="/desc/http://anat.org/OS-ceinture-pelv">CEINTURE PELVIENNE</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="7-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse7-1" aria-expanded="false" aria-controls="collapse7-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse7-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="7-1">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 		<ul style="list-style-type:disc">
 		<li><a href="/desc/http://anat.org/OS-R-hanche">OS DE LA HANCHE DROITE</a>
@@ -1687,20 +1319,13 @@ max-width:inherit;
 		<li><a href="/desc/http://anat.org/coccyx">Coccyx</a></li>
 		<li><a href="/desc/http://anat.org/div-S5-Co">Disque intervertébral S5-Co</a></li>
 		</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 	<li><a href="/desc/http://anat.org/OS-ceinture-scap">CEINTURE SCAPULAIRE</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="7-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse7-2" aria-expanded="false" aria-controls="collapse7-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse7-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="7-2">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 		<ul style="list-style-type:disc">
 		<li><a href="/desc/http://anat.org/OS-R-epaule">OS DE LA ÉPAULE DROITE</a>
@@ -1721,78 +1346,50 @@ max-width:inherit;
 		</li>
 		<li><a href="/desc/http://anat.org/sternum-manubrium">Manubrium sternal</a></li>
 		</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 	</ul>
 
-      </div>
-    </div>
-  </div>
+
+</div>
 
 <h4 class="area">RÉGION DES MEMBRES INFÉRIEURS</h4>
 	<ul style="list-style-type:none">
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1">
-      <h4 class="panel-title">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1" aria-expanded="false" aria-controls="collapse8-1">
-	<li><h4 class="subarea">MEMBRE INFÉRIEUR DROIT</h4>
-        </a>
-      </h4>
-    </div>
-    <div id="collapse8-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1">
-      <div class="panel-body">
+
+<button class="collapsible"><li><h4 class="subarea">MEMBRE INFÉRIEUR DROIT</h4></button>
+<div class="content">
+
 		<ul style="list-style-type:square">
 		<li><a href="/desc/http://anat.org/OS-R-hanche">OS DE LA HANCHE DROITE</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-1" aria-expanded="false" aria-controls="collapse8-1-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-1">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/R-iliaque">Os coxal (iliaque) droit</a></li>
 			<li><a href="/desc/http://anat.org/R-femur-epiP-sup">Épiphyse supérieure du fémur droit</a></li>
 			<li><a href="/desc/http://anat.org/R-labrum-acetabulaire">Labrum acétabulaire droit</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 		<li><a href="/desc/http://anat.org/OS-R-cuisse">OS DE LA CUISSE DROITE</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-2" aria-expanded="false" aria-controls="collapse8-1-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-2">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/R-femur">Fémur droit</a></li>
 			<li><a href="/desc/http://anat.org/R-patella">Patella (anc. rotule) droite</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 		<li><a href="/desc/http://anat.org/OS-R-genou">OS DU GENOU DROIT</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-3" aria-expanded="false" aria-controls="collapse8-1-3">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-3">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/R-femur-epiP-inf">Épiphyse inférieure du fémur droit</a></li>
@@ -1806,53 +1403,33 @@ max-width:inherit;
 				</ul>
 			</li>
 			</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 		<li><a href="/desc/http://anat.org/OS-R-jambe">OS DE LA JAMBE DROITE</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-4">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-4" aria-expanded="false" aria-controls="collapse8-1-4">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-4">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/R-tibia">Tibia droit</a></li>
 			<li><a href="/desc/http://anat.org/R-fibula">Fibula (anc. péroné) droite</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 		<li><a href="/desc/http://anat.org/OS-R-cheville">OS DE LA CHEVILLE DROITE</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-5">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-5" aria-expanded="false" aria-controls="collapse8-1-5">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-5">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/R-tibia-epiP-inf">Épiphyse inférieure du tibia droit</a></li>
 			<li><a href="/desc/http://anat.org/R-fibula-epiP-inf">Épiphyse inférieure de la fibula (anc. péroné) droite</a></li>
 			<li><a href="/desc/http://anat.org/R-os-tarse">Os du tarse droit</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-5-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-5-1" aria-expanded="false" aria-controls="collapse8-1-5-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-5-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-5-1">
-      <div class="panel-body">
+<button class="collapsible">▼ </button>
+<div class="content">
 
 				<ul style="list-style-type:disc">
 				<li><a href="/desc/http://anat.org/R-tarse-post">Os du tarse postérieur droit</a>
@@ -1871,25 +1448,17 @@ max-width:inherit;
 					</ul>
 				</li>
 				</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 			</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 		<li><a href="/desc/http://anat.org/OS-R-pied">OS DU PIED DROIT</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-6">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-6" aria-expanded="false" aria-controls="collapse8-1-6">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-6">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 			<ul style="list-style-type:none">
 			<table>
@@ -1898,14 +1467,8 @@ max-width:inherit;
 					<ul style="list-style-type:disc">
 					<li><a href="/desc/http://anat.org/R-os-tarse">Os du tarse droit</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-6-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-6-1" aria-expanded="false" aria-controls="collapse8-1-6-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-6-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-6-1">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 						<ul style="list-style-type:disc">
 						<li><a href="/desc/http://anat.org/R-tarse-post">Os du tarse postérieur droit</a>
@@ -1924,20 +1487,13 @@ max-width:inherit;
 							</ul>
 						</li>
 						</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 					<li><a href="/desc/http://anat.org/R-meta-tarse">Os métatarses droits</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-6-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-6-2" aria-expanded="false" aria-controls="collapse8-1-6-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-6-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-6-2">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/R-metaT-I">1er os métatarse droit</a></li>
@@ -1946,39 +1502,25 @@ max-width:inherit;
 						<li><a href="/desc/http://anat.org/R-metaT-IV">4e os métatarse droit</a></li>
 						<li><a href="/desc/http://anat.org/R-metaT-V">5e os métatarse droit</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 					<li><a href="/desc/http://anat.org/R-pied-os-sesamoides">Os sésamoïdes de l’hallux droit</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-6-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-6-3" aria-expanded="false" aria-controls="collapse8-1-6-3">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-6-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-6-3">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/R-halux-sesamoide-lat">Os sésamoïde latéral de l’hallux droit</a></li>
 						<li><a href="/desc/http://anat.org/R-halux-sesamoide-med">Os sésamoïde médial de l’hallux droit</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 					<li><a href="/desc/http://anat.org/R-pied-phalanges">Os des phalanges des orteils droits</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-6-4">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-6-4" aria-expanded="false" aria-controls="collapse8-1-6-4">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-6-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-6-4">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 						<ul style="list-style-type:disc">
 						<li><a href="/desc/http://anat.org/R-pied-phalanges-I">Os des phalanges de l’hallux droit</a>
@@ -2016,9 +1558,8 @@ max-width:inherit;
 							</ul>
 						</li>
 						</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 					</ul>
 				</td>
@@ -2026,14 +1567,8 @@ max-width:inherit;
 					<ul style="list-style-type:disc">
 					<li><a href="/desc/http://anat.org/R-os-arche-int">Os de l’arche interne du pied droit</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-6-5">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-6-5" aria-expanded="false" aria-controls="collapse8-1-6-5">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-6-5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-6-5">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/R-talus">Talus (anc. astragal) droit</a></li>
@@ -2071,20 +1606,13 @@ max-width:inherit;
 							</ul>
 						</li>
 						</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 					<li><a href="/desc/http://anat.org/R-os-arche-ext">Os de l’arche externe du pied droit</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-1-6-6">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-1-6-6" aria-expanded="false" aria-controls="collapse8-1-6-6">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-1-6-6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-1-6-6">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/R-calca">Calcanéus (anc. calcanéum) droit</a></li>
@@ -2106,84 +1634,55 @@ max-width:inherit;
 							</ul>
 						</li>
 						</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 					</ul>
 				</td>
 			</tr>
 			</table>
 			<ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 		</ul>
 	</li>
-      </div>
-    </div>
-  </div>
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2">
-      <h4 class="panel-title">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2" aria-expanded="false" aria-controls="collapse8-2">
-	<li><h4 class="subarea">MEMBRE INFÉRIEUR GAUCHE</h4>
-        </a>
-      </h4>
-    </div>
-    <div id="collapse8-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2">
-      <div class="panel-body">
+
+</div>
+
+<button class="collapsible"><li><h4 class="subarea">MEMBRE INFÉRIEUR GAUCHE</h4></button>
+<div class="content">
+
 		<ul style="list-style-type:square">
 		<li><a href="/desc/http://anat.org/OS-L-hanche">OS DE LA HANCHE GAUCHE</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-1" aria-expanded="false" aria-controls="collapse8-2-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-1">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/L-iliaque">Os coxal (iliaque) gauche</a></li>
 			<li><a href="/desc/http://anat.org/L-femur-epiP-sup">Épiphyse supérieure du fémur gauche</a></li>
 			<li><a href="/desc/http://anat.org/L-labrum-acetabulaire">Labrum acétabulaire gauche</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 		<li><a href="/desc/http://anat.org/OS-L-cuisse">OS DE LA CUISSE GAUCHE</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-2" aria-expanded="false" aria-controls="collapse8-2-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-2">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/L-femur">Fémur gauche</a></li>
 			<li><a href="/desc/http://anat.org/L-patella">Patella (anc. rotule) gauche</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 		<li><a href="/desc/http://anat.org/OS-L-genou">OS DU GENOU GAUCHE</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-3" aria-expanded="false" aria-controls="collapse8-2-3">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-3">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/L-femur-epiP-inf">Épiphyse inférieure du fémur gauche</a></li>
@@ -2197,53 +1696,33 @@ max-width:inherit;
 				</ul>
 			</li>
 			</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 		<li><a href="/desc/http://anat.org/OS-L-jambe">OS DE LA JAMBE GAUCHE</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-4">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-4" aria-expanded="false" aria-controls="collapse8-2-4">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-4">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/L-tibia">Tibia gauche</a></li>
 			<li><a href="/desc/http://anat.org/L-fibula">Fibula (anc. péroné) gauche</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 		<li><a href="/desc/http://anat.org/OS-L-cheville">OS DE LA CHEVILLE GAUCHE</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-5">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-5" aria-expanded="false" aria-controls="collapse8-2-5">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-5">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/L-tibia-epiP-inf">Épiphyse inférieure du tibia gauche</a></li>
 			<li><a href="/desc/http://anat.org/L-fibula-epiP-inf">Épiphyse inférieure de la fibula (anc. péroné) gauche</a></li>
 			<li><a href="/desc/http://anat.org/L-os-tarse">Os du tarse gauche</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-5-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-5-1" aria-expanded="false" aria-controls="collapse8-2-5-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-5-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-5-1">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 				<ul style="list-style-type:disc">
 				<li><a href="/desc/http://anat.org/L-tarse-post">Os du tarse postérieur gauche</a>
@@ -2262,25 +1741,17 @@ max-width:inherit;
 					</ul>
 				</li>
 				</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 			</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 		<li><a href="/desc/http://anat.org/OS-L-pied">OS DU PIED GAUCHE</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-6">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-6" aria-expanded="false" aria-controls="collapse8-2-6">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-6">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 			<ul style="list-style-type:none">
 			<table>
@@ -2289,14 +1760,8 @@ max-width:inherit;
 					<ul style="list-style-type:disc">
 					<li><a href="/desc/http://anat.org/L-os-tarse">Os du tarse gauche</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-6-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-6-1" aria-expanded="false" aria-controls="collapse8-2-6-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-6-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-6-1">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 						<ul style="list-style-type:disc">
 						<li><a href="/desc/http://anat.org/L-tarse-post">Os du tarse postérieur gauche</a>
@@ -2314,20 +1779,13 @@ max-width:inherit;
 							</ul>
 						</li>
 						</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 					<li><a href="/desc/http://anat.org/L-meta-tarse">Os métatarses gauches</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-6-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-6-2" aria-expanded="false" aria-controls="collapse8-2-6-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-6-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-6-2">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/L-metaT-I">1er os métatarse gauche</a></li>
@@ -2336,39 +1794,25 @@ max-width:inherit;
 						<li><a href="/desc/http://anat.org/L-metaT-IV">4e os métatarse gauche</a></li>
 						<li><a href="/desc/http://anat.org/L-metaT-V">5e os métatarse gauche</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 					<li><a href="/desc/http://anat.org/L-pied-os-sesamoides">Os sésamoïdes de l’hallux gauche</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-6-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-6-3" aria-expanded="false" aria-controls="collapse8-2-6-3">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-6-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-6-3">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/L-halux-sesamoide-lat">Os sésamoïde latéral de l’hallux gauche</a></li>
 						<li><a href="/desc/http://anat.org/L-halux-sesamoide-med">Os sésamoïde médial de l’hallux gauche</a></li>
 						</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 					<li><a href="/desc/http://anat.org/L-pied-phalanges">Os des phalanges des orteils gauches</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-6-4">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-6-4" aria-expanded="false" aria-controls="collapse8-2-6-4">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-6-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-6-4">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 						<ul style="list-style-type:disc">
 						<li><a href="/desc/http://anat.org/L-pied-phalanges-I">Os des phalanges de l’hallux gauche</a>
@@ -2406,9 +1850,8 @@ max-width:inherit;
 							</ul>
 						</li>
 						</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 					</ul>
 				</td>
@@ -2416,14 +1859,8 @@ max-width:inherit;
 					<ul style="list-style-type:disc">
 					<li><a href="/desc/http://anat.org/L-os-arche-int">Os de l’arche interne du pied gauche</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-6-5">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-6-5" aria-expanded="false" aria-controls="collapse8-2-6-5">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-6-5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-6-5">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/L-talus">Talus (anc. astragal) gauche</a></li>
@@ -2461,20 +1898,13 @@ max-width:inherit;
 							</ul>
 						</li>
 						</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 					<li><a href="/desc/http://anat.org/L-os-arche-ext">Os de l’arche externe du pied gauche</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="8-2-6-6">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8-2-6-6" aria-expanded="false" aria-controls="collapse8-2-6-6">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse8-2-6-6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="8-2-6-6">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/L-calca">Calcanéus (anc. calcanéum) gauche</a></li>
@@ -2496,50 +1926,35 @@ max-width:inherit;
 							</ul>
 						</li>
 						</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 					</ul>
 				</td>
 			</tr>
 			</table>
 			<ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 		</ul>
 	</li>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 	</ul>
 
 <h4 class="area">RÉGION DES MEMBRES SUPÉRIEURS</h4>
 	<ul style="list-style-type:none">
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-1">
-      <h4 class="panel-title">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-1" aria-expanded="false" aria-controls="collapse9-1">
-	<li><h4 class="subarea">MEMBRE SUPÉRIEUR DROIT</h4>
-        </a>
-      </h4>
-    </div>
-    <div id="collapse9-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-1">
-      <div class="panel-body">
+
+<button class="collapsible"><li><h4 class="subarea">MEMBRE SUPÉRIEUR DROIT</h4></button>
+<div class="content">
+
 		<ul style="list-style-type:square">
 		<li><a href="/desc/http://anat.org/OS-R-epaule">OS DE L'ÉPAULE DROITE</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-1-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-1-1" aria-expanded="false" aria-controls="collapse9-1-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse9-1-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-1-1">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/R-clavicule">Clavicule droite</a></li>
@@ -2547,77 +1962,49 @@ max-width:inherit;
 			<li><a href="/desc/http://anat.org/R-humerus-epiP-sup">Épiphyse supérieure de l'humérus droit</a></li>
 			<li><a href="/desc/http://anat.org/R-labrum-glenoidal">Labrum glénoïdal droit</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 		<li><a href="/desc/http://anat.org/OS-R-bras">OS DU BRAS DROIT</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-1-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-1-2" aria-expanded="false" aria-controls="collapse9-1-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse9-1-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-1-2">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/R-humerus">Humérus droit</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 		<li><a href="/desc/http://anat.org/OS-R-coude">OS DU COUDE DROIT</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-1-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-1-3" aria-expanded="false" aria-controls="collapse9-1-3">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse9-1-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-1-3">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/R-humerus-epiP-inf">Épiphyse inférieure de l'humérus droit</a></li>
 			<li><a href="/desc/http://anat.org/R-ulna-epiP-sup">Épiphyse supérieure de l'ulna (anc. cubitus) droite</a></li>
 			<li><a href="/desc/http://anat.org/R-radius-epiP-sup">Épiphyse supérieure du radius droit</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 		<li><a href="/desc/http://anat.org/OS-R-avt-bras">OS DE L'AVANT-BRAS DROIT</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-1-4">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-1-4" aria-expanded="false" aria-controls="collapse9-1-4">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse9-1-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-1-4">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/R-radius">Radius droit</a></li>
 			<li><a href="/desc/http://anat.org/R-ulna">Ulna (anc. cubitus) droite</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 		<li><a href="/desc/http://anat.org/OS-R-poignet">OS DU POIGNET DROIT</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-1-5">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-1-5" aria-expanded="false" aria-controls="collapse9-1-5">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse9-1-5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-1-5">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/R-ulna-epiP-inf">épiphyse inférieure de l'ulna (anc. cubitus) droite</a></li>
@@ -2625,14 +2012,8 @@ max-width:inherit;
 			<li><a href="/desc/http://anat.org/R-menisque-ulno-carpien">Ménisque ulno-carpien droit</a></li>
 			<li><a href="/desc/http://anat.org/R-os-carpe">Os du carpe droit</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-1-5-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-1-5-1" aria-expanded="false" aria-controls="collapse9-1-5-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse9-1-5-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-1-5-1">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 				<ul style="list-style-type:none">
 				<table>
@@ -2680,37 +2061,23 @@ max-width:inherit;
 				</tr>
 				</table>
 				</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 			</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 		<li><a href="/desc/http://anat.org/OS-R-main">OS DE LA MAIN DROITE</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-1-6">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-1-6" aria-expanded="false" aria-controls="collapse9-1-6">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse9-1-6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-1-6">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 			<ul style="list-style-type:disc">
 			<li><a href="/desc/http://anat.org/R-os-carpe">Os du carpe droit</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-1-6-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-1-6-1" aria-expanded="false" aria-controls="collapse9-1-6-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse9-1-6-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-1-6-1">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 				<ul style="list-style-type:none">
 				<table>
@@ -2758,20 +2125,13 @@ max-width:inherit;
 				</tr>
 				</table>
 				</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 			<li><a href="/desc/http://anat.org/R-meta-carpe">Os métacarpes droits</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-1-6-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-1-6-2" aria-expanded="false" aria-controls="collapse9-1-6-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse9-1-6-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-1-6-2">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 				<ul style="list-style-type:circle">
 				<li><a href="/desc/http://anat.org/R-metaC-I">1er os métacarpe droit</a></li>
@@ -2780,39 +2140,25 @@ max-width:inherit;
 				<li><a href="/desc/http://anat.org/R-metaC-IV">4e os métacarpe droit</a></li>
 				<li><a href="/desc/http://anat.org/R-metaC-V">5e os métacarpe droit</a></li>
 				</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 			<li><a href="/desc/http://anat.org/R-main-os-sesamoides">Os sésamoïdes du pouce droit</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-1-6-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-1-6-3" aria-expanded="false" aria-controls="collapse9-1-6-3">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse9-1-6-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-1-6-3">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 				<ul style="list-style-type:circle">
 				<li><a href="/desc/http://anat.org/R-pouce-sesamoide-lat">Os sésamoïde latéral du pouce droit</a></li>
 				<li><a href="/desc/http://anat.org/R-pouce-sesamoide-med">Os sésamoïde médial du pouce droit</a></li>
 				</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 			<li><a href="/desc/http://anat.org/R-main-phalanges">Os des phalanges des doigts droits</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-1-6-4">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-1-6-4" aria-expanded="false" aria-controls="collapse9-1-6-4">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse9-1-6-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-1-6-4">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 				<ul style="list-style-type:disc">
 				<li><a href="/desc/http://anat.org/R-main-phalanges-I">Os des phalanges du pouce droit</a>
@@ -2850,20 +2196,13 @@ max-width:inherit;
 					</ul>
 				</li>
 				</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 			<li><a href="/desc/http://anat.org/R-colonne-du-pouce">Colonne du pouce droit</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-1-6-5">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-1-6-5" aria-expanded="false" aria-controls="collapse9-1-6-5">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse9-1-6-5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-1-6-5">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 				<ul style="list-style-type:circle">
 				<li><a href="/desc/http://anat.org/R-metaC-I">1er os métacarpe droit</a></li>
@@ -2881,41 +2220,26 @@ max-width:inherit;
 					</ul>
 				</li>
 				</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 			</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 		</ul>
 	</li>
-      </div>
-    </div>
-  </div>
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-2">
-      <h4 class="panel-title">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-2" aria-expanded="false" aria-controls="collapse9-2">
-	<li><h4 class="subarea">MEMBRE SUPÉRIEUR GAUCHE</h4>
-        </a>
-      </h4>
-    </div>
-    <div id="collapse9-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-2">
-      <div class="panel-body">
+
+</div>
+
+<button class="collapsible"><li><h4 class="subarea">MEMBRE SUPÉRIEUR GAUCHE</h4></button>
+<div class="content">
+
 		<ul style="list-style-type:square">
 		<li><a href="/desc/http://anat.org/OS-L-epaule">OS DE L'ÉPAULE GAUCHE</a>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-2-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-2-1" aria-expanded="false" aria-controls="collapse9-2-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse9-2-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-2-1">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/L-clavicule">Clavicule gauche</a></li>
@@ -2923,77 +2247,49 @@ max-width:inherit;
 			<li><a href="/desc/http://anat.org/L-humerus-epiP-sup">Épiphyse supérieure de l'humérus gauche</a></li>
 			<li><a href="/desc/http://anat.org/L-labrum-glenoidal">Labrum glénoïdal gauche</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 		<li><a href="/desc/http://anat.org/OS-L-bras">OS DU BRAS GAUCHE</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-2-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-2-2" aria-expanded="false" aria-controls="collapse9-2-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse9-2-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-2-2">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/L-humerus">Humérus gauche</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 		<li><a href="/desc/http://anat.org/OS-L-coude">OS DU COUDE GAUCHE</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-2-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-2-3" aria-expanded="false" aria-controls="collapse9-2-3">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse9-2-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-2-3">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/L-humerus-epiP-inf">Épiphyse inférieure de l'humérus gauche</a></li>
 			<li><a href="/desc/http://anat.org/L-ulna-epiP-sup">Épiphyse supérieure de l'ulna (anc. cubitus) gauche</a></li>
 			<li><a href="/desc/http://anat.org/L-radius-epiP-sup">Épiphyse supérieure du radius gauche</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 		<li><a href="/desc/http://anat.org/OS-L-avt-bras">OS DE L'AVANT-BRAS GAUCHE</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-2-4">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-2-4" aria-expanded="false" aria-controls="collapse9-2-4">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse9-2-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-2-4">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/L-radius">Radius gauche</a></li>
 			<li><a href="/desc/http://anat.org/L-ulna">Ulna (anc. cubitus) gauche</a></li>
 			</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 		<li><a href="/desc/http://anat.org/OS-L-poignet">OS DU POIGNET GAUCHE</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-2-5">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-2-5" aria-expanded="false" aria-controls="collapse9-2-5">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse9-2-5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-2-5">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/L-ulna-epiP-inf">épiphyse inférieure de l'ulna (anc. cubitus) gauche</a></li>
@@ -3001,14 +2297,8 @@ max-width:inherit;
 			<li><a href="/desc/http://anat.org/L-menisque-ulno-carpien">Ménisque ulno-carpien gauche</a></li>
 			<li><a href="/desc/http://anat.org/L-os-carpe">Os du carpe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=raKzWXqq4TfWu45vy4OH5b8r" alt="img. carpe G"/></span></a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-2-5-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-2-5-1" aria-expanded="false" aria-controls="collapse9-2-5-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse9-2-5-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-2-5-1">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 				<ul style="list-style-type:none">
 				<table>
@@ -3056,37 +2346,23 @@ max-width:inherit;
 				</tr>
 				</table>
 				</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 			</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 		<li><a href="/desc/http://anat.org/OS-L-main">OS DE LA MAIN GAUCHE</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-2-6">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-2-6" aria-expanded="false" aria-controls="collapse9-2-6">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse9-2-6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-2-6">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 			<ul style="list-style-type:disc">
 			<li><a href="/desc/http://anat.org/L-os-carpe">Os du carpe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=raKzWXqq4TfWu45vy4OH5b8r" alt="img. carpe G"/></span></a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-2-6-1">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-2-6-1" aria-expanded="false" aria-controls="collapse9-2-6-1">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse9-2-6-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-2-6-1">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 				<ul style="list-style-type:none">
 				<table>
@@ -3134,20 +2410,13 @@ max-width:inherit;
 				</tr>
 				</table>
 				</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 			<li><a href="/desc/http://anat.org/L-meta-carpe">Os métacarpes gauches</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-2-6-2">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-2-6-2" aria-expanded="false" aria-controls="collapse9-2-6-2">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse9-2-6-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-2-6-2">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 				<ul style="list-style-type:circle">
 				<li><a href="/desc/http://anat.org/L-metaC-I">1er os métacarpe gauche</a></li>
@@ -3156,39 +2425,25 @@ max-width:inherit;
 				<li><a href="/desc/http://anat.org/L-metaC-IV">4e os métacarpe gauche</a></li>
 				<li><a href="/desc/http://anat.org/L-metaC-V">5e os métacarpe gauche</a></li>
 				</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 			<li><a href="/desc/http://anat.org/L-main-os-sesamoides">Os sésamoïdes du pouce gauche</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-2-6-3">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-2-6-3" aria-expanded="false" aria-controls="collapse9-2-6-3">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse9-2-6-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-2-6-3">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 				<ul style="list-style-type:circle">
 				<li><a href="/desc/http://anat.org/L-pouce-sesamoide-lat">Os sésamoïde latéral du pouce gauche</a></li>
 				<li><a href="/desc/http://anat.org/L-pouce-sesamoide-med">Os sésamoïde médial du pouce gauche</a></li>
 				</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 			<li><a href="/desc/http://anat.org/L-main-phalanges">Os des phalanges des doigts gauches</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-2-6-4">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-2-6-4" aria-expanded="false" aria-controls="collapse9-2-6-4">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse9-2-6-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-2-6-4">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 				<ul style="list-style-type:disc">
 				<li><a href="/desc/http://anat.org/L-main-phalanges-I">Os des phalanges du pouce gauche</a>
@@ -3226,20 +2481,13 @@ max-width:inherit;
 					</ul>
 				</li>
 				</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 			<li><a href="/desc/http://anat.org/L-colonne-du-pouce">Colonne du pouce gauche</a></li>
 
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="9-2-6-5">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9-2-6-5" aria-expanded="false" aria-controls="collapse9-2-6-5">
-	▼ 
-        </a>
-    </div>
-    <div id="collapse9-2-6-5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="9-2-6-5">
-      <div class="panel-body">
+<button class="collapsible">▼</button>
+<div class="content">
 
 				<ul style="list-style-type:circle">
 				<li><a href="/desc/http://anat.org/L-metaC-I">1er os métacarpe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LPfqmq9bCOnyWX5nC4eiO195" alt="img. frontal"/></span></a></li>
@@ -3257,20 +2505,37 @@ max-width:inherit;
 				</li>
 				</ul>
 
-      </div>
-    </div>
-  </div>
+
+</div>
 
 			</ul>
-      </div>
-    </div>
-  </div>
+
+</div>
 
 		</ul>
 	</li>
-      </div>
-    </div>
-  </div>
-	</ul>
+
 </div>
+
+	</ul>
+
+</div>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+
 </body>

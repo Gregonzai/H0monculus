@@ -52,7 +52,8 @@ max-width:inherit;
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .collapsible {
-  color: white;
+  color: none;
+  background-color: white;
   cursor: pointer;
   width: 100%;
   border: none;
@@ -62,14 +63,13 @@ max-width:inherit;
 }
 
 .active, .collapsible:hover {
-  background-color: grey;
+  background-color: white;
 }
 
 .content {
   padding: 0 18px;
-  max-height: 0;
+  display: none;
   overflow: hidden;
-  transition: max-height 0.2s ease-out;
   background-color: none;
 }
 </style>
@@ -238,22 +238,22 @@ max-width:inherit;
 <div class="content">
 
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-incisive-sup-1">Incisive centrale supérieure droite</a></li>
-						<li><a href="/desc/http://anat.org/R-incisive-sup-2">Incisive latérale supérieure droite</a></li>
-						<li><a href="/desc/http://anat.org/L-incisive-sup-1">Incisive centrale supérieure gauche</a></li>
-						<li><a href="/desc/http://anat.org/L-incisive-sup-2">Incisive latérale supérieure gauche</a></li>
-						<li><a href="/desc/http://anat.org/R-canine-sup">Canine supérieure droite</a></li>
-						<li><a href="/desc/http://anat.org/L-canine-sup">Canine supérieure gauche</a></li>
-						<li><a href="/desc/http://anat.org/R-pre-molaire-sup-1">1ere prémolaire supérieure droite</a></li>
-						<li><a href="/desc/http://anat.org/R-pre-molaire-sup-2">2e prémolaire supérieure droite</a></li>
-						<li><a href="/desc/http://anat.org/L-pre-molaire-sup-1">1ere prémolaire supérieure gauche</a></li>
-						<li><a href="/desc/http://anat.org/L-pre-molaire-sup-2">2e prémolaire supérieure gauche</a></li>
-						<li><a href="/desc/http://anat.org/R-molaire-sup-1">1ere molaire supérieure droite</a></li>
-						<li><a href="/desc/http://anat.org/R-molaire-sup-2">2e molaire supérieure droite</a></li>
-						<li><a href="/desc/http://anat.org/L-molaire-sup-1">1ere molaire supérieure gauche</a></li>
-						<li><a href="/desc/http://anat.org/L-molaire-sup-2">2e molaire supérieure gauche</a></li>
-						<li><a href="/desc/http://anat.org/R-dent-sagesse-sup">Dent de sagesse supérieure droite</a></li>
-						<li><a href="/desc/http://anat.org/L-dent-sagesse-sup">Dent de sagesse supérieure gauche</a></li>
+						<li><a href="/desc/http://anat.org/R-incisive-sup-1">Incisive centrale supérieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-incisive-sup-2">Incisive latérale supérieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-incisive-sup-1">Incisive centrale supérieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-incisive-sup-2">Incisive latérale supérieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-canine-sup">Canine supérieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-canine-sup">Canine supérieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-pre-molaire-sup-1">1ere prémolaire supérieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-pre-molaire-sup-2">2e prémolaire supérieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-pre-molaire-sup-1">1ere prémolaire supérieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-pre-molaire-sup-2">2e prémolaire supérieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-molaire-sup-1">1ere molaire supérieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-molaire-sup-2">2e molaire supérieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-molaire-sup-1">1ere molaire supérieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-molaire-sup-2">2e molaire supérieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-dent-sagesse-sup">Dent de sagesse supérieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-dent-sagesse-sup">Dent de sagesse supérieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
 						</ul>
 
 </div>
@@ -293,22 +293,22 @@ max-width:inherit;
 <div class="content">
 
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-incisive-inf-1">Incisive centrale inférieure droite</a></li>
-						<li><a href="/desc/http://anat.org/R-incisive-inf-2">Incisive latérale inférieure droite</a></li>
-						<li><a href="/desc/http://anat.org/L-incisive-inf-1">Incisive centrale inférieure gauche</a></li>
-						<li><a href="/desc/http://anat.org/L-incisive-inf-2">Incisive latérale inférieure gauche</a></li>
-						<li><a href="/desc/http://anat.org/R-canine-inf">Canine inférieure droite</a></li>
-						<li><a href="/desc/http://anat.org/L-canine-inf">Canine inférieure gauche</a></li>
-						<li><a href="/desc/http://anat.org/R-pre-molaire-inf-1">1ere prémolaire inférieure droite</a></li>
-						<li><a href="/desc/http://anat.org/R-pre-molaire-inf-2">2e prémolaire inférieure droite</a></li>
-						<li><a href="/desc/http://anat.org/L-pre-molaire-inf-1">1ere prémolaire inférieure gauche</a></li>
-						<li><a href="/desc/http://anat.org/L-pre-molaire-inf-2">2e prémolaire inférieure gauche</a></li>
-						<li><a href="/desc/http://anat.org/R-molaire-inf-1">1ere molaire inférieure droite</a></li>
-						<li><a href="/desc/http://anat.org/R-molaire-inf-2">2e molaire inférieure droite</a></li>
-						<li><a href="/desc/http://anat.org/L-molaire-inf-1">1ere molaire inférieure gauche</a></li>
-						<li><a href="/desc/http://anat.org/L-molaire-inf-2">2e molaire inférieure gauche</a></li>
-						<li><a href="/desc/http://anat.org/R-dent-sagesse-inf">Dent de sagesse inférieure droite</a></li>
-						<li><a href="/desc/http://anat.org/L-dent-sagesse-inf">Dent de sagesse inférieure gauche</a></li>
+						<li><a href="/desc/http://anat.org/R-incisive-inf-1">Incisive centrale inférieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-incisive-inf-2">Incisive latérale inférieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-incisive-inf-1">Incisive centrale inférieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-incisive-inf-2">Incisive latérale inférieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-canine-inf">Canine inférieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-canine-inf">Canine inférieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-pre-molaire-inf-1">1ere prémolaire inférieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-pre-molaire-inf-2">2e prémolaire inférieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-pre-molaire-inf-1">1ere prémolaire inférieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-pre-molaire-inf-2">2e prémolaire inférieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-molaire-inf-1">1ere molaire inférieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-molaire-inf-2">2e molaire inférieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-molaire-inf-1">1ere molaire inférieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-molaire-inf-2">2e molaire inférieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-dent-sagesse-inf">Dent de sagesse inférieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-dent-sagesse-inf">Dent de sagesse inférieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
 						</ul>
 
 </div>
@@ -372,14 +372,14 @@ max-width:inherit;
 <div class="content">
 
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-incisive-sup-1">Incisive centrale supérieure droite</a></li>
-					<li><a href="/desc/http://anat.org/R-incisive-sup-2">Incisive latérale supérieure droite</a></li>
-					<li><a href="/desc/http://anat.org/L-incisive-sup-1">Incisive centrale supérieure gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-incisive-sup-2">Incisive latérale supérieure gauche</a></li>
-					<li><a href="/desc/http://anat.org/R-incisive-inf-1">Incisive centrale inférieure droite</a></li>
-					<li><a href="/desc/http://anat.org/R-incisive-inf-2">Incisive latérale inférieure droite</a></li>
-					<li><a href="/desc/http://anat.org/L-incisive-inf-1">Incisive centrale inférieure gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-incisive-inf-2">Incisive latérale inférieure gauche</a></li>
+					<li><a href="/desc/http://anat.org/R-incisive-sup-1">Incisive centrale supérieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-incisive-sup-2">Incisive latérale supérieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-incisive-sup-1">Incisive centrale supérieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-incisive-sup-2">Incisive latérale supérieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-incisive-inf-1">Incisive centrale inférieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-incisive-inf-2">Incisive latérale inférieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-incisive-inf-1">Incisive centrale inférieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-incisive-inf-2">Incisive latérale inférieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
 					</ul>
 
 </div>
@@ -390,10 +390,10 @@ max-width:inherit;
 <div class="content">
 
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-canine-sup">Canine supérieure droite</a></li>
-					<li><a href="/desc/http://anat.org/L-canine-sup">Canine supérieure gauche</a></li>
-					<li><a href="/desc/http://anat.org/R-canine-inf">Canine inférieure droite</a></li>
-					<li><a href="/desc/http://anat.org/L-canine-inf">Canine inférieure gauche</a></li>
+					<li><a href="/desc/http://anat.org/R-canine-sup">Canine supérieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-canine-sup">Canine supérieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-canine-inf">Canine inférieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-canine-inf">Canine inférieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
 					</ul>
 
 </div>
@@ -404,14 +404,14 @@ max-width:inherit;
 <div class="content">
 
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-pre-molaire-sup-1">1ere prémolaire supérieure droite</a></li>
-					<li><a href="/desc/http://anat.org/R-pre-molaire-sup-2">2e prémolaire supérieure droite</a></li>
-					<li><a href="/desc/http://anat.org/L-pre-molaire-sup-1">1ere prémolaire supérieure gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-pre-molaire-sup-2">2e prémolaire supérieure gauche</a></li>
-					<li><a href="/desc/http://anat.org/R-pre-molaire-inf-1">1ere prémolaire inférieure droite</a></li>
-					<li><a href="/desc/http://anat.org/R-pre-molaire-inf-2">2e prémolaire inférieure droite</a></li>
-					<li><a href="/desc/http://anat.org/L-pre-molaire-inf-1">1ere prémolaire inférieure gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-pre-molaire-inf-2">2e prémolaire inférieure gauche</a></li>
+					<li><a href="/desc/http://anat.org/R-pre-molaire-sup-1">1ere prémolaire supérieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-pre-molaire-sup-2">2e prémolaire supérieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-pre-molaire-sup-1">1ere prémolaire supérieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-pre-molaire-sup-2">2e prémolaire supérieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-pre-molaire-inf-1">1ere prémolaire inférieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-pre-molaire-inf-2">2e prémolaire inférieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-pre-molaire-inf-1">1ere prémolaire inférieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-pre-molaire-inf-2">2e prémolaire inférieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
 					</ul>
 
 </div>
@@ -422,28 +422,28 @@ max-width:inherit;
 <div class="content">
 
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-molaire-sup-1">1ere molaire supérieure droite</a></li>
-					<li><a href="/desc/http://anat.org/R-molaire-sup-2">2e molaire supérieure droite</a></li>
-					<li><a href="/desc/http://anat.org/L-molaire-sup-1">1ere molaire supérieure gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-molaire-sup-2">2e molaire supérieure gauche</a></li>
-					<li><a href="/desc/http://anat.org/R-molaire-inf-1">1ere molaire inférieure droite</a></li>
-					<li><a href="/desc/http://anat.org/R-molaire-inf-2">2e molaire inférieure droite</a></li>
-					<li><a href="/desc/http://anat.org/L-molaire-inf-1">1ere molaire inférieure gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-molaire-inf-2">2e molaire inférieure gauche</a></li>
+					<li><a href="/desc/http://anat.org/R-molaire-sup-1">1ere molaire supérieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-molaire-sup-2">2e molaire supérieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-molaire-sup-1">1ere molaire supérieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-molaire-sup-2">2e molaire supérieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-molaire-inf-1">1ere molaire inférieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-molaire-inf-2">2e molaire inférieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-molaire-inf-1">1ere molaire inférieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-molaire-inf-2">2e molaire inférieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
 					</ul>
 
 </div>
 
-				<li><a href="/desc/http://anat.org/dents-sagesse">Dents de sagesse</a></li>
+				<li><a href="/desc/http://anat.org/dents-sagesse">Dents de sagesse<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-dent-sagesse-sup">Dent de sagesse supérieure droite</a></li>
-					<li><a href="/desc/http://anat.org/L-dent-sagesse-sup">Dent de sagesse supérieure gauche</a></li>
-					<li><a href="/desc/http://anat.org/R-dent-sagesse-inf">Dent de sagesse inférieure droite</a></li>
-					<li><a href="/desc/http://anat.org/L-dent-sagesse-inf">Dent de sagesse inférieure gauche</a></li>
+					<li><a href="/desc/http://anat.org/R-dent-sagesse-sup">Dent de sagesse supérieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-dent-sagesse-sup">Dent de sagesse supérieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-dent-sagesse-inf">Dent de sagesse inférieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-dent-sagesse-inf">Dent de sagesse inférieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
 					</ul>
 
 </div>
@@ -458,22 +458,22 @@ max-width:inherit;
 <div class="content">
 
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-incisive-sup-1">Incisive centrale supérieure droite</a></li>
-					<li><a href="/desc/http://anat.org/R-incisive-sup-2">Incisive latérale supérieure droite</a></li>
-					<li><a href="/desc/http://anat.org/L-incisive-sup-1">Incisive centrale supérieure gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-incisive-sup-2">Incisive latérale supérieure gauche</a></li>
-					<li><a href="/desc/http://anat.org/R-canine-sup">Canine supérieure droite</a></li>
-					<li><a href="/desc/http://anat.org/L-canine-sup">Canine supérieure gauche</a></li>
-					<li><a href="/desc/http://anat.org/R-pre-molaire-sup-1">1ere prémolaire supérieure droite</a></li>
-					<li><a href="/desc/http://anat.org/R-pre-molaire-sup-2">2e prémolaire supérieure droite</a></li>
-					<li><a href="/desc/http://anat.org/L-pre-molaire-sup-1">1ere prémolaire supérieure gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-pre-molaire-sup-2">2e prémolaire supérieure gauche</a></li>
-					<li><a href="/desc/http://anat.org/R-molaire-sup-1">1ere molaire supérieure droite</a></li>
-					<li><a href="/desc/http://anat.org/R-molaire-sup-2">2e molaire supérieure droite</a></li>
-					<li><a href="/desc/http://anat.org/L-molaire-sup-1">1ere molaire supérieure gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-molaire-sup-2">2e molaire supérieure gauche</a></li>
-					<li><a href="/desc/http://anat.org/R-dent-sagesse-sup">Dent de sagesse supérieure droite</a></li>
-					<li><a href="/desc/http://anat.org/L-dent-sagesse-sup">Dent de sagesse supérieure gauche</a></li>
+					<li><a href="/desc/http://anat.org/R-incisive-sup-1">Incisive centrale supérieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-incisive-sup-2">Incisive latérale supérieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-incisive-sup-1">Incisive centrale supérieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-incisive-sup-2">Incisive latérale supérieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-canine-sup">Canine supérieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-canine-sup">Canine supérieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-pre-molaire-sup-1">1ere prémolaire supérieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-pre-molaire-sup-2">2e prémolaire supérieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-pre-molaire-sup-1">1ere prémolaire supérieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-pre-molaire-sup-2">2e prémolaire supérieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-molaire-sup-1">1ere molaire supérieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-molaire-sup-2">2e molaire supérieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-molaire-sup-1">1ere molaire supérieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-molaire-sup-2">2e molaire supérieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-dent-sagesse-sup">Dent de sagesse supérieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-dent-sagesse-sup">Dent de sagesse supérieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
 					</ul>
 
 </div>
@@ -484,22 +484,22 @@ max-width:inherit;
 <div class="content">
 
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-incisive-inf-1">Incisive centrale inférieure droite</a></li>
-					<li><a href="/desc/http://anat.org/R-incisive-inf-2">Incisive latérale inférieure droite</a></li>
-					<li><a href="/desc/http://anat.org/L-incisive-inf-1">Incisive centrale inférieure gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-incisive-inf-2">Incisive latérale inférieure gauche</a></li>
-					<li><a href="/desc/http://anat.org/R-canine-inf">Canine inférieure droite</a></li>
-					<li><a href="/desc/http://anat.org/L-canine-inf">Canine inférieure gauche</a></li>
-					<li><a href="/desc/http://anat.org/R-pre-molaire-inf-1">1ere prémolaire inférieure droite</a></li>
-					<li><a href="/desc/http://anat.org/R-pre-molaire-inf-2">2e prémolaire inférieure droite</a></li>
-					<li><a href="/desc/http://anat.org/L-pre-molaire-inf-1">1ere prémolaire inférieure gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-pre-molaire-inf-2">2e prémolaire inférieure gauche</a></li>
-					<li><a href="/desc/http://anat.org/R-molaire-inf-1">1ere molaire inférieure droite</a></li>
-					<li><a href="/desc/http://anat.org/R-molaire-inf-2">2e molaire inférieure droite</a></li>
-					<li><a href="/desc/http://anat.org/L-molaire-inf-1">1ere molaire inférieure gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-molaire-inf-2">2e molaire inférieure gauche</a></li>
-					<li><a href="/desc/http://anat.org/R-dent-sagesse-inf">Dent de sagesse inférieure droite</a></li>
-					<li><a href="/desc/http://anat.org/L-dent-sagesse-inf">Dent de sagesse inférieure gauche</a></li>
+					<li><a href="/desc/http://anat.org/R-incisive-inf-1">Incisive centrale inférieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-incisive-inf-2">Incisive latérale inférieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-incisive-inf-1">Incisive centrale inférieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-incisive-inf-2">Incisive latérale inférieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-canine-inf">Canine inférieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-canine-inf">Canine inférieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-pre-molaire-inf-1">1ere prémolaire inférieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-pre-molaire-inf-2">2e prémolaire inférieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-pre-molaire-inf-1">1ere prémolaire inférieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-pre-molaire-inf-2">2e prémolaire inférieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-molaire-inf-1">1ere molaire inférieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-molaire-inf-2">2e molaire inférieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-molaire-inf-1">1ere molaire inférieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-molaire-inf-2">2e molaire inférieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-dent-sagesse-inf">Dent de sagesse inférieure droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-dent-sagesse-inf">Dent de sagesse inférieure gauche<span id=infobulle><img src="" alt=""/></span></a></li>
 					</ul>
 
 </div>
@@ -551,143 +551,143 @@ max-width:inherit;
 
 </div>
 
-	<li><a href="/desc/http://anat.org/colonne-v">COLONNE VERTÉBRALE</a>
+	<li><a href="/desc/http://anat.org/colonne-v">COLONNE VERTÉBRALE<span id=infobulle><img src="" alt=""/></span></a>
 
 		<ul style="list-style-type:none">
 		<table>
 		<tr>
 			<td>
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/cv-cervicale">Colonne vertébrale cervicale</a></li>
+				<li><a href="/desc/http://anat.org/cv-cervicale">Colonne vertébrale cervicale<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/cv-cervicale-sup">Colonne vertébrale cervicale supérieure</a>
+					<li><a href="/desc/http://anat.org/cv-cervicale-sup">Colonne vertébrale cervicale supérieure<span id=infobulle><img src="" alt=""/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/v-C1">Vertèbre C1</a></li>
-						<li><a href="/desc/http://anat.org/v-C2">Vertèbre C2</a></li>
-						<li><a href="/desc/http://anat.org/v-C3">Vertèbre C3</a></li>
-						<li><a href="/desc/http://anat.org/div-C2-C3">Disque intervertébral C2-C3</a></li>
+						<li><a href="/desc/http://anat.org/v-C1">Vertèbre C1<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-C2">Vertèbre C2<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-C3">Vertèbre C3<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/div-C2-C3">Disque intervertébral C2-C3<span id=infobulle><img src="" alt=""/></span></a></li>
 						</ul>
 					</li>
-					<li><a href="/desc/http://anat.org/cv-cervicale-moy">Colonne vertébrale cervicale moyenne</a>
+					<li><a href="/desc/http://anat.org/cv-cervicale-moy">Colonne vertébrale cervicale moyenne<span id=infobulle><img src="" alt=""/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/v-C3">Vertèbre C3</a></li>
-						<li><a href="/desc/http://anat.org/v-C4">Vertèbre C4</a></li>
-						<li><a href="/desc/http://anat.org/v-C5">Vertèbre C5</a></li>
-						<li><a href="/desc/http://anat.org/div-C3-C4">Disque intervertébral C3-C4</a></li>
-						<li><a href="/desc/http://anat.org/div-C4-C5">Disque intervertébral C4-C5</a></li>
+						<li><a href="/desc/http://anat.org/v-C3">Vertèbre C3<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-C4">Vertèbre C4<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-C5">Vertèbre C5<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/div-C3-C4">Disque intervertébral C3-C4<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/div-C4-C5">Disque intervertébral C4-C5<span id=infobulle><img src="" alt=""/></span></a></li>
 						</ul>
 					</li>
-					<li><a href="/desc/http://anat.org/cv-cervicale-inf">Colonne vertébrale cervicale inférieure</a>
+					<li><a href="/desc/http://anat.org/cv-cervicale-inf">Colonne vertébrale cervicale inférieure<span id=infobulle><img src="" alt=""/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/v-C5">Vertèbre C5</a></li>
-						<li><a href="/desc/http://anat.org/v-C6">Vertèbre C6</a></li>
-						<li><a href="/desc/http://anat.org/v-C7">Vertèbre C7</a></li>
-						<li><a href="/desc/http://anat.org/div-C5-C6">Disque intervertébral C5-C6</a></li>
-						<li><a href="/desc/http://anat.org/div-C6-C7">Disque intervertébral C6-C7</a></li>
+						<li><a href="/desc/http://anat.org/v-C5">Vertèbre C5<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-C6">Vertèbre C6<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-C7">Vertèbre C7<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/div-C5-C6">Disque intervertébral C5-C6<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/div-C6-C7">Disque intervertébral C6-C7<span id=infobulle><img src="" alt=""/></span></a></li>
 						</ul>
 					</li>
 					</ul>
 
 </div>
 
-				<li><a href="/desc/http://anat.org/cv-thoraciq">Colonne vertébrale thoracique</a></li>
+				<li><a href="/desc/http://anat.org/cv-thoraciq">Colonne vertébrale thoracique<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/cv-thoraciq-sup">Colonne vertébrale thoracique supérieure</a>
+					<li><a href="/desc/http://anat.org/cv-thoraciq-sup">Colonne vertébrale thoracique supérieure<span id=infobulle><img src="" alt=""/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/v-T1">Vertèbre T1</a></li>
-						<li><a href="/desc/http://anat.org/v-T2">Vertèbre T2</a></li>
-						<li><a href="/desc/http://anat.org/v-T3">Vertèbre T3</a></li>
-						<li><a href="/desc/http://anat.org/v-T4">Vertèbre T4</a></li>
-						<li><a href="/desc/http://anat.org/v-T5">Vertèbre T5</a></li>
-						<li><a href="/desc/http://anat.org/v-T6">Vertèbre T6</a></li>
-						<li><a href="/desc/http://anat.org/div-T1-T2">Disque intervertébral T1-T2</a></li>
-						<li><a href="/desc/http://anat.org/div-T2-T3">Disque intervertébral T2-T3</a></li>
-						<li><a href="/desc/http://anat.org/div-T3-T4">Disque intervertébral T3-T4</a></li>
-						<li><a href="/desc/http://anat.org/div-T4-T5">Disque intervertébral T4-T5</a></li>
-						<li><a href="/desc/http://anat.org/div-T5-T6">Disque intervertébral T5-T6</a></li>
+						<li><a href="/desc/http://anat.org/v-T1">Vertèbre T1<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-T2">Vertèbre T2<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-T3">Vertèbre T3<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-T4">Vertèbre T4<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-T5">Vertèbre T5<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-T6">Vertèbre T6<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/div-T1-T2">Disque intervertébral T1-T2<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/div-T2-T3">Disque intervertébral T2-T3<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/div-T3-T4">Disque intervertébral T3-T4<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/div-T4-T5">Disque intervertébral T4-T5<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/div-T5-T6">Disque intervertébral T5-T6<span id=infobulle><img src="" alt=""/></span></a></li>
 						</ul>
 					</li>
-					<li><a href="/desc/http://anat.org/cv-thoraciq-moy">Colonne vertébrale thoracique moyenne</a>
+					<li><a href="/desc/http://anat.org/cv-thoraciq-moy">Colonne vertébrale thoracique moyenne<span id=infobulle><img src="" alt=""/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/v-T6">Vertèbre T6</a></li>
-						<li><a href="/desc/http://anat.org/v-T7">Vertèbre T7</a></li>
-						<li><a href="/desc/http://anat.org/v-T8">Vertèbre T8</a></li>
-						<li><a href="/desc/http://anat.org/v-T9">Vertèbre T9</a></li>
-						<li><a href="/desc/http://anat.org/v-T10">Vertèbre T10</a></li>
-						<li><a href="/desc/http://anat.org/div-T6-T7">Disque intervertébral T6-T7</a></li>
-						<li><a href="/desc/http://anat.org/div-T7-T8">Disque intervertébral T7-T8</a></li>
-						<li><a href="/desc/http://anat.org/div-T8-T9">Disque intervertébral T8-T9</a></li>
-						<li><a href="/desc/http://anat.org/div-T9-T10">Disque intervertébral T9-T10</a></li>
+						<li><a href="/desc/http://anat.org/v-T6">Vertèbre T6<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-T7">Vertèbre T7<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-T8">Vertèbre T8<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-T9">Vertèbre T9<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-T10">Vertèbre T10<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/div-T6-T7">Disque intervertébral T6-T7<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/div-T7-T8">Disque intervertébral T7-T8<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/div-T8-T9">Disque intervertébral T8-T9<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/div-T9-T10">Disque intervertébral T9-T10<span id=infobulle><img src="" alt=""/></span></a></li>
 						</ul>
 					</li>
-					<li><a href="/desc/http://anat.org/cv-thoraciq-inf">Colonne vertébrale thoracique inférieure</a>
+					<li><a href="/desc/http://anat.org/cv-thoraciq-inf">Colonne vertébrale thoracique inférieure<span id=infobulle><img src="" alt=""/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/v-T10">Vertèbre T10</a></li>
-						<li><a href="/desc/http://anat.org/v-T11">Vertèbre T11</a></li>
-						<li><a href="/desc/http://anat.org/v-T12">Vertèbre T12</a></li>
-						<li><a href="/desc/http://anat.org/div-T10-T11">Disque intervertébral T10-T11</a></li>
-						<li><a href="/desc/http://anat.org/div-T11-T12">Disque intervertébral T11-T12</a></li>
+						<li><a href="/desc/http://anat.org/v-T10">Vertèbre T10<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-T11">Vertèbre T11<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-T12">Vertèbre T12<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/div-T10-T11">Disque intervertébral T10-T11<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/div-T11-T12">Disque intervertébral T11-T12<span id=infobulle><img src="" alt=""/></span></a></li>
 						</ul>
 					</li>
 					</ul>
 
 </div>
 
-				<li><a href="/desc/http://anat.org/cv-lombaire">Colonne vertébrale lombaire</a></li>
+				<li><a href="/desc/http://anat.org/cv-lombaire">Colonne vertébrale lombaire<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/cv-lombaire-sup">Colonne vertébrale lombaire supérieure</a>
+					<li><a href="/desc/http://anat.org/cv-lombaire-sup">Colonne vertébrale lombaire supérieure<span id=infobulle><img src="" alt=""/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/v-L1">Vertèbre L1</a></li>
-						<li><a href="/desc/http://anat.org/v-L2">Vertèbre L2</a></li>
-						<li><a href="/desc/http://anat.org/v-L3">Vertèbre L3</a></li>
-						<li><a href="/desc/http://anat.org/div-L1-L2">Disque intervertébral L1-L2</a></li>
-						<li><a href="/desc/http://anat.org/div-L2-L3">Disque intervertébral L2-L3</a></li>
+						<li><a href="/desc/http://anat.org/v-L1">Vertèbre L1<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-L2">Vertèbre L2<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-L3">Vertèbre L3<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/div-L1-L2">Disque intervertébral L1-L2<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/div-L2-L3">Disque intervertébral L2-L3<span id=infobulle><img src="" alt=""/></span></a></li>
 						</ul>
 					</li>
-					<li><a href="/desc/http://anat.org/cv-lombaire-inf">Colonne vertébrale lombaire inférieure</a>
+					<li><a href="/desc/http://anat.org/cv-lombaire-inf">Colonne vertébrale lombaire inférieure<span id=infobulle><img src="" alt=""/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/v-L3">Vertèbre L3</a></li>
-						<li><a href="/desc/http://anat.org/v-L4">Vertèbre L4</a></li>
-						<li><a href="/desc/http://anat.org/v-L5">Vertèbre L5</a></li>
-						<li><a href="/desc/http://anat.org/div-L3-L4">Disque intervertébral L3-L4</a></li>
-						<li><a href="/desc/http://anat.org/div-L4-L5">Disque intervertébral L4-L5</a></li>
+						<li><a href="/desc/http://anat.org/v-L3">Vertèbre L3<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-L4">Vertèbre L4<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-L5">Vertèbre L5<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/div-L3-L4">Disque intervertébral L3-L4<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/div-L4-L5">Disque intervertébral L4-L5<span id=infobulle><img src="" alt=""/></span></a></li>
 						</ul>
 					</li>
 					</ul>
 
 </div>
 
-				<li><a href="/desc/http://anat.org/cv-pelvienne">Colonne vertébrale pelvienne</a></li>
+				<li><a href="/desc/http://anat.org/cv-pelvienne">Colonne vertébrale pelvienne<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/cv-pelvienne-sup">Colonne vertébrale pelvienne supérieure</a>
+					<li><a href="/desc/http://anat.org/cv-pelvienne-sup">Colonne vertébrale pelvienne supérieure<span id=infobulle><img src="" alt=""/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/v-S1">Vertèbre S1</a></li>
-						<li><a href="/desc/http://anat.org/v-S2">Vertèbre S2</a></li>
+						<li><a href="/desc/http://anat.org/v-S1">Vertèbre S1<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-S2">Vertèbre S2<span id=infobulle><img src="" alt=""/></span></a></li>
 						</ul>
 					</li>
-					<li><a href="/desc/http://anat.org/cv-pelvienne-inf">Colonne vertébrale pelvienne inférieure</a>
+					<li><a href="/desc/http://anat.org/cv-pelvienne-inf">Colonne vertébrale pelvienne inférieure<span id=infobulle><img src="" alt=""/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/v-S3">Vertèbre S3</a></li>
-						<li><a href="/desc/http://anat.org/v-S4">Vertèbre S4</a></li>
-						<li><a href="/desc/http://anat.org/v-S5">Vertèbre S5</a></li>
-						<li><a href="/desc/http://anat.org/coccyx">Coccyx</a></li>
-						<li><a href="/desc/http://anat.org/div-S5-Co">Disque intervertébral S5-Co</a></li>
+						<li><a href="/desc/http://anat.org/v-S3">Vertèbre S3<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-S4">Vertèbre S4<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-S5">Vertèbre S5<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/coccyx">Coccyx<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/div-S5-Co">Disque intervertébral S5-Co<span id=infobulle><img src="" alt=""/></span></a></li>
 						</ul>
 					</li>
 					</ul>
@@ -698,80 +698,80 @@ max-width:inherit;
 			</td>
 			<td>
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/vertebres">Vertèbres</a></li>
+				<li><a href="/desc/http://anat.org/vertebres">Vertèbres<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/v-C1">Vertèbre C1</a></li>
-					<li><a href="/desc/http://anat.org/v-C2">Vertèbre C2</a></li>
-					<li><a href="/desc/http://anat.org/v-C3">Vertèbre C3</a></li>
-					<li><a href="/desc/http://anat.org/v-C4">Vertèbre C4</a></li>
-					<li><a href="/desc/http://anat.org/v-C5">Vertèbre C5</a></li>
-					<li><a href="/desc/http://anat.org/v-C6">Vertèbre C6</a></li>
-					<li><a href="/desc/http://anat.org/v-C7">Vertèbre C7</a></li>
-					<li><a href="/desc/http://anat.org/v-T1">Vertèbre T1</a></li>
-					<li><a href="/desc/http://anat.org/v-T2">Vertèbre T2</a></li>
-					<li><a href="/desc/http://anat.org/v-T3">Vertèbre T3</a></li>
-					<li><a href="/desc/http://anat.org/v-T4">Vertèbre T4</a></li>
-					<li><a href="/desc/http://anat.org/v-T5">Vertèbre T5</a></li>
-					<li><a href="/desc/http://anat.org/v-T6">Vertèbre T6</a></li>
-					<li><a href="/desc/http://anat.org/v-T7">Vertèbre T7</a></li>
-					<li><a href="/desc/http://anat.org/v-T8">Vertèbre T8</a></li>
-					<li><a href="/desc/http://anat.org/v-T9">Vertèbre T9</a></li>
-					<li><a href="/desc/http://anat.org/v-T10">Vertèbre T10</a></li>
-					<li><a href="/desc/http://anat.org/v-T11">Vertèbre T11</a></li>
-					<li><a href="/desc/http://anat.org/v-T12">Vertèbre T12</a></li>
-					<li><a href="/desc/http://anat.org/v-L1">Vertèbre L1</a></li>
-					<li><a href="/desc/http://anat.org/v-L2">Vertèbre L2</a></li>
-					<li><a href="/desc/http://anat.org/v-L3">Vertèbre L3</a></li>
-					<li><a href="/desc/http://anat.org/v-L4">Vertèbre L4</a></li>
-					<li><a href="/desc/http://anat.org/v-L5">Vertèbre L5</a></li>
-					<li><a href="/desc/http://anat.org/sacrum">Sacrum</a>
+					<li><a href="/desc/http://anat.org/v-C1">Vertèbre C1<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/v-C2">Vertèbre C2<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/v-C3">Vertèbre C3<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/v-C4">Vertèbre C4<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/v-C5">Vertèbre C5<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/v-C6">Vertèbre C6<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/v-C7">Vertèbre C7<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/v-T1">Vertèbre T1<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/v-T2">Vertèbre T2<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/v-T3">Vertèbre T3<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/v-T4">Vertèbre T4<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/v-T5">Vertèbre T5<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/v-T6">Vertèbre T6<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/v-T7">Vertèbre T7<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/v-T8">Vertèbre T8<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/v-T9">Vertèbre T9<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/v-T10">Vertèbre T10<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/v-T11">Vertèbre T11<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/v-T12">Vertèbre T12<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/v-L1">Vertèbre L1<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/v-L2">Vertèbre L2<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/v-L3">Vertèbre L3<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/v-L4">Vertèbre L4<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/v-L5">Vertèbre L5<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/sacrum">Sacrum<span id=infobulle><img src="" alt=""/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/v-S1">Vertèbre S1</a></li>
-						<li><a href="/desc/http://anat.org/v-S2">Vertèbre S2</a></li>
-						<li><a href="/desc/http://anat.org/v-S3">Vertèbre S3</a></li>
-						<li><a href="/desc/http://anat.org/v-S4">Vertèbre S4</a></li>
-						<li><a href="/desc/http://anat.org/v-S5">Vertèbre S5</a></li>
+						<li><a href="/desc/http://anat.org/v-S1">Vertèbre S1<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-S2">Vertèbre S2<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-S3">Vertèbre S3<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-S4">Vertèbre S4<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-S5">Vertèbre S5<span id=infobulle><img src="" alt=""/></span></a></li>
 						</ul>
 					</li>
-					<li><a href="/desc/http://anat.org/coccyx">Coccyx</a></li>
+					<li><a href="/desc/http://anat.org/coccyx">Coccyx<span id=infobulle><img src="" alt=""/></span></a></li>
 					</ul>
 
 </div>
 
-				<li><a href="/desc/http://anat.org/disques-intervertebraux">Disques intervertébraux</a></li>
+				<li><a href="/desc/http://anat.org/disques-intervertebraux">Disques intervertébraux<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/div-C2-C3">Disque intervertébral C2-C3</a></li>
-					<li><a href="/desc/http://anat.org/div-C3-C4">Disque intervertébral C3-C4</a></li>
-					<li><a href="/desc/http://anat.org/div-C4-C5">Disque intervertébral C4-C5</a></li>
-					<li><a href="/desc/http://anat.org/div-C5-C6">Disque intervertébral C5-C6</a></li>
-					<li><a href="/desc/http://anat.org/div-C6-C7">Disque intervertébral C6-C7</a></li>
-					<li><a href="/desc/http://anat.org/div-C7-T1">Disque intervertébral C7-T1</a></li>
-					<li><a href="/desc/http://anat.org/div-T1-T2">Disque intervertébral T1-T2</a></li>
-					<li><a href="/desc/http://anat.org/div-T2-T3">Disque intervertébral T2-T3</a></li>
-					<li><a href="/desc/http://anat.org/div-T3-T4">Disque intervertébral T3-T4</a></li>
-					<li><a href="/desc/http://anat.org/div-T4-T5">Disque intervertébral T4-T5</a></li>
-					<li><a href="/desc/http://anat.org/div-T5-T6">Disque intervertébral T5-T6</a></li>
-					<li><a href="/desc/http://anat.org/div-T6-T7">Disque intervertébral T6-T7</a></li>
-					<li><a href="/desc/http://anat.org/div-T7-T8">Disque intervertébral T7-T8</a></li>
-					<li><a href="/desc/http://anat.org/div-T8-T9">Disque intervertébral T8-T9</a></li>
-					<li><a href="/desc/http://anat.org/div-T9-T10">Disque intervertébral T9-T10</a></li>
-					<li><a href="/desc/http://anat.org/div-T10-T11">Disque intervertébral T10-T11</a></li>
-					<li><a href="/desc/http://anat.org/div-T11-T12">Disque intervertébral T11-T12</a></li>
-					<li><a href="/desc/http://anat.org/div-T12-L1">Disque intervertébral T12-L1</a></li>
-					<li><a href="/desc/http://anat.org/div-L1-L2">Disque intervertébral L1-L2</a></li>
-					<li><a href="/desc/http://anat.org/div-L2-L3">Disque intervertébral L2-L3</a></li>
-					<li><a href="/desc/http://anat.org/div-L3-L4">Disque intervertébral L3-L4</a></li>
-					<li><a href="/desc/http://anat.org/div-L4-L5">Disque intervertébral L4-L5</a></li>
-					<li><a href="/desc/http://anat.org/div-L5-S1">Disque intervertébral L5-S1</a></li>
-					<li><a href="/desc/http://anat.org/div-S5-Co">Disque intervertébral S5-Co</a></li>
+					<li><a href="/desc/http://anat.org/div-C2-C3">Disque intervertébral C2-C3<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/div-C3-C4">Disque intervertébral C3-C4<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/div-C4-C5">Disque intervertébral C4-C5<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/div-C5-C6">Disque intervertébral C5-C6<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/div-C6-C7">Disque intervertébral C6-C7<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/div-C7-T1">Disque intervertébral C7-T1<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/div-T1-T2">Disque intervertébral T1-T2<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/div-T2-T3">Disque intervertébral T2-T3<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/div-T3-T4">Disque intervertébral T3-T4<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/div-T4-T5">Disque intervertébral T4-T5<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/div-T5-T6">Disque intervertébral T5-T6<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/div-T6-T7">Disque intervertébral T6-T7<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/div-T7-T8">Disque intervertébral T7-T8<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/div-T8-T9">Disque intervertébral T8-T9<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/div-T9-T10">Disque intervertébral T9-T10<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/div-T10-T11">Disque intervertébral T10-T11<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/div-T11-T12">Disque intervertébral T11-T12<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/div-T12-L1">Disque intervertébral T12-L1<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/div-L1-L2">Disque intervertébral L1-L2<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/div-L2-L3">Disque intervertébral L2-L3<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/div-L3-L4">Disque intervertébral L3-L4<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/div-L4-L5">Disque intervertébral L4-L5<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/div-L5-S1">Disque intervertébral L5-S1<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/div-S5-Co">Disque intervertébral S5-Co<span id=infobulle><img src="" alt=""/></span></a></li>
 					</ul>
 
 </div>
@@ -782,48 +782,49 @@ max-width:inherit;
 		</table>
 		</ul>
 	</li>
-	<li><a href="/desc/http://anat.org/charnieres-vertebrales">CHARNIÈRES VERTÉBRALES</a></li>
+	<li><a href="/desc/http://anat.org/charnieres-vertebrales">CHARNIÈRES VERTÉBRALES<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/charniere-C0-C1-C2">Charnière C0-C1-C2</a>			<ul style="list-style-type:circle">
+		<li><a href="/desc/http://anat.org/charniere-C0-C1-C2">Charnière C0-C1-C2<span id=infobulle><img src="" alt=""/></span></a>
+			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/occiput">Os occiput<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TX59PrKDiCiSSDeaKXOHneeG" alt="img. occiput"/></span></a></li>
-			<li><a href="/desc/http://anat.org/v-C1">Vertèbre C1</a></li>
-			<li><a href="/desc/http://anat.org/v-C2">Vertèbre C2</a></li>
+			<li><a href="/desc/http://anat.org/v-C1">Vertèbre C1<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-C2">Vertèbre C2<span id=infobulle><img src="" alt=""/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/charniere-cervico-thoracique">Charnière cervico-thoracique</a>
+		<li><a href="/desc/http://anat.org/charniere-cervico-thoracique">Charnière cervico-thoracique<span id=infobulle><img src="" alt=""/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/v-C7">Vertèbre C7</a></li>
-			<li><a href="/desc/http://anat.org/v-T1">Vertèbre T1</a></li>
-			<li><a href="/desc/http://anat.org/div-C7-T1">Disque intervertébral C7-T1</a></li>
-			<li><a href="/desc/http://anat.org/R-cote-1">1ere côte droite</a></li>
-			<li><a href="/desc/http://anat.org/L-cote-1">1ere côte gauche</a></li>
-			<li><a href="/desc/http://anat.org/R-carti-costal-1">1er cartilage costal droit</a></li>
-			<li><a href="/desc/http://anat.org/L-carti-costal-1">1er cartilage costal gauche</a></li>
+			<li><a href="/desc/http://anat.org/v-C7">Vertèbre C7<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-T1">Vertèbre T1<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/div-C7-T1">Disque intervertébral C7-T1<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-cote-1">1ere côte droite<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-cote-1">1ere côte gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-carti-costal-1">1er cartilage costal droit<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-carti-costal-1">1er cartilage costal gauche<span id=infobulle><img src="" alt=""/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/charniere-thoraco-lombaire">Charnière thoraco-lombaire</a>
+		<li><a href="/desc/http://anat.org/charniere-thoraco-lombaire">Charnière thoraco-lombaire<span id=infobulle><img src="" alt=""/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/v-T12">Vertèbre T12</a></li>
-			<li><a href="/desc/http://anat.org/v-L1">Vertèbre L1</a></li>
-			<li><a href="/desc/http://anat.org/div-T12-L1">Disque intervertébral T12-L1</a></li>
+			<li><a href="/desc/http://anat.org/v-T12">Vertèbre T12<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-L1">Vertèbre L1<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/div-T12-L1">Disque intervertébral T12-L1<span id=infobulle><img src="" alt=""/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/charniere-lombo-sacree">Charnière lombo-sacrée</a>
+		<li><a href="/desc/http://anat.org/charniere-lombo-sacree">Charnière lombo-sacrée<span id=infobulle><img src="" alt=""/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/v-L5">Vertèbre L5</a></li>
-			<li><a href="/desc/http://anat.org/v-S1">Vertèbre S1</a></li>
-			<li><a href="/desc/http://anat.org/div-L5-S1">Disque intervertébral L5-S1</a></li>
+			<li><a href="/desc/http://anat.org/v-L5">Vertèbre L5<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-S1">Vertèbre S1<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/div-L5-S1">Disque intervertébral L5-S1<span id=infobulle><img src="" alt=""/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/charniere-sacro-coccygienne">Charnière sacro-coccygienne</a>
+		<li><a href="/desc/http://anat.org/charniere-sacro-coccygienne">Charnière sacro-coccygienne<span id=infobulle><img src="" alt=""/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/v-S5">Vertèbre S5</a></li>
-			<li><a href="/desc/http://anat.org/coccyx">Coccyx</a></li>
-			<li><a href="/desc/http://anat.org/div-S5-Co">Disque intervertébral S5-Co</a></li>
+			<li><a href="/desc/http://anat.org/v-S5">Vertèbre S5<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/coccyx">Coccyx<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/div-S5-Co">Disque intervertébral S5-Co<span id=infobulle><img src="" alt=""/></span></a></li>
 			</ul>
 		</li>
 		</ul>
@@ -840,36 +841,36 @@ max-width:inherit;
 
 	<ul style="list-style-type:square">
 	<li><a href="/desc/http://anat.org/os-hyoide">Os hyoïde<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bmai8PfKfWDO1r8Tn4fKbW9D" alt="img. hyoide"/></span></a></li>
-	<li><a href="/desc/http://anat.org/cv-cervicale">COLONNE VERTÉBRALE CERVICALE</a></li>
+	<li><a href="/desc/http://anat.org/cv-cervicale">COLONNE VERTÉBRALE CERVICALE<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/cv-cervicale-sup">Colonne vertébrale cervicale supérieure</a>
+		<li><a href="/desc/http://anat.org/cv-cervicale-sup">Colonne vertébrale cervicale supérieure<span id=infobulle><img src="" alt=""/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/v-C1">Vertèbre C1</a></li>
-			<li><a href="/desc/http://anat.org/v-C2">Vertèbre C2</a></li>
-			<li><a href="/desc/http://anat.org/v-C3">Vertèbre C3</a></li>
-			<li><a href="/desc/http://anat.org/div-C2-C3">Disque intervertébral C2-C3</a></li>
+			<li><a href="/desc/http://anat.org/v-C1">Vertèbre C1<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-C2">Vertèbre C2<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-C3">Vertèbre C3<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/div-C2-C3">Disque intervertébral C2-C3<span id=infobulle><img src="" alt=""/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/cv-cervicale-moy">Colonne vertébrale cervicale moyenne</a>
+		<li><a href="/desc/http://anat.org/cv-cervicale-moy">Colonne vertébrale cervicale moyenne<span id=infobulle><img src="" alt=""/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/v-C3">Vertèbre C3</a></li>
-			<li><a href="/desc/http://anat.org/v-C4">Vertèbre C4</a></li>
-			<li><a href="/desc/http://anat.org/v-C5">Vertèbre C5</a></li>
-			<li><a href="/desc/http://anat.org/div-C3-C4">Disque intervertébral C3-C4</a></li>
-			<li><a href="/desc/http://anat.org/div-C4-C5">Disque intervertébral C4-C5</a></li>
+			<li><a href="/desc/http://anat.org/v-C3">Vertèbre C3<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-C4">Vertèbre C4<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-C5">Vertèbre C5<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/div-C3-C4">Disque intervertébral C3-C4<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/div-C4-C5">Disque intervertébral C4-C5<span id=infobulle><img src="" alt=""/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/cv-cervicale-inf">Colonne vertébrale cervicale inférieure</a>
+		<li><a href="/desc/http://anat.org/cv-cervicale-inf">Colonne vertébrale cervicale inférieure<span id=infobulle><img src="" alt=""/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/v-C5">Vertèbre C5</a></li>
-			<li><a href="/desc/http://anat.org/v-C6">Vertèbre C6</a></li>
-			<li><a href="/desc/http://anat.org/v-C7">Vertèbre C7</a></li>
-			<li><a href="/desc/http://anat.org/div-C5-C6">Disque intervertébral C5-C6</a></li>
-			<li><a href="/desc/http://anat.org/div-C6-C7">Disque intervertébral C6-C7</a></li>
+			<li><a href="/desc/http://anat.org/v-C5">Vertèbre C5<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-C6">Vertèbre C6<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-C7">Vertèbre C7<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/div-C5-C6">Disque intervertébral C5-C6<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/div-C6-C7">Disque intervertébral C6-C7<span id=infobulle><img src="" alt=""/></span></a></li>
 			</ul>
 		</li>
 		</ul>
@@ -885,54 +886,54 @@ max-width:inherit;
 <div class="content">
 
 	<ul style="list-style-type:square">
-	<li><a href="/desc/http://anat.org/cv-thoraciq">COLONNE VERTÉBRALE THORACIQUE</a></li>
+	<li><a href="/desc/http://anat.org/cv-thoraciq">COLONNE VERTÉBRALE THORACIQUE<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼ </button>
 <div class="content">
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/cv-thoraciq-sup">Colonne vertébrale thoracique supérieure</a>
+		<li><a href="/desc/http://anat.org/cv-thoraciq-sup">Colonne vertébrale thoracique supérieure<span id=infobulle><img src="" alt=""/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/v-T1">Vertèbre T1</a></li>
-			<li><a href="/desc/http://anat.org/v-T2">Vertèbre T2</a></li>
-			<li><a href="/desc/http://anat.org/v-T3">Vertèbre T3</a></li>
-			<li><a href="/desc/http://anat.org/v-T4">Vertèbre T4</a></li>
-			<li><a href="/desc/http://anat.org/v-T5">Vertèbre T5</a></li>
-			<li><a href="/desc/http://anat.org/v-T6">Vertèbre T6</a></li>
-			<li><a href="/desc/http://anat.org/div-T1-T2">Disque intervertébral T1-T2</a></li>
-			<li><a href="/desc/http://anat.org/div-T2-T3">Disque intervertébral T2-T3</a></li>
-			<li><a href="/desc/http://anat.org/div-T3-T4">Disque intervertébral T3-T4</a></li>
-			<li><a href="/desc/http://anat.org/div-T4-T5">Disque intervertébral T4-T5</a></li>
-			<li><a href="/desc/http://anat.org/div-T5-T6">Disque intervertébral T5-T6</a></li>
+			<li><a href="/desc/http://anat.org/v-T1">Vertèbre T1<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-T2">Vertèbre T2<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-T3">Vertèbre T3<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-T4">Vertèbre T4<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-T5">Vertèbre T5<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-T6">Vertèbre T6<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/div-T1-T2">Disque intervertébral T1-T2<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/div-T2-T3">Disque intervertébral T2-T3<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/div-T3-T4">Disque intervertébral T3-T4<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/div-T4-T5">Disque intervertébral T4-T5<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/div-T5-T6">Disque intervertébral T5-T6<span id=infobulle><img src="" alt=""/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/cv-thoraciq-moy">Colonne vertébrale thoracique moyenne</a>
+		<li><a href="/desc/http://anat.org/cv-thoraciq-moy">Colonne vertébrale thoracique moyenne<span id=infobulle><img src="" alt=""/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/v-T6">Vertèbre T6</a></li>
-			<li><a href="/desc/http://anat.org/v-T7">Vertèbre T7</a></li>
-			<li><a href="/desc/http://anat.org/v-T8">Vertèbre T8</a></li>
-			<li><a href="/desc/http://anat.org/v-T9">Vertèbre T9</a></li>
-			<li><a href="/desc/http://anat.org/v-T10">Vertèbre T10</a></li>
-			<li><a href="/desc/http://anat.org/div-T6-T7">Disque intervertébral T6-T7</a></li>
-			<li><a href="/desc/http://anat.org/div-T7-T8">Disque intervertébral T7-T8</a></li>
-			<li><a href="/desc/http://anat.org/div-T8-T9">Disque intervertébral T8-T9</a></li>
-			<li><a href="/desc/http://anat.org/div-T9-T10">Disque intervertébral T9-T10</a></li>
+			<li><a href="/desc/http://anat.org/v-T6">Vertèbre T6<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-T7">Vertèbre T7<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-T8">Vertèbre T8<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-T9">Vertèbre T9<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-T10">Vertèbre T10<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/div-T6-T7">Disque intervertébral T6-T7<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/div-T7-T8">Disque intervertébral T7-T8<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/div-T8-T9">Disque intervertébral T8-T9<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/div-T9-T10">Disque intervertébral T9-T10<span id=infobulle><img src="" alt=""/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/cv-thoraciq-inf">Colonne vertébrale thoracique inférieure</a>
+		<li><a href="/desc/http://anat.org/cv-thoraciq-inf">Colonne vertébrale thoracique inférieure<span id=infobulle><img src="" alt=""/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/v-T10">Vertèbre T10</a></li>
-			<li><a href="/desc/http://anat.org/v-T11">Vertèbre T11</a></li>
-			<li><a href="/desc/http://anat.org/v-T12">Vertèbre T12</a></li>
-			<li><a href="/desc/http://anat.org/div-T10-T11">Disque intervertébral T10-T11</a></li>
-			<li><a href="/desc/http://anat.org/div-T11-T12">Disque intervertébral T11-T12</a></li>
+			<li><a href="/desc/http://anat.org/v-T10">Vertèbre T10<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-T11">Vertèbre T11<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-T12">Vertèbre T12<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/div-T10-T11">Disque intervertébral T10-T11<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/div-T11-T12">Disque intervertébral T11-T12<span id=infobulle><img src="" alt=""/></span></a></li>
 			</ul>
 		</li>
 		</ul>
 
 </div>
 
-	<li><a href="/desc/http://anat.org/cage-thoracique">CAGE THORACIQUE</a></li>
+	<li><a href="/desc/http://anat.org/cage-thoracique">CAGE THORACIQUE<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -942,93 +943,93 @@ max-width:inherit;
 		<tr>
 			<td>
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/cage-thoracique-sup">Cage thoracique supérieure</a></li>
+				<li><a href="/desc/http://anat.org/cage-thoracique-sup">Cage thoracique supérieure<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/sternum">Sternum</a></li>
-					<li><a href="/desc/http://anat.org/arc-costal-1">1er arc costal</a></li>
+					<li><a href="/desc/http://anat.org/sternum">Sternum<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/arc-costal-1">1er arc costal<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-cote-1">1ere côte droite</a></li>
-						<li><a href="/desc/http://anat.org/L-cote-1">1ere côte gauche</a></li>
-						<li><a href="/desc/http://anat.org/R-carti-costal-1">1er cartilage costal droit</a></li>
-						<li><a href="/desc/http://anat.org/L-carti-costal-1">1er cartilage costal gauche</a></li>
+						<li><a href="/desc/http://anat.org/R-cote-1">1ere côte droite<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-cote-1">1ere côte gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-carti-costal-1">1er cartilage costal droit<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-carti-costal-1">1er cartilage costal gauche<span id=infobulle><img src="" alt=""/></span></a></li>
 						</ul>
 
 </div>
 
-					<li><a href="/desc/http://anat.org/arc-costal-2">2e arc costal</a></li>
+					<li><a href="/desc/http://anat.org/arc-costal-2">2e arc costal<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-cote-2">2e côte droite</a></li>
-						<li><a href="/desc/http://anat.org/L-cote-2">2e côte gauche</a></li>
-						<li><a href="/desc/http://anat.org/R-carti-costal-2">2e cartilage costal droit</a></li>
-						<li><a href="/desc/http://anat.org/L-carti-costal-2">2e cartilage costal gauche</a></li>
+						<li><a href="/desc/http://anat.org/R-cote-2">2e côte droite<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-cote-2">2e côte gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-carti-costal-2">2e cartilage costal droit<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-carti-costal-2">2e cartilage costal gauche<span id=infobulle><img src="" alt=""/></span></a></li>
 						</ul>
 
 </div>
 
-					<li><a href="/desc/http://anat.org/arc-costal-3">3e arc costal</a></li>
+					<li><a href="/desc/http://anat.org/arc-costal-3">3e arc costal<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-cote-3">3e côte droite</a></li>
-						<li><a href="/desc/http://anat.org/L-cote-3">3e côte gauche</a></li>
-						<li><a href="/desc/http://anat.org/R-carti-costal-3">3e cartilage costal droit</a></li>
-						<li><a href="/desc/http://anat.org/L-carti-costal-3">3e cartilage costal gauche</a></li>
+						<li><a href="/desc/http://anat.org/R-cote-3">3e côte droite<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-cote-3">3e côte gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-carti-costal-3">3e cartilage costal droit<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-carti-costal-3">3e cartilage costal gauche<span id=infobulle><img src="" alt=""/></span></a></li>
 						</ul>
 
 </div>
 
-					<li><a href="/desc/http://anat.org/arc-costal-4">4e arc costal</a></li>
+					<li><a href="/desc/http://anat.org/arc-costal-4">4e arc costal<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-cote-4">4e côte droite</a></li>
-						<li><a href="/desc/http://anat.org/L-cote-4">4e côte gauche</a></li>
-						<li><a href="/desc/http://anat.org/R-carti-costal-4">4e cartilage costal droit</a></li>
-						<li><a href="/desc/http://anat.org/L-carti-costal-4">4e cartilage costal gauche</a></li>
+						<li><a href="/desc/http://anat.org/R-cote-4">4e côte droite<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-cote-4">4e côte gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-carti-costal-4">4e cartilage costal droit<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-carti-costal-4">4e cartilage costal gauche<span id=infobulle><img src="" alt=""/></span></a></li>
 						</ul>
 
 </div>
 
-					<li><a href="/desc/http://anat.org/arc-costal-5">5e arc costal</a></li>
+					<li><a href="/desc/http://anat.org/arc-costal-5">5e arc costal<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-cote-5">5e côte droite</a></li>
-						<li><a href="/desc/http://anat.org/L-cote-5">5e côte gauche</a></li>
-						<li><a href="/desc/http://anat.org/R-carti-costal-5">5e cartilage costal droit</a></li>
-						<li><a href="/desc/http://anat.org/L-carti-costal-5">5e cartilage costal gauche</a></li>
+						<li><a href="/desc/http://anat.org/R-cote-5">5e côte droite<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-cote-5">5e côte gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-carti-costal-5">5e cartilage costal droit<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-carti-costal-5">5e cartilage costal gauche<span id=infobulle><img src="" alt=""/></span></a></li>
 						</ul>
 
 </div>
 
-					<li><a href="/desc/http://anat.org/arc-costal-6">6e arc costal</a></li>
+					<li><a href="/desc/http://anat.org/arc-costal-6">6e arc costal<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-cote-6">6e côte droite</a></li>
-						<li><a href="/desc/http://anat.org/L-cote-6">6e côte gauche</a></li>
-						<li><a href="/desc/http://anat.org/R-carti-costal-6">6e cartilage costal droit</a></li>
-						<li><a href="/desc/http://anat.org/L-carti-costal-6">6e cartilage costal gauche</a></li>
+						<li><a href="/desc/http://anat.org/R-cote-6">6e côte droite<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-cote-6">6e côte gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-carti-costal-6">6e cartilage costal droit<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-carti-costal-6">6e cartilage costal gauche<span id=infobulle><img src="" alt=""/></span></a></li>
 						</ul>
 
 </div>
@@ -1037,65 +1038,65 @@ max-width:inherit;
 
 </div>
 
-				<li><a href="/desc/http://anat.org/cage-thoracique-moy">Cage thoracique moyenne</a></li>
+				<li><a href="/desc/http://anat.org/cage-thoracique-moy">Cage thoracique moyenne<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/sternum">Sternum</a></li>
-					<li><a href="/desc/http://anat.org/arc-costal-7">7e arc costal</a></li>
+					<li><a href="/desc/http://anat.org/sternum">Sternum<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/arc-costal-7">7e arc costal<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-cote-7">7e côte droite</a></li>
-						<li><a href="/desc/http://anat.org/L-cote-7">7e côte gauche</a></li>
-						<li><a href="/desc/http://anat.org/R-carti-costal-7">7e cartilage costal droit</a></li>
-						<li><a href="/desc/http://anat.org/L-carti-costal-7">7e cartilage costal gauche</a></li>
+						<li><a href="/desc/http://anat.org/R-cote-7">7e côte droite<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-cote-7">7e côte gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-carti-costal-7">7e cartilage costal droit<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-carti-costal-7">7e cartilage costal gauche<span id=infobulle><img src="" alt=""/></span></a></li>
 						</ul>
 
 </div>
 
-					<li><a href="/desc/http://anat.org/arc-costal-8">8e arc costal</a></li>
+					<li><a href="/desc/http://anat.org/arc-costal-8">8e arc costal<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-cote-8">8e côte droite</a></li>
-						<li><a href="/desc/http://anat.org/L-cote-8">8e côte gauche</a></li>
-						<li><a href="/desc/http://anat.org/R-carti-costal-8">8e cartilage costal droit</a></li>
-						<li><a href="/desc/http://anat.org/L-carti-costal-8">8e cartilage costal gauche</a></li>
+						<li><a href="/desc/http://anat.org/R-cote-8">8e côte droite<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-cote-8">8e côte gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-carti-costal-8">8e cartilage costal droit<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-carti-costal-8">8e cartilage costal gauche<span id=infobulle><img src="" alt=""/></span></a></li>
 						</ul>
 
 </div>
 
-					<li><a href="/desc/http://anat.org/arc-costal-9">9e arc costal</a></li>
+					<li><a href="/desc/http://anat.org/arc-costal-9">9e arc costal<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-cote-9">9e côte droite</a></li>
-						<li><a href="/desc/http://anat.org/L-cote-9">9e côte gauche</a></li>
-						<li><a href="/desc/http://anat.org/R-carti-costal-9">9e cartilage costal droit</a></li>
-						<li><a href="/desc/http://anat.org/L-carti-costal-9">9e cartilage costal gauche</a></li>
+						<li><a href="/desc/http://anat.org/R-cote-9">9e côte droite<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-cote-9">9e côte gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-carti-costal-9">9e cartilage costal droit<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-carti-costal-9">9e cartilage costal gauche<span id=infobulle><img src="" alt=""/></span></a></li>
 						</ul>
 
 </div>
 
-					<li><a href="/desc/http://anat.org/arc-costal-10">10e arc costal</a></li>
+					<li><a href="/desc/http://anat.org/arc-costal-10">10e arc costal<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-cote-10">10e côte droite</a></li>
-						<li><a href="/desc/http://anat.org/L-cote-10">10e côte gauche</a></li>
-						<li><a href="/desc/http://anat.org/R-carti-costal-10">10e cartilage costal droit</a></li>
-						<li><a href="/desc/http://anat.org/L-carti-costal-10">10e cartilage costal gauche</a></li>
+						<li><a href="/desc/http://anat.org/R-cote-10">10e côte droite<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-cote-10">10e côte gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-carti-costal-10">10e cartilage costal droit<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-carti-costal-10">10e cartilage costal gauche<span id=infobulle><img src="" alt=""/></span></a></li>
 						</ul>
 
 </div>
@@ -1104,32 +1105,32 @@ max-width:inherit;
 
 </div>
 
-				<li><a href="/desc/http://anat.org/cage-thoracique-inf">Cage thoracique inférieure</a></li>
+				<li><a href="/desc/http://anat.org/cage-thoracique-inf">Cage thoracique inférieure<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/arc-costal-11">11e arc costal</a></li>
+					<li><a href="/desc/http://anat.org/arc-costal-11">11e arc costal<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-cote-11">11e côte droite</a></li>
-						<li><a href="/desc/http://anat.org/L-cote-11">11e côte gauche</a></li>
+						<li><a href="/desc/http://anat.org/R-cote-11">11e côte droite<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-cote-11">11e côte gauche<span id=infobulle><img src="" alt=""/></span></a></li>
 						</ul>
 
 </div>
 
-					<li><a href="/desc/http://anat.org/arc-costal-12">12e arc costal</a></li>
+					<li><a href="/desc/http://anat.org/arc-costal-12">12e arc costal<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-cote-12">12e côte droite</a></li>
-						<li><a href="/desc/http://anat.org/L-cote-12">12e côte gauche</a></li>
+						<li><a href="/desc/http://anat.org/R-cote-12">12e côte droite<span id=infobulle><img src="" alt=""/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-cote-12">12e côte gauche<span id=infobulle><img src="" alt=""/></span></a></li>
 						</ul>
 
 </div>
@@ -1142,67 +1143,67 @@ max-width:inherit;
 			</td>
 			<td>
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/sternum">Sternum</a></li>
-				<li><a href="/desc/http://anat.org/cotes">Côtes</a></li>
+				<li><a href="/desc/http://anat.org/sternum">Sternum<span id=infobulle><img src="" alt=""/></span></a></li>
+				<li><a href="/desc/http://anat.org/cotes">Côtes<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-cote-1">1ere côte droite</a></li>
-					<li><a href="/desc/http://anat.org/R-cote-2">2e côte droite</a></li>
-					<li><a href="/desc/http://anat.org/R-cote-3">3e côte droite</a></li>
-					<li><a href="/desc/http://anat.org/R-cote-4">4e côte droite</a></li>
-					<li><a href="/desc/http://anat.org/R-cote-5">5e côte droite</a></li>
-					<li><a href="/desc/http://anat.org/R-cote-6">6e côte droite</a></li>
-					<li><a href="/desc/http://anat.org/R-cote-7">7e côte droite</a></li>
-					<li><a href="/desc/http://anat.org/R-cote-8">8e côte droite</a></li>
-					<li><a href="/desc/http://anat.org/R-cote-9">9e côte droite</a></li>
-					<li><a href="/desc/http://anat.org/R-cote-10">10e côte droite</a></li>
-					<li><a href="/desc/http://anat.org/R-cote-11">11e côte droite</a></li>
-					<li><a href="/desc/http://anat.org/R-cote-12">12e côte droite</a></li>
-					<li><a href="/desc/http://anat.org/L-cote-1">1ere côte gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-cote-2">2e côte gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-cote-3">3e côte gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-cote-4">4e côte gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-cote-5">5e côte gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-cote-6">6e côte gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-cote-7">7e côte gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-cote-8">8e côte gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-cote-9">9e côte gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-cote-10">10e côte gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-cote-11">11e côte gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-cote-12">12e côte gauche</a></li>
+					<li><a href="/desc/http://anat.org/R-cote-1">1ere côte droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-cote-2">2e côte droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-cote-3">3e côte droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-cote-4">4e côte droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-cote-5">5e côte droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-cote-6">6e côte droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-cote-7">7e côte droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-cote-8">8e côte droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-cote-9">9e côte droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-cote-10">10e côte droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-cote-11">11e côte droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-cote-12">12e côte droite<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-cote-1">1ere côte gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-cote-2">2e côte gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-cote-3">3e côte gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-cote-4">4e côte gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-cote-5">5e côte gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-cote-6">6e côte gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-cote-7">7e côte gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-cote-8">8e côte gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-cote-9">9e côte gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-cote-10">10e côte gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-cote-11">11e côte gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-cote-12">12e côte gauche<span id=infobulle><img src="" alt=""/></span></a></li>
 					</ul>
 
 </div>
 
-				<li><a href="/desc/http://anat.org/cartilages-costaux">Cartilages costaux</a></li>
+				<li><a href="/desc/http://anat.org/cartilages-costaux">Cartilages costaux<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-carti-costal-1">1er cartilage costal droit</a></li>
-					<li><a href="/desc/http://anat.org/R-carti-costal-2">2e cartilage costal droit</a></li>
-					<li><a href="/desc/http://anat.org/R-carti-costal-3">3e cartilage costal droit</a></li>
-					<li><a href="/desc/http://anat.org/R-carti-costal-4">4e cartilage costal droit</a></li>
-					<li><a href="/desc/http://anat.org/R-carti-costal-5">5e cartilage costal droit</a></li>
-					<li><a href="/desc/http://anat.org/R-carti-costal-6">6e cartilage costal droit</a></li>
-					<li><a href="/desc/http://anat.org/R-carti-costal-7">7e cartilage costal droit</a></li>
-					<li><a href="/desc/http://anat.org/R-carti-costal-8">8e cartilage costal droit</a></li>
-					<li><a href="/desc/http://anat.org/R-carti-costal-9">9e cartilage costal droit</a></li>
-					<li><a href="/desc/http://anat.org/R-carti-costal-10">10e cartilage costal droit</a></li>
-					<li><a href="/desc/http://anat.org/L-carti-costal-1">1er cartilage costal gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-carti-costal-2">2e cartilage costal gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-carti-costal-3">3e cartilage costal gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-carti-costal-4">4e cartilage costal gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-carti-costal-5">5e cartilage costal gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-carti-costal-6">6e cartilage costal gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-carti-costal-7">7e cartilage costal gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-carti-costal-8">8e cartilage costal gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-carti-costal-9">9e cartilage costal gauche</a></li>
-					<li><a href="/desc/http://anat.org/L-carti-costal-10">10e cartilage costal gauche</a></li>
+					<li><a href="/desc/http://anat.org/R-carti-costal-1">1er cartilage costal droit<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-carti-costal-2">2e cartilage costal droit<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-carti-costal-3">3e cartilage costal droit<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-carti-costal-4">4e cartilage costal droit<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-carti-costal-5">5e cartilage costal droit<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-carti-costal-6">6e cartilage costal droit<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-carti-costal-7">7e cartilage costal droit<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-carti-costal-8">8e cartilage costal droit<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-carti-costal-9">9e cartilage costal droit<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-carti-costal-10">10e cartilage costal droit<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-carti-costal-1">1er cartilage costal gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-carti-costal-2">2e cartilage costal gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-carti-costal-3">3e cartilage costal gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-carti-costal-4">4e cartilage costal gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-carti-costal-5">5e cartilage costal gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-carti-costal-6">6e cartilage costal gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-carti-costal-7">7e cartilage costal gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-carti-costal-8">8e cartilage costal gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-carti-costal-9">9e cartilage costal gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-carti-costal-10">10e cartilage costal gauche<span id=infobulle><img src="" alt=""/></span></a></li>
 					</ul>
 
 </div>
@@ -1224,28 +1225,28 @@ max-width:inherit;
 <div class="content">
 
 	<ul style="list-style-type:square">
-	<li><a href="/desc/http://anat.org/cv-lombaire">COLONNE VERTÉBRALE LOMBAIRE</a></li>
+	<li><a href="/desc/http://anat.org/cv-lombaire">COLONNE VERTÉBRALE LOMBAIRE<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/cv-lombaire-sup">Colonne vertébrale lombaire supérieure</a></li>
+		<li><a href="/desc/http://anat.org/cv-lombaire-sup">Colonne vertébrale lombaire supérieure<span id=infobulle><img src="" alt=""/></span></a></li>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/v-L1">Vertèbre L1</a></li>
-			<li><a href="/desc/http://anat.org/v-L2">Vertèbre L2</a></li>
-			<li><a href="/desc/http://anat.org/v-L3">Vertèbre L3</a></li>
-			<li><a href="/desc/http://anat.org/div-L1-L2">Disque intervertébral L1-L2</a></li>
-			<li><a href="/desc/http://anat.org/div-L2-L3">Disque intervertébral L2-L3</a></li>
+			<li><a href="/desc/http://anat.org/v-L1">Vertèbre L1<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-L2">Vertèbre L2<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-L3">Vertèbre L3<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/div-L1-L2">Disque intervertébral L1-L2<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/div-L2-L3">Disque intervertébral L2-L3<span id=infobulle><img src="" alt=""/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/cv-lombaire-inf">Colonne vertébrale lombaire inférieure</a>
+		<li><a href="/desc/http://anat.org/cv-lombaire-inf">Colonne vertébrale lombaire inférieure<span id=infobulle><img src="" alt=""/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/v-L3">Vertèbre L3</a></li>
-			<li><a href="/desc/http://anat.org/v-L4">Vertèbre L4</a></li>
-			<li><a href="/desc/http://anat.org/v-L5">Vertèbre L5</a></li>
-			<li><a href="/desc/http://anat.org/div-L3-L4">Disque intervertébral L3-L4</a></li>
-			<li><a href="/desc/http://anat.org/div-L4-L5">Disque intervertébral L4-L5</a></li>
+			<li><a href="/desc/http://anat.org/v-L3">Vertèbre L3<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-L4">Vertèbre L4<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-L5">Vertèbre L5<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/div-L3-L4">Disque intervertébral L3-L4<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/div-L4-L5">Disque intervertébral L4-L5<span id=infobulle><img src="" alt=""/></span></a></li>
 			</ul>
 		</li>
 		</ul>
@@ -1261,30 +1262,30 @@ max-width:inherit;
 <div class="content">
 
 	<ul style="list-style-type:square">
-	<li><a href="/desc/http://anat.org/pelvis-osseux">PELVIS OSSEUX</a></li>
+	<li><a href="/desc/http://anat.org/pelvis-osseux">PELVIS OSSEUX<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 		<ul style="list-style-type:circle">
-		<li><a href="/desc/http://anat.org/sacrum">Sacrum</a>
+		<li><a href="/desc/http://anat.org/sacrum">Sacrum<span id=infobulle><img src="" alt=""/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/v-S1">Vertèbre S1</a></li>
-			<li><a href="/desc/http://anat.org/v-S2">Vertèbre S2</a></li>
-			<li><a href="/desc/http://anat.org/v-S3">Vertèbre S3</a></li>
-			<li><a href="/desc/http://anat.org/v-S4">Vertèbre S4</a></li>
-			<li><a href="/desc/http://anat.org/v-S5">Vertèbre S5</a></li>
+			<li><a href="/desc/http://anat.org/v-S1">Vertèbre S1<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-S2">Vertèbre S2<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-S3">Vertèbre S3<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-S4">Vertèbre S4<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-S5">Vertèbre S5<span id=infobulle><img src="" alt=""/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/coccyx">Coccyx</a></li>
-		<li><a href="/desc/http://anat.org/R-iliaque">Os coxal (iliaque) droit</a></li>
-		<li><a href="/desc/http://anat.org/L-iliaque">Os coxal (iliaque) gauche</a></li>
+		<li><a href="/desc/http://anat.org/coccyx">Coccyx<span id=infobulle><img src="" alt=""/></span></a></li>
+		<li><a href="/desc/http://anat.org/R-iliaque">Os coxal (iliaque) droit<span id=infobulle><img src="" alt=""/></span></a></li>
+		<li><a href="/desc/http://anat.org/L-iliaque">Os coxal (iliaque) gauche<span id=infobulle><img src="" alt=""/></span></a></li>
 		</ul>
 
 </div>
 
-	<li><a href="/desc/http://anat.org/div-S5-Co">Disque intervertébral S5-Co</a></li>
-	<li><a href="/desc/http://anat.org/disque-interpubien">Disque interpubien</a></li>
+	<li><a href="/desc/http://anat.org/div-S5-Co">Disque intervertébral S5-Co<span id=infobulle><img src="" alt=""/></span></a></li>
+	<li><a href="/desc/http://anat.org/disque-interpubien">Disque interpubien<span id=infobulle><img src="" alt=""/></span></a></li>
 	</ul>
 
 
@@ -1294,57 +1295,57 @@ max-width:inherit;
 <div class="content">
 
 	<ul style="list-style-type:square">
-	<li><a href="/desc/http://anat.org/OS-ceinture-pelv">CEINTURE PELVIENNE</a></li>
+	<li><a href="/desc/http://anat.org/OS-ceinture-pelv">CEINTURE PELVIENNE<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/OS-R-hanche">OS DE LA HANCHE DROITE</a>
+		<li><a href="/desc/http://anat.org/OS-R-hanche">OS DE LA HANCHE DROITE<span id=infobulle><img src="" alt=""/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-iliaque">Os coxal (iliaque) droit</a></li>
-			<li><a href="/desc/http://anat.org/R-femur-epiP-sup">Épiphyse supérieure du fémur droit</a></li>
-			<li><a href="/desc/http://anat.org/R-labrum-acetabulaire">Labrum acétabulaire droit</a></li>
+			<li><a href="/desc/http://anat.org/R-iliaque">Os coxal (iliaque) droit<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-femur-epiP-sup">Épiphyse supérieure du fémur droit<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-labrum-acetabulaire">Labrum acétabulaire droit<span id=infobulle><img src="" alt=""/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/OS-L-hanche">OS DE LA HANCHE GAUCHE</a>
+		<li><a href="/desc/http://anat.org/OS-L-hanche">OS DE LA HANCHE GAUCHE<span id=infobulle><img src="" alt=""/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/L-iliaque">Os coxal (iliaque) gauche</a></li>
-			<li><a href="/desc/http://anat.org/L-femur-epiP-sup">Épiphyse supérieure du fémur gauche</a></li>
-			<li><a href="/desc/http://anat.org/L-labrum-acetabulaire">Labrum acétabulaire gauche</a></li>
+			<li><a href="/desc/http://anat.org/L-iliaque">Os coxal (iliaque) gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-femur-epiP-sup">Épiphyse supérieure du fémur gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-labrum-acetabulaire">Labrum acétabulaire gauche<span id=infobulle><img src="" alt=""/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/disque-interpubien">Disque interpubien</a></li>
-		<li><a href="/desc/http://anat.org/sacrum">Sacrum</a></li>
-		<li><a href="/desc/http://anat.org/coccyx">Coccyx</a></li>
-		<li><a href="/desc/http://anat.org/div-S5-Co">Disque intervertébral S5-Co</a></li>
+		<li><a href="/desc/http://anat.org/disque-interpubien">Disque interpubien<span id=infobulle><img src="" alt=""/></span></a></li>
+		<li><a href="/desc/http://anat.org/sacrum">Sacrum<span id=infobulle><img src="" alt=""/></span></a></li>
+		<li><a href="/desc/http://anat.org/coccyx">Coccyx<span id=infobulle><img src="" alt=""/></span></a></li>
+		<li><a href="/desc/http://anat.org/div-S5-Co">Disque intervertébral S5-Co<span id=infobulle><img src="" alt=""/></span></a></li>
 		</ul>
 
 </div>
 
-	<li><a href="/desc/http://anat.org/OS-ceinture-scap">CEINTURE SCAPULAIRE</a></li>
+	<li><a href="/desc/http://anat.org/OS-ceinture-scap">CEINTURE SCAPULAIRE<span id=infobulle><img src="" alt=""/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/OS-R-epaule">OS DE LA ÉPAULE DROITE</a>
+		<li><a href="/desc/http://anat.org/OS-R-epaule">OS DE LA ÉPAULE DROITE<span id=infobulle><img src="" alt=""/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-clavicule">Clavicule droite</a></li>
-			<li><a href="/desc/http://anat.org/R-scapula">Scapula droite</a></li>
-			<li><a href="/desc/http://anat.org/R-humerus-epiP-sup">Épiphyse supérieure de l'humérus droit</a></li>
-			<li><a href="/desc/http://anat.org/R-labrum-glenoidal">Labrum glénoïdal droit</a></li>
+			<li><a href="/desc/http://anat.org/R-clavicule">Clavicule droite<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-scapula">Scapula droite<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-humerus-epiP-sup">Épiphyse supérieure de l'humérus droit<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-labrum-glenoidal">Labrum glénoïdal droit<span id=infobulle><img src="" alt=""/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/OS-L-epaule">OS DE LA ÉPAULE GAUCHE</a>
+		<li><a href="/desc/http://anat.org/OS-L-epaule">OS DE LA ÉPAULE GAUCHE<span id=infobulle><img src="" alt=""/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/L-clavicule">Clavicule gauche</a></li>
-			<li><a href="/desc/http://anat.org/L-scapula">Scapula gauche</a></li>
-			<li><a href="/desc/http://anat.org/L-humerus-epiP-sup">Épiphyse supérieure de l'humérus gauche</a></li>
-			<li><a href="/desc/http://anat.org/L-labrum-glenoidal">Labrum glénoïdal gauche</a></li>
+			<li><a href="/desc/http://anat.org/L-clavicule">Clavicule gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-scapula">Scapula gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-humerus-epiP-sup">Épiphyse supérieure de l'humérus gauche<span id=infobulle><img src="" alt=""/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-labrum-glenoidal">Labrum glénoïdal gauche<span id=infobulle><img src="" alt=""/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/sternum-manubrium">Manubrium sternal</a></li>
+		<li><a href="/desc/http://anat.org/sternum-manubrium">Manubrium sternal<span id=infobulle><img src="" alt=""/></span></a></li>
 		</ul>
 
 </div>
@@ -1354,7 +1355,9 @@ max-width:inherit;
 
 </div>
 
-<h4 class="area">RÉGION DES MEMBRES INFÉRIEURS</h4>
+<button class="collapsible"><h4 class="area">RÉGION DES MEMBRES INFÉRIEURS</h4></button>
+<div class="content">
+</div>
 	<ul style="list-style-type:none">
 
 <button class="collapsible"><li><h4 class="subarea">MEMBRE INFÉRIEUR DROIT</h4></button>
@@ -1944,7 +1947,9 @@ max-width:inherit;
 
 	</ul>
 
-<h4 class="area">RÉGION DES MEMBRES SUPÉRIEURS</h4>
+<button class="collapsible"><h4 class="area">RÉGION DES MEMBRES SUPÉRIEURS</h4></button>
+<div class="content">
+</div>
 	<ul style="list-style-type:none">
 
 <button class="collapsible"><li><h4 class="subarea">MEMBRE SUPÉRIEUR DROIT</h4></button>
@@ -2522,20 +2527,9 @@ max-width:inherit;
 </div>
 
 <script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.maxHeight){
-      content.style.maxHeight = null;
-    } else {
-      content.style.maxHeight = content.scrollHeight + "px";
-    } 
-  });
-}
+$(".collapsible").click(function() {
+  $(this).next().slideToggle("fast");
+});
 </script>
 
 </body>

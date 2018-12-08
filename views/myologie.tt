@@ -535,7 +535,7 @@ td {
 
 </div>
 
-	<li><a href="/desc/http://anat.org/pharynx">Muscles du pharynx<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=iiOvGb0TPD4r9HzeSnC0XLXH" alt="img. mscl pharynx"/></span><span id=infobulle><img src="" alt="img. "/></span></a>
+	<li><a href="/desc/http://anat.org/pharynx">Muscles du pharynx<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=iiOvGb0TPD4r9HzeSnC0XLXH" alt="img. mscl pharynx"/></span></a>
 
 <button class="collapsible">▼</button>
 <div class="content">

@@ -1104,10 +1104,7 @@ anat:charniere-C0-C1-C2	anat:comprend	anat:v-C2 .
 anat:charniere-cervico-thoracique	anat:comprend	anat:v-C7 .
 anat:charniere-cervico-thoracique	anat:comprend	anat:v-T1 .
 anat:charniere-cervico-thoracique	anat:comprend	anat:div-C7-T1 .
-anat:charniere-cervico-thoracique	anat:comprend	anat:R-cote-1 .
-anat:charniere-cervico-thoracique	anat:comprend	anat:L-cote-1 .
-anat:charniere-cervico-thoracique	anat:comprend	anat:R-carti-costal-1 .
-anat:charniere-cervico-thoracique	anat:comprend	anat:L-carti-costal-1 .
+anat:charniere-cervico-thoracique	anat:comprend	anat:arc-costal-1 .
 anat:charniere-cervico-thoracique	anat:comprend	anat:sternum-manubrium .
 anat:charniere-thoraco-lombaire	anat:comprend	anat:v-T12 .
 anat:charniere-thoraco-lombaire	anat:comprend	anat:v-L1 .
@@ -2115,7 +2112,7 @@ anat:cage-thoracique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation
 anat:cage-thoracique-sup	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=H5Tni4OHTbmeDCKfqyj4fWz8> .
 anat:cage-thoracique-moy	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=HLnKLPHfCSb8nCS5n8ODaKLv> .
 anat:cage-thoracique-inf	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=yaiaGzy4jiCe9r0DODmqWnKD> .
-anat:sternum	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=9nCCWLO1HHjO8PLzOnameqia> .
+anat:sternum	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=aqmaqmDmGDWrDemSrqHzaGPf> .
 anat:cotes	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Sj8Trq0T9fGT09rqiaHru89f> .
 anat:R-cote-1	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=iWru8bO95XXvqKTbCyS5DOvG> .
 anat:R-cote-2	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=SPTXjeXLLjmynqO5jyPLDuKn> .
@@ -2509,7 +2506,7 @@ anat:cage-thoracique	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=b
 anat:cage-thoracique-sup	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=XDW15vST9ne4m41DWnCC8zG5> .
 anat:cage-thoracique-moy	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=SLbyGTLDG1DWv05zyy5bu0jG> .
 anat:cage-thoracique-inf	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=v0rG5T85fO5ffay4X91LbCSb> .
-anat:sternum	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=y8vOHf0Tz4veDOH59XaaauCO> .
+anat:sternum	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=CK5HrKzOL9reiKr4jaymKziq> .
 anat:cotes	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=uG59j81fK1D41jCGnC41TTrO> .
 anat:R-cote-1	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=TvKb8D0XfueKuKz4n4Wvuee8> .
 anat:R-cote-2	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Ljm4vWSHj0HzXvmKXXzSr85v> .

@@ -426,7 +426,7 @@ td {
 					<li><a href="/desc/http://anat.org/L-molaire-sup-2">2e molaire supérieure gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ja0TXLuOPHnyeq0n8fWLrqCe" alt="img. 2e molaire sup gauche"/></span></a></li>
 					<li><a href="/desc/http://anat.org/R-molaire-inf-1">1ere molaire inférieure droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=biK9reOvamKzPv0jSH1DeWbi" alt="img. 1ere molaire inf droite"/></span></a></li>
 					<li><a href="/desc/http://anat.org/R-molaire-inf-2">2e molaire inférieure droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CaC8nOCqG999u8zqWnKjuGbq" alt="img. 2e molaire inf droite"/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-molaire-inf-1">1ere molaire inférieure gauche<span id=infobulle><img src=http://lifesciencedb.jp/bp3d/API/animation?shorten=Hj09r88DGvSLaSTPza8X9HX5"" alt="img. 1ere molaire inf gauche"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-molaire-inf-1">1ere molaire inférieure gauche<span id=infobulle><img src=http://lifesciencedb.jp/bp3d/API/animation?shorten=Hj09r88DGvSLaSTPza8X9HX5" alt="img. 1ere molaire inf gauche"/></span></a></li>
 					<li><a href="/desc/http://anat.org/L-molaire-inf-2">2e molaire inférieure gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=amKDKrH9jOnefyWvCOT5b0n8" alt="img. 2e molaire inf gauche"/></span></a></li>
 					</ul>
 
@@ -515,7 +515,7 @@ td {
 
 <button class="collapsible"><h4 class="area">AXE VERTÉBRAL : crâne, colonne et charnières vertébrales</h4></button>
 <div class="content">
-<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9vWbqGvmueyenmy0Pfyu8L1H" alt="img. gde colone vertebrale"/></span></a></p>
+<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DmOv0namSruuy8riqS4fmKrC" alt="img. gde colone vertebrale"/></span></a></p>
 
 	<ul style="list-style-type:square">
 	<li><a href="/desc/http://anat.org/crane-v">CRÂNE VERTÉBRAL<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qeiiu0f8TH19WbCmm8jWz05L" alt="img. crâne vertebral"/></a></li>
@@ -582,7 +582,7 @@ td {
 					</li>
 					<li><a href="/desc/http://anat.org/cv-cervicale-inf">Colonne vertébrale cervicale inférieure<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DuCyuy5fODim5DmOz49Pva0z" alt="img. CV cervicale inf"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/v-C5">Vertèbre C5<span id=infobulle><img src=http://lifesciencedb.jp/bp3d/API/animation?shorten=1TLn8v0zKL9fuWfWvar41Lb0"" alt="img. vertebre C5"/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-C5">Vertèbre C5<span id=infobulle><img src=http://lifesciencedb.jp/bp3d/API/animation?shorten=1TLn8v0zKL9fuWfWvar41Lb0" alt="img. vertebre C5"/></span></a></li>
 						<li><a href="/desc/http://anat.org/v-C6">Vertèbre C6<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9ryGba9zq0XTCW1X9jD0bCC0" alt="img. vertebre C6"/></span></a></li>
 						<li><a href="/desc/http://anat.org/v-C7">Vertèbre C7<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jK1rq8yKHfuyKX5j0DLDOjWH" alt="img. vertebre C7"/></span></a></li>
 						<li><a href="/desc/http://anat.org/div-C5-C6">Disque intervertébral C5-C6<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=vGfmKLrK9fiuaObCiifyeaui" alt="img. DIV C5-C6"/></span></a></li>
@@ -1305,23 +1305,23 @@ td {
 <div class="content">
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/OS-R-hanche">OS DE LA HANCHE DROITE<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/OS-R-hanche">OS DE LA HANCHE DROITE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5ve49nrKD8PjaKbCeGay0ry0" alt="img. os hanche D"/></span></a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/R-iliaque">Os coxal (iliaque) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uyGvqaumuu8L1vqyuijOHfK1" alt="img. os iliaque D"/></span></a></li>
 			<li><a href="/desc/http://anat.org/R-femur-epiP-sup">Épiphyse supérieure du fémur droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
 			<li><a href="/desc/http://anat.org/R-labrum-acetabulaire">Labrum acétabulaire droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/OS-L-hanche">OS DE LA HANCHE GAUCHE<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/OS-L-hanche">OS DE LA HANCHE GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=i8HrGvXzeWnSS5DmCanqyaqC" alt="img. os de la hanche G"/></span></a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/L-iliaque">Os coxal (iliaque) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8b8XTTW9jmCCfm4P9PbKjGfS" alt="img. os iliaque G"/></span></a></li>
 			<li><a href="/desc/http://anat.org/L-femur-epiP-sup">Épiphyse supérieure du fémur gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
 			<li><a href="/desc/http://anat.org/L-labrum-acetabulaire">Labrum acétabulaire gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/disque-interpubien">Disque interpubien<span id=infobulle><img src="" alt="img. "/></span></a></li>
 		<li><a href="/desc/http://anat.org/sacrum">Sacrum<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XjeeuirqiCiaamuauKeWf0Hr" alt="img. sacrum"/></span></a></li>
 		<li><a href="/desc/http://anat.org/coccyx">Coccyx<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/disque-interpubien">Disque interpubien<span id=infobulle><img src="" alt="img. "/></span></a></li>
 		<li><a href="/desc/http://anat.org/div-S5-Co">Disque intervertébral S5-Co<span id=infobulle><img src="" alt="img. "/></span></a></li>
 		</ul>
 
@@ -1333,18 +1333,18 @@ td {
 <div class="content">
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/OS-R-epaule">OS DE LA ÉPAULE DROITE<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/OS-R-epaule">OS DE L'ÉPAULE DROITE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LH1TbuDSbeOL5zieqCWfO5jG" alt="img. os de l'epaule D"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-clavicule">Clavicule droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-scapula">Scapula droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-clavicule">Clavicule droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=PXzy4beSjeOjiquOXbnmmOnW" alt="img. clavicule D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-scapula">Scapula droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=m8fuSnT1zuyWfyCWj4L55jyO" alt="img. scapula D"/></span></a></li>
 			<li><a href="/desc/http://anat.org/R-humerus-epiP-sup">Épiphyse supérieure de l'humérus droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
 			<li><a href="/desc/http://anat.org/R-labrum-glenoidal">Labrum glénoïdal droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/OS-L-epaule">OS DE LA ÉPAULE GAUCHE<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/OS-L-epaule">OS DE L'ÉPAULE GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4ziWzua81XTLKrCSvK4HjSna" alt="img. os de l'epaule G"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/L-clavicule">Clavicule gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-scapula">Scapula gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-clavicule">Clavicule gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LnuaiG01j4TreGruq09r8nia" alt="img. clavicule G"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-scapula">Scapula gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5X5j01K1zeCqTf0bqyKz8nuK" alt="img. scapula G"/></span></a></li>
 			<li><a href="/desc/http://anat.org/L-humerus-epiP-sup">Épiphyse supérieure de l'humérus gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
 			<li><a href="/desc/http://anat.org/L-labrum-glenoidal">Labrum glénoïdal gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
 			</ul>
@@ -1524,40 +1524,40 @@ td {
 
 </div>
 
-					<li><a href="/desc/http://anat.org/R-pied-phalanges">Os des phalanges des orteils droits<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=P19Du8PLDWTT0Tn8TL8ja49z" alt="img. os phalanges D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-pied-phalanges">Phalanges des orteils droits<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=P19Du8PLDWTT0Tn8TL8ja49z" alt="img. phalanges des orteils D"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 						<ul style="list-style-type:disc">
-						<li><a href="/desc/http://anat.org/R-pied-phalanges-I">Os des phalanges de l’hallux droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DSza0nii4zGDTn0buqqGDi4D" alt="img. phalanges hallux D"/></span></a>
+						<li><a href="/desc/http://anat.org/R-pied-phalanges-I">Phalanges de l’hallux droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DSza0nii4zGDTn0buqqGDi4D" alt="img. phalanges hallux D"/></span></a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-pied-phal-proxi-I">Phalange proximale de l’hallux droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=PL9XDiXLzKfmqmauCGiiW5jK" alt="img. phalange proximale hallux D"/></span></a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-dist-I">Phalange distale de l’hallux droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yaO9fae4rSDOyWbOT1iCyCq8" alt="img. phalange proximale distale D"/></span></a></li>
 							</ul>
 						</li>
-						<li><a href="/desc/http://anat.org/R-pied-phalanges-II">Os des phalanges du 2e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=C4HDOfTbWrquL5LLjym8zK9z" alt="img. phalanges 2e orteil D"/></span></a>
+						<li><a href="/desc/http://anat.org/R-pied-phalanges-II">Phalanges du 2e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=C4HDOfTbWrquL5LLjym8zK9z" alt="img. phalanges 2e orteil D"/></span></a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-pied-phal-proxi-II">Phalange proximale du 2e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=WD01zqyGX1rmiq4z45Pbqqi8" alt="img. phalange proximale 2e orteil D"/></span></a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-moy-II">Phalange moyenne du 2e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8j8fKziGTfemqmmyayWHnCa0" alt="img. phalange moyenne 2e orteil D"/></span></a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-dist-II">Phalange distale du 2e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4jCWTjSLf4viKXfWX9uqW1nq" alt="img. phalange distale 2e orteil D"/></span></a></li>
 							</ul>
 						</li>
-						<li><a href="/desc/http://anat.org/R-pied-phalanges-III">Os des phalanges du 3e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=919XjOSbmymyyK5XzOHLfyW5" alt="img. phalanges 3e orteil D"/></span></a>
+						<li><a href="/desc/http://anat.org/R-pied-phalanges-III">Phalanges du 3e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=919XjOSbmymyyK5XzOHLfyW5" alt="img. phalanges 3e orteil D"/></span></a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-pied-phal-proxi-III">Phalange proximale du 3e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=z4fqqaGX5bqeaOjuSfWLvWDy" alt="img. phalange proximale 3e orteil D"/></span></a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-moy-III">Phalange moyenne du 3e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OrG9ry5PXny4fG1ryyOPfqGD" alt="img. phalange moyenne 3e orteil D"/></span></a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-dist-III">Phalange distale du 3e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8D8TbaaaiemOXXXLfGz059Pn" alt="img. phalange distale 3e orteil D"/></span></a></li>
 							</ul>
 						</li>
-						<li><a href="/desc/http://anat.org/R-pied-phalanges-IV">Os des phalanges du 4e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=HL19DOzu8LPzC89XjejW1T5D" alt="img. phalanges 4e orteil D"/></span></a>
+						<li><a href="/desc/http://anat.org/R-pied-phalanges-IV">Phalanges du 4e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=HL19DOzu8LPzC89XjejW1T5D" alt="img. phalanges 4e orteil D"/></span></a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-pied-phal-proxi-IV">Phalange proximale du 4e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TfSjqWDmyuGrLDuGb85rWf09" alt="img. phalange proximale 4e orteil D"/></span></a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-moy-IV">Phalange moyenne du 4e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Xf859XSf0n8X1XbaiiiKbmGP" alt="img. phalange moyenne 4e orteil D"/></span></a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-dist-IV">Phalange distale du 4e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bKvyuWKfqKfyP151v4PzGz4b" alt="img. phalange distale 4e orteil D"/></span></a></li>
 							</ul>
 						</li>
-						<li><a href="/desc/http://anat.org/R-pied-phalanges-V">Os des phalanges du 5e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Sj0XbKfeGHDCfyOPbmSv8rCq" alt="img. phalanges 5e orteil D"/></span></a>
+						<li><a href="/desc/http://anat.org/R-pied-phalanges-V">Phalanges du 5e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Sj0XbKfeGHDCfyOPbmSv8rCq" alt="img. phalanges 5e orteil D"/></span></a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-pied-phal-proxi-V">Phalange proximale du 5e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=K1Pje4nGzy8fCGzymuGnyCKb" alt="img. phalange proximale 5e orteil D"/></span></a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-moy-V">Phalange moyenne du 5e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=e8Tj0LCia09HD0nuaKuyGP1r" alt="img. phalange moyenne 5e orteil D"/></span></a></li>
@@ -1592,20 +1592,20 @@ td {
 							<li><a href="/desc/http://anat.org/R-halux-sesamoide-med">Os sésamoïde médial de l’hallux droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
 							</ul>
 						</li>
-						<li><a href="/desc/http://anat.org/R-pied-phalanges-I">Os des phalanges de l’hallux droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DSza0nii4zGDTn0buqqGDi4D" alt="img. phalanges hallux D"/></span></a>
+						<li><a href="/desc/http://anat.org/R-pied-phalanges-I">Phalanges de l’hallux droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DSza0nii4zGDTn0buqqGDi4D" alt="img. phalanges hallux D"/></span></a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-pied-phal-proxi-I">Phalange proximale de l’hallux droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=PL9XDiXLzKfmqmauCGiiW5jK" alt="img. phalange proximale hallux D"/></span></a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-dist-I">Phalange distale de l’hallux droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yaO9fae4rSDOyWbOT1iCyCq8" alt="img. phalange proximale distale D"/></span></a></li>
 							</ul>
 						</li>
-						<li><a href="/desc/http://anat.org/R-pied-phalanges-II">Os des phalanges du 2e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=C4HDOfTbWrquL5LLjym8zK9z" alt="img. phalanges 2e orteil D"/></span></a>
+						<li><a href="/desc/http://anat.org/R-pied-phalanges-II">Phalanges du 2e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=C4HDOfTbWrquL5LLjym8zK9z" alt="img. phalanges 2e orteil D"/></span></a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-pied-phal-proxi-II">Phalange proximale du 2e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=WD01zqyGX1rmiq4z45Pbqqi8" alt="img. phalange proximale 2e orteil D"/></span></a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-moy-II">Phalange moyenne du 2e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8j8fKziGTfemqmmyayWHnCa0" alt="img. phalange moyenne 2e orteil D"/></span></a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-dist-II">Phalange distale du 2e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4jCWTjSLf4viKXfWX9uqW1nq" alt="img. phalange distale 2e orteil D"/></span></a></li>
 							</ul>
 						</li>
-						<li><a href="/desc/http://anat.org/R-pied-phalanges-III">Os des phalanges du 3e orteil droit<span id=infobulle><img src="" alt="img. phalanges 3e orteil D"/></span></a>
+						<li><a href="/desc/http://anat.org/R-pied-phalanges-III">Phalanges du 3e orteil droit<span id=infobulle><img src="" alt="img. phalanges 3e orteil D"/></span></a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-pied-phal-proxi-III">Phalange proximale du 3e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=z4fqqaGX5bqeaOjuSfWLvWDy" alt="img. phalange proximale 3e orteil D"/></span></a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-moy-III">Phalange moyenne du 3e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OrG9ry5PXny4fG1ryyOPfqGD" alt="img. phalange moyenne 3e orteil D"/></span></a></li>
@@ -1626,14 +1626,14 @@ td {
 						<li><a href="/desc/http://anat.org/R-cubo">Os cuboïde droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=naKnyqjS1vqW4HruKX8zyqKH" alt="img. img. cuboide D"/></span></a></li>
 						<li><a href="/desc/http://anat.org/R-metaT-IV">4e os métatarse droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=q41Xnme8HDqCLveK9LaqSj0D" alt="img. 4e metatarse D"/></span></a></li>
 						<li><a href="/desc/http://anat.org/R-metaT-V">5e os métatarse droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Tve0bmmWn0feuSbuC8GfCWvW" alt="img. 5e metatarse D"/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-pied-phalanges-IV">Os des phalanges du 4e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=HL19DOzu8LPzC89XjejW1T5D" alt="img. phalanges 4e orteil D"/></span></a>
+						<li><a href="/desc/http://anat.org/R-pied-phalanges-IV">Phalanges du 4e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=HL19DOzu8LPzC89XjejW1T5D" alt="img. phalanges 4e orteil D"/></span></a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-pied-phal-proxi-IV">Phalange proximale du 4e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TfSjqWDmyuGrLDuGb85rWf09" alt="img. phalange proximale 4e orteil D"/></span></a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-moy-IV">Phalange moyenne du 4e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Xf859XSf0n8X1XbaiiiKbmGP" alt="img. phalange moyenne 4e orteil D"/></span></a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-dist-IV">Phalange distale du 4e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bKvyuWKfqKfyP151v4PzGz4b" alt="img. phalange distale 4e orteil D"/></span></a></li>
 							</ul>
 						</li>
-						<li><a href="/desc/http://anat.org/R-pied-phalanges-V">Os des phalanges du 5e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Sj0XbKfeGHDCfyOPbmSv8rCq" alt="img. phalanges 5e orteil D"/></span></a>
+						<li><a href="/desc/http://anat.org/R-pied-phalanges-V">Phalanges du 5e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Sj0XbKfeGHDCfyOPbmSv8rCq" alt="img. phalanges 5e orteil D"/></span></a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-pied-phal-proxi-V">Phalange proximale du 5e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=K1Pje4nGzy8fCGzymuGnyCKb" alt="img. phalange proximale 5e orteil D"/></span></a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-moy-V">Phalange moyenne du 5e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=e8Tj0LCia09HD0nuaKuyGP1r" alt="img. phalange moyenne 5e orteil D"/></span></a></li>
@@ -1661,7 +1661,7 @@ td {
 <div class="content">
 
 		<ul style="list-style-type:square">
-		<li><a href="/desc/http://anat.org/OS-L-hanche">OS DE LA HANCHE GAUCHE<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/OS-L-hanche">OS DE LA HANCHE GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=i8HrGvXzeWnSS5DmCanqyaqC" alt="img. os de la hanche G"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -1674,7 +1674,7 @@ td {
 
 </div>
 
-		<li><a href="/desc/http://anat.org/OS-L-cuisse">OS DE LA CUISSE GAUCHE<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/OS-L-cuisse">OS DE LA CUISSE GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=59PLnqS9jGvOKPH5juuSreSD" alt="img. os de la cuisse G"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -1686,7 +1686,7 @@ td {
 
 </div>
 
-		<li><a href="/desc/http://anat.org/OS-L-genou">OS DU GENOU GAUCHE<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/OS-L-genou">OS DU GENOU GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5LvymaL5TvyePfaK1z5HDS9b" alt="img. os du genou G"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -1706,19 +1706,19 @@ td {
 
 </div>
 
-		<li><a href="/desc/http://anat.org/OS-L-jambe">OS DE LA JAMBE GAUCHE<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/OS-L-jambe">OS DE LA JAMBE GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1TjKvG8feuWr0jOL11f0zWbK" alt="img. os de la jambe G"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/L-tibia">Tibia gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=GjmK5nP19fGf4bOPf4LHP9fy" alt="img. tibia G"/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-fibula">Fibula (anc. péroné) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=GnWTPja4P9zCzObqGPyCyC49" alt="img. fibula G"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-tibia">Tibia gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=vyG591GD89vCmiiOPT8Lfeiq" alt="img. tibia G"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-fibula">Fibula (anc. péroné) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=m8rq05Lbimy8neWvC0KL5TjS" alt="img. fibula G"/></span></a></li>
 			</ul>
 
 </div>
 
-		<li><a href="/desc/http://anat.org/OS-L-cheville">OS DE LA CHEVILLE GAUCHE<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/OS-L-cheville">OS DE LA CHEVILLE GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eeqOnaW9ryaeG1buaGbOD8rS" alt="img. os de la cheville G"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -1755,7 +1755,7 @@ td {
 
 </div>
 
-		<li><a href="/desc/http://anat.org/OS-L-pied">OS DU PIED GAUCHE<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/OS-L-pied">OS DU PIED GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yGfayO8fyKT9iySXjm4n0LnW" alt="img. os du pied G"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -1817,40 +1817,40 @@ td {
 
 </div>
 
-					<li><a href="/desc/http://anat.org/L-pied-phalanges">Os des phalanges des orteils gauches<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9PPTHHrCay89DOnOPPWrq0b0" alt="img. os des phalanges pied G"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-pied-phalanges">Phalanges des orteils gauches<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9PPTHHrCay89DOnOPPWrq0b0" alt="img. phalanges pied G"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 						<ul style="list-style-type:disc">
-						<li><a href="/desc/http://anat.org/L-pied-phalanges-I">Os des phalanges de l’hallux gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=raGHD00bODaeaaayGLuWf4Tn" alt="img. os des phalanges hallux G"/></span></a>
+						<li><a href="/desc/http://anat.org/L-pied-phalanges-I">Phalanges de l’hallux gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=raGHD00bODaeaaayGLuWf4Tn" alt="img. phalanges hallux G"/></span></a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/L-pied-phal-proxi-I">Phalange proximale de l’hallux gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1vi4XTaCuOzGLX9zqSiCGLbe" alt="img. phalange proximale hallux G"/></span></a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-dist-I">Phalange distale de l’hallux gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=m4jymeWP9bGnSr85HTy0DO11" alt="img. img. phalange distale hallux G"/></span></a></li>
 							</ul>
 						</li>
-						<li><a href="/desc/http://anat.org/L-pied-phalanges-II">Os des phalanges du 2e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yOrOnqXzqm8TieO5fiPXPrme" alt="img. os des phalanges 2e orteil G"/></span></a>
+						<li><a href="/desc/http://anat.org/L-pied-phalanges-II">Phalanges du 2e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yOrOnqXzqm8TieO5fiPXPrme" alt="img. phalanges 2e orteil G"/></span></a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/L-pied-phal-proxi-II">Phalange proximale du 2e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Wn4HjmG59n4nTv8HzSjCKHXb" alt="img. phalange proximale 2e orteil G"/></span></a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-moy-II">Phalange moyenne du 2e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=0H1baOP1PfG9HfSX19b8z0j8" alt="img. phalange moyenne 2e orteil G"/></span></a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-dist-II">Phalange distale du 2e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=fuKvOj95zuKHr8H9L5PXPr4v" alt="img. phalange distale 2e orteil G"/></span></a></li>
 							</ul>
 						</li>
-						<li><a href="/desc/http://anat.org/L-pied-phalanges-III">Os des phalanges du 3e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KPLLv0zyaqSjD81bKTrqiGbK" alt="img. os des phalanges 3e orteil G"/></span></a>
+						<li><a href="/desc/http://anat.org/L-pied-phalanges-III">Phalanges du 3e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KPLLv0zyaqSjD81bKTrqiGbK" alt="img. os des phalanges 3e orteil G"/></span></a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/L-pied-phal-proxi-III">Phalange proximale du 3e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=f41Da8L1b0fueimmOfTHTfSH" alt="img. phalange proximale 3e orteil G"/></span></a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-moy-III">Phalange moyenne du 3e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5T5j4r45DmyiXrmGT1DK9zi8" alt="img. phalange moyenne 3e orteil G"/></span></a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-dist-III">Phalange distale du 3e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=PT1XnK4n8XjWnG5PneqOzCeO" alt="img. phalange distale 3e orteil G"/></span></a></li>
 							</ul>
 						</li>
-						<li><a href="/desc/http://anat.org/L-pied-phalanges-IV">Os des phalanges du 4e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yyeyKfPruGT5H1Pbe4DOLHXb" alt="img. os des phalanges 4e orteil G"/></span></a>
+						<li><a href="/desc/http://anat.org/L-pied-phalanges-IV">Phalanges du 4e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yyeyKfPruGT5H1Pbe4DOLHXb" alt="img. os des phalanges 4e orteil G"/></span></a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/L-pied-phal-proxi-IV">Phalange proximale du 4e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KbWjqO4Xv49f5rODCaPXXH9L" alt="img. phalange proximale 4e orteil G"/></span></a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-moy-IV">Phalange moyenne du 4e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=vCC8PXKrSTHXX51DiGOreKLn" alt="img. phalange moyenne 4e orteil G"/></span></a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-dist-IV">Phalange distale du 4e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nGnS1LP5jObGLDa0jOyaG1ji" alt="img. phalange distale 4e orteil G"/></span></a></li>
 							</ul>
 						</li>
-						<li><a href="/desc/http://anat.org/L-pied-phalanges-V">Os des phalanges du 5e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=O9jWzi5jCSPT5HPPrm9L5Tf8" alt="img. os des phalanges 5e orteil G"/></span></a>
+						<li><a href="/desc/http://anat.org/L-pied-phalanges-V">Phalanges du 5e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=O9jWzi5jCSPT5HPPrm9L5Tf8" alt="img. os des phalanges 5e orteil G"/></span></a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/L-pied-phal-proxi-V">Phalange proximale du 5e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TLzmmy5L91bGjGjO5DC45XfS" alt="img. phalange proximale 5e orteil G"/></span></a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-moy-V">Phalange moyenne du 5e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=49HH1XGjG11Lbiaui8DKDqKL" alt="img. phalange moyenne 5e orteil G"/></span></a></li>
@@ -1885,20 +1885,20 @@ td {
 							<li><a href="/desc/http://anat.org/L-halux-sesamoide-med">Os sésamoïde médial de l’hallux gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
 							</ul>
 						</li>
-						<li><a href="/desc/http://anat.org/L-pied-phalanges-I">Os des phalanges de l’hallux gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=raGHD00bODaeaaayGLuWf4Tn" alt="img. os des phalanges hallux G"/></span></a>
+						<li><a href="/desc/http://anat.org/L-pied-phalanges-I">Phalanges de l’hallux gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=raGHD00bODaeaaayGLuWf4Tn" alt="img. os des phalanges hallux G"/></span></a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/L-pied-phal-proxi-I">Phalange proximale de l’hallux gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1vi4XTaCuOzGLX9zqSiCGLbe" alt="img. phalange proximale hallux G"/></span></a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-dist-I">Phalange distale de l’hallux gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=m4jymeWP9bGnSr85HTy0DO11" alt="img. phalange distale hallux G"/></span></a></li>
 							</ul>
  						</li>
-						<li><a href="/desc/http://anat.org/L-pied-phalanges-II">Os des phalanges du 2e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yOrOnqXzqm8TieO5fiPXPrme" alt="img. os des phalanges 2e orteil G"/></span></a>
+						<li><a href="/desc/http://anat.org/L-pied-phalanges-II">Phalanges du 2e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yOrOnqXzqm8TieO5fiPXPrme" alt="img. os des phalanges 2e orteil G"/></span></a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/L-pied-phal-proxi-II">Phalange proximale du 2e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Wn4HjmG59n4nTv8HzSjCKHXb" alt="img. phalange proximale 2e orteil G"/></span></a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-moy-II">Phalange moyenne du 2e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=0H1baOP1PfG9HfSX19b8z0j8" alt="img. phalange moyenne 2e orteil G"/></span></a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-dist-II">Phalange distale du 2e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=fuKvOj95zuKHr8H9L5PXPr4v" alt="img. phalange distale 2e orteil G"/></span></a></li>
 							</ul>
 						</li>
-						<li><a href="/desc/http://anat.org/L-pied-phalanges-III">Os des phalanges du 3e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KPLLv0zyaqSjD81bKTrqiGbK" alt="img. os des phalanges 4e orteil G"/></span></a>
+						<li><a href="/desc/http://anat.org/L-pied-phalanges-III">Phalanges du 3e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KPLLv0zyaqSjD81bKTrqiGbK" alt="img. os des phalanges 4e orteil G"/></span></a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/L-pied-phal-proxi-III">Phalange proximale du 3e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=f41Da8L1b0fueimmOfTHTfSH" alt="img. phalange proximale 3e orteil G"/></span></a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-moy-III">Phalange moyenne du 3e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5T5j4r45DmyiXrmGT1DK9zi8" alt="img. phalange moyenne 3e orteil G"/></span></a></li>
@@ -1919,14 +1919,14 @@ td {
 						<li><a href="/desc/http://anat.org/L-cubo">Os cuboïde gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=L5ziKjD4PLXDmOPHjWLXjeaC" alt="img. cuboide G"/></span></a></li>
 						<li><a href="/desc/http://anat.org/L-metaT-IV">4e os métatarse gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=umW5Ljzm81X1eSnuSf8ryuee" alt="img. 4e metatarse G"/></span></a></li>
 						<li><a href="/desc/http://anat.org/L-metaT-V">5e os métatarse gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=b0LXDCaGzO91b0PXb00fWTne" alt="img. 5e metatarse G"/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-pied-phalanges-IV">Os des phalanges du 4e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yyeyKfPruGT5H1Pbe4DOLHXb" alt="img. os des phalanges 4e orteil G"/></span></a>
+						<li><a href="/desc/http://anat.org/L-pied-phalanges-IV">Phalanges du 4e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yyeyKfPruGT5H1Pbe4DOLHXb" alt="img. os des phalanges 4e orteil G"/></span></a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/L-pied-phal-proxi-IV">Phalange proximale du 4e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KbWjqO4Xv49f5rODCaPXXH9L" alt="img. phalange proximale 4e orteil G"/></span></a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-moy-IV">Phalange moyenne du 4e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=vCC8PXKrSTHXX51DiGOreKLn" alt="img. phalange moyenne 4e orteil G"/></span></a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-dist-IV">Phalange distale du 4e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nGnS1LP5jObGLDa0jOyaG1ji" alt="img. phalange distale 4e orteil G"/></span></a></li>
 							</ul>
 						</li>
-						<li><a href="/desc/http://anat.org/L-pied-phalanges-V">Os des phalanges du 5e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=O9jWzi5jCSPT5HPPrm9L5Tf8" alt="img. os des phalanges 5e orteil G"/></span></a>
+						<li><a href="/desc/http://anat.org/L-pied-phalanges-V">Phalanges du 5e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=O9jWzi5jCSPT5HPPrm9L5Tf8" alt="img. os des phalanges 5e orteil G"/></span></a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/L-pied-phal-proxi-V">Phalange proximale du 5e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TLzmmy5L91bGjGjO5DC45XfS" alt="img. phalange proximale 5e orteil G"/></span></a></li>
 							<li><a href="/desc/http://anat.org/L-pied-phal-moy-V">Phalange moyenne du 5e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=49HH1XGjG11Lbiaui8DKDqKL" alt="img. phalange moyenne 5e orteil G"/></span></a></li>
@@ -1961,32 +1961,32 @@ td {
 <div class="content">
 
 		<ul style="list-style-type:square">
-		<li><a href="/desc/http://anat.org/OS-R-epaule">OS DE L'ÉPAULE DROITE<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/OS-R-epaule">OS DE L'ÉPAULE DROITE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LH1TbuDSbeOL5zieqCWfO5jG" alt="img. os de l'epaule D"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-clavicule">Clavicule droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-scapula">Scapula (anc. omoplate) droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-clavicule">Clavicule droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=PXzy4beSjeOjiquOXbnmmOnW" alt="img. clavicule D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-scapula">Scapula (anc. omoplate) droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=m8fuSnT1zuyWfyCWj4L55jyO" alt="img. scapula D"/></span></a></li>
 			<li><a href="/desc/http://anat.org/R-humerus-epiP-sup">Épiphyse supérieure de l'humérus droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
 			<li><a href="/desc/http://anat.org/R-labrum-glenoidal">Labrum glénoïdal droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
 			</ul>
 
 </div>
 
-		<li><a href="/desc/http://anat.org/OS-R-bras">OS DU BRAS DROIT<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/OS-R-bras">OS DU BRAS DROIT<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5rSX59veCqGzeKTjuS4Dy0fq" alt="img. os du bras D"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-humerus">Humérus droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-humerus">Humérus droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KLjmGjGHbea8CKjKrS0j05ny" alt="img. humerus D"/></span></a></li>
 			</ul>
 
 </div>
 
-		<li><a href="/desc/http://anat.org/OS-R-coude">OS DU COUDE DROIT<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/OS-R-coude">OS DU COUDE DROIT<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=muGr49PbemiWCGrSzaDimODm" alt="img. os du coude D"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -1999,19 +1999,19 @@ td {
 
 </div>
 
-		<li><a href="/desc/http://anat.org/OS-R-avt-bras">OS DE L'AVANT-BRAS DROIT<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/OS-R-avt-bras">OS DE L'AVANT-BRAS DROIT<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4via4LHvKHHLWzqO9HPL51Pb" alt="img. os de l'avant-bras D"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-radius">Radius droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-ulna">Ulna (anc. cubitus) droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-radius">Radius droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uumC4vXjG1TffCay09fKHbOD" alt="img. radius D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-ulna">Ulna (anc. cubitus) droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8f0H1b1nyiqy995zCqzWXXXn" alt="img. ulna D"/></span></a></li>
 			</ul>
 
 </div>
 
-		<li><a href="/desc/http://anat.org/OS-R-poignet">OS DU POIGNET DROIT<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/OS-R-poignet">OS DU POIGNET DROIT<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4nqKriHHfieu0rSvW9PDyuqi" alt="img. os du poignet D"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -2020,7 +2020,7 @@ td {
 			<li><a href="/desc/http://anat.org/R-ulna-epiP-inf">épiphyse inférieure de l'ulna (anc. cubitus) droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
 			<li><a href="/desc/http://anat.org/R-radius-epiP-inf">épiphyse inférieure du radius droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
 			<li><a href="/desc/http://anat.org/R-menisque-ulno-carpien">Ménisque ulno-carpien droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-os-carpe">Os du carpe droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-os-carpe">Os du carpe droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=y0b4b4emKbWj5HPz01ba4jWX" alt="img. os du carpe D"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -2030,40 +2030,40 @@ td {
 				<tr>
 					<td>
 						<ul style="list-style-type:disc">
-						<li><a href="/desc/http://anat.org/R-1e-rangee-carpe">Os de la 1ere rangée du carpe droit<span id=infobulle><img src="" alt="img. "/></span></a>
+						<li><a href="/desc/http://anat.org/R-1e-rangee-carpe">Os de la 1ere rangée du carpe droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9b4DKjTrGXPj51jC0PDGT5vO" alt="img. 1ere rangee du carpe D"/></span></a>
 							<ul style="list-style-type:circle">
-							<li><a href="/desc/http://anat.org/R-scaphoide">Os scaphoïde (anc. os naviculaire carpien) droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/R-lunatum">Os lunatum (anc. os semi-lunaire) droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/R-triquetrum">Os triquetrum (anc. os pyramidal) droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/R-pisiforme">Os pisiforme droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-scaphoide">Os scaphoïde (anc. os naviculaire carpien) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9Tj0zO4baKvC1LPjq88HzqWj" alt="img. scaphoide D"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-lunatum">Os lunatum (anc. os semi-lunaire) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ju8bW9yK5HbCPjmimqTT5b8v" alt="img. lunatum D"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-triquetrum">Os triquetrum (anc. os pyramidal) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rWHLTzODiauqPfO1LL1Xn815" alt="img. triquetrum D"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-pisiforme">Os pisiforme droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XHfqyiniqOPT8jCiq0y4r0bC" alt="img. pisiforme D"/></span></a></li>
 							</ul>
 						</li>
-						<li><a href="/desc/http://anat.org/R-2e-rangee-carpe">Os de la 2e rangée du carpe droit<span id=infobulle><img src="" alt="img. "/></span></a>
+						<li><a href="/desc/http://anat.org/R-2e-rangee-carpe">Os de la 2e rangée du carpe droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=vSvOTvL1TDWrzOvC0jLrKnSL" alt="img. 2e rangee du carpe D"/></span></a>
 							<ul style="list-style-type:circle">
-							<li><a href="/desc/http://anat.org/R-hamatum">Os hamatum (anc. os crochu) droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/R-capitatum">Os capitatum (anc. grand os de la main) droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/R-trapezoide">Os trapézoïde droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/R-trapeze">Os trapèze droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-hamatum">Os hamatum (anc. os crochu) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=HLTnO59DWriazyeSzuvuiKnG" alt="img. hamatum D"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-capitatum">Os capitatum (anc. grand os de la main) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KfSr4za8jSfi5bSTzq0HbWnu" alt="img. capitatum D"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-trapezoide">Os trapézoïde droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=GnCOz8fGriCuvWH1LHqCOnOX" alt="img. trapezoide D"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-trapeze">Os trapèze droit<span id=infobulle><img src=http://lifesciencedb.jp/bp3d/API/animation?shorten=rSLTbGeeuKTjuuSPHvim4Dai" alt="img. os trapeze D"/></span></a></li>
 							</ul>
 						</li>
 						</ul>
 					</td>
 					<td>
 						<ul style="list-style-type:disc">
-						<li><a href="/desc/http://anat.org/R-os-carpe-comparti-med">Os du compartiment médial du carpe droit<span id=infobulle><img src="" alt="img. "/></span></a>
+						<li><a href="/desc/http://anat.org/R-os-carpe-comparti-med">Os du compartiment médial du carpe droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nWbCayv4bOXPaiGTnyvSjqqO" alt="img. os du carpe compartiment medial D"/></span></a>
 							<ul style="list-style-type:circle">
-							<li><a href="/desc/http://anat.org/R-scaphoide">Os scaphoïde (anc. os naviculaire carpien) droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/R-lunatum">Os lunatum (anc. os semi-lunaire) droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/R-triquetrum">Os triquetrum (anc. os pyramidal) droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/R-pisiforme">Os pisiforme droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/R-hamatum">Os hamatum (anc. os crochu) droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/R-capitatum">Os capitatum (anc. grand os de la main) droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-scaphoide">Os scaphoïde (anc. os naviculaire carpien) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9Tj0zO4baKvC1LPjq88HzqWj" alt="img. scaphoide D"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-lunatum">Os lunatum (anc. os semi-lunaire) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ju8bW9yK5HbCPjmimqTT5b8v" alt="img. lunatum D"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-triquetrum">Os triquetrum (anc. os pyramidal) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rWHLTzODiauqPfO1LL1Xn815" alt="img. triquetrum D"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-pisiforme">Os pisiforme droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XHfqyiniqOPT8jCiq0y4r0bC" alt="img. pisiforme D"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-hamatum">Os hamatum (anc. os crochu) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=HLTnO59DWriazyeSzuvuiKnG" alt="img. hamatum D"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-capitatum">Os capitatum (anc. grand os de la main) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KfSr4za8jSfi5bSTzq0HbWnu" alt="img. capitatum D"/></span></a></li>
 							</ul>
 						</li>
-						<li><a href="/desc/http://anat.org/R-os-carpe-comparti-lat">Os du compartiment latéral du carpe droit<span id=infobulle><img src="" alt="img. "/></span></a>
+						<li><a href="/desc/http://anat.org/R-os-carpe-comparti-lat">Os du compartiment latéral du carpe droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=0Lva494biSbOnauauKniCOny" alt="img. os du carpe compartiment lateral D"/></span></a>
 							<ul style="list-style-type:circle">
-							<li><a href="/desc/http://anat.org/R-trapezoide">Os trapézoïde droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/R-trapeze">Os trapèze droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-trapezoide">Os trapézoïde droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=GnCOz8fGriCuvWH1LHqCOnOX" alt="img. trapezoide D"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-trapeze">Os trapèze droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rSLTbGeeuKTjuuSPHvim4Dai" alt="img. trapeze D"/></span></a></li>
 							</ul>
 						</li>
 						</ul>
@@ -2078,13 +2078,13 @@ td {
 
 </div>
 
-		<li><a href="/desc/http://anat.org/OS-R-main">OS DE LA MAIN DROITE<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/OS-R-main">OS DE LA MAIN DROITE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=PzOzmKKf0jiO9bCiWTWrS9zW" alt="img. os de la main D"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/R-os-carpe">Os du carpe droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-os-carpe">Os du carpe droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=y0b4b4emKbWj5HPz01ba4jWX" alt="img. os du carpe D"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -2094,40 +2094,40 @@ td {
 				<tr>
 					<td>
 						<ul style="list-style-type:disc">
-						<li><a href="/desc/http://anat.org/R-1e-rangee-carpe">Os de la 1ere rangée du carpe droit<span id=infobulle><img src="" alt="img. "/></span></a>
+						<li><a href="/desc/http://anat.org/R-1e-rangee-carpe">Os de la 1ere rangée du carpe droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9b4DKjTrGXPj51jC0PDGT5vO" alt="img. 1ere rangee du carpe D"/></span></a>
 							<ul style="list-style-type:circle">
-							<li><a href="/desc/http://anat.org/R-scaphoide">Os scaphoïde (anc. os naviculaire carpien) droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/R-lunatum">Os lunatum (anc. os semi-lunaire) droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/R-triquetrum">Os triquetrum (anc. os pyramidal) droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/R-pisiforme">Os pisiforme droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-scaphoide">Os scaphoïde (anc. os naviculaire carpien) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9Tj0zO4baKvC1LPjq88HzqWj" alt="img. scaphoide D"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-lunatum">Os lunatum (anc. os semi-lunaire) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ju8bW9yK5HbCPjmimqTT5b8v" alt="img. lunatum D"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-triquetrum">Os triquetrum (anc. os pyramidal) droit<span id=infobulle><img src=http://lifesciencedb.jp/bp3d/API/animation?shorten=rWHLTzODiauqPfO1LL1Xn815" alt="img. triquetrum D"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-pisiforme">Os pisiforme droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XHfqyiniqOPT8jCiq0y4r0bC" alt="img. pisiforme D"/></span></a></li>
 							</ul>
 						</li>
-						<li><a href="/desc/http://anat.org/R-2e-rangee-carpe">Os de la 2e rangée du carpe droit<span id=infobulle><img src="" alt="img. "/></span></a>
+						<li><a href="/desc/http://anat.org/R-2e-rangee-carpe">Os de la 2e rangée du carpe droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=vSvOTvL1TDWrzOvC0jLrKnSL" alt="img. 2e rangee du carpe D"/></span></a>
 							<ul style="list-style-type:circle">
-							<li><a href="/desc/http://anat.org/R-hamatum">Os hamatum (anc. os crochu) droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/R-capitatum">Os capitatum (anc. grand os de la main) droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/R-trapezoide">Os trapézoïde droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/R-trapeze">Os trapèze droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-hamatum">Os hamatum (anc. os crochu) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=HLTnO59DWriazyeSzuvuiKnG" alt="img. hamatum D"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-capitatum">Os capitatum (anc. grand os de la main) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KfSr4za8jSfi5bSTzq0HbWnu" alt="img. capitatum D"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-trapezoide">Os trapézoïde droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=GnCOz8fGriCuvWH1LHqCOnOX" alt="img. trapezoide D"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-trapeze">Os trapèze droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rSLTbGeeuKTjuuSPHvim4Dai" alt="img. trapeze D"/></span></a></li>
 							</ul>
 						</li>
 						</ul>
 					</td>
 					<td>
 						<ul style="list-style-type:disc">
-						<li><a href="/desc/http://anat.org/R-os-carpe-comparti-med">Os du compartiment médial du carpe droit<span id=infobulle><img src="" alt="img. "/></span></a>
+						<li><a href="/desc/http://anat.org/R-os-carpe-comparti-med">Os du compartiment médial du carpe droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nWbCayv4bOXPaiGTnyvSjqqO" alt="img. os du carpe compartiment medial D"/></span></a>
 							<ul style="list-style-type:circle">
-							<li><a href="/desc/http://anat.org/R-scaphoide">Os scaphoïde (anc. os naviculaire carpien) droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/R-lunatum">Os lunatum (anc. os semi-lunaire) droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/R-triquetrum">Os triquetrum (anc. os pyramidal) droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/R-pisiforme">Os pisiforme droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/R-hamatum">Os hamatum (anc. os crochu) droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/R-capitatum">Os capitatum (anc. grand os de la main) droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-scaphoide">Os scaphoïde (anc. os naviculaire carpien) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9Tj0zO4baKvC1LPjq88HzqWj" alt="img. scaphoide D"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-lunatum">Os lunatum (anc. os semi-lunaire) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ju8bW9yK5HbCPjmimqTT5b8v" alt="img. lunatum D"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-triquetrum">Os triquetrum (anc. os pyramidal) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rWHLTzODiauqPfO1LL1Xn815" alt="img. triquetrum D"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-pisiforme">Os pisiforme droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XHfqyiniqOPT8jCiq0y4r0bC" alt="img. pisiforme D"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-hamatum">Os hamatum (anc. os crochu) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=HLTnO59DWriazyeSzuvuiKnG" alt="img. hamatum D"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-capitatum">Os capitatum (anc. grand os de la main) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KfSr4za8jSfi5bSTzq0HbWnu" alt="img. capitatum D"/></span></a></li>
 							</ul>
 						</li>
-						<li><a href="/desc/http://anat.org/R-os-carpe-comparti-lat">Os du compartiment latéral du carpe droit<span id=infobulle><img src="" alt="img. "/></span></a>
+						<li><a href="/desc/http://anat.org/R-os-carpe-comparti-lat">Os du compartiment latéral du carpe droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=0Lva494biSbOnauauKniCOny" alt="img. os du carpe compartiment lateral D"/></span></a>
 							<ul style="list-style-type:circle">
-							<li><a href="/desc/http://anat.org/R-trapezoide">Os trapézoïde droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/R-trapeze">Os trapèze droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-trapezoide">Os trapézoïde droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=GnCOz8fGriCuvWH1LHqCOnOX" alt="img. trapezoide D"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-trapeze">Os trapèze droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rSLTbGeeuKTjuuSPHvim4Dai" alt="img. trapeze D"/></span></a></li>
 							</ul>
 						</li>
 						</ul>
@@ -2138,17 +2138,17 @@ td {
 
 </div>
 
-			<li><a href="/desc/http://anat.org/R-meta-carpe">Os métacarpes droits<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-meta-carpe">Os métacarpes droits<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=vK9H5zuS5Lzun0jCSjjmui0D" alt="img. metacarpes D"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-metaC-I">1er os métacarpe droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-metaC-II">2e os métacarpe droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-metaC-III">3e os métacarpe droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-metaC-IV">4e os métacarpe droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-metaC-V">5e os métacarpe droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-metaC-I">1er os métacarpe droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LDeS5H5v8jOX4TL5Xb5H1PX5" alt="img. 1er metacarpe D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-metaC-II">2e os métacarpe droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=S99jiO9bS9vC9nS1f8mmCqau" alt="img. 2e metacarpe D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-metaC-III">3e os métacarpe droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rG95TbXP9HnGn0TbuGrimaC0" alt="img. 3e metacarpe D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-metaC-IV">4e os métacarpe droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5XfGfGvWjOP1emWTver0bKHf" alt="img. 4e metacarpe D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-metaC-V">5e os métacarpe droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XbqmaWHbu451vq8rWv9HnWXv" alt="img. 5e metacarpe D"/></span></a></li>
 				</ul>
 
 </div>
@@ -2165,61 +2165,61 @@ td {
 
 </div>
 
-			<li><a href="/desc/http://anat.org/R-main-phalanges">Os des phalanges des doigts droits<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-main-phalanges">Phalanges des doigts droits<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=iOLru4On8L918H55z81PLn89" alt="img. phalanges des doigts D"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-main-phalanges-I">Os des phalanges du pouce droit<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/R-main-phalanges-I">Phalanges du pouce droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nSTLL9WTTT5vCaCuKTqaGfK5" alt="img. phalanges du pouce D"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-main-phal-proxi-I">Phalange proximale du pouce droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-main-phal-dist-I">Phalange distale du pouce droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-main-phal-proxi-I">Phalange proximale du pouce droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=0bGna4PHH9r4OzuKfG8zK5r8" alt="img. phalange proximale du pouce D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-main-phal-dist-I">Phalange distale du pouce droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Wbea8bnmeCG5a4X115uyemW5" alt="img. phalange distale du pouce D"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/R-main-phalanges-II">Os des phalanges du 2e doigt droit<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/R-main-phalanges-II">Phalanges du 2e doigt droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jOn4DueKTLz4mODOXnGPTXXP" alt="img. phalanges du 2e doigt"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-main-phal-proxi-II">Phalange proximale du 2e doigt droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-main-phal-moy-II">Phalange moyenne du 2e doigt droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-main-phal-dist-II">Phalange distale du 2e doigt droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-main-phal-proxi-II">Phalange proximale du 2e doigt droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=SPHDq84LXbiKW5L5Xzuqyi8z" alt="img. phalange proximale du 2e doigt D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-main-phal-moy-II">Phalange moyenne du 2e doigt droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5HbmiO85f8XfDCaiCmKbaGPj" alt="img. phalange moyenne du 2e doigt D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-main-phal-dist-II">Phalange distale du 2e doigt droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4T9DyenqW9nWa8zKXrbmayqC" alt="img. phalange distale du 2e doigt D"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/R-main-phalanges-III">Os des phalanges du 3e doigt droit<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/R-main-phalanges-III">Phalanges du 3e doigt droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bCWPnWKHfOzS51Xf4PHT1jS1" alt="img. phalanges du 3e doigt"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-main-phal-proxi-III">Phalange proximale du 3e doigt droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-main-phal-moy-III">Phalange moyenne du 3e doigt droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-main-phal-dist-III">Phalange distale du 3e doigt droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-main-phal-proxi-III">Phalange proximale du 3e doigt droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zuO9fe1nqWnCiWnu4juWXHrG" alt="img. phalange proximale du 3e doigt D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-main-phal-moy-III">Phalange moyenne du 3e doigt droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Gv0XXHu41LHnrW9H9XSPnm0X" alt="img. phalange moyenne du 3e doigt D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-main-phal-dist-III">Phalange distale du 3e doigt droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KbmO5DayiWbSjCSXvaue0jaS" alt="img. phalange distale du 3e doigt D"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/R-main-phalanges-IV">Os des phalanges du 4e doigt droit<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/R-main-phalanges-IV">Phalanges du 4e doigt droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=C0T9zWWzma0HrC4H1TXDOXPr" alt="img. phalanges du 4e doigt"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-main-phal-proxi-IV">Phalange proximale du 4e doigt droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-main-phal-moy-IV">Phalange moyenne du 4e doigt droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-main-phal-dist-IV">Phalange distale du 4e doigt droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-main-phal-proxi-IV">Phalange proximale du 4e doigt droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=aq0bS1HvWv0PueaKTjjq8vC8" alt="img. phalange proximale du 4e doigt D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-main-phal-moy-IV">Phalange moyenne du 4e doigt droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DGXrSX0bSzmS4bOXT91b8nyi" alt="img. phalange moyenne du 4e doigt D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-main-phal-dist-IV">Phalange distale du 4e doigt droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=mmK91X8HDKr4uOf89fva4rui" alt="img. phalange distale du 4e doigt D"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/R-main-phalanges-V">Os des phalanges du 5e doigt droit<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/R-main-phalanges-V">Phalanges du 5e doigt droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=vy4nei1LfGriLbi4biDeqmye" alt="img. phalanges du 5e doigt"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-main-phal-proxi-V">Phalange proximale du 5e doigt droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-main-phal-moy-V">Phalange moyenne du 5e doigt droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-main-phal-dist-V">Phalange distale du 5e doigt droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-main-phal-proxi-V">Phalange proximale du 5e doigt droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=GfWXX1CaOvqeLfKf41ue0L1T" alt="img. phalange proximale du 5e doigt D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-main-phal-moy-V">Phalange moyenne du 5e doigt droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uGjK1zqSTreK9PXnG5bmyiS1" alt="img. phalange moyenne du 5e doigt D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-main-phal-dist-V">Phalange distale du 5e doigt droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8T5TLXWbW9T9iia0nmXfyOLr" alt="img. phalange distale du 5e doigt D"/></span></a></li>
 					</ul>
 				</li>
 				</ul>
 
 </div>
 
-			<li><a href="/desc/http://anat.org/R-colonne-du-pouce">Colonne du pouce droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-colonne-du-pouce">Colonne du pouce droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qauSzCu8Pb0H5jGLfyza4ruS" alt="img. colonne du pouce D"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-metaC-I">1er os métacarpe droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-main-phalanges-I">Os des phalanges du pouce droit<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/R-metaC-I">1er os métacarpe droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LDeS5H5v8jOX4TL5Xb5H1PX5" alt="img. 1er metacarpe D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-main-phalanges-I">Phalanges du pouce droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nSTLL9WTTT5vCaCuKTqaGfK5" alt="img. phalanges du pouce D"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-main-phal-proxi-I">Phalange proximale du pouce droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-main-phal-dist-I">Phalange distale du pouce droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-main-phal-proxi-I">Phalange proximale du pouce droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=0bGna4PHH9r4OzuKfG8zK5r8" alt="img. phalange proximale du pouce D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-main-phal-dist-I">Phalange distale du pouce droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Wbea8bnmeCG5a4X115uyemW5" alt="img. phalange distale du pouce D"/></span></a></li>
 					</ul>
 				</li>
 				<li><a href="/desc/http://anat.org/R-main-os-sesamoides">Os sésamoïdes du pouce droit<span id=infobulle><img src="" alt="img. "/></span></a>
@@ -2245,32 +2245,32 @@ td {
 <div class="content">
 
 		<ul style="list-style-type:square">
-		<li><a href="/desc/http://anat.org/OS-L-epaule">OS DE L'ÉPAULE GAUCHE<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/OS-L-epaule">OS DE L'ÉPAULE GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4ziWzua81XTLKrCSvK4HjSna" alt="img. os de l'epaule G"/></span></a>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/L-clavicule">Clavicule gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-scapula">Scapula (anc. omoplate) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-clavicule">Clavicule gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LnuaiG01j4TreGruq09r8nia" alt="img. clavicule G"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-scapula">Scapula (anc. omoplate) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5X5j01K1zeCqTf0bqyKz8nuK" alt="img. scapula G"/></span></a></li>
 			<li><a href="/desc/http://anat.org/L-humerus-epiP-sup">Épiphyse supérieure de l'humérus gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
 			<li><a href="/desc/http://anat.org/L-labrum-glenoidal">Labrum glénoïdal gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
 			</ul>
 
 </div>
 
-		<li><a href="/desc/http://anat.org/OS-L-bras">OS DU BRAS GAUCHE<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/OS-L-bras">OS DU BRAS GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ve0LLjTr4vKXzaSjyqiimWry" alt="img. os du bras G"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/L-humerus">Humérus gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-humerus">Humérus gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=SbWT9zWHHLvC855zuiLnmayK" alt="img. humerus G"/></span></a></li>
 			</ul>
 
 </div>
 
-		<li><a href="/desc/http://anat.org/OS-L-coude">OS DU COUDE GAUCHE<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/OS-L-coude">OS DU COUDE GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Sj891nWb8fuavqumym8nCGP9" alt="img. os du coude G"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -2283,19 +2283,19 @@ td {
 
 </div>
 
-		<li><a href="/desc/http://anat.org/OS-L-avt-bras">OS DE L'AVANT-BRAS GAUCHE<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/OS-L-avt-bras">OS DE L'AVANT-BRAS GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Pz4be4zmmmamCK99Xz999Ljy" alt="img. os de l'avant-bras G"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/L-radius">Radius gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-ulna">Ulna (anc. cubitus) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-radius">Radius gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jKbaeCX5DCCeDCKHPDWri49v" alt="img. radius G"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-ulna">Ulna (anc. cubitus) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yG5b0rD0TbCSzGPD4fHfK9jC" alt="img. ulna G"/></span></a></li>
 			</ul>
 
 </div>
 
-		<li><a href="/desc/http://anat.org/OS-L-poignet">OS DU POIGNET GAUCHE<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/OS-L-poignet">OS DU POIGNET GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CWLHzKGfyyG1nOXbGfm0bmOH" alt="img. os du poignet G"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -2314,40 +2314,40 @@ td {
 				<tr>
 					<td>
 						<ul style="list-style-type:disc">
-						<li><a href="/desc/http://anat.org/L-1e-rangee-carpe">Os de la 1ere rangée du carpe gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+						<li><a href="/desc/http://anat.org/L-1e-rangee-carpe">Os de la 1ere rangée du carpe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5neiSzC8fGrKqCqOn0zqSj41" alt="img. 1ere rangee du carpe G"/></span></a>
 							<ul style="list-style-type:circle">
-							<li><a href="/desc/http://anat.org/L-scaphoide">Os scaphoïde (anc. os naviculaire carpien) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-lunatum">Os lunatum (anc. os semi-lunaire) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-triquetrum">Os triquetrum (anc. os pyramidal) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-pisiforme">Os pisiforme gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-scaphoide">Os scaphoïde (anc. os naviculaire carpien) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=mmGnaOKfqObeDCCaGD4nmiuq" alt="img. scaphoide G"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-lunatum">Os lunatum (anc. os semi-lunaire) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=b8jKvSSH9D0PKL59LjjWTrq4" alt="img. lunatum G"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-triquetrum">Os triquetrum (anc. os pyramidal) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uOT9nKT9vSLTeWXbCu855LD0" alt="img. triquetrum G"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-pisiforme">Os pisiforme gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=mK9niyne8be0SH9Tfayu01Pf" alt="img. pisiforme G"/></span></a></li>
 							</ul>
 						</li>
-						<li><a href="/desc/http://anat.org/L-2e-rangee-carpe">Os de la 2e rangée du carpe gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+						<li><a href="/desc/http://anat.org/L-2e-rangee-carpe">Os de la 2e rangée du carpe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8v8z4Xm4HTTXGb8rWr0Dq4Hz" alt="img. 2e rangee du carpe G"/></span></a>
 							<ul style="list-style-type:circle">
-							<li><a href="/desc/http://anat.org/L-hamatum">Os hamatum (anc. os crochu) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-capitatum">Os capitatum (anc. grand os de la main) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-trapezoide">Os trapézoïde gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-trapeze">Os trapèze gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-hamatum">Os hamatum (anc. os crochu) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=WL5v45iW1TbqvOHPL5uWTXDi" alt="img. hamatum G"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-capitatum">Os capitatum (anc. grand os de la main) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CmiSb4DS5D8Hq4b4b0fWDiyq" alt="img. capitatum G"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-trapezoide">Os trapézoïde gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Pf0PbWzeyGnafy0PbijG5b8L" alt="img. trapezoide G"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-trapeze">Os trapèze gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CO9vamKLriCGmObua8CKzaaq" alt="img. trapeze G"/></span></a></li>
 							</ul>
 						</li>
 						</ul>
 					</td>
 					<td>
 						<ul style="list-style-type:disc">
-						<li><a href="/desc/http://anat.org/L-os-carpe-comparti-med">Os du compartiment médial du carpe gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+						<li><a href="/desc/http://anat.org/L-os-carpe-comparti-med">Os du compartiment médial du carpe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1b091Te0bCy49fqGfq9jiCGH" alt="img. os du carpe compartiment medial G"/></span></a>
 							<ul style="list-style-type:circle">
-							<li><a href="/desc/http://anat.org/L-scaphoide">Os scaphoïde (anc. os naviculaire carpien) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-lunatum">Os lunatum (anc. os semi-lunaire) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-triquetrum">Os triquetrum (anc. os pyramidal) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-pisiforme">Os pisiforme gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-hamatum">Os hamatum (anc. os crochu) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-capitatum">Os capitatum (anc. grand os de la main) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-scaphoide">Os scaphoïde (anc. os naviculaire carpien) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=mmGnaOKfqObeDCCaGD4nmiuq" alt="img. scaphoide G"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-lunatum">Os lunatum (anc. os semi-lunaire) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=b8jKvSSH9D0PKL59LjjWTrq4" alt="img. lunatum G"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-triquetrum">Os triquetrum (anc. os pyramidal) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uOT9nKT9vSLTeWXbCu855LD0" alt="img. triquetrum G"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-pisiforme">Os pisiforme gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=mK9niyne8be0SH9Tfayu01Pf" alt="img. pisiforme G"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-hamatum">Os hamatum (anc. os crochu) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=WL5v45iW1TbqvOHPL5uWTXDi" alt="img. hamatum G"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-capitatum">Os capitatum (anc. grand os de la main) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CmiSb4DS5D8Hq4b4b0fWDiyq" alt="img. capitatum G"/></span></a></li>
 							</ul>
 						</li>
-						<li><a href="/desc/http://anat.org/L-os-carpe-comparti-lat">Os du compartiment latéral du carpe gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+						<li><a href="/desc/http://anat.org/L-os-carpe-comparti-lat">Os du compartiment latéral du carpe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=e4jy8nTDW5T5uOLz4Tz451DW" alt="img. os du carpe compartiment lateral G"/></span></a>
 							<ul style="list-style-type:circle">
-							<li><a href="/desc/http://anat.org/L-trapezoide">Os trapézoïde gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-trapeze">Os trapèze gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-trapezoide">Os trapézoïde gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Pf0PbWzeyGnafy0PbijG5b8L" alt="img. trapezoide G"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-trapeze">Os trapèze gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CO9vamKLriCGmObua8CKzaaq" alt="img. trapeze G"/></span></a></li>
 							</ul>
 						</li>
 						</ul>
@@ -2362,7 +2362,7 @@ td {
 
 </div>
 
-		<li><a href="/desc/http://anat.org/OS-L-main">OS DE LA MAIN GAUCHE<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/OS-L-main">OS DE LA MAIN GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CKn0XbqWPnieTrG955vCuiSn" alt="img. os de la main G"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -2378,40 +2378,40 @@ td {
 				<tr>
 					<td>
 						<ul style="list-style-type:disc">
-						<li><a href="/desc/http://anat.org/L-1e-rangee-carpe">Os de la 1ere rangée du carpe gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+						<li><a href="/desc/http://anat.org/L-1e-rangee-carpe">Os de la 1ere rangée du carpe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5neiSzC8fGrKqCqOn0zqSj41" alt="img. 1ere rangee du carpe G"/></span></a>
 							<ul style="list-style-type:circle">
-							<li><a href="/desc/http://anat.org/L-scaphoide">Os scaphoïde (anc. os naviculaire carpien) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-lunatum">Os lunatum (anc. os semi-lunaire) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-triquetrum">Os triquetrum (anc. os pyramidal) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-pisiforme">Os pisiforme gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-scaphoide">Os scaphoïde (anc. os naviculaire carpien) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=mmGnaOKfqObeDCCaGD4nmiuq" alt="img. scaphoide G"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-lunatum">Os lunatum (anc. os semi-lunaire) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=b8jKvSSH9D0PKL59LjjWTrq4" alt="img. lunatum G"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-triquetrum">Os triquetrum (anc. os pyramidal) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uOT9nKT9vSLTeWXbCu855LD0" alt="img. triquetrum G"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-pisiforme">Os pisiforme gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=mK9niyne8be0SH9Tfayu01Pf" alt="img. pisiforme G"/></span></a></li>
 							</ul>
 						</li>
-						<li><a href="/desc/http://anat.org/L-2e-rangee-carpe">Os de la 2e rangée du carpe gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+						<li><a href="/desc/http://anat.org/L-2e-rangee-carpe">Os de la 2e rangée du carpe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8v8z4Xm4HTTXGb8rWr0Dq4Hz" alt="img. 2e rangee du carpe G"/></span></a>
 							<ul style="list-style-type:circle">
-							<li><a href="/desc/http://anat.org/L-hamatum">Os hamatum (anc. os crochu) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-capitatum">Os capitatum (anc. grand os de la main) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-trapezoide">Os trapézoïde gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-trapeze">Os trapèze gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-hamatum">Os hamatum (anc. os crochu) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=WL5v45iW1TbqvOHPL5uWTXDi" alt="img. hamatum G"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-capitatum">Os capitatum (anc. grand os de la main) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CmiSb4DS5D8Hq4b4b0fWDiyq" alt="img. capitatum G"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-trapezoide">Os trapézoïde gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Pf0PbWzeyGnafy0PbijG5b8L" alt="img. trapezoide G"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-trapeze">Os trapèze gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CO9vamKLriCGmObua8CKzaaq" alt="img. trapeze G"/></span></a></li>
 							</ul>
 						</li>
 						</ul>
 					</td>
 					<td>
 						<ul style="list-style-type:disc">
-						<li><a href="/desc/http://anat.org/L-os-carpe-comparti-med">Os du compartiment médial du carpe gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+						<li><a href="/desc/http://anat.org/L-os-carpe-comparti-med">Os du compartiment médial du carpe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1b091Te0bCy49fqGfq9jiCGH" alt="img. os du carpe compartiment medial G"/></span></a>
 							<ul style="list-style-type:circle">
-							<li><a href="/desc/http://anat.org/L-scaphoide">Os scaphoïde (anc. os naviculaire carpien) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-lunatum">Os lunatum (anc. os semi-lunaire) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-triquetrum">Os triquetrum (anc. os pyramidal) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-pisiforme">Os pisiforme gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-hamatum">Os hamatum (anc. os crochu) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-capitatum">Os capitatum (anc. grand os de la main) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-scaphoide">Os scaphoïde (anc. os naviculaire carpien) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=mmGnaOKfqObeDCCaGD4nmiuq" alt="img. scaphoide G"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-lunatum">Os lunatum (anc. os semi-lunaire) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=b8jKvSSH9D0PKL59LjjWTrq4" alt="img. lunatum G"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-triquetrum">Os triquetrum (anc. os pyramidal) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uOT9nKT9vSLTeWXbCu855LD0" alt="img. triquetrum G"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-pisiforme">Os pisiforme gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=mK9niyne8be0SH9Tfayu01Pf" alt="img. pisiforme G"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-hamatum">Os hamatum (anc. os crochu) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=WL5v45iW1TbqvOHPL5uWTXDi" alt="img. hamatum G"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-capitatum">Os capitatum (anc. grand os de la main) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CmiSb4DS5D8Hq4b4b0fWDiyq" alt="img. capitatum G"/></span></a></li>
 							</ul>
 						</li>
-						<li><a href="/desc/http://anat.org/L-os-carpe-comparti-lat">Os du compartiment latéral du carpe gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+						<li><a href="/desc/http://anat.org/L-os-carpe-comparti-lat">Os du compartiment latéral du carpe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=e4jy8nTDW5T5uOLz4Tz451DW" alt="img. os du carpe compartiment lateral G"/></span></a>
 							<ul style="list-style-type:circle">
-							<li><a href="/desc/http://anat.org/L-trapezoide">Os trapézoïde gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-trapeze">Os trapèze gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-trapezoide">Os trapézoïde gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Pf0PbWzeyGnafy0PbijG5b8L" alt="img. trapezoide G"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-trapeze">Os trapèze gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CO9vamKLriCGmObua8CKzaaq" alt="img. trapeze G"/></span></a></li>
 							</ul>
 						</li>
 						</ul>
@@ -2422,17 +2422,17 @@ td {
 
 </div>
 
-			<li><a href="/desc/http://anat.org/L-meta-carpe">Os métacarpes gauches<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-meta-carpe">Os métacarpes gauches<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=0PvyiGWTX5H5PL191HTHn0TD" alt="img. os metacarpes G"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/L-metaC-I">1er os métacarpe gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-metaC-II">2e os métacarpe gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-metaC-III">3e os métacarpe gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-metaC-IV">4e os métacarpe gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-metaC-V">5e os métacarpe gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-metaC-I">1er os métacarpe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LPfqmq9bCOnyWX5nC4eiO195" alt="img. 1er metacarpe G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-metaC-II">2e os métacarpe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=111vuieS9PfOD09LLH45TnGj" alt="img. 2e metacarpe G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-metaC-III">3e os métacarpe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Kr0rCu5jyySnziO9fe8neKjW" alt="img. 3e metacarpe G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-metaC-IV">4e os métacarpe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9Xn019m81TnqCWPLbG5HbCWz" alt="img. 4e metacarpe G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-metaC-V">5e os métacarpe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bWjWnqmOviO1m8HTj4HveeO5" alt="img. 5e metacarpe G"/></span></a></li>
 				</ul>
 
 </div>
@@ -2449,61 +2449,61 @@ td {
 
 </div>
 
-			<li><a href="/desc/http://anat.org/L-main-phalanges">Os des phalanges des doigts gauches<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-main-phalanges">Phalanges des doigts gauches<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uiqq49aCyaqK5D4TbeeOHnqC" alt="img. phalanges doigts G"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/L-main-phalanges-I">Os des phalanges du pouce gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-main-phalanges-I">Phalanges du pouce gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=S9DOve0HTbm4jyOzmOaa0fS1" alt="img. phalanges pouce G"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/L-main-phal-proxi-I">Phalange proximale du pouce gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-main-phal-dist-I">Phalange distale du pouce gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-main-phal-proxi-I">Phalange proximale du pouce gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TP5Xj4aK5zyaWrCKH9TTnGTv" alt="img. phalange proximale pouce G"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-main-phal-dist-I">Phalange distale du pouce gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8LfSnOPbSnK949fuyCa41Hz8" alt="img. phalange distale pouce G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-main-phalanges-II">Os des phalanges du 2e doigt gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-main-phalanges-II">Phalanges du 2e doigt gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4n05rai01DiyDGLXn8T1n0re" alt="img. phalanges 2e doigt G"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/L-main-phal-proxi-II">Phalange proximale du 2e doigt gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-main-phal-moy-II">Phalange moyenne du 2e doigt gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-main-phal-dist-II">Phalange distale du 2e doigt gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-main-phal-proxi-II">Phalange proximale du 2e doigt gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Sf85viLbyCimaaeyyaq05P99" alt="img. phalange proximale 2e doigt G"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-main-phal-moy-II">Phalange moyenne du 2e doigt gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ima0jSTTTjeSyySPT1HDmWLb" alt="img. phalange moyenne 2e doigt G"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-main-phal-dist-II">Phalange distale du 2e doigt gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Gr8nWT91zCCSTXTXjieieqmC" alt="img. phalange distale 2e doigt G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-main-phalanges-III">Os des phalanges du 3e doigt gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-main-phalanges-III">Phalanges du 3e doigt gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=je4X99GPz4HHjqmayCq0DqC8" alt="img. phalanges 3e doigt G"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/L-main-phal-proxi-III">Phalange proximale du 3e doigt gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-main-phal-moy-III">Phalange moyenne du 3e doigt gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-main-phal-dist-III">Phalange distale du 3e doigt gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-main-phal-proxi-III">Phalange proximale du 3e doigt gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=raaGjuW99r4Hfqmi0fuSv09H" alt="img. phalange proximale 3e doigt G"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-main-phal-moy-III">Phalange moyenne du 3e doigt gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=fCiaCmDa8fei19Pzyu9zqei4" alt="img. phalange moyenne 3e doigt G"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-main-phal-dist-III">Phalange distale du 3e doigt gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LvuODOT5HHXXmKHjieuy4jG5" alt="img. phalange distale 3e doigt G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-main-phalanges-IV">Os des phalanges du 4e doigt gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-main-phalanges-IV">Phalanges du 4e doigt gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eyeGHfe4fqyK5Lr0LDeq8bCe" alt="img. phalanges 4e doigt G"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/L-main-phal-proxi-IV">Phalange proximale du 4e doigt gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-main-phal-moy-IV">Phalange moyenne du 4e doigt gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-main-phal-dist-IV">Phalange distale du 4e doigt gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-main-phal-proxi-IV">Phalange proximale du 4e doigt gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uKDiuOT1HD0rDCi0zueGn8fW" alt="img. phalange proximale 4e doigt G"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-main-phal-moy-IV">Phalange moyenne du 4e doigt gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=feOrq0bamKfKOHviyaj0DyyS" alt="img. phalange moyenne 4e doigt G"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-main-phal-dist-IV">Phalange distale du 4e doigt gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9fOX1Xb0DO5reuymiaSvGPL5" alt="img. phalange distale 4e doigt G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-main-phalanges-V">Os des phalanges du 5e doigt gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-main-phalanges-V">Phalanges du 5e doigt gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CiuGLnrmu4jafmeCS9m0Tn8X" alt="img. phalanges 5e doigt G"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/L-main-phal-proxi-V">Phalange proximale du 5e doigt gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-main-phal-moy-V">Phalange moyenne du 5e doigt gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-main-phal-dist-V">Phalange distale du 5e doigt gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-main-phal-proxi-V">Phalange proximale du 5e doigt gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qaeKb01T19LzjyG5nCPbeCyC" alt="img. phalange proximale 5e doigt G"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-main-phal-moy-V">Phalange moyenne du 5e doigt gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9fu8fW8v8jSv8T9TbezOza8L" alt="img. phalange moyenne 5e doigt G"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-main-phal-dist-V">Phalange distale du 5e doigt gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yai4zKje4HDarW9by4PLvWfy" alt="img. phalange distale 5e doigt G"/></span></a></li>
 					</ul>
 				</li>
 				</ul>
 
 </div>
 
-			<li><a href="/desc/http://anat.org/L-colonne-du-pouce">Colonne du pouce gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-colonne-du-pouce">Colonne du pouce gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zmGzeaD0PDKDvae0n41fGr4D" alt="img. colonne du pouce G"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/L-metaC-I">1er os métacarpe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LPfqmq9bCOnyWX5nC4eiO195" alt="img. 1er os metacarpe G"/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-main-phalanges-I">Os des phalanges du pouce gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=S9DOve0HTbm4jyOzmOaa0fS1" alt="img. phalanges pouce G"/></span></a>
+				<li><a href="/desc/http://anat.org/L-metaC-I">1er os métacarpe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LPfqmq9bCOnyWX5nC4eiO195" alt="img. 1er metacarpe G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-main-phalanges-I">Phalanges du pouce gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=S9DOve0HTbm4jyOzmOaa0fS1" alt="img. phalanges pouce G"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/L-main-phal-proxi-I">Phalange proximale du pouce gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TP5Xj4aK5zyaWrCKH9TTnGTv" alt="img. phalange proxi pouce G"/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-main-phal-dist-I">Phalange distale du pouce gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8LfSnOPbSnK949fuyCa41Hz8" alt="img. phalange dist pouce G"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-main-phal-proxi-I">Phalange proximale du pouce gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TP5Xj4aK5zyaWrCKH9TTnGTv" alt="img. phalange proximale pouce G"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-main-phal-dist-I">Phalange distale du pouce gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8LfSnOPbSnK949fuyCa41Hz8" alt="img. phalange distale pouce G"/></span></a></li>
 					</ul>
 				</li>
 				<li><a href="/desc/http://anat.org/L-main-os-sesamoides">Os sésamoïdes du pouce gauche<span id=infobulle><img src="" alt="img. "/></span></a>

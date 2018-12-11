@@ -1088,10 +1088,10 @@ td {
 
 </div>
 
-	<li><a href="/desc/http://anat.org/muscles-cou">Muscles du cou<span id=infobulle><img src="" alt="img. "/></span></a>
+	<li><a href="/desc/http://anat.org/muscles-cou">Muscles du cou<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=0jSDCOv8jWTTTDKvyaiSn8jS" alt="img. muscles du cou"/></span></a>
 
 		<ul style="list-style-type:square">
-		<li><a href="/desc/http://anat.org/muscles-supL-cou">Muscles superficiels du cou<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/muscles-supL-cou">Muscles superficiels du cou<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=X9T5Lz1viSPHayGjSPPrGjqG" alt="img. muscles superficiels du cou"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -1120,9 +1120,9 @@ td {
 			</ul>
 </div>
 
-		<li><a href="/desc/http://anat.org/muscles-intermed-cou">Muscles intermédiaires du cou<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/muscles-intermed-cou">Muscles intermédiaires du cou<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Dueqiy0b0Pfmn4jyGPzWnCmm" alt="img. muscles intermediaires du cou"/></span></a></li>
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/muscles-supra-hyoidiens">Muscles supra hyoïdiens<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/muscles-supra-hyoidiens">Muscles supra-hyoïdiens<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8r49n8vii8X9uuKjuer89fCm" alt="img. muscles supra-hyoidiens"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -1170,7 +1170,7 @@ td {
 
 </div>
 
-			<li><a href="/desc/http://anat.org/muscles-infra-hyoidiens">Muscles infra hyoïdiens<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/muscles-infra-hyoidiens">Muscles infra-hyoïdiens<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8r4TH1X5fq4TCy4Lvm5Hni4b" alt="img. muscles infra-hyoidiens"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -1206,7 +1206,7 @@ td {
 
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/muscles-pfd-cou">Muscles profonds du cou<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/muscles-pfd-cou">Muscles profonds du cou<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=vymO9b99jKPTOTvq4vaCeSvK" alt="img. muscles profonds du cou"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -1276,87 +1276,87 @@ td {
 <div class="content">
 
 	<ul style="list-style-type:square">
-	<li><a href="/desc/http://anat.org/muscles-thoraciq-ext">Muscles thoraciques externes<span id=infobulle><img src="" alt="img. "/></span></a></li>
+	<li><a href="/desc/http://anat.org/muscles-thoraciq-ext">Muscles thoraciques externes<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eC4fe09reWnyC8DiWTj89bGz" alt="img. muscles thoraciques externes"/></span></a></li>
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/muscles-elevatR-cotes">Muscles élévateurs des côtes<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-elevatR-cotes">Muscles élévateurs des côtes<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=faeKTjaSLf4vvW9n4DfCuCOf" alt="img. muscles elevateurs des cotes"/></span></a>
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/muscles-crt-elevatR-cotes">Muscles courts élévateurs des côtes<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/muscles-crt-elevatR-cotes">Muscles courts élévateurs des côtes<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KXHT5reWviO18TjGvqXTTzaa" alt="img. muscles courts elevateurs des cotes"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-muscles-crt-elevatR-cotes">Muscles courts élévateurs des côtes droits<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/R-muscles-crt-elevatR-cotes">Muscles courts élévateurs des côtes droits<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=niuymOnqyyy4XDeiyWb05Lby" alt="img. muscles courts elevateurs des cotes D"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-1">Muscle court élévateur de la 1ere côte droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-2">Muscle court élévateur de la 2e côte droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-3">Muscle court élévateur de la 3e côte droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-4">Muscle court élévateur de la 4e côte droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-5">Muscle court élévateur de la 5e côte droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-6">Muscle court élévateur de la 6e côte droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-7">Muscle court élévateur de la 7e côte droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-8">Muscle court élévateur de la 8e côte droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-9">Muscle court élévateur de la 9e côte droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-10">Muscle court élévateur de la 10e côte droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-11">Muscle court élévateur de la 11e côte droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-12">Muscle court élévateur de la 12e côte droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-1">Muscle court élévateur de la 1ere côte droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-2">Muscle court élévateur de la 2e côte droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-3">Muscle court élévateur de la 3e côte droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-4">Muscle court élévateur de la 4e côte droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-5">Muscle court élévateur de la 5e côte droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-6">Muscle court élévateur de la 6e côte droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-7">Muscle court élévateur de la 7e côte droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-8">Muscle court élévateur de la 8e côte droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-9">Muscle court élévateur de la 9e côte droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-10">Muscle court élévateur de la 10e côte droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-11">Muscle court élévateur de la 11e côte droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-elevatR-cote-12">Muscle court élévateur de la 12e côte droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-muscles-crt-elevatR-cotes">Muscles courts élévateurs des côtes gauches<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-muscles-crt-elevatR-cotes">Muscles courts élévateurs des côtes gauches<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Dy8P5D4r49HrbOP9PrDmSbyu" alt="img. muscles courts elevateurs des cotes G"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-1">Muscle court élévateur de la 1ere côte gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-2">Muscle court élévateur de la 2e côte gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-3">Muscle court élévateur de la 3e côte gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-4">Muscle court élévateur de la 4e côte gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-5">Muscle court élévateur de la 5e côte gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-6">Muscle court élévateur de la 6e côte gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-7">Muscle court élévateur de la 7e côte gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-8">Muscle court élévateur de la 8e côte gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-9">Muscle court élévateur de la 9e côte gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-10">Muscle court élévateur de la 10e côte gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-11">Muscle court élévateur de la 11e côte gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-12">Muscle court élévateur de la 12e côte gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-1">Muscle court élévateur de la 1ere côte gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-2">Muscle court élévateur de la 2e côte gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-3">Muscle court élévateur de la 3e côte gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-4">Muscle court élévateur de la 4e côte gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-5">Muscle court élévateur de la 5e côte gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-6">Muscle court élévateur de la 6e côte gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-7">Muscle court élévateur de la 7e côte gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-8">Muscle court élévateur de la 8e côte gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-9">Muscle court élévateur de la 9e côte gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-10">Muscle court élévateur de la 10e côte gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-11">Muscle court élévateur de la 11e côte gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-elevatR-cote-12">Muscle court élévateur de la 12e côte gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 				</li>
 				</ul>
 
 </div>
 
-			<li><a href="/desc/http://anat.org/muscles-lg-elevatR-cotes">Muscles longs élévateurs des côtes<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/muscles-lg-elevatR-cotes">Muscles longs élévateurs des côtes<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=neGX9zLnOXvOb0Tv8T8fSTDW" alt="img. muscles longs elevateurs des cotes"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-muscles-lg-elevatR-cotes">Muscles longs élévateurs des côtes droits<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/R-muscles-lg-elevatR-cotes">Muscles longs élévateurs des côtes droits<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=aieSb8va4rKjfW9rymi4fi4P" alt="img. muscles longs elevateurs des cotes D"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-2">Muscle long élévateur de la 2e côte droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-3">Muscle long élévateur de la 3e côte droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-4">Muscle long élévateur de la 4e côte droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-5">Muscle long élévateur de la 5e côte droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-6">Muscle long élévateur de la 6e côte droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-7">Muscle long élévateur de la 7e côte droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-8">Muscle long élévateur de la 8e côte droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-9">Muscle long élévateur de la 9e côte droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-10">Muscle long élévateur de la 10e côte droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-11">Muscle long élévateur de la 11e côte droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-12">Muscle long élévateur de la 12e côte droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-2">Muscle long élévateur de la 2e côte droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-3">Muscle long élévateur de la 3e côte droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-4">Muscle long élévateur de la 4e côte droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-5">Muscle long élévateur de la 5e côte droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-6">Muscle long élévateur de la 6e côte droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-7">Muscle long élévateur de la 7e côte droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-8">Muscle long élévateur de la 8e côte droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-9">Muscle long élévateur de la 9e côte droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-10">Muscle long élévateur de la 10e côte droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-11">Muscle long élévateur de la 11e côte droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-lg-elevatR-cote-12">Muscle long élévateur de la 12e côte droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-muscles-lg-elevatR-cotes">Muscles longs élévateurs des côtes gauches<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-muscles-lg-elevatR-cotes">Muscles longs élévateurs des côtes gauches<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8911zKvmuy0r1j4fWLyy8jCi" alt="img. muscles longs elevateurs des cotes G"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-2">Muscle long élévateur de la 2e côte gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-3">Muscle long élévateur de la 3e côte gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-4">Muscle long élévateur de la 4e côte gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-5">Muscle long élévateur de la 5e côte gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-6">Muscle long élévateur de la 6e côte gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-7">Muscle long élévateur de la 7e côte gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-8">Muscle long élévateur de la 8e côte gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-9">Muscle long élévateur de la 9e côte gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-10">Muscle long élévateur de la 10e côte gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-11">Muscle long élévateur de la 11e côte gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-12">Muscle long élévateur de la 12e côte gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-2">Muscle long élévateur de la 2e côte gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-3">Muscle long élévateur de la 3e côte gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-4">Muscle long élévateur de la 4e côte gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-5">Muscle long élévateur de la 5e côte gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-6">Muscle long élévateur de la 6e côte gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-7">Muscle long élévateur de la 7e côte gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-8">Muscle long élévateur de la 8e côte gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-9">Muscle long élévateur de la 9e côte gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-10">Muscle long élévateur de la 10e côte gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-11">Muscle long élévateur de la 11e côte gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-lg-elevatR-cote-12">Muscle long élévateur de la 12e côte gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 				</li>
 				</ul>
@@ -1367,125 +1367,125 @@ td {
 		</li>
 		</ul>
 
-	<li><a href="/desc/http://anat.org/muscles-thoraciq-intermed">Muscles thoraciques intermédiaires<span id=infobulle><img src="" alt="img. "/></span></a></li>
+	<li><a href="/desc/http://anat.org/muscles-thoraciq-intermed">Muscles thoraciques intermédiaires<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jiieyCXL5fuaLD45DWSXHTL5" alt="img. muscles thoraciques intermediaires"/></span></a></li>
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/muscles-intercostaux">Muscles intercostaux<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-intercostaux">Muscles intercostaux<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=f0zGrWnuG1PnHrimKfbaO5rG" alt="img. muscles intercostaux"/></span></a>
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/muscles-intercostaux-ext">Muscles intercostaux externes<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/muscles-intercostaux-ext">Muscles intercostaux externes<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=HrGXvqfimiee51vqKXGvyS1T" alt="img. muscles intercostaux externes"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-muscles-intercostaux-ext">Muscles intercostaux externes droits<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/R-muscles-intercostaux-ext">Muscles intercostaux externes droits<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-1">1er muscle intercostal externe droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-2">2e muscle intercostal externe droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-3">3e muscle intercostal externe droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-4">4e muscle intercostal externe droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-5">5e muscle intercostal externe droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-6">6e muscle intercostal externe droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-7">7e muscle intercostal externe droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-8">8e muscle intercostal externe droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-9">9e muscle intercostal externe droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-10">10e muscle intercostal externe droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-11">11e muscle intercostal externe droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-1">1er muscle intercostal externe droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-2">2e muscle intercostal externe droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-3">3e muscle intercostal externe droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-4">4e muscle intercostal externe droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-5">5e muscle intercostal externe droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-6">6e muscle intercostal externe droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-7">7e muscle intercostal externe droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-8">8e muscle intercostal externe droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-9">9e muscle intercostal externe droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-10">10e muscle intercostal externe droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-ext-11">11e muscle intercostal externe droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-muscles-intercostaux-ext">Muscles intercostaux externes gauches<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-muscles-intercostaux-ext">Muscles intercostaux externes gauches<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-1">1er muscle intercostal externe gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-2">2e muscle intercostal externe gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-3">3e muscle intercostal externe gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-4">4e muscle intercostal externe gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-5">5e muscle intercostal externe gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-6">6e muscle intercostal externe gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-7">7e muscle intercostal externe gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-8">8e muscle intercostal externe gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-9">9e muscle intercostal externe gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-10">10e muscle intercostal externe gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-11">11e muscle intercostal externe gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-1">1er muscle intercostal externe gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-2">2e muscle intercostal externe gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-3">3e muscle intercostal externe gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-4">4e muscle intercostal externe gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-5">5e muscle intercostal externe gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-6">6e muscle intercostal externe gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-7">7e muscle intercostal externe gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-8">8e muscle intercostal externe gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-9">9e muscle intercostal externe gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-10">10e muscle intercostal externe gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-ext-11">11e muscle intercostal externe gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 				</li>
 				</ul>
 
 </div>
 
-			<li><a href="/desc/http://anat.org/muscles-intercostaux-int">Muscles intercostaux internes<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/muscles-intercostaux-int">Muscles intercostaux internes<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=WX9jSDO5bKPvbaeeGDa01nOT" alt="img. muscles intercostaux internes"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-muscles-intercostaux-int">Muscles intercostaux internes droits<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/R-muscles-intercostaux-int">Muscles intercostaux internes droits<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-1">1er muscle intercostal interne droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-2">2e muscle intercostal interne droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-3">3e muscle intercostal interne droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-4">4e muscle intercostal interne droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-5">5e muscle intercostal interne droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-6">6e muscle intercostal interne droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-7">7e muscle intercostal interne droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-8">8e muscle intercostal interne droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-9">9e muscle intercostal interne droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-10">10e muscle intercostal interne droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-11">11e muscle intercostal interne droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-1">1er muscle intercostal interne droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-2">2e muscle intercostal interne droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-3">3e muscle intercostal interne droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-4">4e muscle intercostal interne droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-5">5e muscle intercostal interne droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-6">6e muscle intercostal interne droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-7">7e muscle intercostal interne droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-8">8e muscle intercostal interne droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-9">9e muscle intercostal interne droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-10">10e muscle intercostal interne droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-int-11">11e muscle intercostal interne droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-muscles-intercostaux-int">Muscles intercostaux internes gauches<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-muscles-intercostaux-int">Muscles intercostaux internes gauches<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-1">1er muscle intercostal interne gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-2">2e muscle intercostal interne gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-3">3e muscle intercostal interne gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-4">4e muscle intercostal interne gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-5">5e muscle intercostal interne gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-6">6e muscle intercostal interne gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-7">7e muscle intercostal interne gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-8">8e muscle intercostal interne gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-9">9e muscle intercostal interne gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-10">10e muscle intercostal interne gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-11">11e muscle intercostal interne gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-1">1er muscle intercostal interne gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-2">2e muscle intercostal interne gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-3">3e muscle intercostal interne gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-4">4e muscle intercostal interne gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-5">5e muscle intercostal interne gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-6">6e muscle intercostal interne gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-7">7e muscle intercostal interne gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-8">8e muscle intercostal interne gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-9">9e muscle intercostal interne gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-10">10e muscle intercostal interne gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-int-11">11e muscle intercostal interne gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 				</li>
 				</ul>
 
 </div>
 
-			<li><a href="/desc/http://anat.org/muscles-intercostaux-intime">Muscles intercostaux intimes<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/muscles-intercostaux-intime">Muscles intercostaux intimes<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jmGnC8eS9bSHL1T91Dnq8r4v" alt="img. muscles intercostaux intimes"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-muscles-intercostaux-intime">Muscles intercostaux intimes droits<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/R-muscles-intercostaux-intime">Muscles intercostaux intimes droits<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-1">1er muscle intercostal intime droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-2">2e muscle intercostal intime droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-3">3e muscle intercostal intime droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-4">4e muscle intercostal intime droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-5">5e muscle intercostal intime droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-6">6e muscle intercostal intime droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-7">7e muscle intercostal intime droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-8">8e muscle intercostal intime droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-9">9e muscle intercostal intime droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-10">10e muscle intercostal intime droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-11">11e muscle intercostal intime droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-1">1er muscle intercostal intime droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-2">2e muscle intercostal intime droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-3">3e muscle intercostal intime droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-4">4e muscle intercostal intime droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-5">5e muscle intercostal intime droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-6">6e muscle intercostal intime droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-7">7e muscle intercostal intime droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-8">8e muscle intercostal intime droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-9">9e muscle intercostal intime droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-10">10e muscle intercostal intime droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-intercostal-intime-11">11e muscle intercostal intime droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-muscles-intercostaux-intime">Muscles intercostaux intimes gauches<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-muscles-intercostaux-intime">Muscles intercostaux intimes gauches<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-1">1er muscle intercostal intime gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-2">2e muscle intercostal intime gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-3">3e muscle intercostal intime gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-4">4e muscle intercostal intime gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-5">5e muscle intercostal intime gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-6">6e muscle intercostal intime gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-7">7e muscle intercostal intime gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-8">8e muscle intercostal intime gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-9">9e muscle intercostal intime gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-10">10e muscle intercostal intime gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-11">11e muscle intercostal intime gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-1">1er muscle intercostal intime gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-2">2e muscle intercostal intime gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-3">3e muscle intercostal intime gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-4">4e muscle intercostal intime gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-5">5e muscle intercostal intime gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-6">6e muscle intercostal intime gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-7">7e muscle intercostal intime gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-8">8e muscle intercostal intime gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-9">9e muscle intercostal intime gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-10">10e muscle intercostal intime gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-intercostal-intime-11">11e muscle intercostal intime gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 				</li>
 				</ul>
@@ -1496,53 +1496,53 @@ td {
 		</li>
 		</ul>
 
-	<li><a href="/desc/http://anat.org/muscles-thoraciq-int">Muscles thoraciques internes<span id=infobulle><img src="" alt="img. "/></span></a></li>
+	<li><a href="/desc/http://anat.org/muscles-thoraciq-int">Muscles thoraciques internes<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. muscles thoraciques internes"/></span></a></li>
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/muscles-trsv-thorax">Muscles transverses du thorax<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/muscles-trsv-thorax">Muscles transverses du thorax<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=THPvKzmqeCaa9LLz0ru8n8LD" alt="img. muscles transverses du thorax"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-trsv-thorax">Muscle transverse du thorax droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-trsv-thorax">Muscle transverse du thorax gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-trsv-thorax">Muscle transverse du thorax droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yuWz450fmCuaG91HPjjiS59b" alt="img. muscle transverse du thorax D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-trsv-thorax">Muscle transverse du thorax gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=amSv8n4LzKf8XjCiaqjWreme" alt="img. muscle transverse du thorax G"/></span></a></li>
 			</ul>
 
 </div>
 
-		<li><a href="/desc/http://anat.org/muscles-subcostaux">Muscles subcostaux<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/muscles-subcostaux">Muscles subcostaux<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/R-muscles-subcostaux">Muscles subcostaux droits<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/R-muscles-subcostaux">Muscles subcostaux droits<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-subcostal-1">1er muscle subcostal droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-subcostal-2">2e muscle subcostal droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-subcostal-3">3e muscle subcostal droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-subcostal-4">4e muscle subcostal droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-subcostal-5">5e muscle subcostal droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-subcostal-6">6e muscle subcostal droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-subcostal-7">7e muscle subcostal droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-subcostal-8">8e muscle subcostal droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-subcostal-9">9e muscle subcostal droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-subcostal-10">10e muscle subcostal droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-subcostal-1">1er muscle subcostal droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-subcostal-2">2e muscle subcostal droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-subcostal-3">3e muscle subcostal droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-subcostal-4">4e muscle subcostal droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-subcostal-5">5e muscle subcostal droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-subcostal-6">6e muscle subcostal droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-subcostal-7">7e muscle subcostal droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-subcostal-8">8e muscle subcostal droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-subcostal-9">9e muscle subcostal droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-subcostal-10">10e muscle subcostal droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/L-muscles-subcostaux">Muscles subcostaux gauches<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/L-muscles-subcostaux">Muscles subcostaux gauches<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/L-mscl-subcostal-1">1er muscle subcostal gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-subcostal-2">2e muscle subcostal gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-subcostal-3">3e muscle subcostal gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-subcostal-4">4e muscle subcostal gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-subcostal-5">5e muscle subcostal gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-subcostal-6">6e muscle subcostal gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-subcostal-7">7e muscle subcostal gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-subcostal-8">8e muscle subcostal gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-subcostal-9">9e muscle subcostal gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-subcostal-10">10e muscle subcostal gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-subcostal-1">1er muscle subcostal gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-subcostal-2">2e muscle subcostal gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-subcostal-3">3e muscle subcostal gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-subcostal-4">4e muscle subcostal gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-subcostal-5">5e muscle subcostal gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-subcostal-6">6e muscle subcostal gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-subcostal-7">7e muscle subcostal gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-subcostal-8">8e muscle subcostal gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-subcostal-9">9e muscle subcostal gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-subcostal-10">10e muscle subcostal gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 				</ul>
 			</li>
 			</ul>
@@ -1551,41 +1551,41 @@ td {
 
 		</ul>
 
-	<li><a href="/desc/http://anat.org/mscl-diaphragme">Muscle diaphragme<span id=infobulle><img src="" alt="img. "/></span></a></li>
+	<li><a href="/desc/http://anat.org/mscl-diaphragme">Muscle diaphragme<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DKLjaOCim851i0j8fu49LLr0" alt="img. diaphragme"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/diaphragme-ctre-phreniq">Centre phrénique du diaphragme<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/diaphragme-ctre-phreniq">Centre phrénique du diaphragme<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/diaphragme-foliole-ventral">Foliole antérieure diaphragmatique<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-diaphragme-folioles">Foliole latérale diaphragmatique droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-diaphragme-folioles">Foliole latérale diaphragmatique gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/diaphragme-bandelette-semicircu-sup">Bandelette semi-circulaire supérieure du diaphragme<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/diaphragme-bandelette-semicircu-inf">Bandelette semi-circulaire inférieure du diaphragme<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/diaphragme-foliole-ventral">Foliole antérieure diaphragmatique<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-diaphragme-folioles">Foliole latérale diaphragmatique droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-diaphragme-folioles">Foliole latérale diaphragmatique gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/diaphragme-bandelette-semicircu-sup">Bandelette semi-circulaire supérieure du diaphragme<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/diaphragme-bandelette-semicircu-inf">Bandelette semi-circulaire inférieure du diaphragme<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/diaphragme-coupoles">Coupoles diaphragmatiques<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/diaphragme-coupoles">Coupoles diaphragmatiques<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-diaphragme-coupole">Coupole diaphragmatique droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-diaphragme-coupole">Coupole diaphragmatique gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-diaphragme-coupole">Coupole diaphragmatique droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-diaphragme-coupole">Coupole diaphragmatique gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/diaphragme-piliers">Piliers du diaphragme<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/diaphragme-piliers">Piliers du diaphragme<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-diaphragme-pilier">Pilier diaphragmatique droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-diaphragme-pilier">Pilier diaphragmatique gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-diaphragme-pilier">Pilier diaphragmatique droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-diaphragme-pilier">Pilier diaphragmatique gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/diaphragme-fx-sternal">Faisceau sternal du diaphragme<span id=infobulle><img src="" alt="img. "/></span></a></li>
-		<li><a href="/desc/http://anat.org/lgmts-arque-diaphragme">Ligaments arqués du diaphragme<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/diaphragme-fx-sternal">Faisceau sternal du diaphragme<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/lgmts-arque-diaphragme">Ligaments arqués du diaphragme<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/lgmt-arque-median">Ligaments arqués médian du diaphragme<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-lgmt-arque-med">Ligaments arqués médial droit du diaphragme<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-lgmt-arque-med">Ligaments arqués médial gauche du diaphragme<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-lgmt-arque-lat">Ligaments arqués latéral droit du diaphragme<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-lgmt-arque-lat">Ligaments arqués latéral gauche du diaphragme<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/lgmt-arque-median">Ligaments arqués médian du diaphragme<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-lgmt-arque-med">Ligaments arqués médial droit du diaphragme<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-lgmt-arque-med">Ligaments arqués médial gauche du diaphragme<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-lgmt-arque-lat">Ligaments arqués latéral droit du diaphragme<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-lgmt-arque-lat">Ligaments arqués latéral gauche du diaphragme<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			</ul>
 		</li>
 		</ul>
@@ -1600,51 +1600,51 @@ td {
 <div class="content">
 
 	<ul style="list-style-type:square">
-	<li><a href="/desc/http://anat.org/mscl-diaphragme">Muscle diaphragme<span id=infobulle><img src="" alt="img. "/></span></a></li>
+	<li><a href="/desc/http://anat.org/mscl-diaphragme">Muscle diaphragme<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DKLjaOCim851i0j8fu49LLr0" alt="img. diaphragme"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/diaphragme-ctre-phreniq">Centre phrénique du diaphragme<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/diaphragme-ctre-phreniq">Centre phrénique du diaphragme<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/diaphragme-foliole-ventral">Foliole antérieure diaphragmatique<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-diaphragme-folioles">Foliole latérale diaphragmatique droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-diaphragme-folioles">Foliole latérale diaphragmatique gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/diaphragme-bandelette-semicircu-sup">Bandelette semi-circulaire supérieure du diaphragme<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/diaphragme-bandelette-semicircu-inf">Bandelette semi-circulaire inférieure du diaphragme<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/diaphragme-foliole-ventral">Foliole antérieure diaphragmatique<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-diaphragme-folioles">Foliole latérale diaphragmatique droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-diaphragme-folioles">Foliole latérale diaphragmatique gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/diaphragme-bandelette-semicircu-sup">Bandelette semi-circulaire supérieure du diaphragme<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/diaphragme-bandelette-semicircu-inf">Bandelette semi-circulaire inférieure du diaphragme<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/diaphragme-coupoles">Coupoles diaphragmatiques<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/diaphragme-coupoles">Coupoles diaphragmatiques<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-diaphragme-coupole">Coupole diaphragmatique droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-diaphragme-coupole">Coupole diaphragmatique gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-diaphragme-coupole">Coupole diaphragmatique droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-diaphragme-coupole">Coupole diaphragmatique gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/diaphragme-piliers">Piliers du diaphragme<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/diaphragme-piliers">Piliers du diaphragme<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-diaphragme-pilier">Pilier diaphragmatique droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-diaphragme-pilier">Pilier diaphragmatique gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-diaphragme-pilier">Pilier diaphragmatique droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-diaphragme-pilier">Pilier diaphragmatique gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/diaphragme-fx-sternal">Faisceau sternal du diaphragme<span id=infobulle><img src="" alt="img. "/></span></a></li>
-		<li><a href="/desc/http://anat.org/lgmts-arque-diaphragme">Ligaments arqués du diaphragme<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/diaphragme-fx-sternal">Faisceau sternal du diaphragme<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/lgmts-arque-diaphragme">Ligaments arqués du diaphragme<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/lgmt-arque-median">Ligaments arqués médian du diaphragme<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-lgmt-arque-med">Ligaments arqués médial droit du diaphragme<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-lgmt-arque-med">Ligaments arqués médial gauche du diaphragme<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-lgmt-arque-lat">Ligaments arqués latéral droit du diaphragme<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-lgmt-arque-lat">Ligaments arqués latéral gauche du diaphragme<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/lgmt-arque-median">Ligaments arqués médian du diaphragme<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-lgmt-arque-med">Ligaments arqués médial droit du diaphragme<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-lgmt-arque-med">Ligaments arqués médial gauche du diaphragme<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-lgmt-arque-lat">Ligaments arqués latéral droit du diaphragme<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-lgmt-arque-lat">Ligaments arqués latéral gauche du diaphragme<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			</ul>
 		</li>
 		</ul>
 
 </div>
 
-	<li><a href="/desc/http://anat.org/muscles-paroi-ant-abdo">Muscles de la paroi abdominale antérieure<span id=infobulle><img src="" alt="img. "/></span></a></li>
+	<li><a href="/desc/http://anat.org/muscles-paroi-ant-abdo">Muscles de la paroi abdominale antérieure<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uiGfCKG9rOf8D4Xzeizq4HHb" alt="img. muscles paroi abdo ant"/></span></a></li>
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/muscles-abdominaux">Muscles abdominaux<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/muscles-abdominaux">Muscles abdominaux<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8bWLjCr0XHfGza8HjGbu8XbK" alt="img. muscles abdominaux"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -1780,7 +1780,7 @@ td {
 
 </div>
 
-		<li><a href="/desc/http://anat.org/muscles-cremaster">Muscles crémasters<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/muscles-cremaster">Muscles crémasters<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. muscles cremaster"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -1789,32 +1789,32 @@ td {
 		<tr>
 			<td>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-cremaster">Muscle crémaster masculin droit<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/R-mscl-cremaster">Muscle crémaster masculin droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 				<ul style="list-style-type:circle">
 				<li><a href="/desc/http://anat.org/R-mscl-cremaster-fx-lat">Faisceau latéral du muscle crémaster masculin droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
 				<li><a href="/desc/http://anat.org/R-mscl-cremaster-fx-med">Faisceau médial du muscle crémaster masculin droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/L-mscl-cremaster">Muscle crémaster masculin gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/L-mscl-cremaster">Muscle crémaster masculin gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/L-mscl-cremaster-fx-lat">Faisceau latéral du muscle crémaster masculin gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-cremaster-fx-med">Faisceau médial du muscle crémaster masculin gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-cremaster-fx-lat">Faisceau latéral du muscle crémaster masculin gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-cremaster-fx-med">Faisceau médial du muscle crémaster masculin gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 				</ul>
 			</li>
 			</ul>
 			</td>
 			<td>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/_F_R-mscl-cremaster">Muscle crémaster féminin droit<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/_F_R-mscl-cremaster">Muscle crémaster féminin droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/_F_R-mscl-cremaster-fx-lat">Faisceau latéral du muscle crémaster féminin droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/_F_R-mscl-cremaster-fx-med">Faisceau médial du muscle crémaster féminin droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/_F_R-mscl-cremaster-fx-lat">Faisceau latéral du muscle crémaster féminin droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/_F_R-mscl-cremaster-fx-med">Faisceau médial du muscle crémaster féminin droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/_F_L-mscl-cremaster">Muscle crémaster féminin gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/_F_L-mscl-cremaster">Muscle crémaster féminin gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/_F_L-mscl-cremaster-fx-lat">Faisceau latéral du muscle crémaster féminin gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/_F_L-mscl-cremaster-fx-med">Faisceau médial du muscle crémaster féminin gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/_F_L-mscl-cremaster-fx-lat">Faisceau latéral du muscle crémaster féminin gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/_F_L-mscl-cremaster-fx-med">Faisceau médial du muscle crémaster féminin gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 				</ul>
 			</li>
 			</ul>
@@ -1845,10 +1845,10 @@ td {
 
 		</ul>
 	</li>
-	<li><a href="/desc/http://anat.org/muscles-paroi-post-abdo">Muscles de la paroi abdominale postérieure<span id=infobulle><img src="" alt="img. "/></span></a></li>
+	<li><a href="/desc/http://anat.org/muscles-paroi-post-abdo">Muscles de la paroi abdominale postérieure<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ey8nWnyWT1j8L9Dm8D8L9TDG" alt="img. muscles paroi abdo post"/></span></a></li>
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/muscles-paroi-post-abdo-plan-supL">Plan superficiel<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/muscles-paroi-post-abdo-plan-supL">Plan superficiel<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=SPvyauqST5zy5ri89PyeSfGn" alt="img. muscles paroi abdo post : plan superficiel"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -1876,7 +1876,7 @@ td {
 
 </div>
 
-		<li><a href="/desc/http://anat.org/muscles-paroi-post-abdo-plan-moy">Plan moyen<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/muscles-paroi-post-abdo-plan-moy">Plan moyen<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=0nWXXLf0Xv09XziiiC1ba0Pb" alt="img. muscles paroi abdo post : plan moyen"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -1910,9 +1910,9 @@ td {
 
 </div>
 
-		<li><a href="/desc/http://anat.org/muscles-paroi-post-abdo-plan-pfd">Plan profond<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-paroi-post-abdo-plan-pfd">Plan profond<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uOLbyGCmy4TD41zm8T1DWTDy" alt="img. muscles paroi abdo post : plan profond"/></span></a>
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/muscles-paroi-post-abdo-plan-pfd-trsv">Plan profond transversaire<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/muscles-paroi-post-abdo-plan-pfd-trsv">Plan profond transversaire<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uaCy0LiSv8TbX11zCGPriWLj" alt="img. muscles paroi abdo post : plan profond transversaire"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -1962,7 +1962,7 @@ td {
 
 </div>
 
-			<li><a href="/desc/http://anat.org/muscles-paroi-post-abdo-plan-pfd-pretrsv">Plan profond prétransversaire<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/muscles-paroi-post-abdo-plan-pfd-pretrsv">Plan profond prétransversaire<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OvuammHXfuKLySzu0fK1zm49" alt="img. muscles paroi abdo post : plan profond pretransversaire"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -2004,7 +2004,7 @@ td {
 <div class="content">
 
 	<ul style="list-style-type:square">
-	<li><a href="/desc/http://anat.org/muscles-extrinseq-pelvis">Muscles extrinsèques du pelvis<span id=infobulle><img src="" alt="img. "/></span></a></li>
+	<li><a href="/desc/http://anat.org/muscles-extrinseq-pelvis">Muscles extrinsèques du pelvis<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=D4bqmOXX5v4PXfW9PT9PPHfm" alt="img. muscles extrinseques du pelvis"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -2026,7 +2026,7 @@ td {
 
 </div>
 
-	<li><a href="/desc/http://anat.org/muscles-diaphragme-pelvien">Muscles du diaphragme pelvien<span id=infobulle><img src="" alt="img. "/></span></a></li>
+	<li><a href="/desc/http://anat.org/muscles-diaphragme-pelvien">Muscles du diaphragme pelvien<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=55f8PTC8rm85CmO1XHTPbyG1" alt="img. muscles du diaphragme pelvien"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -2106,62 +2106,62 @@ td {
 			<li><a href="/desc/http://anat.org/L-mscl-coccygien">Muscle coccygien gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/noyau-fbx-central-perinee">Noyeux fibreux central du périnée<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/noyau-fbx-central-perinee">Noyeux fibreux central du périnée<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 		</ul>
 
 </div>
 
-	<li><a href="/desc/http://anat.org/muscles-perinee-urogenital">Muscles du périnée uro-génital<span id=infobulle><img src="" alt="img. "/></span></a>
+	<li><a href="/desc/http://anat.org/muscles-perinee-urogenital">Muscles du périnée uro-génital<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/muscles-perinee-urogenital-espace-supL">Muscles du périnée uro-génital : espace superficiel<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-perinee-urogenital-espace-supL">Muscles du périnée uro-génital : espace superficiel<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/muscles-ischiocaverneux">Muscles ischio-caverneux<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-ischiocaverneux">Muscles ischio-caverneux<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 				<ul style="list-style-type:circle">
 				<table style="width:100%">
 				<tr>
 					<td>
-					<li><a href="/desc/http://anat.org/R-mscl-ischiocaverneux">Muscle ischio-caverneux droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-ischiocaverneux">Muscle ischio-caverneux droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-ischiocaverneux">Muscle ischio-caverneux droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-ischiocaverneux">Muscle ischio-caverneux droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</td>
 					<td>
-					<li><a href="/desc/http://anat.org/_F_R-mscl-ischiocaverneux">Muscle ischio-caverneux droit (chez la femme)<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/_F_L-mscl-ischiocaverneux">Muscle ischio-caverneux gauche (chez la femme)<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/_F_R-mscl-ischiocaverneux">Muscle ischio-caverneux droit (chez la femme)<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/_F_L-mscl-ischiocaverneux">Muscle ischio-caverneux gauche (chez la femme)<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</td>
 				</tr>
 				</table>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/muscles-bulbospongieux">Muscles bulbo-spongieux<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-bulbospongieux">Muscles bulbo-spongieux<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-bulbospongieux">Muscle bulbo-spongieux droit<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/R-mscl-bulbospongieux">Muscle bulbo-spongieux droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-bulbospongieux-fx-ant">Faisceau antérieur du muscle bulbo-spongieux droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-bulbospongieux-fx-ant">Faisceau antérieur du muscle bulbo-spongieux droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					<table style="width:100%">
 					<tr>
 						<td>
-						<li><a href="/desc/http://anat.org/R-mscl-bulbospongieux-fx-post">Faisceau postérieur du muscle bulbo-spongieux droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-bulbospongieux-fx-post">Faisceau postérieur du muscle bulbo-spongieux droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 						</td>
 						<td>
-						<li><a href="/desc/http://anat.org/_F_R-mscl-bulbospongieux-fx-post">Faisceau postérieur du muscle bulbo-spongieux droit (chez la femme)<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/_F_R-mscl-bulbospongieux-fx-post">Faisceau postérieur du muscle bulbo-spongieux droit (chez la femme)<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 						</td>
 					</tr>
 					</table>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-mscl-bulbospongieux">Muscle bulbo-spongieux gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-mscl-bulbospongieux">Muscle bulbo-spongieux gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/L-mscl-bulbospongieux-fx-ant">Faisceau antérieur du muscle bulbo-spongieux gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-bulbospongieux-fx-ant">Faisceau antérieur du muscle bulbo-spongieux gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					<table style="width:100%">
 					<tr>
 						<td>
-						<li><a href="/desc/http://anat.org/L-mscl-bulbospongieux-fx-post">Faisceau postérieur du muscle bulbo-spongieux gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-bulbospongieux-fx-post">Faisceau postérieur du muscle bulbo-spongieux gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 						</td>
 						<td>
-						<li><a href="/desc/http://anat.org/_F_L-mscl-bulbospongieux-fx-post">Faisceau postérieur du muscle bulbo-spongieux gauche (chez la femme)<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/_F_L-mscl-bulbospongieux-fx-post">Faisceau postérieur du muscle bulbo-spongieux gauche (chez la femme)<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 						</ul>
 						</td>
 					</tr>
@@ -2170,27 +2170,27 @@ td {
 				</li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/muscles-trsv-supL-perinee">Muscles transverses superficiels du périnée<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-trsv-supL-perinee">Muscles transverses superficiels du périnée<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-trsv-supL-perinee">Muscle transverse superficiel du périnée droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-trsv-supL-perinee">Muscle transverse superficiel du périnée gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-trsv-supL-perinee">Muscle transverse superficiel du périnée droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-trsv-supL-perinee">Muscle transverse superficiel du périnée gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 				</ul>
 			</li>
 			<table style="width:100%">
 			<tr>
 				<td>
-				<li><a href="/desc/http://anat.org/_H_mscl-compressR-vein-dorsale-penis">Muscle compresseur de la veine dorsale du penis (chez l'homme)<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/_H_mscl-compressR-vein-dorsale-penis">Muscle compresseur de la veine dorsale du penis (chez l'homme)<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-bulbospongieux-fx-ant">Faisceau antérieur du muscle bulbo-spongieux droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-bulbospongieux-fx-ant">Faisceau antérieur du muscle bulbo-spongieux gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-bulbospongieux-fx-ant">Faisceau antérieur du muscle bulbo-spongieux droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-bulbospongieux-fx-ant">Faisceau antérieur du muscle bulbo-spongieux gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 				</li>
 				</td>
 				<td>
-				<li><a href="/desc/http://anat.org/_F_mscl-compressR-vein-dorsale-clitoris">Muscle compresseur de la veine dorsale du clitoris (chez la femme)<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/_F_mscl-compressR-vein-dorsale-clitoris">Muscle compresseur de la veine dorsale du clitoris (chez la femme)<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-bulbospongieux-fx-ant">Faisceau antérieur du muscle bulbo-spongieux droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-bulbospongieux-fx-ant">Faisceau antérieur du muscle bulbo-spongieux gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-bulbospongieux-fx-ant">Faisceau antérieur du muscle bulbo-spongieux droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-bulbospongieux-fx-ant">Faisceau antérieur du muscle bulbo-spongieux gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 				</li>
 				</td>
@@ -2200,38 +2200,38 @@ td {
 
 </div>
 
-		<li><a href="/desc/http://anat.org/muscles-perinee-urogenital-espace-pfd">Muscles du périnée uro-génital : espace profond (diaphragme uro-génital)<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/muscles-perinee-urogenital-espace-pfd">Muscles du périnée uro-génital : espace profond (diaphragme uro-génital)<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/muscle-sphincter-uretre">Muscle sphincter de l'urètre<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscle-sphincter-uretre">Muscle sphincter de l'urètre<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/mscl-compressR-uretre">Muscle compresseur de l'urètre<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/mscl-compressR-uretre">Muscle compresseur de l'urètre<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 				<table style="width:100%">
 				<tr>
 					<td>
-					<li><a href="/desc/http://anat.org/_H_mscl-uretroprostatique">Muscle urétro-prostatique (chez l'homme)<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/_H_mscl-uretroprostatique">Muscle urétro-prostatique (chez l'homme)<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</td>
 					<td>
-					<li><a href="/desc/http://anat.org/_F_mscl-uretrovaginal">Muscle urétro-vaginal (chez la femme)<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/_F_mscl-uretrovaginal">Muscle urétro-vaginal (chez la femme)<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</td>
 				</tr>
 				</table>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/muscles-trsv-pfd-perinee">Muscles transverses profonds du périnée<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-trsv-pfd-perinee">Muscles transverses profonds du périnée<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 				<ul style="list-style-type:circle">
 				<table style="width:100%">
 				<tr>
 					<td>
-					<li><a href="/desc/http://anat.org/R-mscl-trsv-pfd-perinee">Muscle transverse profond du périnée droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-trsv-pfd-perinee">Muscle transverse profond du périnée gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-trsv-pfd-perinee">Muscle transverse profond du périnée droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-trsv-pfd-perinee">Muscle transverse profond du périnée gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</td>
 					<td>
-					<li><a href="/desc/http://anat.org/_F_R-mscl-trsv-pfd-perinee">Muscle transverse profond du périnée droit (chez la femme)<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/_F_L-mscl-trsv-pfd-perinee">Muscle transverse profond du périnée gauche (chez la femme)<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/_F_R-mscl-trsv-pfd-perinee">Muscle transverse profond du périnée droit (chez la femme)<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/_F_L-mscl-trsv-pfd-perinee">Muscle transverse profond du périnée gauche (chez la femme)<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</td>
 				</tr>
 				</table>
@@ -2241,20 +2241,20 @@ td {
 
 </div>
 
-		<li><a href="/desc/http://anat.org/noyau-fbx-central-perinee">Noyeux fibreux central du périnée<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/noyau-fbx-central-perinee">Noyeux fibreux central du périnée<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 		</ul>
 	</li>
-	<li><a href="/desc/http://anat.org/muscles-perinee-anal">Muscles du périnée anal<span id=infobulle><img src="" alt="img. "/></span></a></li>
+	<li><a href="/desc/http://anat.org/muscles-perinee-anal">Muscles du périnée anal<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CCWje0aWDaK1HXXbODe8fOny" alt="img. muscles du perinee anal"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/mscl-sphincter-ext-anus">Sphincter externe de l'anus<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/mscl-sphincter-ext-anus">Sphincter externe de l'anus<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CCWje0aWDaK1HXXbODe8fOny" alt="img. sphincter externe de l'anus"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/mscl-sphincter-ext-anus-fx-ss-cutane">Faisceau sous-cutané du sphincter externe de l'anus<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/mscl-sphincter-ext-anus-fx-supL">Faisceau superficiel du sphincter externe de l'anus<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/mscl-sphincter-ext-anus-fx-pfd">Faisceau profond du sphincter externe de l'anus<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/mscl-sphincter-ext-anus-fx-ss-cutane">Faisceau sous-cutané du sphincter externe de l'anus<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/mscl-sphincter-ext-anus-fx-supL">Faisceau superficiel du sphincter externe de l'anus<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/mscl-sphincter-ext-anus-fx-pfd">Faisceau profond du sphincter externe de l'anus<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			</ul>
 		</li>
 		<li><a href="/desc/http://anat.org/lgmt-anococcygien">Ligament ano-coccygien<span id=infobulle><img src="" alt="img. "/></span></a></li>

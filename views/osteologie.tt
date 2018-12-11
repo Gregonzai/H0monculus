@@ -77,6 +77,7 @@ td {
 
 <button class="collapsible"><h4 class="area">RÉGION DE LA TÊTE</h4></button>
 <div class="content">
+<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uGfWX5riKvmizKPL5L8LHLTn" alt="img. region tete"/></span></a></p>
 
 	<ul style="list-style-type:square">
 	<li><a href="/desc/http://anat.org/os-crane">CRÂNE OSSEUX<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1nKD8DG1L9rqDGrO9f9fuq0X" alt="img. crâne"/></span></a>
@@ -250,8 +251,8 @@ td {
 						<li><a href="/desc/http://anat.org/R-molaire-sup-2">2e molaire supérieure droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zyiaq8qKLbWTjKLLvWKT5D4H" alt="img. 2e molaire sup droite"/></span></a></li>
 						<li><a href="/desc/http://anat.org/L-molaire-sup-1">1ere molaire supérieure gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=mKTvGnWfui0PGvie0HDCOfKr" alt="img. 1ere molaire sup gauche"/></span></a></li>
 						<li><a href="/desc/http://anat.org/L-molaire-sup-2">2e molaire supérieure gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ja0TXLuOPHnyeq0n8fWLrqCe" alt="img. 2e molaire sup gauche"/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-dent-sagesse-sup">Dent de sagesse supérieure droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-dent-sagesse-sup">Dent de sagesse supérieure gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-dent-sagesse-sup">Dent de sagesse supérieure droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-dent-sagesse-sup">Dent de sagesse supérieure gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 						</ul>
 
 </div>
@@ -305,8 +306,8 @@ td {
 						<li><a href="/desc/http://anat.org/R-molaire-inf-2">2e molaire inférieure droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CaC8nOCqG999u8zqWnKjuGbq" alt="img. 2e molaire inf droite"/></span></a></li>
 						<li><a href="/desc/http://anat.org/L-molaire-inf-1">1ere molaire inférieure gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Hj09r88DGvSLaSTPza8X9HX5" alt="img. 1ere molaire inf gauche"/></span></a></li>
 						<li><a href="/desc/http://anat.org/L-molaire-inf-2">2e molaire inférieure gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=amKDKrH9jOnefyWvCOT5b0n8" alt="img. 2e molaire inf gauche"/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-dent-sagesse-inf">Dent de sagesse inférieure droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-dent-sagesse-inf">Dent de sagesse inférieure gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-dent-sagesse-inf">Dent de sagesse inférieure droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-dent-sagesse-inf">Dent de sagesse inférieure gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 						</ul>
 
 </div>
@@ -426,22 +427,22 @@ td {
 					<li><a href="/desc/http://anat.org/L-molaire-sup-2">2e molaire supérieure gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ja0TXLuOPHnyeq0n8fWLrqCe" alt="img. 2e molaire sup gauche"/></span></a></li>
 					<li><a href="/desc/http://anat.org/R-molaire-inf-1">1ere molaire inférieure droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=biK9reOvamKzPv0jSH1DeWbi" alt="img. 1ere molaire inf droite"/></span></a></li>
 					<li><a href="/desc/http://anat.org/R-molaire-inf-2">2e molaire inférieure droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CaC8nOCqG999u8zqWnKjuGbq" alt="img. 2e molaire inf droite"/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-molaire-inf-1">1ere molaire inférieure gauche<span id=infobulle><img src=http://lifesciencedb.jp/bp3d/API/animation?shorten=Hj09r88DGvSLaSTPza8X9HX5" alt="img. 1ere molaire inf gauche"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-molaire-inf-1">1ere molaire inférieure gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Hj09r88DGvSLaSTPza8X9HX5" alt="img. 1ere molaire inf gauche"/></span></a></li>
 					<li><a href="/desc/http://anat.org/L-molaire-inf-2">2e molaire inférieure gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=amKDKrH9jOnefyWvCOT5b0n8" alt="img. 2e molaire inf gauche"/></span></a></li>
 					</ul>
 
 </div>
 
-				<li><a href="/desc/http://anat.org/dents-sagesse">Dents de sagesse<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/dents-sagesse">Dents de sagesse<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-dent-sagesse-sup">Dent de sagesse supérieure droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-dent-sagesse-sup">Dent de sagesse supérieure gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-dent-sagesse-inf">Dent de sagesse inférieure droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-dent-sagesse-inf">Dent de sagesse inférieure gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-dent-sagesse-sup">Dent de sagesse supérieure droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-dent-sagesse-sup">Dent de sagesse supérieure gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-dent-sagesse-inf">Dent de sagesse inférieure droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-dent-sagesse-inf">Dent de sagesse inférieure gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 
 </div>
@@ -470,8 +471,8 @@ td {
 					<li><a href="/desc/http://anat.org/R-molaire-sup-2">2e molaire supérieure droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zyiaq8qKLbWTjKLLvWKT5D4H" alt="img. 2e molaire sup droite"/></span></a></li>
 					<li><a href="/desc/http://anat.org/L-molaire-sup-1">1ere molaire supérieure gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=mKTvGnWfui0PGvie0HDCOfKr" alt="img. 1ere molaire sup gauche"/></span></a></li>
 					<li><a href="/desc/http://anat.org/L-molaire-sup-2">2e molaire supérieure gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ja0TXLuOPHnyeq0n8fWLrqCe" alt="img. 2e molaire sup gauche"/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-dent-sagesse-sup">Dent de sagesse supérieure droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-dent-sagesse-sup">Dent de sagesse supérieure gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-dent-sagesse-sup">Dent de sagesse supérieure droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-dent-sagesse-sup">Dent de sagesse supérieure gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 
 </div>
@@ -496,8 +497,8 @@ td {
 					<li><a href="/desc/http://anat.org/R-molaire-inf-2">2e molaire inférieure droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CaC8nOCqG999u8zqWnKjuGbq" alt="img. 2e molaire inf droite"/></span></a></li>
 					<li><a href="/desc/http://anat.org/L-molaire-inf-1">1ere molaire inférieure gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Hj09r88DGvSLaSTPza8X9HX5" alt="img. 1ere molaire inf gauche"/></span></a></li>
 					<li><a href="/desc/http://anat.org/L-molaire-inf-2">2e molaire inférieure gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=amKDKrH9jOnefyWvCOT5b0n8" alt="img. 2e molaire inf gauche"/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-dent-sagesse-inf">Dent de sagesse inférieure droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-dent-sagesse-inf">Dent de sagesse inférieure gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-dent-sagesse-inf">Dent de sagesse inférieure droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-dent-sagesse-inf">Dent de sagesse inférieure gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 
 </div>
@@ -515,7 +516,7 @@ td {
 
 <button class="collapsible"><h4 class="area">AXE VERTÉBRAL : crâne, colonne et charnières vertébrales</h4></button>
 <div class="content">
-<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DmOv0namSruuy8riqS4fmKrC" alt="img. gde colone vertebrale"/></span></a></p>
+<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=11v4LzeqKDCy451PjmPzi0TT" alt="img. axe vertebral"/></span></a></p>
 
 	<ul style="list-style-type:square">
 	<li><a href="/desc/http://anat.org/crane-v">CRÂNE VERTÉBRAL<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qeiiu0f8TH19WbCmm8jWz05L" alt="img. crâne vertebral"/></a></li>
@@ -582,7 +583,7 @@ td {
 					</li>
 					<li><a href="/desc/http://anat.org/cv-cervicale-inf">Colonne vertébrale cervicale inférieure<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DuCyuy5fODim5DmOz49Pva0z" alt="img. CV cervicale inf"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/v-C5">Vertèbre C5<span id=infobulle><img src=http://lifesciencedb.jp/bp3d/API/animation?shorten=1TLn8v0zKL9fuWfWvar41Lb0" alt="img. vertebre C5"/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-C5">Vertèbre C5<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1TLn8v0zKL9fuWfWvar41Lb0" alt="img. vertebre C5"/></span></a></li>
 						<li><a href="/desc/http://anat.org/v-C6">Vertèbre C6<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9ryGba9zq0XTCW1X9jD0bCC0" alt="img. vertebre C6"/></span></a></li>
 						<li><a href="/desc/http://anat.org/v-C7">Vertèbre C7<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jK1rq8yKHfuyKX5j0DLDOjWH" alt="img. vertebre C7"/></span></a></li>
 						<li><a href="/desc/http://anat.org/div-C5-C6">Disque intervertébral C5-C6<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=vGfmKLrK9fiuaObCiifyeaui" alt="img. DIV C5-C6"/></span></a></li>
@@ -674,19 +675,19 @@ td {
 <div class="content">
 
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/cv-pelvienne-sup">Colonne vertébrale pelvienne supérieure<span id=infobulle><img src="" alt="img. "/></span></a>
+					<li><a href="/desc/http://anat.org/cv-pelvienne-sup">Colonne vertébrale pelvienne supérieure<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/v-S1">Vertèbre S1<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/v-S2">Vertèbre S2<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-S1">Vertèbre S1<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-S2">Vertèbre S2<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 						</ul>
 					</li>
-					<li><a href="/desc/http://anat.org/cv-pelvienne-inf">Colonne vertébrale pelvienne inférieure<span id=infobulle><img src="" alt="img. "/></span></a>
+					<li><a href="/desc/http://anat.org/cv-pelvienne-inf">Colonne vertébrale pelvienne inférieure<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/v-S3">Vertèbre S3<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/v-S4">Vertèbre S4<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/v-S5">Vertèbre S5<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/coccyx">Coccyx<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/div-S5-Co">Disque intervertébral S5-Co<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-S3">Vertèbre S3<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-S4">Vertèbre S4<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-S5">Vertèbre S5<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/coccyx">Coccyx<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/div-S5-Co">Disque intervertébral S5-Co<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 						</ul>
 					</li>
 					</ul>
@@ -729,14 +730,14 @@ td {
 					<li><a href="/desc/http://anat.org/v-L5">Vertèbre L5<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qOHDquyymqSLnSPDCyCSfKL1" alt="img. vertebre L5"/></span></a></li>
 					<li><a href="/desc/http://anat.org/sacrum">Sacrum<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XjeeuirqiCiaamuauKeWf0Hr" alt="img. sacrum"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/v-S1">Vertèbre S1<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/v-S2">Vertèbre S2<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/v-S3">Vertèbre S3<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/v-S4">Vertèbre S4<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/v-S5">Vertèbre S5<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-S1">Vertèbre S1<span id=infobulle><img src="https://www.socabelec.co.ke/shop/pu-0855clear-pneumatic-8-mm-clear-tubing/" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-S2">Vertèbre S2<span id=infobulle><img src="https://www.socabelec.co.ke/shop/pu-0855clear-pneumatic-8-mm-clear-tubing/" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-S3">Vertèbre S3<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-S4">Vertèbre S4<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-S5">Vertèbre S5<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 						</ul>
 					</li>
-					<li><a href="/desc/http://anat.org/coccyx">Coccyx<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/coccyx">Coccyx<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 
 </div>
@@ -770,7 +771,7 @@ td {
 					<li><a href="/desc/http://anat.org/div-L3-L4">Disque intervertébral L3-L4<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=iOPriKzOraSn0XrOfuzy8vSn" alt="img. DIV L3-L4"/></span></a></li>
 					<li><a href="/desc/http://anat.org/div-L4-L5">Disque intervertébral L4-L5<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=e81bWjmimmCmK9bmGTO1PnS1" alt="img. DIV L4-L5"/></span></a></li>
 					<li><a href="/desc/http://anat.org/div-L5-S1">Disque intervertébral L5-S1<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=iCOnaqueiaqGeCuumGjKL9f0" alt="img. DIV L5-S1"/></span></a></li>
-					<li><a href="/desc/http://anat.org/div-S5-Co">Disque intervertébral S5-Co<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/div-S5-Co">Disque intervertébral S5-Co<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 
 </div>
@@ -819,15 +820,15 @@ td {
 		<li><a href="/desc/http://anat.org/charniere-lombo-sacree">Charnière lombo-sacrée<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ymGT5LzGzeSDLn4Hje8jCiK9" alt="img. "/></span></a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/v-L5">Vertèbre L5<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qOHDquyymqSLnSPDCyCSfKL1" alt="img. vertebre L5"/></span></a></li>
-			<li><a href="/desc/http://anat.org/v-S1">Vertèbre S1<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-S1">Vertèbre S1<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			<li><a href="/desc/http://anat.org/div-L5-S1">Disque intervertébral L5-S1<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=iCOnaqueiaqGeCuumGjKL9f0" alt="img. DIV L5-S1"/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/charniere-sacro-coccygienne">Charnière sacro-coccygienne<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/charniere-sacro-coccygienne">Charnière sacro-coccygienne<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/v-S5">Vertèbre S5<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/coccyx">Coccyx<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/div-S5-Co">Disque intervertébral S5-Co<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-S5">Vertèbre S5<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/coccyx">Coccyx<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/div-S5-Co">Disque intervertébral S5-Co<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			</ul>
 		</li>
 		</ul>
@@ -841,6 +842,7 @@ td {
 
 <button class="collapsible"><h4 class="area">RÉGION DU COU</h4></button>
 <div class="content">
+<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=u0zOTH0zqmGL5vCWHvz8PH1z" alt="img. region cou"/></span></a></p>
 
 	<ul style="list-style-type:square">
 	<li><a href="/desc/http://anat.org/os-hyoide">Os hyoïde<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bmai8PfKfWDO1r8Tn4fKbW9D" alt="img. hyoide"/></span></a></li>
@@ -887,6 +889,7 @@ td {
 
 <button class="collapsible"><h4 class="area">RÉGION DU THORAX</h4></button>
 <div class="content">
+<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=aGb4v459LD4PmOPb0Hb0veGX" alt="img. region thorax"/></span></a></p>
 
 	<ul style="list-style-type:square">
 	<li><a href="/desc/http://anat.org/cv-thoraciq">COLONNE VERTÉBRALE THORACIQUE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Xjem0rf4rmGDKPDeKjODmqKL" alt="img. CV thoracique"/></span></a></li>
@@ -1226,6 +1229,7 @@ td {
 
 <button class="collapsible"><h4 class="area">RÉGION LOMBAIRE</h4></button>
 <div class="content">
+<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=SvSbCuTP9nGzzaKbCKu4XLrS" alt="img. region lombaire"/></span></a></p>
 
 	<ul style="list-style-type:square">
 	<li><a href="/desc/http://anat.org/cv-lombaire">COLONNE VERTÉBRALE LOMBAIRE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jWLHTfKf0XLvjy4LveruayGT" alt="img. CV lombaire"/></span></a></li>
@@ -1263,6 +1267,7 @@ td {
 
 <button class="collapsible"><h4 class="area">RÉGION DU PELVIS</h4></button>
 <div class="content">
+<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Gr0D8XTji8HDnGnqCe0DiuqS" alt="img. region pelvis"/></span></a></p>
 
 	<ul style="list-style-type:square">
 	<li><a href="/desc/http://anat.org/pelvis-osseux">PELVIS OSSEUX<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=vmSD4LG1nC4D0jWPz8mqGD8X
@@ -1274,22 +1279,22 @@ td {
 		<ul style="list-style-type:circle">
 		<li><a href="/desc/http://anat.org/sacrum">Sacrum<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XjeeuirqiCiaamuauKeWf0Hr" alt="img. sacrum"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/v-S1">Vertèbre S1<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/v-S2">Vertèbre S2<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/v-S3">Vertèbre S3<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/v-S4">Vertèbre S4<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/v-S5">Vertèbre S5<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-S1">Vertèbre S1<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-S2">Vertèbre S2<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-S3">Vertèbre S3<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-S4">Vertèbre S4<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/v-S5">Vertèbre S5<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/coccyx">Coccyx<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/coccyx">Coccyx<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 		<li><a href="/desc/http://anat.org/R-iliaque">Os coxal (iliaque) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uyGvqaumuu8L1vqyuijOHfK1" alt="img. os iliaque D"/></span></a></li>
 		<li><a href="/desc/http://anat.org/L-iliaque">Os coxal (iliaque) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8b8XTTW9jmCCfm4P9PbKjGfS" alt="img. os iliaque G"/></span></a></li>
 		</ul>
 
 </div>
 
-	<li><a href="/desc/http://anat.org/div-S5-Co">Disque intervertébral S5-Co<span id=infobulle><img src="" alt="img. "/></span></a></li>
-	<li><a href="/desc/http://anat.org/disque-interpubien">Disque interpubien<span id=infobulle><img src="" alt="img. "/></span></a></li>
+	<li><a href="/desc/http://anat.org/div-S5-Co">Disque intervertébral S5-Co<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+	<li><a href="/desc/http://anat.org/disque-interpubien">Disque interpubien<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 	</ul>
 
 
@@ -1297,6 +1302,7 @@ td {
 
 <button class="collapsible"><h4 class="area">CEINTURE PELVIENNE et CEINTURE SCAPULAIRE</h4></button>
 <div class="content">
+<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Wr8beCr0DG1LGvi8LvmWne8r" alt="img. region ceintures"/></span></a></p>
 
 	<ul style="list-style-type:square">
 	<li><a href="/desc/http://anat.org/OS-ceinture-pelv">CEINTURE PELVIENNE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8nqamKmGTfq0yiSLvOOPPXDW" alt="img. ceinture pelvienne"/></span></a></li>
@@ -1308,21 +1314,21 @@ td {
 		<li><a href="/desc/http://anat.org/OS-R-hanche">OS DE LA HANCHE DROITE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5ve49nrKD8PjaKbCeGay0ry0" alt="img. os hanche D"/></span></a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/R-iliaque">Os coxal (iliaque) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uyGvqaumuu8L1vqyuijOHfK1" alt="img. os iliaque D"/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-femur-epiP-sup">Épiphyse supérieure du fémur droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-labrum-acetabulaire">Labrum acétabulaire droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-femur-epiP-sup">Épiphyse supérieure du fémur droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-labrum-acetabulaire">Labrum acétabulaire droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			</ul>
 		</li>
 		<li><a href="/desc/http://anat.org/OS-L-hanche">OS DE LA HANCHE GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=i8HrGvXzeWnSS5DmCanqyaqC" alt="img. os de la hanche G"/></span></a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/L-iliaque">Os coxal (iliaque) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8b8XTTW9jmCCfm4P9PbKjGfS" alt="img. os iliaque G"/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-femur-epiP-sup">Épiphyse supérieure du fémur gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-labrum-acetabulaire">Labrum acétabulaire gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-femur-epiP-sup">Épiphyse supérieure du fémur gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-labrum-acetabulaire">Labrum acétabulaire gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			</ul>
 		</li>
 		<li><a href="/desc/http://anat.org/sacrum">Sacrum<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XjeeuirqiCiaamuauKeWf0Hr" alt="img. sacrum"/></span></a></li>
-		<li><a href="/desc/http://anat.org/coccyx">Coccyx<span id=infobulle><img src="" alt="img. "/></span></a></li>
-		<li><a href="/desc/http://anat.org/disque-interpubien">Disque interpubien<span id=infobulle><img src="" alt="img. "/></span></a></li>
-		<li><a href="/desc/http://anat.org/div-S5-Co">Disque intervertébral S5-Co<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/coccyx">Coccyx<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/disque-interpubien">Disque interpubien<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/div-S5-Co">Disque intervertébral S5-Co<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 		</ul>
 
 </div>
@@ -1337,19 +1343,19 @@ td {
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/R-clavicule">Clavicule droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=PXzy4beSjeOjiquOXbnmmOnW" alt="img. clavicule D"/></span></a></li>
 			<li><a href="/desc/http://anat.org/R-scapula">Scapula droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=m8fuSnT1zuyWfyCWj4L55jyO" alt="img. scapula D"/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-humerus-epiP-sup">Épiphyse supérieure de l'humérus droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-labrum-glenoidal">Labrum glénoïdal droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-humerus-epiP-sup">Épiphyse supérieure de l'humérus droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-labrum-glenoidal">Labrum glénoïdal droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			</ul>
 		</li>
 		<li><a href="/desc/http://anat.org/OS-L-epaule">OS DE L'ÉPAULE GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4ziWzua81XTLKrCSvK4HjSna" alt="img. os de l'epaule G"/></span></a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/L-clavicule">Clavicule gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LnuaiG01j4TreGruq09r8nia" alt="img. clavicule G"/></span></a></li>
 			<li><a href="/desc/http://anat.org/L-scapula">Scapula gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5X5j01K1zeCqTf0bqyKz8nuK" alt="img. scapula G"/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-humerus-epiP-sup">Épiphyse supérieure de l'humérus gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-labrum-glenoidal">Labrum glénoïdal gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-humerus-epiP-sup">Épiphyse supérieure de l'humérus gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-labrum-glenoidal">Labrum glénoïdal gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/sternum-manubrium">Manubrium sternal<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/sternum-manubrium">Manubrium sternal<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 		</ul>
 
 </div>
@@ -1366,6 +1372,7 @@ td {
 
 <button class="collapsible"><li><h4 class="subarea">MEMBRE INFÉRIEUR DROIT</h4></button>
 <div class="content">
+<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5nm8rG5LTvy0SzGzKnD0rOr0" alt="img. region membre inf D"/></span></a></p>
 
 		<ul style="list-style-type:square">
 		<li><a href="/desc/http://anat.org/OS-R-hanche">OS DE LA HANCHE DROITE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5ve49nrKD8PjaKbCeGay0ry0" alt="img. os hanche D"/></span></a></li>
@@ -1375,8 +1382,8 @@ td {
 
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/R-iliaque">Os coxal (iliaque) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uyGvqaumuu8L1vqyuijOHfK1" alt="img. os iliaque D"/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-femur-epiP-sup">Épiphyse supérieure du fémur droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-labrum-acetabulaire">Labrum acétabulaire droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-femur-epiP-sup">Épiphyse supérieure du fémur droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-labrum-acetabulaire">Labrum acétabulaire droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			</ul>
 
 </div>
@@ -1399,14 +1406,14 @@ td {
 <div class="content">
 
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-femur-epiP-inf">Épiphyse inférieure du fémur droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-femur-epiP-inf">Épiphyse inférieure du fémur droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			<li><a href="/desc/http://anat.org/R-patella">Patella (anc. rotule) droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8nWvKfGTbOfuPn01fWjqmKPP" alt="img. patella D"/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-tibia-epiP-sup">Épiphyse supérieure du tibia droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-fibula-epiP-sup">Épiphyse supérieure de la fibula (anc. péroné) droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-tibia-menisques">Ménisques tibiaux droits<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/R-tibia-epiP-sup">Épiphyse supérieure du tibia droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-fibula-epiP-sup">Épiphyse supérieure de la fibula (anc. péroné) droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-tibia-menisques">Ménisques tibiaux droits<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-tibia-menisque-med">Ménisque tibial médial droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-tibia-menisque-lat">Ménisque tibial latéral droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-tibia-menisque-med">Ménisque tibial médial droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-tibia-menisque-lat">Ménisque tibial latéral droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 				</ul>
 			</li>
 			</ul>
@@ -1431,8 +1438,8 @@ td {
 <div class="content">
 
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-tibia-epiP-inf">Épiphyse inférieure du tibia droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-fibula-epiP-inf">Épiphyse inférieure de la fibula (anc. péroné) droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-tibia-epiP-inf">Épiphyse inférieure du tibia droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-fibula-epiP-inf">Épiphyse inférieure de la fibula (anc. péroné) droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			<li><a href="/desc/http://anat.org/R-os-tarse">Os du tarse droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=mO9HXLLPbS91HPT9riXvWTDS" alt="img. tarse D"/></span></a></li>
 
 <button class="collapsible">▼ </button>
@@ -1518,8 +1525,8 @@ td {
 <div class="content">
 
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-halux-sesamoide-lat">Os sésamoïde latéral de l’hallux droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-halux-sesamoide-med">Os sésamoïde médial de l’hallux droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-halux-sesamoide-lat">Os sésamoïde latéral de l’hallux droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-halux-sesamoide-med">Os sésamoïde médial de l’hallux droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 						</ul>
 
 </div>
@@ -1588,8 +1595,8 @@ td {
 						<li><a href="/desc/http://anat.org/R-metaT-III">3e os métatarse droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jGfqqe0fWn0jG9DKzuruya4D" alt="img. 3e metatarse D"/></span></a></li>
 						<li><a href="/desc/http://anat.org/R-pied-os-sesamoides">Os sésamoïdes de l’hallux droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9zGX5T4Ljq8jv0Pb0zamGHLL" alt="img. os sesamoides D"/></span></a>
 							<ul style="list-style-type:circle">
-							<li><a href="/desc/http://anat.org/R-halux-sesamoide-lat">Os sésamoïde latéral de l’hallux droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/R-halux-sesamoide-med">Os sésamoïde médial de l’hallux droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-halux-sesamoide-lat">Os sésamoïde latéral de l’hallux droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-halux-sesamoide-med">Os sésamoïde médial de l’hallux droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 							</ul>
 						</li>
 						<li><a href="/desc/http://anat.org/R-pied-phalanges-I">Phalanges de l’hallux droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DSza0nii4zGDTn0buqqGDi4D" alt="img. phalanges hallux D"/></span></a>
@@ -1605,7 +1612,7 @@ td {
 							<li><a href="/desc/http://anat.org/R-pied-phal-dist-II">Phalange distale du 2e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4jCWTjSLf4viKXfWX9uqW1nq" alt="img. phalange distale 2e orteil D"/></span></a></li>
 							</ul>
 						</li>
-						<li><a href="/desc/http://anat.org/R-pied-phalanges-III">Phalanges du 3e orteil droit<span id=infobulle><img src="" alt="img. phalanges 3e orteil D"/></span></a>
+						<li><a href="/desc/http://anat.org/R-pied-phalanges-III">Phalanges du 3e orteil droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. phalanges 3e orteil D"/></span></a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-pied-phal-proxi-III">Phalange proximale du 3e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=z4fqqaGX5bqeaOjuSfWLvWDy" alt="img. phalange proximale 3e orteil D"/></span></a></li>
 							<li><a href="/desc/http://anat.org/R-pied-phal-moy-III">Phalange moyenne du 3e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OrG9ry5PXny4fG1ryyOPfqGD" alt="img. phalange moyenne 3e orteil D"/></span></a></li>
@@ -1659,6 +1666,7 @@ td {
 
 <button class="collapsible"><li><h4 class="subarea">MEMBRE INFÉRIEUR GAUCHE</h4></button>
 <div class="content">
+<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jSny4jmGPLvK0jeummuCSHHb" alt="img. region membre inf G"/></span></a></p>
 
 		<ul style="list-style-type:square">
 		<li><a href="/desc/http://anat.org/OS-L-hanche">OS DE LA HANCHE GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=i8HrGvXzeWnSS5DmCanqyaqC" alt="img. os de la hanche G"/></span></a></li>
@@ -1668,8 +1676,8 @@ td {
 
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/L-iliaque">Os coxal (iliaque) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8b8XTTW9jmCCfm4P9PbKjGfS" alt="img. os iliaque G"/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-femur-epiP-sup">Épiphyse supérieure du fémur gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-labrum-acetabulaire">Labrum acétabulaire gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-femur-epiP-sup">Épiphyse supérieure du fémur gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-labrum-acetabulaire">Labrum acétabulaire gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			</ul>
 
 </div>
@@ -1692,14 +1700,14 @@ td {
 <div class="content">
 
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/L-femur-epiP-inf">Épiphyse inférieure du fémur gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-femur-epiP-inf">Épiphyse inférieure du fémur gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			<li><a href="/desc/http://anat.org/L-patella">Patella (anc. rotule) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CKHHrK8jmGPvGfi0j85HPLXz" alt="img. patella G"/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-tibia-epiP-sup">Épiphyse supérieure du tibia gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-fibula-epiP-sup">Épiphyse supérieure de la fibula (anc. péroné) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-tibia-menisques">Ménisques tibiaux gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/L-tibia-epiP-sup">Épiphyse supérieure du tibia gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-fibula-epiP-sup">Épiphyse supérieure de la fibula (anc. péroné) gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-tibia-menisques">Ménisques tibiaux gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/L-tibia-menisque-med">Ménisque tibial médial gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-tibia-menisque-lat">Ménisque tibial latéral gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-tibia-menisque-med">Ménisque tibial médial gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-tibia-menisque-lat">Ménisque tibial latéral gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 				</ul>
 			</li>
 			</ul>
@@ -1724,8 +1732,8 @@ td {
 <div class="content">
 
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/L-tibia-epiP-inf">Épiphyse inférieure du tibia gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-fibula-epiP-inf">Épiphyse inférieure de la fibula (anc. péroné) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-tibia-epiP-inf">Épiphyse inférieure du tibia gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-fibula-epiP-inf">Épiphyse inférieure de la fibula (anc. péroné) gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			<li><a href="/desc/http://anat.org/L-os-tarse">Os du tarse gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qmaG9r1j0fW1qO1b81fa0zG1" alt="img. tarse G"/></span></a></li>
 
 <button class="collapsible">▼</button>
@@ -1811,8 +1819,8 @@ td {
 <div class="content">
 
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/L-halux-sesamoide-lat">Os sésamoïde latéral de l’hallux gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-halux-sesamoide-med">Os sésamoïde médial de l’hallux gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-halux-sesamoide-lat">Os sésamoïde latéral de l’hallux gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-halux-sesamoide-med">Os sésamoïde médial de l’hallux gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 						</ul>
 
 </div>
@@ -1881,8 +1889,8 @@ td {
 						<li><a href="/desc/http://anat.org/L-metaT-III">3e os métatarse gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TDKvGrGHX1nimuSruiyuO1TX" alt="img. 3e metatarse G"/></span></a></li>
 						<li><a href="/desc/http://anat.org/L-pied-os-sesamoides">Os sésamoïdes de l’hallux gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=v85rC8zGDiq8H5XP5nb8nWPf" alt="img. os sesamoides pied G"/></span></a>
 							<ul style="list-style-type:circle">
-							<li><a href="/desc/http://anat.org/L-halux-sesamoide-lat">Os sésamoïde latéral de l’hallux gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-halux-sesamoide-med">Os sésamoïde médial de l’hallux gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-halux-sesamoide-lat">Os sésamoïde latéral de l’hallux gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-halux-sesamoide-med">Os sésamoïde médial de l’hallux gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 							</ul>
 						</li>
 						<li><a href="/desc/http://anat.org/L-pied-phalanges-I">Phalanges de l’hallux gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=raGHD00bODaeaaayGLuWf4Tn" alt="img. os des phalanges hallux G"/></span></a>
@@ -1959,6 +1967,7 @@ td {
 
 <button class="collapsible"><li><h4 class="subarea">MEMBRE SUPÉRIEUR DROIT</h4></button>
 <div class="content">
+<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KLTveanqqOLzv4v81nSjimiu" alt="img. region membre sup D"/></span></a></p>
 
 		<ul style="list-style-type:square">
 		<li><a href="/desc/http://anat.org/OS-R-epaule">OS DE L'ÉPAULE DROITE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LH1TbuDSbeOL5zieqCWfO5jG" alt="img. os de l'epaule D"/></span></a></li>
@@ -1969,8 +1978,8 @@ td {
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/R-clavicule">Clavicule droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=PXzy4beSjeOjiquOXbnmmOnW" alt="img. clavicule D"/></span></a></li>
 			<li><a href="/desc/http://anat.org/R-scapula">Scapula (anc. omoplate) droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=m8fuSnT1zuyWfyCWj4L55jyO" alt="img. scapula D"/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-humerus-epiP-sup">Épiphyse supérieure de l'humérus droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-labrum-glenoidal">Labrum glénoïdal droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-humerus-epiP-sup">Épiphyse supérieure de l'humérus droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-labrum-glenoidal">Labrum glénoïdal droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			</ul>
 
 </div>
@@ -1992,9 +2001,9 @@ td {
 <div class="content">
 
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-humerus-epiP-inf">Épiphyse inférieure de l'humérus droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-ulna-epiP-sup">Épiphyse supérieure de l'ulna (anc. cubitus) droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-radius-epiP-sup">Épiphyse supérieure du radius droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-humerus-epiP-inf">Épiphyse inférieure de l'humérus droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-ulna-epiP-sup">Épiphyse supérieure de l'ulna (anc. cubitus) droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-radius-epiP-sup">Épiphyse supérieure du radius droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			</ul>
 
 </div>
@@ -2017,9 +2026,9 @@ td {
 <div class="content">
 
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-ulna-epiP-inf">épiphyse inférieure de l'ulna (anc. cubitus) droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-radius-epiP-inf">épiphyse inférieure du radius droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-menisque-ulno-carpien">Ménisque ulno-carpien droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-ulna-epiP-inf">épiphyse inférieure de l'ulna (anc. cubitus) droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-radius-epiP-inf">épiphyse inférieure du radius droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-menisque-ulno-carpien">Ménisque ulno-carpien droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			<li><a href="/desc/http://anat.org/R-os-carpe">Os du carpe droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=y0b4b4emKbWj5HPz01ba4jWX" alt="img. os du carpe D"/></span></a></li>
 
 <button class="collapsible">▼</button>
@@ -2043,7 +2052,7 @@ td {
 							<li><a href="/desc/http://anat.org/R-hamatum">Os hamatum (anc. os crochu) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=HLTnO59DWriazyeSzuvuiKnG" alt="img. hamatum D"/></span></a></li>
 							<li><a href="/desc/http://anat.org/R-capitatum">Os capitatum (anc. grand os de la main) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KfSr4za8jSfi5bSTzq0HbWnu" alt="img. capitatum D"/></span></a></li>
 							<li><a href="/desc/http://anat.org/R-trapezoide">Os trapézoïde droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=GnCOz8fGriCuvWH1LHqCOnOX" alt="img. trapezoide D"/></span></a></li>
-							<li><a href="/desc/http://anat.org/R-trapeze">Os trapèze droit<span id=infobulle><img src=http://lifesciencedb.jp/bp3d/API/animation?shorten=rSLTbGeeuKTjuuSPHvim4Dai" alt="img. os trapeze D"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-trapeze">Os trapèze droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rSLTbGeeuKTjuuSPHvim4Dai" alt="img. os trapeze D"/></span></a></li>
 							</ul>
 						</li>
 						</ul>
@@ -2098,7 +2107,7 @@ td {
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-scaphoide">Os scaphoïde (anc. os naviculaire carpien) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9Tj0zO4baKvC1LPjq88HzqWj" alt="img. scaphoide D"/></span></a></li>
 							<li><a href="/desc/http://anat.org/R-lunatum">Os lunatum (anc. os semi-lunaire) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ju8bW9yK5HbCPjmimqTT5b8v" alt="img. lunatum D"/></span></a></li>
-							<li><a href="/desc/http://anat.org/R-triquetrum">Os triquetrum (anc. os pyramidal) droit<span id=infobulle><img src=http://lifesciencedb.jp/bp3d/API/animation?shorten=rWHLTzODiauqPfO1LL1Xn815" alt="img. triquetrum D"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-triquetrum">Os triquetrum (anc. os pyramidal) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rWHLTzODiauqPfO1LL1Xn815" alt="img. triquetrum D"/></span></a></li>
 							<li><a href="/desc/http://anat.org/R-pisiforme">Os pisiforme droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XHfqyiniqOPT8jCiq0y4r0bC" alt="img. pisiforme D"/></span></a></li>
 							</ul>
 						</li>
@@ -2153,14 +2162,14 @@ td {
 
 </div>
 
-			<li><a href="/desc/http://anat.org/R-main-os-sesamoides">Os sésamoïdes du pouce droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-main-os-sesamoides">Os sésamoïdes du pouce droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-pouce-sesamoide-lat">Os sésamoïde latéral du pouce droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-pouce-sesamoide-med">Os sésamoïde médial du pouce droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-pouce-sesamoide-lat">Os sésamoïde latéral du pouce droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-pouce-sesamoide-med">Os sésamoïde médial du pouce droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 				</ul>
 
 </div>
@@ -2222,10 +2231,10 @@ td {
 					<li><a href="/desc/http://anat.org/R-main-phal-dist-I">Phalange distale du pouce droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Wbea8bnmeCG5a4X115uyemW5" alt="img. phalange distale du pouce D"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/R-main-os-sesamoides">Os sésamoïdes du pouce droit<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/R-main-os-sesamoides">Os sésamoïdes du pouce droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-pouce-sesamoide-lat">Os sésamoïde latéral du pouce droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-pouce-sesamoide-med">Os sésamoïde médial du pouce droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-pouce-sesamoide-lat">Os sésamoïde latéral du pouce droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-pouce-sesamoide-med">Os sésamoïde médial du pouce droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 				</li>
 				</ul>
@@ -2243,6 +2252,7 @@ td {
 
 <button class="collapsible"><li><h4 class="subarea">MEMBRE SUPÉRIEUR GAUCHE</h4></button>
 <div class="content">
+<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XjySHH45b0HnfOvOHXHPTHnS" alt="img. region membre sup G"/></span></a></p>
 
 		<ul style="list-style-type:square">
 		<li><a href="/desc/http://anat.org/OS-L-epaule">OS DE L'ÉPAULE GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4ziWzua81XTLKrCSvK4HjSna" alt="img. os de l'epaule G"/></span></a>
@@ -2253,8 +2263,8 @@ td {
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/L-clavicule">Clavicule gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LnuaiG01j4TreGruq09r8nia" alt="img. clavicule G"/></span></a></li>
 			<li><a href="/desc/http://anat.org/L-scapula">Scapula (anc. omoplate) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5X5j01K1zeCqTf0bqyKz8nuK" alt="img. scapula G"/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-humerus-epiP-sup">Épiphyse supérieure de l'humérus gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-labrum-glenoidal">Labrum glénoïdal gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-humerus-epiP-sup">Épiphyse supérieure de l'humérus gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-labrum-glenoidal">Labrum glénoïdal gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			</ul>
 
 </div>
@@ -2276,9 +2286,9 @@ td {
 <div class="content">
 
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/L-humerus-epiP-inf">Épiphyse inférieure de l'humérus gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-ulna-epiP-sup">Épiphyse supérieure de l'ulna (anc. cubitus) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-radius-epiP-sup">Épiphyse supérieure du radius gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-humerus-epiP-inf">Épiphyse inférieure de l'humérus gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-ulna-epiP-sup">Épiphyse supérieure de l'ulna (anc. cubitus) gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-radius-epiP-sup">Épiphyse supérieure du radius gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			</ul>
 
 </div>
@@ -2301,9 +2311,9 @@ td {
 <div class="content">
 
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/L-ulna-epiP-inf">épiphyse inférieure de l'ulna (anc. cubitus) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-radius-epiP-inf">épiphyse inférieure du radius gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-menisque-ulno-carpien">Ménisque ulno-carpien gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-ulna-epiP-inf">épiphyse inférieure de l'ulna (anc. cubitus) gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-radius-epiP-inf">épiphyse inférieure du radius gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-menisque-ulno-carpien">Ménisque ulno-carpien gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			<li><a href="/desc/http://anat.org/L-os-carpe">Os du carpe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=raKzWXqq4TfWu45vy4OH5b8r" alt="img. carpe G"/></span></a></li>
 
 <button class="collapsible">▼</button>
@@ -2437,14 +2447,14 @@ td {
 
 </div>
 
-			<li><a href="/desc/http://anat.org/L-main-os-sesamoides">Os sésamoïdes du pouce gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-main-os-sesamoides">Os sésamoïdes du pouce gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/L-pouce-sesamoide-lat">Os sésamoïde latéral du pouce gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-pouce-sesamoide-med">Os sésamoïde médial du pouce gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-pouce-sesamoide-lat">Os sésamoïde latéral du pouce gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-pouce-sesamoide-med">Os sésamoïde médial du pouce gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 				</ul>
 
 </div>
@@ -2506,10 +2516,10 @@ td {
 					<li><a href="/desc/http://anat.org/L-main-phal-dist-I">Phalange distale du pouce gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8LfSnOPbSnK949fuyCa41Hz8" alt="img. phalange distale pouce G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-main-os-sesamoides">Os sésamoïdes du pouce gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-main-os-sesamoides">Os sésamoïdes du pouce gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/L-pouce-sesamoide-lat">Os sésamoïde latéral du pouce gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-pouce-sesamoide-med">Os sésamoïde médial du pouce gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-pouce-sesamoide-lat">Os sésamoïde latéral du pouce gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-pouce-sesamoide-med">Os sésamoïde médial du pouce gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 				</li>
 				</ul>

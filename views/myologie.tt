@@ -86,65 +86,65 @@ td {
 <div class="content">
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/muscle-epicranien">Muscle épicrânien<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/muscle-epicranien">Muscle épicrânien<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OjKbquCy4b4HPnqiGHWv0z4j" alt="img. muscle epicranien"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/muscle-occipito-frontal">Muscle occipito-frontal<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscle-occipito-frontal">Muscle occipito-frontal<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9v8jCeC0PH1fCSLjayTDam8r" alt="img. muscle occipito-frontal"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/muscle-occipito-frontal-ventre-frontal">Ventre frontal du muscle occipito-frontal<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/muscle-occipito-frontal-ventre-occipital">Ventre occipital du muscle occipito-frontal<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/muscle-occipito-frontal-ventre-frontal">Ventre frontal du muscle occipito-frontal<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zaWDOrPD8D8P8b09H1auqmWv" alt="img. muscle occipito-frontal ventre frontal"/></span></a></li>
+				<li><a href="/desc/http://anat.org/muscle-occipito-frontal-ventre-occipital">Ventre occipital du muscle occipito-frontal<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uuem8DvWnOnOuqGb45DWn0zq" alt="img. muscle occipito-frontal ventre occipital"/></span></a></li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/R-muscle-temporo-parietal">Muscle temporo-pariétal droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-muscle-temporo-parietal">Muscle temporo-pariétal gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/aponevrose-epicranienne">Aponévrose épicrânienne<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-muscle-temporo-parietal">Muscle temporo-pariétal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=X9P1PXieGHbS1buGPf4PPX5L" alt="img. Muscle temporo-parietal D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-muscle-temporo-parietal">Muscle temporo-pariétal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1rOP5Pzya8PPi8jeiSLfyyKf" alt="img. Muscle temporo-parietal G"/></span></a></li>
+			<li><a href="/desc/http://anat.org/aponevrose-epicranienne">Aponévrose épicrânienne<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ya0TjSv4nqqCHniieuWnGP5j" alt="img. aponevrose epicranienne"/></span></a></li>
 			</ul>
 
 </div>
 
-		<li><a href="/desc/http://anat.org/muscles-auriculaires">Muscles auriculaires<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/muscles-auriculaires">Muscles auriculaires<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=u4jii8fK5TjuGTXDi0WHLTz4" alt="img. muscles auriculaires"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/R-muscles-auriculaires">Muscles auriculaires droits<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/R-muscles-auriculaires">Muscles auriculaires droits<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=mm0rue1PzKvqObyyiS4baK5T" alt="img. muscles auriculaires D"/></span></a>
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-muscles-extrinseq-pavillon">Muscles extrinsèques du pavillon de l'oreille droite<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/R-muscles-extrinseq-pavillon">Muscles extrinsèques du pavillon de l'oreille droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=mm0rue1PzKvqObyyiS4baK5T" alt="img. muscles extrinseques pavillon D"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-auriculR-ant">Muscle auriculaire antérieur droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-auriculR-sup">Muscle auriculaire supérieur droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-auriculR-post">Muscle auriculaire postérieur droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-auriculR-ant">Muscle auriculaire antérieur droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1zaeiSfGjeaayCeKbWHXPvqe" alt="img. muscle auriculaire ant D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-auriculR-sup">Muscle auriculaire supérieur droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8Ln8v8GDG1rWTHLX9rvSrSzi" alt="img. muscle auriculaire sup D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-auriculR-post">Muscle auriculaire postérieur droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Tz81Dyja8HPLGDi4X5fObKXL" alt="img. muscle auriculaire post D"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/R-muscles-intrinseq-pavillon">Muscles intrinsèques du pavillon de l’oreille droite<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/R-muscles-intrinseq-pavillon">Muscles intrinsèques du pavillon de l’oreille droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. muscles intrinseques pavillon D"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-muscle-epine-de-l-helix">Muscle de l’épine de l’hélix droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-muscle-pt-de-l-helix">Petit muscle de l’hélix droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-muscle-du-tragus">Muscle du tragus de l’oreille droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-muscle-de-l-anti-tragus">Muscle de l’anti-tragus de l’oreille droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-muscle-epine-de-l-helix">Muscle de l’épine de l’hélix droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-muscle-pt-de-l-helix">Petit muscle de l’hélix droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-muscle-du-tragus">Muscle du tragus de l’oreille droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-muscle-de-l-anti-tragus">Muscle de l’anti-tragus de l’oreille droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 				</li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/L-muscles-auriculaires">Muscles auriculaires gauches<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/L-muscles-auriculaires">Muscles auriculaires gauches<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5baCuirqeuOXPrK5LzWT1n4v" alt="img. muscles auriculaires G"/></span></a>
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/L-muscles-extrinseq-pavillon">Muscles extrinsèques du pavillon de l'oreille gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-muscles-extrinseq-pavillon">Muscles extrinsèques du pavillon de l'oreille gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5baCuirqeuOXPrK5LzWT1n4v" alt="img. muscles extrinseques pavillon G"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/L-mscl-auriculR-ant">Muscle auriculaire antérieur gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-auriculR-sup">Muscle auriculaire supérieur gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-auriculR-post">Muscle auriculaire postérieur gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-auriculR-ant">Muscle auriculaire antérieur gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Cuy09vyCy0T1OL1LX5zG9HbW" alt="img. muscle auriculaire ant G"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-auriculR-sup">Muscle auriculaire supérieur gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Ofmqe8T5DOfG1Xr4T99LHHTD" alt="img. muscle auriculaire sup G"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-auriculR-post">Muscle auriculaire postérieur gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5j4fuC1bOPHj4TzGHT1vCWLX" alt="img. muscle auriculaire post G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-muscles-intrinseq-pavillon">Muscles intrinsèques du pavillon de l’oreille gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-muscles-intrinseq-pavillon">Muscles intrinsèques du pavillon de l’oreille gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. muscles intrinseques pavillon G"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/L-muscle-epine-de-l-helix">Muscle de l’épine de l’hélix gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-muscle-pt-de-l-helix">Petit muscle de l’hélix gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-muscle-du-tragus">Muscle du tragus de l’oreille gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-muscle-de-l-anti-tragus">Muscle de l’anti-tragus de l’oreille gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-muscle-epine-de-l-helix">Muscle de l’épine de l’hélix gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-muscle-pt-de-l-helix">Petit muscle de l’hélix gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-muscle-du-tragus">Muscle du tragus de l’oreille gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-muscle-de-l-anti-tragus">Muscle de l’anti-tragus de l’oreille gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 				</li>
 				</ul>
@@ -153,162 +153,162 @@ td {
 
 </div>
 
-		<li><a href="/desc/http://anat.org/muscles-face">Muscles faciaux<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-face">Muscles faciaux<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jSXHj4KX1zyeTryOvq0DSjaC" alt="img. muscles faciaux"/></span></a>
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/muscles-orbitaires">Muscles orbitaires<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/muscles-orbitaires">Muscles orbitaires<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=quaKPHKzGTPTf49fOTee89bm" alt="img. muscles orbitaires"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-muscles-orbitaires">Muscles orbitaires droits<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/R-muscles-orbitaires">Muscles orbitaires droits<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9zyWLjj0nWDCeWTPLLLLTHzu" alt="img. muscles orbitaires D"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-orbiculaire-oeil">Muscle orbiculaire de l’œil droit<span id=infobulle><img src="" alt="img. "/></span></a>
+					<li><a href="/desc/http://anat.org/R-mscl-orbiculaire-oeil">Muscle orbiculaire de l’œil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9zKfm0jO55bKvyGz4TyKvGDu" alt="img. muscle orbiculaire de l'oeil D"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-mscl-orbiculaire-oeil-partie-palpebrale">Partie palpébrale du muscle orbiculaire de l’œil droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-orbiculaire-oeil-partie-orbitaire">Partie orbitaire du muscle orbiculaire de l’œil droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-orbiculaire-oeil-partie-lacrymale">Partie lacrymale du muscle orbiculaire de l’œil droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-orbiculaire-oeil-partie-palpebrale">Partie palpébrale du muscle orbiculaire de l’œil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qqeeC04XDWf4mq0T9D9riC0b" alt="img. muscle orbiculaire de l'oeil D partie palpebrale"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-orbiculaire-oeil-partie-orbitaire">Partie orbitaire du muscle orbiculaire de l’œil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=veqSLbqu0neOqK9XfKLvSXvC" alt="img. muscle orbiculaire de l'oeil D partie orbitaire"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-orbiculaire-oeil-partie-lacrymale">Partie lacrymale du muscle orbiculaire de l’œil droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 						</ul>
 					</li>
-					<li><a href="/desc/http://anat.org/R-mscl-corrugatR-sourcil">Muscle corrugateur du sourcil droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-abaissR-sourcil">Muscle abaisseur du sourcil droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-corrugatR-sourcil">Muscle corrugateur du sourcil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eCySzu8DWTTzWH9vGr09jWDa" alt="img. muscle corrugateur du sourcil D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-abaissR-sourcil">Muscle abaisseur du sourcil droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-muscles-orbitaires">Muscles orbitaires gauches<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-muscles-orbitaires">Muscles orbitaires gauches<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=aGDi45LTryCm01nO1LzSD4Xf" alt="img. muscles orbitaires G"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/L-mscl-orbiculaire-oeil">Muscle orbiculaire de l’œil gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+					<li><a href="/desc/http://anat.org/L-mscl-orbiculaire-oeil">Muscle orbiculaire de l’œil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1zSnWz8THr098jO9LbP1LT5b" alt="img. muscle orbiculaire de l'oeil G"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/L-mscl-orbiculaire-oeil-partie-palpebrale">Partie palpébrale du muscle orbiculaire de l’œil gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-orbiculaire-oeil-partie-orbitaire">Partie orbitaire du muscle orbiculaire de l’œil gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-orbiculaire-oeil-partie-lacrymale">Partie lacrymale du muscle orbiculaire de l’œil gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-orbiculaire-oeil-partie-palpebrale">Partie palpébrale du muscle orbiculaire de l’œil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jamSjeriyODiWb45z0bimuGr" alt="img. muscle orbiculaire de l'oeil G partie palpebrale"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-orbiculaire-oeil-partie-orbitaire">Partie orbitaire du muscle orbiculaire de l’œil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nO9DO14HP1jG8jG9PfaCG99r" alt="img. muscle orbiculaire de l'oeil G partie orbitaire"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-orbiculaire-oeil-partie-lacrymale">Partie lacrymale du muscle orbiculaire de l’œil gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 						</ul>
 					</li>
-					<li><a href="/desc/http://anat.org/L-mscl-corrugatR-sourcil">Muscle corrugateur du sourcil gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-abaissR-sourcil">Muscle abaisseur du sourcil gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-corrugatR-sourcil">Muscle corrugateur du sourcil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=iiS5999DyiKPeGb4rG4jGz8f" alt="img. muscle corrugateur du sourcil G"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-abaissR-sourcil">Muscle abaisseur du sourcil gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 				</li>
 				</ul>
 
 </div>
 
-			<li><a href="/desc/http://anat.org/muscles-nez">Muscles du nez<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/muscles-nez">Muscles du nez<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=X5rS1H8LjqWHaiC4bW4jGDCe" alt="img. muscles du nez"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/muscles-procerus">Muscles proceri<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/muscles-procerus">Muscles proceri<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=fqeqqSP9HbyWbmG5XbiWzua0" alt="img. muscles proceri"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-procerus">Muscle procerus droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-procerus">Muscle procerus gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-procerus">Muscle procerus droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=fCiSP1viaqi4OPzOnyiqmWju" alt="img. muscle procerus D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-procerus">Muscle procerus gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=mKzO55Cm4ziOS5zyKT0TLne0" alt="img. muscle procerus G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/muscles-nasal">Muscles nasaux<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/muscles-nasal">Muscles nasaux<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=0jimO9yqGPTfa4jObeaiim8v" alt="img. muscles nasaux"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-nasal">Musle nasal droit<span id=infobulle><img src="" alt="img. "/></span></a>
+					<li><a href="/desc/http://anat.org/R-mscl-nasal">Musle nasal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bWn8D0eO9n8L1HfyaO8TzCWf" alt="img. muscle nasal D"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-mscl-nasal-partie-trsv">Partie transverse du muscle nasal droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-nasal-partie-alaire">Partie alaire du muscle nasal droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-nasal-partie-trsv">Partie transverse du muscle nasal droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-nasal-partie-alaire">Partie alaire du muscle nasal droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 						</ul>
 					</li>
-					<li><a href="/desc/http://anat.org/L-mscl-nasal">Musle nasal gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+					<li><a href="/desc/http://anat.org/L-mscl-nasal">Musle nasal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zSzae40neOnm4Hz89PvOXDmG" alt="img. muscle nasal G"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/L-mscl-nasal-partie-trsv">Partie transverse du muscle nasal gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-nasal-partie-alaire">Partie alaire du muscle nasal gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-nasal-partie-trsv">Partie transverse du muscle nasal gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-nasal-partie-alaire">Partie alaire du muscle nasal gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 						</ul>
 					</li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/muscles-abaissR-septum-nasal">Muscles abaisseurs du septum nasal droit<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/muscles-abaissR-septum-nasal">Muscles abaisseurs du septum nasal<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TjuiKvvG1PzG9vCuK1buSjSX" alt="img. muscles abaisseurs du septum nasal"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-abaissR-septum-nasal">Muscle abaisseur du septum nasal droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-abaissR-septum-nasal">Muscle abaisseur du septum nasal gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-abaissR-septum-nasal">Muscle abaisseur du septum nasal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=y8j0z4KzaWDKvquWbefSLjqK" alt="img. muscle abaisseur du septum nasal D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-abaissR-septum-nasal">Muscle abaisseur du septum nasal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=0fOT9TvueiqSbmGPb4f8LbWL" alt="img. muscle abaisseur du septum nasal G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/muscles-elevatR-naso-labial">Muscle élévateurs naso-labiaux droit<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/muscles-elevatR-naso-labial">Muscles élévateurs naso-labiaux<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KbWveKCe8TziKfSzKbCCe41j" alt="img. muscles elevateurs naso-labiaux"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-elevatR-naso-labial">Muscle élévateur naso-labial droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-elevatR-naso-labial">Muscle élévateur naso-labial gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-elevatR-naso-labial">Muscle élévateur naso-labial droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=0fi4LjK9vuOTPTDWruzmO9DK" alt="img. muscle elevateur naso-labial D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-elevatR-naso-labial">Muscle élévateur naso-labial gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qOL9bmiSDmCaOnSTfCqGPn4j" alt="img. muscle elevateur naso-labial G"/></span></a></li>
 					</ul>
 				</li>
 				</ul>
 
 </div>
 
-			<li><a href="/desc/http://anat.org/muscles-bouche">Muscles de la bouche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/muscles-bouche">Muscles de la bouche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=HHPzaW1LDW9LeyGz8TjO1rKn" alt="img. muscles de la bouche"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/mscl-orbiculR-bouche">Muscle orbiculaire de la bouche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/muscles-elevatR-naso-labial">Muscles élévateurs naso-labiaux<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/mscl-orbiculR-bouche">Muscle orbiculaire de la bouche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=iy0HneeKnmmeSjaeu85b8zaC" alt="img. muscle orbiculaire de la bouche"/></span></a></li>
+				<li><a href="/desc/http://anat.org/muscles-elevatR-naso-labial">Muscles élévateurs naso-labiaux<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KbWveKCe8TziKfSzKbCCe41j" alt="img. muscle elevateur naso-labiaux"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-elevatR-naso-labial">Muscle élévateur naso-labial droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-elevatR-naso-labial">Muscle élévateur naso-labial gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-elevatR-naso-labial">Muscle élévateur naso-labial droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=0fi4LjK9vuOTPTDWruzmO9DK" alt="img. muscle elevateur naso-labial D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-elevatR-naso-labial">Muscle élévateur naso-labial gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qOL9bmiSDmCaOnSTfCqGPn4j" alt="img. muscle elevateur naso-labial G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/muscles-abaissR-angle-bouche">Muscles abaisseurs des angles de la bouche<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/muscles-abaissR-angle-bouche">Muscles abaisseurs des angles de la bouche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=j4DuSL1rObuKLbaKDSHzyy8X" alt="img. muscles abaisseurs angles de la bouche"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-abaissR-angle-bouche">Muscle abaisseur de l'angle droit de la bouche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-abaissR-angle-bouche">Muscle abaisseur de l'angle gauche de la bouche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-abaissR-angle-bouche">Muscle abaisseur de l'angle droit de la bouche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yaSjGrGHzW1XL1nuaee4HPj8" alt="img. muscle abaisseur angle de la bouche D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-abaissR-angle-bouche">Muscle abaisseur de l'angle gauche de la bouche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=WHLHHPmaiO5DmW9XTnf0bSXL" alt="img. muscle abaisseur angle de la bouche G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/muscles-trsv-menton">Muscles transverses du menton<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/muscles-trsv-menton">Muscles transverses du menton<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-trsv-menton">Muscle transverse du menton droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-trsv-menton">Muscle transverse du menton gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-trsv-menton">Muscle transverse du menton droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-trsv-menton">Muscle transverse du menton gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/muscles-risorius">Muscles risorius<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/muscles-risorius">Muscles risorius<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=mi09nivi8fmCrGrSLrTDGHjq" alt="img. muscles risorius"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-risorius">Muscle risorius droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-risorius">Muscle risorius gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-risorius">Muscle risorius droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=raGrSzS1nqim99TLTfaGT5Pj" alt="img. muscle risorius D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-risorius">Muscle risorius gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=S9PbmOjeia85q4f4Xvru81bi" alt="img. muscle risorius G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/muscles-zygomatique">Muscles zygomatiques<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/muscles-zygomatique">Muscles zygomatiques<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=vmieaOjGj45T51XfyG1T9bGr" alt="img. muscles zygomatiques"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/muscles-pt-zygomatique">Muscles petits zygomatiques<span id=infobulle><img src="" alt="img. "/></span></a>
+					<li><a href="/desc/http://anat.org/muscles-pt-zygomatique">Muscles petits zygomatiques<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=i4zueKGvC05nXPXXjuP9PTr4" alt="img. muscles petits zygomatiques"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-mscl-pt-zygomatique">Muscle petit zygomatique droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-pt-zygomatique">Muscle petit zygomatique gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-pt-zygomatique">Muscle petit zygomatique droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=my0zyu09zKPzSjO91TL1L9rG" alt="img. muscle petit zygomatique D"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-pt-zygomatique">Muscle petit zygomatique gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=19z4HjSnamC4mC4z8Hiaaemi" alt="img. muscle petit zygomatique G"/></span></a></li>
 						</ul>
-					<li><a href="/desc/http://anat.org/muscles-gd-zygomatique">Muscles grands zygomatiques<span id=infobulle><img src="" alt="img. "/></span></a>
+					<li><a href="/desc/http://anat.org/muscles-gd-zygomatique">Muscles grands zygomatiques<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=GLvi0DL9zC8zaWX9fqLDOTba" alt="img. muscles grandszygomatiques"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-mscl-gd-zygomatique">Muscle grand zygomatique droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-gd-zygomatique">Muscle grand zygomatique gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-gd-zygomatique">Muscle grand zygomatique droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=K1zuiefqmKjG8nuGPP15P5nS" alt="img. muscle grand zygomatique D"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-gd-zygomatique">Muscle grand zygomatique gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zWbC4rLnGzqiXPXvauW1byeC" alt="img. muscle grand zygomatique G"/></span></a></li>
 						</ul>
 					</li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/muscles-elevatR-levre-sup">Muscles élévateurs de la lèvre supérieure<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/muscles-elevatR-levre-sup">Muscles élévateurs de la lèvre supérieure<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=u4P5TPaSHLLXDyCuGb49L9L9" alt="img. muscles elevateurs levre sup"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-elevatR-levre-sup">Muscle élévateur de la lèvre supérieure droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-elevatR-levre-sup">Muscle élévateur de la lèvre supérieure gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-elevatR-levre-sup">Muscle élévateur de la lèvre supérieure droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=iGTvWDy8PDaO1vODuiWT9nCC" alt="img. muscle elevateur levre sup D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-elevatR-levre-sup">Muscle élévateur de la lèvre supérieure gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bqOnOX4P5XvuuGHL1fTHzSvW" alt="img. muscle elevateur levre sup G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/muscles-abaissR-levre-inf">Muscles abaisseurs de la lèvre inférieure<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/muscles-abaissR-levre-inf">Muscles abaisseurs de la lèvre inférieure<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=v0Trum9fq0L1zuqWr8S9P91j" alt="img. muscles abaisseurs levre inf"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-abaissR-levre-inf">Muscle abaisseur de la lèvre inférieure droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-abaissR-levre-inf">Muscle abaisseur de la lèvre inférieure gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-abaissR-levre-inf">Muscle abaisseur de la lèvre inférieure droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rquKruqCGjWTrqeiOjfC8b4P" alt="img. muscle abaisseur levre inf D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-abaissR-levre-inf">Muscle abaisseur de la lèvre inférieure gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=WHPbaCTfOLfyzuqyWjP595ru" alt="img. muscle abaisseur levre inf G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/muscles-elevatR-angle-bouche">Muscles élévateurs de l'angle de la bouche<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/muscles-elevatR-angle-bouche">Muscles élévateurs de l'angle de la bouche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5ruiyeiaC0PDaaG9PHfaKLb8" alt="img. muscles elevateurs angle de la bouche"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-elevatR-angle-bouche">Muscles élévateurs de l'angle droit de la bouche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-elevatR-angle-bouche">Muscles élévateurs de l'angle gauche de la bouche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-elevatR-angle-bouche">Muscles élévateurs de l'angle droit de la bouche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=K11zCqfeei4rTPLvGPeGzyay" alt="img. muscle elevateur angle de la bouche D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-elevatR-angle-bouche">Muscles élévateurs de l'angle gauche de la bouche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eCaiWTaqy8fSDCGDquuWnKPr" alt="img. muscle elevateur angle de la bouche G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/muscles-buccinatR">Muscles buccinateurs<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/muscles-buccinatR">Muscles buccinateurs<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=faaK111DC0nW0Da0ryeau8LL" alt="img. muscles buccinateurs"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-buccinatR">Muscle buccinateur droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-buccinatR">Muscle buccinateur gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-buccinatR">Muscle buccinateur droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KnmW5z9HPPbKXjCqmmXvam8j" alt="img. muscle buccinateur D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-buccinatR">Muscle buccinateur gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=aemCCu0LLji0quG5riPfWDye" alt="img. muscle buccinateur G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/muscles-mentonnier">Muscles mentonniers<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/muscles-mentonnier">Muscles mentonniers<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Hbe0bSzCG95rWbWre8551vST" alt="img. muscles mentonniers"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-mentonnier">Muscle mentonnier droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-mentonnier">Muscle mentonnier gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-mentonnier">Muscle mentonnier droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KnOvm04ruSryOXfuWbW5rii8" alt="img. muscle mentionnier D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-mentonnier">Muscle mentonnier gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=y4Pf45re4DmePn8HfWnmaySH" alt="img. muscle mentionnier G"/></span></a></li>
 					</ul>
 				</li>
 				</ul>
@@ -327,80 +327,80 @@ td {
 <div class="content">
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/muscles-bulbe-yeux">Muscles du bulbe des yeux<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/muscles-bulbe-yeux">Muscles du bulbe des yeux<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=55vWX1HTzODiu0P151iGniG9" alt="img. muscles du bulbe des yeux"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/muscles-drt-sup-oeil">Muscles droits supérieurs des yeux<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-drt-sup-oeil">Muscles droits supérieurs des yeux<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qSziCqObOr4v0jOby8quCW9D" alt="img. muscles droits superieurs des yeux"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-drt-sup-oeil">Muscle droit supérieur de l’œil droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-drt-sup-oeil">Muscle droit supérieur de l’œil gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-drt-sup-oeil">Muscle droit supérieur de l’œil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nG511jeOHPLneSDqSnWnW1XD" alt="img. muscle droit sup de l'oeil D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-drt-sup-oeil">Muscle droit supérieur de l’œil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CC8LDe0PP515f8zS1j1DGXb4" alt="img. muscle droit sup de l'oeil G"/></span></a></li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/muscles-drt-inf-oeil">Muscles droits inférieurs des yeux<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-drt-inf-oeil">Muscles droits inférieurs des yeux<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Tf8vim5n4b859vWzGLO5H9TL" alt="img. muscles droits inferieurs des yeux"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-drt-inf-oeil">Muscle droit inférieur de l’œil droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-drt-inf-oeil">Muscle droit inférieur de l’œil gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-drt-inf-oeil">Muscle droit inférieur de l’œil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LjueqCnOrG1f1D4rCKTr4n0r" alt="img. muscle droit inf de l'oeil D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-drt-inf-oeil">Muscle droit inférieur de l’œil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eiC8b8qmiiqqXLbqWzny0nau" alt="img. muscle droit inf de l'oeil G"/></span></a></li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/muscles-drt-med-oeil">Muscles droits médiaux des yeux<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-drt-med-oeil">Muscles droits médiaux des yeux<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=C8v4fiqyymOvuGnuKDLL5Hj0" alt="img. muscles droits mediaux des yeux"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-drt-med-oeil">Muscle droit médial de l’œil droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-drt-med-oeil">Muscle droit médial de l’œil gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-drt-med-oeil">Muscle droit médial de l’œil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1DWrGf0vm8LXuOj4jSLrWHDO" alt="img. muscle droit medial de l'oeil D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-drt-med-oeil">Muscle droit médial de l’œil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DmWDWLii89baPzaOnKr0r0Tf" alt="img. muscle droit medial de l'oeil G"/></span></a></li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/muscles-drt-lat-oeil">Muscles droits latéraux des yeux<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-drt-lat-oeil">Muscles droits latéraux des yeux<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Pn8rODLLLrieWXLviuS5XP1X" alt="img. muscles droits lateraux des yeux"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-drt-lat-oeil">Muscle droit latéral de l’œil droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-drt-lat-oeil">Muscle droit latéral de l’œil gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-drt-lat-oeil">Muscle droit latéral de l’œil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=v8zGP1i0rCOTKv4Pjib8X51b" alt="img. muscle droit lateral de l'oeil D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-drt-lat-oeil">Muscle droit latéral de l’œil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=L5XbCuqmGnaSO5v8DmaWXv8z" alt="img. muscle droit lateral de l'oeil G"/></span></a></li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/muscles-obliq-sup-oeil">Muscles obliques supérieurs des yeux<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-obliq-sup-oeil">Muscles obliques supérieurs des yeux<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1fuyKP8Tr85zTvqSTvDS5nOH" alt="img. muscles obliques superieurs des yeux"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-obliq-sup-oeil">Muscle oblique supérieur de l’œil droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-obliq-sup-oeil">Muscle oblique supérieur de l’œil gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-obliq-sup-oeil">Muscle oblique supérieur de l’œil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zuOrmabqKDO5KzKDyG0jK5bq" alt="img. muscle oblique sup de l'oeil D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-obliq-sup-oeil">Muscle oblique supérieur de l’œil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=GDiCaS8P9zi8j0vmqCq8Xzya" alt="img. muscle oblique sup de l'oeil G"/></span></a></li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/muscles-obliq-inf-oeil">Muscles obliques inférieurs des yeux<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-obliq-inf-oeil">Muscles obliques inférieurs des yeux<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=0HTXPHiaCmGz8vO9zyiWPjmC" alt="img. muscles obliques inferieurs des yeux"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-obliq-inf-oeil">Muscle oblique inférieur de l’œil droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-obliq-inf-oeil">Muscle oblique inférieur de l’œil gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-obliq-inf-oeil">Muscle oblique inférieur de l’œil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=51DGXnObC0Pb0niO5nnCKfa8" alt="img. muscle oblique sup de l'oeil D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-obliq-inf-oeil">Muscle oblique inférieur de l’œil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=HjW5H9yGfema1bGfODqObSfO" alt="img. muscle oblique sup de l'oeil G"/></span></a></li>
 				</ul>
 			</li>
 			</ul>
 
 </div>
 
-		<li><a href="/desc/http://anat.org/muscles-peri-bulbe-yeux">Muscles périphériques du bulbe des yeux<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/muscles-peri-bulbe-yeux">Muscles périphériques du bulbe des yeux<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. muscles peripheriques du bulbe des yeux"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/muscles-orbiculaire-oeil">Muscles orbiculaires des yeux<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-orbiculaire-oeil">Muscles orbiculaires des yeux<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=v0TXj8bq4r4TKH9vue8Dmu0n" alt="img. muscles orbiculaires des yeux"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-orbiculaire-oeil">Muscle orbiculaire de l’œil droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-orbiculaire-oeil">Muscle orbiculaire de l’œil gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-orbiculaire-oeil">Muscle orbiculaire de l’œil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9zKfm0jO55bKvyGz4TyKvGDu" alt="img. muscle orbiculaire de l'oeil D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-orbiculaire-oeil">Muscle orbiculaire de l’œil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1zSnWz8THr098jO9LbP1LT5b" alt="img. muscle orbiculaire de l'oeil G"/></span></a></li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/muscles-elevatR-paupiere-sup">Muscles élévateurs des paupières supérieures<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-elevatR-paupiere-sup">Muscles élévateurs des paupières supérieures<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ue81D0CeSrqSOvWryuCOnG5f" alt="img. muscles elevateurs paupiere sup"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-elevatR-paupiere-sup">Muscle élévateur de la paupière supérieure droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-elevatR-paupiere-sup">Muscle élévateur de la paupière supérieure gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-elevatR-paupiere-sup">Muscle élévateur de la paupière supérieure droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=L9v0XDCSDiqePHTf8DKbSrui" alt="img. muscle elevateur paupiere sup D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-elevatR-paupiere-sup">Muscle élévateur de la paupière supérieure gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=iqObG1je8rCmfiyC8jCGz8bC" alt="img. muscle elevateur paupiere sup G"/></span></a></li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/muscles-tarsal-sup-oeil">Muscles tarsaux supérieurs des yeux<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-tarsal-sup-oeil">Muscles tarsaux supérieurs des yeux<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-tarsal-sup-oeil">Muscle tarsal supérieur de l’œil droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-tarsal-sup-oeil">Muscle tarsal supérieur de l’œil gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-tarsal-sup-oeil">Muscle tarsal supérieur de l’œil droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-tarsal-sup-oeil">Muscle tarsal supérieur de l’œil gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/muscles-tarsal-inf-oeil">Muscles tarsaux inférieurs des yeux<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-tarsal-inf-oeil">Muscles tarsaux inférieurs des yeux<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-tarsal-inf-oeil">Muscle tarsal inférieur de l’œil droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-tarsal-inf-oeil">Muscle tarsal inférieur de l’œil gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-tarsal-inf-oeil">Muscle tarsal inférieur de l’œil droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-tarsal-inf-oeil">Muscle tarsal inférieur de l’œil gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 				</ul>
 			</li>
 			</ul>
@@ -409,82 +409,82 @@ td {
 
 		<li>Autres structures :
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-anneau-Zinn">Tendon (anneau) de Zinn droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-anneau-Zinn">Tendon (anneau) de Zinn gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-trochlee-fb-carti-mscl-obliq-sup-oeil">Trochlée fibro-cartilagineuse du muscle oblique supérieur de l’œil droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-trochlee-fb-carti-mscl-obliq-sup-oeil">Trochlée fibro-cartilagineuse du muscle oblique supérieur de l’œil gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-anneau-Zinn">Tendon (anneau) de Zinn droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DG5jq4aO91DKCu0D819bWn4j" alt="img. tendon de Zinn D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-anneau-Zinn">Tendon (anneau) de Zinn gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=vS9Xbm91nuaKq4HHjSK9HDKz" alt="img. tendon de Zinn G"/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-trochlee-fb-carti-mscl-obliq-sup-oeil">Trochlée fibro-cartilagineuse du muscle oblique supérieur de l’œil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=WTzWPzXjKzG59Hj0jKLz4rmO" alt="img. trochlee du muscle oblique oeil D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-trochlee-fb-carti-mscl-obliq-sup-oeil">Trochlée fibro-cartilagineuse du muscle oblique supérieur de l’œil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=0zqy05Dya8rqb8vm0Pq8fuym" alt="img. img. trochlee du muscle oblique oeil G"/></span></a></li>
 			</ul>
 		</li>
 		</ul>
 
 </div>
 
-	<li><a href="/desc/http://anat.org/muscles-langue">Muscles de la langue<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=PnCuOv4rGDmW59HXLnHH5n85" alt="img. mscl langue"/></span></a></li>
+	<li><a href="/desc/http://anat.org/muscles-langue">Muscles de la langue<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=PnCuOv4rGDmW59HXLnHH5n85" alt="img. muscles de la langue"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/muscles-extrinseques-langue">Muscles extrinsèques de la langue<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-extrinseques-langue">Muscles extrinsèques de la langue<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=GTfGjejCWrGz1TTzCWKfq85f" alt="img. muscles extrinseques de la langue"/></span></a>
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/muscles-genioglosse">Muscles genioglosses<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-genioglosse">Muscles genioglosses<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=O1D8XP5rq0fu1HjuGXTTDq49" alt="img. muscles genioglosses"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-genioglosse">Muscle genioglosse droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-genioglosse">Muscle genioglosse gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-genioglosse">Muscle genioglosse droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TnOvaarGjC8j45XPvammqueu" alt="img. muscle genioglosse D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-genioglosse">Muscle genioglosse gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OPrqeayy09rW8rq8DObGfuSv" alt="img. muscle genioglosse G"/></span></a></li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/muscles-hyoglosse">Muscles hyoglosses<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-hyoglosse">Muscles hyoglosses<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8bSP1zzKHf8v8XvG99eCKHPn" alt="img. muscles hyoglosses"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-hyoglosse">Muscle hyoglosse droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-hyoglosse">Muscle hyoglosse gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-hyoglosse">Muscle hyoglosse droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=iqyyWTKrKfqGmK9j89q0bqKf" alt="img. muscle hyoglosse D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-hyoglosse">Muscle hyoglosse gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bOrGLjjGH1zKjOvGDCeOTTXf" alt="img. muscle hyoglosse G"/></span></a></li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/muscles-chondroglosse">Muscles chondroglosses<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-chondroglosse">Muscles chondroglosses<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-chondroglosse">Muscle chondroglosse droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-chondroglosse">Muscle chondroglosse gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-chondroglosse">Muscle chondroglosse droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-chondroglosse">Muscle chondroglosse gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/muscles-styloglosse">Muscles styloglosses<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-styloglosse">Muscles styloglosses<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=0bemaCqGnWXnyemOTjzKXbKz" alt="img. muscles styloglosses"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-styloglosse">Muscle styloglosse droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-styloglosse">Muscle styloglosse gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-styloglosse">Muscle styloglosse droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zWT9jSui41nu1X5byePrOnCS" alt="img. muscle styloglosse D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-styloglosse">Muscle styloglosse gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=PXbWniLHHXDeK1HLDabGrG1H" alt="img. muscle styloglosse G"/></span></a></li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/arc-palatoglosse">Arc palatoglosse<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/arc-palatoglosse">Arc palato-glosse<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qGXjeWC4j09vz01LPjSvuemW" alt="img. arc palato-glosse"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-palatoglosse">Muscle palatoglosse droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-palatoglosse">Muscle palatoglosse gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-palatoglosse">Muscle palato-glosse droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=W51ruCSnK9fa05vGfeGHDaKP" alt="img. muscle palato-glosse D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-palatoglosse">Muscle palato-glosse gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XfOLbefSnODaziCuyW1nOXr0" alt="img. muscle palato-glosse G"/></span></a></li>
 				</ul>
 			</li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/langue">Langue<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/langue">Langue<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=H95jGfbOfeCWTH1fuCzKDeyi" alt="img. langue"/></span></a>
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/muscles-intrinseques-langue">Muscles intrinsèques de la langue<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-intrinseques-langue">Muscles intrinsèques de la langue<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XH51LHvmuu0L5jmC0Ha8vqa0" alt="img. muscles intrinseques de la langue"/></span></a>
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/muscles-lgtudinal-sup-langue">Muscles longitudinaux supérieurs de la langue<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/muscles-lgtudinal-sup-langue">Muscles longitudinaux supérieurs de la langue<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eSHrie8PbeiKu8jOzq5vObay" alt="img. muscles longitudinaux sup de la langue"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-lgtudinal-sup-langue">Muscle longitudinal supérieur droit de la langue<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-lgtudinal-sup-langue">Muscle longitudinal supérieur gauche de la langue<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-lgtudinal-sup-langue">Muscle longitudinal supérieur droit de la langue<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eqa4Da05bK1P0nWLTL5vuSja" alt="img. muscle longitudinal sup de la langue D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-lgtudinal-sup-langue">Muscle longitudinal supérieur gauche de la langue<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=y0faOfTje8fuX1P5DOj45DqS" alt="img. muscle longitudinal sup de la langue G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/muscles-lgtudinal-inf-langue">Muscles longitudinaux inférieurs de la langue<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/muscles-lgtudinal-inf-langue">Muscles longitudinaux inférieurs de la langue<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jWTXHnSbi4HnPLXPnGOfWPvy" alt="img. muscles longitudinaux inf de la langue"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-lgtudinal-inf-langue">Muscle longitudinal inférieur droit de la langue<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-lgtudinal-inf-langue">Muscle longitudinal inférieur gauche de la langue<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-lgtudinal-inf-langue">Muscle longitudinal inférieur droit de la langue<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=THbG5vuKXHLDvCiuSDD0X1LX" alt="img. muscle longitudinal inf de la langue D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-lgtudinal-inf-langue">Muscle longitudinal inférieur gauche de la langue<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=T1Pb45HDeiqWP9LryeGTDq8f" alt="img. muscle longitudinal inf de la langue G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/muscles-trsv-langue">Muscles transversaux de la langue<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/muscles-trsv-langue">Muscles transversaux de la langue<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=0Dia41aeyyWbXrWHPjruS9TL" alt="img. muscles transversaux de la langue"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-trsv-langue">Muscle transversal droit de la langue<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-trsv-langue">Muscle transversal gauche de la langue<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-trsv-langue">Muscle transversal droit de la langue<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qeiuuGLriGnO4f0Lj8Oz0TfK" alt="img. muscle transversal de la langue D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-trsv-langue">Muscle transversal gauche de la langue<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Gvu0febmq0HDfCGjWzP1vmi4" alt="img. muscle transversal de la langue G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/muscles-verti-langue">Muscles verticaux de la langue<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/muscles-verti-langue">Muscles verticaux de la langue<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=599r85qSnSnKT11n0nbq4XH5" alt="img. muscles verticaux de la langue"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-verti-langue">Muscle vertical droit de la langue<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-verti-langue">Muscle vertical gauche de la langue<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-verti-langue">Muscle vertical droit de la langue<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8bqyOjfqKb8Hn0zuGDbWD0PP                                                                                       " alt="img. muscle verti de la langue D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-verti-langue">Muscle vertical gauche de la langue<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8nOTvSyWfWfamWna0bGL5bi0" alt="img. muscle verti de la langue G"/></span></a></li>
 					</ul>
 				</li>
 				</ul>
@@ -501,34 +501,34 @@ td {
 <div class="content">
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/muscles-elevatR-voile-palais">Muscles élévateurs du voile du palais<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-elevatR-voile-palais">Muscles élévateurs du voile du palais<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1nqWbCv89z4rXPzCeW8DqeeC" alt="img. muscles elevateurs voile du palais"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-elevatR-voile-palais">Muscle élévateur du voile du palais droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-elevatR-voile-palais">Muscle élévateur du voile du palais gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-elevatR-voile-palais">Muscle élévateur du voile du palais droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zySze4KLDKnKLjGXb4ieeKba" alt="img. muscle elevateur voile du palais D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-elevatR-voile-palais">Muscle élévateur du voile du palais gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=GvSHze4f8vyCTjiqe8aiaqS9" alt="img. muscle elevateur voile du palais G"/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/muscles-tenseur-voile-palais">Muscles tenseurs du voile du palais<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-tenseur-voile-palais">Muscles tenseurs du voile du palais<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Sja0DuSPzeS9zS1vKnvC4D8n" alt="img. muscles tenseurs voile du palais"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-tenseur-voile-palais">Muscle tenseur du voile du palais droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-tenseur-voile-palais">Muscle tenseur du voile du palais gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-tenseur-voile-palais">Muscle tenseur du voile du palais droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=H9vGzeyeeCSPXzeSXHmK1je0" alt="img. muscle tenseur voile du palais D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-tenseur-voile-palais">Muscle tenseur du voile du palais gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=fKjCuCfK1rquHfaOnOuWjy8b" alt="img. muscle tenseur voile du palais G"/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/muscles-uvulaire">Muscles uvulaires<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-uvulaire">Muscles uvulaires<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1DaSr4nSrmSr0TH599LrqWTn" alt="img. muscles uvulaires"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-uvulaire">Muscle uvulaire droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-uvulaire">Muscle uvulaire gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-uvulaire">Muscle uvulaire droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=mO1DGnauqyeCuKDWTPPnaGHr" alt="img. muscle uvulaire D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-uvulaire">Muscle uvulaire gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=SrW5j40DWLL5eKbCy4XfimGX" alt="img. muscle uvulaire G"/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/arc-palatoglosse">Arc palatoglosse<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/arc-palatoglosse">Arc palato-glosse<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qGXjeWC4j09vz01LPjSvuemW" alt="img. arc palato-glosse"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-palatoglosse">Muscle palatoglosse droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-palatoglosse">Muscle palatoglosse gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-palatoglosse">Muscle palato-glosse droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=W51ruCSnK9fa05vGfeGHDaKP" alt="img. muscle  palato-glosse D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-palatoglosse">Muscle palato-glosse gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XfOLbefSnODaziCuyW1nOXr0" alt="img. muscle  palato-glosse G"/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/arc-palatopharyngien">Arc palato-pharyngien<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/arc-palatopharyngien">Arc palato-pharyngien<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TL5bqqaSTXfuPreSXD0XHbm0" alt="img. arc palato-pharyngien"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-palatopharyngien">Muscle palatopharyngien droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-palatopharyngien">Muscle palatopharyngien gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-palatopharyngien">Muscle palato-pharyngien droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8neKb0OTjSfaX91byyPvqiie" alt="img. muscle palato-pharyngien D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-palatopharyngien">Muscle palato-pharyngien gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8nq01DSfiuO10LPzyO5DyiCe" alt="img. muscle palato-pharyngien G"/></span></a></li>
 			</ul>
 		</li>
 		</ul>
@@ -541,47 +541,47 @@ td {
 <div class="content">
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/muscles-constricteurs-pharynx">Muscles constricteurs du pharynx<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-constricteurs-pharynx">Muscles constricteurs du pharynx<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9fW95HKLTveGDKPj45i0nuWD" alt="img. muscles constricteurs du pharynx"/></span></a>
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/muscles-constricteur-sup-pharynx">Muscles constricteurs supérieurs du pharynx<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-constricteur-sup-pharynx">Muscles constricteurs supérieurs du pharynx<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yy0n4n4nOvuqSj0T91KXPbOb" alt="img. muscles constricteurs sup du pharynx"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-constricteur-sup-pharynx">Muscle constricteur supérieur du pharynx droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-constricteur-sup-pharynx">Muscle constricteur supérieur du pharynx gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-constricteur-sup-pharynx">Muscle constricteur supérieur du pharynx droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Dmeu8DuayeuuXbyKnKGvai81" alt="img. muscle constricteur sup du pharynx D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-constricteur-sup-pharynx">Muscle constricteur supérieur du pharynx gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=G15Hz4yee8Prfaq09jfCeODm" alt="img. muscle constricteur sup du pharynx G"/></span></a></li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/muscles-constricteur-moy-pharynx">Muscles constricteurs moyens du pharynx<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-constricteur-moy-pharynx">Muscles constricteurs moyens du pharynx<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=iOniGHTLvmKb8zKLXzyeCKza" alt="img. muscles constricteurs moyens du pharynx"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-constricteur-moy-pharynx">Muscle constricteur moyen du pharynx droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-constricteur-moy-pharynx">Muscle constricteur moyen du pharynx gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-constricteur-moy-pharynx">Muscle constricteur moyen du pharynx droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Ovm8HPLXji0H1D0vua0L5HfS" alt="img. muscle constricteur moyen du pharynx D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-constricteur-moy-pharynx">Muscle constricteur moyen du pharynx gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zKrK1TfSbeaW1DiOf89LfaG9" alt="img. muscle constricteur moyen du pharynx G"/></span></a></li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/muscles-constricteur-inf-pharynx">Muscles constricteurs inférieurs du pharynx<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-constricteur-inf-pharynx">Muscles constricteurs inférieurs du pharynx<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=q8XXT1zySjKrLP5jCuCKrWTH" alt="img. muscles constricteurs inf du pharynx"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-constricteur-inf-pharynx">Muscle constricteur inférieur du pharynx droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-constricteur-inf-pharynx">Muscle constricteur inférieur du pharynx gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-constricteur-inf-pharynx">Muscle constricteur inférieur du pharynx droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ne0nyi8vOrCCniWja0f45TXn" alt="img. muscle constricteur inf du pharynx D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-constricteur-inf-pharynx">Muscle constricteur inférieur du pharynx gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=COHb4bLPfGHbi0ziWLLHvaKn" alt="img. muscle constricteur inf du pharynx G"/></span></a></li>
 				</ul>
 			</li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/muscles-stylopharyngien">Muscles stylo-pharyngiens<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-stylopharyngien">Muscles stylo-pharyngiens<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=GHDC8bDSrWLPzqe8runm4TDa" alt="img. muscles stylo-pharyngiens"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-stylopharyngien">Muscle stylo-pharyngien droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-stylopharyngien">Muscle stylo-pharyngien gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-stylopharyngien">Muscle stylo-pharyngien droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zqCCKPTjqy85rquCu8HHn0r4" alt="img. muscle stylo-pharyngien D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-stylopharyngien">Muscle stylo-pharyngien gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=juOP5TPfCCmqSb4THH8zSXHX" alt="img. muscle stylo-pharyngien G"/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/muscles-salpingopharyngien">Muscles salpingo-pharyngiens<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-salpingopharyngien">Muscles salpingo-pharyngiens<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TbaGrmPbWDiGDS1bqKPTPjuu" alt="img. muscles salpingo-pharyngiens"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-salpingopharyngien">Muscle salpingo-pharyngien droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-salpingopharyngien">Muscle salpingo-pharyngien gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-salpingopharyngien">Muscle salpingo-pharyngien droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qu0fGbS9DO9rW1rO5TvG919f" alt="img. muscle salpingo-pharyngien D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-salpingopharyngien">Muscle salpingo-pharyngien gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rCqemCje4PjyaG9bGnPPDq41" alt="img. muscle salpingo-pharyngien G"/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/arc-palatopharyngien">Arc palato-pharyngien<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/arc-palatopharyngien">Arc palato-pharyngien<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TL5bqqaSTXfuPreSXD0XHbm0" alt="img. arc palato-pharyngien"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-palatopharyngien">Muscle palatopharyngien droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-palatopharyngien">Muscle palatopharyngien gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-palatopharyngien">Muscle palato-pharyngien droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8neKb0OTjSfaX91byyPvqiie" alt="img. muscle palato-pharyngien D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-palatopharyngien">Muscle palato-pharyngien gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8nq01DSfiuO10LPzyO5DyiCe" alt="img. muscle palato-pharyngien G"/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/raphe-pharynx">Raphé du pharynx<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/raphe-pharynx">Raphé du pharynx<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=u0LTnKDe8TrGKH9nyK5r81HX" alt="img. raphe du pharinx"/></span></a></li>
 		</ul>
 
 </div>
@@ -592,48 +592,48 @@ td {
 <div class="content">
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/muscles-temporaux">Muscles temporaux<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-temporaux">Muscles temporaux<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rqKvyWa015verm0DiOSvO1LX" alt="img. muscles temporaux"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-temporal">Muscle temporal droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-temporal">Muscle temporal gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-temporal">Muscle temporal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=PHruKP0PvqyySvmKz8raayam" alt="img. muscle temporal D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-temporal">Muscle temporal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=a01HfObi0jyO9n0HfuDSzqS9" alt="img. muscle temporal G"/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/muscles-masseter">Muscles masseter<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-masseter">Muscles masseters<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=49nimqTnqi0H599ri4LHHbm4" alt="img. muscles masseters"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-masseter">Muscle masseter droit<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/R-mscl-masseter">Muscle masseter droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yCS1L5HXPTH1X5D8rOium4TT" alt="img. muscle masseter D"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-masseter-fx-supL">Faisceau superficiel du muscle masseter droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-masseter-fx-pfd">Faisceau profond du muscle masseter droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-masseter-fx-supL">Faisceau superficiel du muscle masseter droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rK1PbKKzCqiyaWHvCWiiuWji" alt="img. muscle masseter D fx superficiel"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-masseter-fx-pfd">Faisceau profond du muscle masseter droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bqKfC8OTbKni5LzKfOCi89Hf" alt="img. muscle masseter D fx profond"/></span></a></li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/L-mscl-masseter">Muscle masseter gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/L-mscl-masseter">Muscle masseter gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=fS1LrSf8zueCLfySr05rWLz0" alt="img. muscle masseter G"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/L-mscl-masseter-fx-supL">Faisceau superficiel du muscle masseter gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-masseter-fx-pfd">Faisceau profond du muscle masseter gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				</ul>
-			</li>
-			</ul>
-		</li>
-		<li><a href="/desc/http://anat.org/muscles-pterigoidien-lat">Muscles ptérigoïdiens latéraux<span id=infobulle><img src="" alt="img. "/></span></a>
-			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-pterigoidien-lat">Muscle ptérigoïdien latéral droit<span id=infobulle><img src="" alt="img. "/></span></a>
-				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-pterigoidien-lat-fx-sup">Faisceau superficiel du muscle ptérigoïdien latéral droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-pterigoidien-lat-fx-inf">Faisceau profond du muscle ptérigoïdien latéral droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				</ul>
-			</li>
-			<li><a href="/desc/http://anat.org/L-mscl-pterigoidien-lat">Muscle ptérigoïdien latéral gauche<span id=infobulle><img src="" alt="img. "/></span></a>
-				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/L-mscl-pterigoidien-lat-fx-sup">Faisceau superficiel du muscle ptérigoïdien latéral gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-pterigoidien-lat-fx-inf">Faisceau profond du muscle ptérigoïdien latéral gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-masseter-fx-supL">Faisceau superficiel du muscle masseter gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=WnyuimTX5r8bW599bqOryWfi" alt="img. muscle masseter D fx superficiel"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-masseter-fx-pfd">Faisceau profond du muscle masseter gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=iO1n8TXTnSHnjCq0jC1byWTL" alt="img. muscle masseter G fx profond"/></span></a></li>
 				</ul>
 			</li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/muscles-pterigoidien-med">Muscles ptérigoïdiens médiaux<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-pterigoidien-lat">Muscles ptérigoïdiens latéraux<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zOTfWvyCa05rqCyeOfDiu0bm" alt="img. muscles pterigoidiens"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-pterigoidien-med">Muscle ptérigoïdien médial droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-pterigoidien-med">Muscle ptérigoïdien médial gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-pterigoidien-lat">Muscle ptérigoïdien latéral droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=m0TriG1z0z85HL5H5nWn8Hve" alt="img. muscle pterigoidien lat D"/></span></a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-pterigoidien-lat-fx-sup">Faisceau supérieur du muscle ptérigoïdien latéral droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=D0XjG15nCq0LLrWzKby0v0v4" alt="img. muscle pterigoidien lat D fx sup"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-pterigoidien-lat-fx-inf">Faisceau inférieur du muscle ptérigoïdien latéral droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OnuaKbX1XjK1TLja8DPvGD4r" alt="img. muscle pterigoidien lat D fx inf"/></span></a></li>
+				</ul>
+			</li>
+			<li><a href="/desc/http://anat.org/L-mscl-pterigoidien-lat">Muscle ptérigoïdien latéral gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bCWD8DSDuSvSTvaKvqaG19nK" alt="img. muscle pterigoidien lat G"/></span></a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/L-mscl-pterigoidien-lat-fx-sup">Faisceau supérieur du muscle ptérigoïdien latéral gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9Hjma4uCSP5Pb0biWXumqO1L" alt="img. muscle pterigoidien lat G fx sup"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-pterigoidien-lat-fx-inf">Faisceau inférieur du muscle ptérigoïdien latéral gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4b8b4LrqSPzeXDaO5jG99D8r" alt="img. muscle pterigoidien lat G fx inf"/></span></a></li>
+				</ul>
+			</li>
+			</ul>
+		</li>
+		<li><a href="/desc/http://anat.org/muscles-pterigoidien-med">Muscles ptérigoïdiens médiaux<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ji4HDOeObq8bHfyi81buiOPz" alt="img. muscle pterigoidiens mediaux"/></span></a>
+			<ul style="list-style-type:circle">
+			<li><a href="/desc/http://anat.org/R-mscl-pterigoidien-med">Muscle ptérigoïdien médial droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=fSj0Lrn8TXHru4DSLzaGzqaC" alt="img. muscle pterigoidien med D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-pterigoidien-med">Muscle ptérigoïdien médial gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1XP9T9WjK5H9vquKT5yCiSP9" alt="img. muscle pterigoidien med G"/></span></a></li>
 			</ul>
 		</li>
 		</ul>
@@ -646,40 +646,40 @@ td {
 <div class="content">
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/muscles-droit-ant-tete">Muscles droits antérieurs de la tête<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-droit-ant-tete">Muscles droits antérieurs de la tête<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XLPPzmfmG1zeCm0LzmmK95HD" alt="img. muscles droits ant de la tete"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-droit-ant-tete">Muscle droit antérieur de la tête droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-droit-ant-tete">Muscle droit antérieur de la tête gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-droit-ant-tete">Muscle droit antérieur de la tête droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zCSjWbbWHf4fWruuuC01baOb" alt="img. muscle droit ant de la tete D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-droit-ant-tete">Muscle droit antérieur de la tête gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=v0XbmiSfW9XLP1beqGOPTXH1" alt="img. muscle droit ant de la tete G"/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/muscles-droit-lat-tete">Muscles droits latéraux de la tête<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-droit-lat-tete">Muscles droits latéraux de la tête<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=m8z0vaiya8bS5fSr4bbyKXvm" alt="img. muscles droits lat de la tete"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-droit-lat-tete">Muscle droit latéral de la tête droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-droit-lat-tete">Muscle droit latéral de la tête gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-droit-lat-tete">Muscle droit latéral de la tête droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=vCWXv0LDGLvqmSnWruDCeGz8" alt="img. muscle droit lat de la tete D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-droit-lat-tete">Muscle droit latéral de la tête gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=juKXba5LrKTHObi0vOreODCa" alt="img. muscle droit lat de la tete G"/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/muscles-gd-droit-post-tete">Muscles grands droits postérieurs de la tête<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-gd-droit-post-tete">Muscles grands droits postérieurs de la tête<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zOvqWrGPTvu0DuSDObzS591r" alt="img. muscles grands droits post de la tete"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-gd-droit-post-tete">Muscle grand droit postérieur de la tête droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-gd-droit-post-tete">Muscle grand droit postérieur de la tête gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-gd-droit-post-tete">Muscle grand droit postérieur de la tête droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DuGriOa4HHDmfW1X1PvKj0zi" alt="img. muscle grand droit post de la tete D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-gd-droit-post-tete">Muscle grand droit postérieur de la tête gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8beCWT0f8raafySn4PuWPLrO" alt="img. muscle grand droit post de la tete G"/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/muscles-pt-droit-post-tete">Muscles petits droits postérieurs de la tête<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-pt-droit-post-tete">Muscles petits droits postérieurs de la tête<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=b8H59LaeieObiyWr0PziGDKD" alt="img. muscles petits droits post de la tete"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-pt-droit-post-tete">Muscle petit droit postérieur de la tête droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-pt-droit-post-tete">Muscle petit droit postérieur de la tête gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-pt-droit-post-tete">Muscle petit droit postérieur de la tête droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=0zO1DaCa8L1PrqeWXXPr0DiW" alt="img. muscle petit droit post de la tete D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-pt-droit-post-tete">Muscle petit droit postérieur de la tête gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yeuyWv1XL5rqC0biKHS5Hn4T" alt="img. muscle petit droit post de la tete G"/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/muscles-oblique-sup-tete">Muscles obliques supérieurs de la tête<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-oblique-sup-tete">Muscles obliques supérieurs de la tête<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=P95Hn8Xz4HPrWrq4nKWnqqOv" alt="img. muscles obliques sup de la tete"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-oblique-sup-tete">Muscle oblique supérieur de la tête droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-oblique-sup-tete">Muscle oblique supérieur de la tête gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-oblique-sup-tete">Muscle oblique supérieur de la tête droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nmWHXDmC4fO5uieSbGfyODie" alt="img. muscle oblique sup de la tete D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-oblique-sup-tete">Muscle oblique supérieur de la tête gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9bObemKPnumyuOHXjS4Ljaye" alt="img. muscle oblique sup de la tete G"/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/muscles-oblique-inf-tete">Muscles obliques inférieurs de la tête<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-oblique-inf-tete">Muscles obliques inférieurs de la tête<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=reODWDPPrOLDnOr8neyOvaCu" alt="img. muscles obliques inf de la tete"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-oblique-inf-tete">Muscle oblique inférieur de la tête droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-oblique-inf-tete">Muscle oblique inférieur de la tête gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-oblique-inf-tete">Muscle oblique inférieur de la tête droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nuKjK1WLzui00zS9LjXjqCCS" alt="img. muscle oblique inf de la tete D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-oblique-inf-tete">Muscle oblique inférieur de la tête gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5Diq81iyG1vqba415X1zq0DC" alt="img. muscle oblique inf de la tete G"/></span></a></li>
 			</ul>
 		</li>
 		</ul>
@@ -701,47 +701,47 @@ td {
 <div class="content">
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/muscles-constricteurs-pharynx">Muscles constricteurs du pharynx<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-constricteurs-pharynx">Muscles constricteurs du pharynx<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9fW95HKLTveGDKPj45i0nuWD" alt="img. muscles constricteurs du pharynx"/></span></a>
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/muscles-constricteur-sup-pharynx">Muscles constricteurs supérieurs du pharynx<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-constricteur-sup-pharynx">Muscles constricteurs supérieurs du pharynx<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yy0n4n4nOvuqSj0T91KXPbOb" alt="img. muscles constricteurs sup du pharynx"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-constricteur-sup-pharynx">Muscle constricteur supérieur du pharynx droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-constricteur-sup-pharynx">Muscle constricteur supérieur du pharynx gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-constricteur-sup-pharynx">Muscle constricteur supérieur du pharynx droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Dmeu8DuayeuuXbyKnKGvai81" alt="img. muscle constricteur sup du pharynx D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-constricteur-sup-pharynx">Muscle constricteur supérieur du pharynx gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=G15Hz4yee8Prfaq09jfCeODm" alt="img. muscle constricteur sup du pharynx G"/></span></a></li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/muscles-constricteur-moy-pharynx">Muscles constricteurs moyens du pharynx<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-constricteur-moy-pharynx">Muscles constricteurs moyens du pharynx<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=iOniGHTLvmKb8zKLXzyeCKza" alt="img. muscles constricteurs moyens du pharynx"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-constricteur-moy-pharynx">Muscle constricteur moyen du pharynx droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-constricteur-moy-pharynx">Muscle constricteur moyen du pharynx gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-constricteur-moy-pharynx">Muscle constricteur moyen du pharynx droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Ovm8HPLXji0H1D0vua0L5HfS" alt="img. muscle constricteur moyen du pharynx D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-constricteur-moy-pharynx">Muscle constricteur moyen du pharynx gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zKrK1TfSbeaW1DiOf89LfaG9" alt="img. muscle constricteur moyen du pharynx G"/></span></a></li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/muscles-constricteur-inf-pharynx">Muscles constricteurs inférieurs du pharynx<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-constricteur-inf-pharynx">Muscles constricteurs inférieurs du pharynx<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=q8XXT1zySjKrLP5jCuCKrWTH" alt="img. muscles constricteurs inf du pharynx"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-constricteur-inf-pharynx">Muscle constricteur inférieur du pharynx droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-constricteur-inf-pharynx">Muscle constricteur inférieur du pharynx gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-constricteur-inf-pharynx">Muscle constricteur inférieur du pharynx droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ne0nyi8vOrCCniWja0f45TXn" alt="img. muscle constricteur inf du pharynx D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-constricteur-inf-pharynx">Muscle constricteur inférieur du pharynx gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=COHb4bLPfGHbi0ziWLLHvaKn" alt="img. muscle constricteur inf du pharynx G"/></span></a></li>
 				</ul>
 			</li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/muscles-stylopharyngien">Muscles stylo-pharyngiens<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-stylopharyngien">Muscles stylo-pharyngiens<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=GHDC8bDSrWLPzqe8runm4TDa" alt="img. muscles stylo-pharyngiens"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-stylopharyngien">Muscle stylo-pharyngien droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-stylopharyngien">Muscle stylo-pharyngien gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-stylopharyngien">Muscle stylo-pharyngien droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zqCCKPTjqy85rquCu8HHn0r4" alt="img. muscle stylo-pharyngien D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-stylopharyngien">Muscle stylo-pharyngien gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=juOP5TPfCCmqSb4THH8zSXHX" alt="img. muscle stylo-pharyngien G"/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/muscles-salpingopharyngien">Muscles salpingo-pharyngiens<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-salpingopharyngien">Muscles salpingo-pharyngiens<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TbaGrmPbWDiGDS1bqKPTPjuu" alt="img. muscles salpingo-pharyngiens"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-salpingopharyngien">Muscle salpingo-pharyngien droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-salpingopharyngien">Muscle salpingo-pharyngien gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-salpingopharyngien">Muscle salpingo-pharyngien droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qu0fGbS9DO9rW1rO5TvG919f" alt="img. muscle salpingo-pharyngien D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-salpingopharyngien">Muscle salpingo-pharyngien gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rCqemCje4PjyaG9bGnPPDq41" alt="img. muscle salpingo-pharyngien G"/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/arc-palatopharyngien">Arc palato-pharyngien<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/arc-palatopharyngien">Arc palato-pharyngien<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TL5bqqaSTXfuPreSXD0XHbm0" alt="img. arc palato-pharyngien"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-palatopharyngien">Muscle palatopharyngien droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-palatopharyngien">Muscle palatopharyngien gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-palatopharyngien">Muscle palato-pharyngien droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8neKb0OTjSfaX91byyPvqiie" alt="img. muscle palato-pharyngien D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-palatopharyngien">Muscle palato-pharyngien gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8nq01DSfiuO10LPzyO5DyiCe" alt="img. muscle palato-pharyngien G"/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/raphe-pharynx">Raphé du pharynx<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/raphe-pharynx">Raphé du pharynx<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=u0LTnKDe8TrGKH9nyK5r81HX" alt="img. raphe du pharinx"/></span></a></li>
 		</ul>
 
 </div>
@@ -758,15 +758,15 @@ td {
 <div class="content">
 
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/cartilage-thyroide">Cartilage thyroïde<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/cartilage-cricoide">Cartilage cricoïde<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/cartilage-epiglottique">Cartilage épiglottique<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-cartilage-arytenoide">Cartilage aryténoïde droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-cartilage-arytenoide">Cartilage aryténoïde gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-cartilage-cornicule">Cartilage corniculé droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-cartilage-cornicule">Cartilage corniculé gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-cartilage-cuneiforme">Cartilage cunéiforme droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-cartilage-cuneiforme">Cartilage cunéiforme gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/cartilage-thyroide">Cartilage thyroïde<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=GL1D8LmWbuSDrOv4DGX9HviK" alt="img. cartilage thyroide"/></span></a></li>
+			<li><a href="/desc/http://anat.org/cartilage-cricoide">Cartilage cricoïde<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Pj8HbG4PPHbyW1HXz4Pz0PrG" alt="img. cartilage cricoide"/></span></a></li>
+			<li><a href="/desc/http://anat.org/cartilage-epiglottique">Cartilage épiglottique<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=muaaCSrCq8Tje4XDmKWPXj8r" alt="img. cartilage epiglotique"/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-cartilage-arytenoide">Cartilage aryténoïde droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eyqy8f1X5rS5KDeWjC4LT9ba" alt="img. cartilage arythenoide D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-cartilage-arytenoide">Cartilage aryténoïde gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qWzqKr8PzSrOnOrGrCau8zOf" alt="img. cartilage arythenoide G"/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-cartilage-cornicule">Cartilage corniculé droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Sj4bW99z0Di8GjCmiaCaGLvm" alt="img. cartilage cornicule D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-cartilage-cornicule">Cartilage corniculé gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=WXHfGD8neuC09z0HDeCe0j0z" alt="img. cartilage cornicule G"/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-cartilage-cuneiforme">Cartilage cunéiforme droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=iWn4zCeueyKv15fGP1mCi01n" alt="img. cartilage cuneiforme D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-cartilage-cuneiforme">Cartilage cunéiforme gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=PX1rKLX5LjmS1HDeCKe8ryST" alt="img. cartilage cuneiforme G"/></span></a></li>
 			</ul>
 
 </div>
@@ -777,10 +777,10 @@ td {
 <div class="content">
 
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-arti-cricothyroidienne">Articulation crico-thyroïdienne droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-arti-cricothyroidienne">Articulation crico-thyroïdienne gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-arti-cricoarytenoidienne">Articulation crico-aryténoïdienne droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-arti-cricoarytenoidienne">Articulation crico-aryténoïdienne gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-arti-cricothyroidienne">Articulation crico-thyroïdienne droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uG1jyKGryuWPnSjmGnCae8L5" alt="img. articulation crico-thyroidienne D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-arti-cricothyroidienne">Articulation crico-thyroïdienne gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=v0jKXXySfG9zfiSvqC4vm8by" alt="img. articulation crico-thyroidienne G"/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-arti-cricoarytenoidienne">Articulation crico-aryténoïdienne droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=vium4nCKPfumHzm815yuq4vu" alt="img. articulation crico-arythenoidienne D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-arti-cricoarytenoidienne">Articulation crico-aryténoïdienne gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Gze41DfCmGreK95f89mmm4Tv" alt="img. articulation crico-arythenoidienne G"/></span></a></li>
 			</ul>
 
 </div>
@@ -791,19 +791,19 @@ td {
 <div class="content">
 
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/ligaments-thyrohyoidiens">Ligaments thyro-hyoïdiens<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/ligaments-thyrohyoidiens">Ligaments thyro-hyoïdiens<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jqG1reTvOf4LvSTLfeWraSLv" alt="img. ligaments thyro-hyoidiens"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/mb-thyrohyoidienne">Membrane thyro-hyoïdienne<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/lgmt-thyrohyoidien-med">Ligament thyro-hyoïdien médial<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-lgmt-thyrohyoidien-lat">Ligament thyro-hyoïdien latéral droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-lgmt-thyrohyoidien-lat">Ligament thyro-hyoïdien latéral gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/mb-thyrohyoidienne">Membrane thyro-hyoïdienne<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qaeaK1O9jeOrieyODePTr8ra" alt="img. membrane thyro-hyoidienne"/></span></a></li>
+				<li><a href="/desc/http://anat.org/lgmt-thyrohyoidien-med">Ligament thyro-hyoïdien médial<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ziWzKvCeODOr4zqGLrrSHzuy" alt="img. ligament thyro-hyoidien median"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-lgmt-thyrohyoidien-lat">Ligament thyro-hyoïdien latéral droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=aWLfueLbq4j4qeCObSOP1f4f" alt="img. ligament thyro-hyoidien lat D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-lgmt-thyrohyoidien-lat">Ligament thyro-hyoïdien latéral gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5vC8b0fC4Pb4195nqm4neCaO" alt="img. ligament thyro-hyoidien lat G"/></span></a></li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/lgmt-cricothyroidien">Ligament crico-thyroïdien<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/ligaments-epiglotte">Ligaments de l'épiglotte<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/lgmt-cricothyroidien">Ligament crico-thyroïdien<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TPb0nOjqu4fa0v0TH1v0jeOr" alt="img. ligament crico-thyroidien"/></span></a></li>
+			<li><a href="/desc/http://anat.org/ligaments-epiglotte">Ligaments de l'épiglotte<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4D0zCu15PTf8rG11PDGLfaau" alt="img. ligaments de l'epiglotte"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/lgmt-hyoepiglottique">Ligament hyo-épiglottique<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/lgmt-thyroepiglottique">Ligament thyro-épiglottique<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/lgmt-hyoepiglottique">Ligament hyo-épiglottique<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rOfiiCbma0HfOjGjSHe0v0Dy" alt="img. ligament hyo-epiglottique"/></span></a></li>
+				<li><a href="/desc/http://anat.org/lgmt-thyroepiglottique">Ligament thyro-épiglottique<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=L1vKTTGPj0PviyKj4jaKbiqW" alt="img. ligament thyro-epiglottique"/></span></a></li>
 				</ul>
 			</li>
 			<li>Ligaments articulaires
@@ -838,20 +838,20 @@ td {
 <div class="content">
 
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/R-mb-fibroelastique-larynx">Membrane fibro-élastique du larynx droite<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/R-mb-fibroelastique-larynx">Membrane fibro-élastique du larynx droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bO9TXrbWfq4vvC8LL1z49veW" alt="img. membrane fibro-elastique du larynx D"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mb-quadrangulaire-larynx">Membrane quadrilataire du larynx droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-lgmt-vestibulaire">Ligament vestibulaire droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-lgmt-vocal">Ligament vocal droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-cone-elastique-larynx">Cône élastique du larynx droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mb-quadrangulaire-larynx">Membrane quadrilataire du larynx droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=H1f8Xf4D0fyKTP1jWbvee8PD" alt="img. membrane quadrilataire du larynx D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-lgmt-vestibulaire">Ligament vestibulaire droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1z01HPre4HTXjKPniCmyG9P5" alt="img. ligament vestibulaire D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-lgmt-vocal">Ligament vocal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ei4bq4CCyqO9muS5bi0PPP9P" alt="img. ligament vocal D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-cone-elastique-larynx">Cône élastique du larynx droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CGveGDaOfG5bXzuyCeLLHPTr" alt="img. cone elastique du larynx D"/></span></a></li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/L-mb-fibroelastique-larynx">Membrane fibro-élastique du larynx gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/L-mb-fibroelastique-larynx">Membrane fibro-élastique du larynx gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KTvq0b8b0PrKyq8TP5yGPjC8" alt="img. membrane fibro-elastique du larynx G"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/L-mb-quadrangulaire-larynx">Membrane quadrilataire du larynx gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-lgmt-vestibulaire">Ligament vestibulaire gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-lgmt-vocal">Ligament vocal gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-cone-elastique-larynx">Cône élastique du larynx gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mb-quadrangulaire-larynx">Membrane quadrilataire du larynx gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=WLz8nm01v8jeP5z8v4499XfO" alt="img. membrane quadrilataire du larynx G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-lgmt-vestibulaire">Ligament vestibulaire gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bGHDKfPfSHPjyWriumi8LDSr" alt="img. ligament vestibulaire G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-lgmt-vocal">Ligament vocal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jGfyObaqi8bGzqGXnOvS1r4b" alt="img. ligament vocal G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-cone-elastique-larynx">Cône élastique du larynx gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ny8nmGuSDSLPeCee8PPjummq" alt="img. cone elastique du larynx G"/></span></a></li>
 				</ul>
 			</li>
 			</ul>
@@ -898,10 +898,10 @@ td {
 						<li><a href="/desc/http://anat.org/L-mscl-stylopharyngien">Muscle stylo-pharyngien gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
 						</ul>
 					</li>
-					<li><a href="/desc/http://anat.org/arc-palatopharyngien">Arc palato-pharyngien<span id=infobulle><img src="" alt="img. "/></span></a>
+					<li><a href="/desc/http://anat.org/arc-palatopharyngien">Arc palato-pharyngien<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TL5bqqaSTXfuPreSXD0XHbm0" alt="img. arc palato-pharyngien"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-mscl-palatopharyngien">Muscle palato-pharyngien droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-palatopharyngien">Muscle palato-pharyngien gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-palatopharyngien">Muscle palato-pharyngien droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8neKb0OTjSfaX91byyPvqiie" alt="img. muscle palato-pharyngien D"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-palatopharyngien">Muscle palato-pharyngien gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8nq01DSfiuO10LPzyO5DyiCe" alt="img. muscle palato-pharyngien G"/></span></a></li>
 						</ul>
 					</li>
 					</ul>
@@ -1048,40 +1048,40 @@ td {
 <div class="content">
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/muscles-droit-ant-tete">Muscles droits antérieurs de la tête<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-droit-ant-tete">Muscles droits antérieurs de la tête<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XLPPzmfmG1zeCm0LzmmK95HD" alt="img. muscles droits ant de la tete"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-droit-ant-tete">Muscle droit antérieur de la tête droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-droit-ant-tete">Muscle droit antérieur de la tête gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-droit-ant-tete">Muscle droit antérieur de la tête droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zCSjWbbWHf4fWruuuC01baOb" alt="img. muscle droit ant de la tete D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-droit-ant-tete">Muscle droit antérieur de la tête gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=v0XbmiSfW9XLP1beqGOPTXH1" alt="img. muscle droit ant de la tete G"/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/muscles-droit-lat-tete">Muscles droits latéraux de la tête<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-droit-lat-tete">Muscles droits latéraux de la tête<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=m8z0vaiya8bS5fSr4bbyKXvm" alt="img. muscles droits lat de la tete"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-droit-lat-tete">Muscle droit latéral de la tête droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-droit-lat-tete">Muscle droit latéral de la tête gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-droit-lat-tete">Muscle droit latéral de la tête droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=vCWXv0LDGLvqmSnWruDCeGz8" alt="img. muscle droit lat de la tete D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-droit-lat-tete">Muscle droit latéral de la tête gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=juKXba5LrKTHObi0vOreODCa" alt="img. muscle droit lat de la tete G"/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/muscles-gd-droit-post-tete">Muscles grands droits postérieurs de la tête<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-gd-droit-post-tete">Muscles grands droits postérieurs de la tête<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zOvqWrGPTvu0DuSDObzS591r" alt="img. muscles grands droits post de la tete"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-gd-droit-post-tete">Muscle grand droit postérieur de la tête droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-gd-droit-post-tete">Muscle grand droit postérieur de la tête gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-gd-droit-post-tete">Muscle grand droit postérieur de la tête droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DuGriOa4HHDmfW1X1PvKj0zi" alt="img. muscle grand droit post de la tete D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-gd-droit-post-tete">Muscle grand droit postérieur de la tête gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8beCWT0f8raafySn4PuWPLrO" alt="img. muscle grand droit post de la tete G"/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/muscles-pt-droit-post-tete">Muscles petits droits postérieurs de la tête<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-pt-droit-post-tete">Muscles petits droits postérieurs de la tête<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=b8H59LaeieObiyWr0PziGDKD" alt="img. muscles petits droits post de la tete"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-pt-droit-post-tete">Muscle petit droit postérieur de la tête droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-pt-droit-post-tete">Muscle petit droit postérieur de la tête gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-pt-droit-post-tete">Muscle petit droit postérieur de la tête droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=0zO1DaCa8L1PrqeWXXPr0DiW" alt="img. muscle petit droit post de la tete D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-pt-droit-post-tete">Muscle petit droit postérieur de la tête gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yeuyWv1XL5rqC0biKHS5Hn4T" alt="img. muscle petit droit post de la tete G"/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/muscles-oblique-sup-tete">Muscles obliques supérieurs de la tête<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-oblique-sup-tete">Muscles obliques supérieurs de la tête<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=P95Hn8Xz4HPrWrq4nKWnqqOv" alt="img. muscles obliques sup de la tete"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-oblique-sup-tete">Muscle oblique supérieur de la tête droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-oblique-sup-tete">Muscle oblique supérieur de la tête gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-oblique-sup-tete">Muscle oblique supérieur de la tête droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nmWHXDmC4fO5uieSbGfyODie" alt="img. muscle oblique sup de la tete D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-oblique-sup-tete">Muscle oblique supérieur de la tête gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9bObemKPnumyuOHXjS4Ljaye" alt="img. muscle oblique sup de la tete G"/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/muscles-oblique-inf-tete">Muscles obliques inférieurs de la tête<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-oblique-inf-tete">Muscles obliques inférieurs de la tête<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=reODWDPPrOLDnOr8neyOvaCu" alt="img. muscles obliques inf de la tete"/></span></a>
 			<ul style="list-style-type:circle">
-			<li><a href="/desc/http://anat.org/R-mscl-oblique-inf-tete">Muscle oblique inférieur de la tête droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-oblique-inf-tete">Muscle oblique inférieur de la tête gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-oblique-inf-tete">Muscle oblique inférieur de la tête droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nuKjK1WLzui00zS9LjXjqCCS" alt="img. muscle oblique inf de la tete D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-oblique-inf-tete">Muscle oblique inférieur de la tête gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5Diq81iyG1vqba415X1zq0DC" alt="img. muscle oblique inf de la tete G"/></span></a></li>
 			</ul>
 		</li>
 		</ul>
@@ -1274,6 +1274,7 @@ td {
 
 <button class="collapsible"><h4 class="area">RÉGION DU THORAX</h4></button>
 <div class="content">
+<p><a>►<span id=infobulle><img src="" alt="img. "/></span></a></p>
 
 	<ul style="list-style-type:square">
 	<li><a href="/desc/http://anat.org/muscles-thoraciq-ext">Muscles thoraciques externes<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eC4fe09reWnyC8DiWTj89bGz" alt="img. muscles thoraciques externes"/></span></a></li>
@@ -1598,6 +1599,7 @@ td {
 
 <button class="collapsible"><h4 class="area">RÉGION DE L'ABDOMEN</h4></button>
 <div class="content">
+<p><a>►<span id=infobulle><img src="" alt="img. "/></span></a></p>
 
 	<ul style="list-style-type:square">
 	<li><a href="/desc/http://anat.org/mscl-diaphragme">Muscle diaphragme<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DKLjaOCim851i0j8fu49LLr0" alt="img. diaphragme"/></span></a></li>
@@ -2002,6 +2004,7 @@ td {
 
 <button class="collapsible"><h4 class="area">RÉGION DU PELVIS</h4></button>
 <div class="content">
+<p><a>►<span id=infobulle><img src="" alt="img. "/></span></a></p>
 
 	<ul style="list-style-type:square">
 	<li><a href="/desc/http://anat.org/muscles-extrinseq-pelvis">Muscles extrinsèques du pelvis<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=D4bqmOXX5v4PXfW9PT9PPHfm" alt="img. muscles extrinseques du pelvis"/></span></a></li>
@@ -2269,9 +2272,10 @@ td {
 
 <button class="collapsible"><h4 class="area">RÉGION DU DOS</h4></button>
 <div class="content">
+<p><a>►<span id=infobulle><img src="" alt="img. "/></span></a></p>
 
 	<ul style="list-style-type:square">
-	<li><a href="/desc/http://anat.org/muscles-supL-dos">Muscles superficiels du dos<span id=infobulle><img src="" alt="img. "/></span></a></li>
+	<li><a href="/desc/http://anat.org/muscles-supL-dos">Muscles superficiels du dos<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5TH9TLTLbquqv8LjGH099Xnu" alt="img. muscles superficiels du dos"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -2315,9 +2319,9 @@ td {
 
 </div>
 
-	<li><a href="/desc/http://anat.org/muscles-intermed-dos">Muscles intermédiaires du dos<span id=infobulle><img src="" alt="img. "/></span></a>
+	<li><a href="/desc/http://anat.org/muscles-intermed-dos">Muscles intermédiaires du dos<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OvqyOTqKzK1bmKbyK5zqeSju" alt="img. muscles intermédiaires du dos"/></span></a>
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/muscles-denteles-post">Muscles dentelés postérieurs<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/muscles-denteles-post">Muscles dentelés postérieurs<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OvqyOTqKzK1bmKbyK5zqeSju" alt="img. muscles denteles post"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -2341,9 +2345,9 @@ td {
 
 		</ul>
 	</li>
-	<li><a href="/desc/http://anat.org/muscles-pfd-dos">Muscles profonds du dos<span id=infobulle><img src="" alt="img. "/></span></a></li>
+	<li><a href="/desc/http://anat.org/muscles-pfd-dos">Muscles profonds du dos<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bKD8j0jyu0niD4fmSrPLzyem" alt="img. muscles profonds du dos"/></span></a></li>
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/muscles-splenius">Muscles splénius<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/muscles-splenius">Muscles splénius<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jy0P9PmC4nmO8baCimOnCqyC" alt="img. muscles splenius"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -2365,9 +2369,9 @@ td {
 
 </div>
 
-		<li><a href="/desc/http://anat.org/muscles-erectR-rachis">Muscles érecteurs du rachis<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-erectR-rachis">Muscles érecteurs du rachis<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Kr8z0POXD0fWD8rOni05fOjy" alt="img. muscles erecteurs du rachis"/></span></a>
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/muscles-iliocostaux">Muscles ilio-costaux<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/muscles-iliocostaux">Muscles ilio-costaux<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=WLHHL58zG5Xrnu0fOf9Lfa41" alt="img. muscles ilio-costaux"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -2395,7 +2399,7 @@ td {
 
 </div>
 
-			<li><a href="/desc/http://anat.org/muscles-longissimus">Muscles longissimus<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/muscles-longissimus">Muscles longissimus<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=mWLDeGPfiGvi89nCu4yu4byC" alt="img. muscles longissimus"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -2423,7 +2427,7 @@ td {
 
 </div>
 
-			<li><a href="/desc/http://anat.org/muscles-epineux">Muscles épineux<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/muscles-epineux">Muscles épineux<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bqi8b8HXvSDCKPPbyyva0DyW" alt="img. muscles epineux"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -2453,9 +2457,9 @@ td {
 
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/muscles-trvsR-epineux">Muscles transversaires épineux<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-trvsR-epineux">Muscles transversaires épineux<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=HTzqSriue4Dm09DuieX5fuu0" alt="img. mscles transversaires epineux"/></span></a>
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/muscles-semi-epineux">Muscles semi-épineux<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/muscles-semi-epineux">Muscles semi-épineux<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=SzaKD8eyOTDO5r0z4biu8jmG" alt="img. muscles semi-epineux"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -2493,7 +2497,7 @@ td {
 
 </div>
 
-			<li><a href="/desc/http://anat.org/muscles-rotR-rachis">Muscles rotateurs du rachis<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/muscles-rotR-rachis">Muscles rotateurs du rachis<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=am0THbGniGf0eKbau0jmKDmG" alt="img. muscles rotateurs du rachis"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -2712,7 +2716,7 @@ td {
 
 </div>
 
-			<li><a href="/desc/http://anat.org/muscles-multifide">Muscles multifides<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/muscles-multifide">Muscles multifides<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=PHbSXbeyCWPbPneiKTSn4Tr8" alt="img. muscles multifides"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -2726,7 +2730,7 @@ td {
 
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/muscles-interepineux">Muscles inter-épineux<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-interepineux">Muscles inter-épineux<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=aqiueKGjO11jnWzOPPi8L1nW" alt="img. muscles inter-epineux"/></span></a>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -2836,7 +2840,7 @@ td {
 
 </div>
 
-		<li><a href="/desc/http://anat.org/muscles-intertrsvR">Muscles inter-transversaires<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/muscles-intertrsvR">Muscles inter-transversaires<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jGPP59nWnGbS49TzSrfqmeu8" alt="img. muscles inter-transversaires"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3026,13 +3030,14 @@ td {
 
 	<button class="collapsible"><li><h4 class="subarea">MUSCLES DE LA CEINTURE SCAPULAIRE</h4></button>
 	<div class="content">
+<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=S9jq0XremmO1zyG9vGHD4DuW" alt="img. muscles ceinture scapulaire"/></span></a></p>
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/muscles-propres-ceint-scap">Muscles propres de la ceinture scapulaire<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-propres-ceint-scap">Muscles propres de la ceinture scapulaire<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DmWjWnCeieWTGDiKLvXnGLv4" alt="img. muscles propres de la ceinture scapulaire"/></span></a>
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/muscles-ceint-scap-couche-pfde">Muscles de la ceinture scapulaire : couche profonde<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-ceint-scap-couche-pfde">Muscles de la ceinture scapulaire : couche profonde<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8juO99i4PrCW4j4nWPDST1H5" alt="img. muscles de la ceinture scapulaire couche profonde"/></span></a>
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/muscles-ceint-scap-couche-pfde1">Muscles de la ceinture scapulaire : couche profonde (1re subdivision)<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/muscles-ceint-scap-couche-pfde1">Muscles de la ceinture scapulaire : couche profonde (1re subdivision)<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uCmOz8u4H55Lr0f4zCrO1vmW" alt="img. muscles de la ceinture scapulaire couche profonde 1"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3060,7 +3065,7 @@ td {
 
 </div>
 
-				<li><a href="/desc/http://anat.org/muscles-ceint-scap-couche-pfde2">Muscles de la ceinture scapulaire : couche profonde (2e subdivision)<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/muscles-ceint-scap-couche-pfde2">Muscles de la ceinture scapulaire : couche profonde (2e subdivision)<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bKX9vKzGTvKjvW1PHLbOXrWH" alt="img. muscles de la ceinture scapulaire couche profonde 2"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3106,7 +3111,7 @@ td {
 
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/muscles-ceint-scap-couche-supL">Muscles de la ceinture scapulaire : couche superficielle<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/muscles-ceint-scap-couche-supL">Muscles de la ceinture scapulaire : couche superficielle<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=HTPXHvqCWrCKSzKXvubOrKvq" alt="img. uscles de la ceinture scapulaire couche superficielle"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3160,7 +3165,7 @@ td {
 
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/R-muscles-propres-epaule">Muscles propres de l'épaule droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/R-muscles-propres-epaule">Muscles propres de l'épaule droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yy4PvOb8jKHLe4HzWXqWn4f4" alt="img. muscles propres de l'epaule D"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3182,7 +3187,7 @@ td {
 
 </div>
 
-		<li><a href="/desc/http://anat.org/L-muscles-propres-epaule">Muscles propres de l'épaule gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/L-muscles-propres-epaule">Muscles propres de l'épaule gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=j8vamm8bm4X5nKbq8PTDySLr" alt="img. muscles propres de l'epaule G"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3211,11 +3216,35 @@ td {
 	</li>
 	<button class="collapsible"><li><h4 class="subarea">MEMBRE SUPÉRIEUR DROIT</h4></button>
 	<div class="content">
+<p><a>►<span id=infobulle><img src="" alt="img. "/></span></a></p>
 
 		<ul style="list-style-type:square">
-		<li><a href="/desc/http://anat.org/">MUSCLES DU BRAS DROIT<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/R-muscles-propres-epaule">MUSCLES DE L'ÉPAULE DROITE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yy4PvOb8jKHLe4HzWXqWn4f4" alt="img. muscles propres de l'epaule D"/></span></a></li>
+
+<button class="collapsible">▼</button>
+<div class="content">
+
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/R-muscles-bras-loge-ant">Muscles antérieurs du bras droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-supraepineux">Muscle supraépineux droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-infraepineux">Muscle infraépineux droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-pt-rond">Muscle petit rond droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-gd-rond">Muscle grand rond droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-subscapulaire">Muscle subscapulaire droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-deltoide">Muscle deltoïde droit<span id=infobulle><img src="" alt="img. "/></span></a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-mscl-deltoide-fx-ant">Faisceau antérieur du muscle deltoïde droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-deltoide-fx-moy">Faisceau moyen du muscle deltoïde droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-deltoide-fx-post">Faisceau postérieur du muscle deltoïde droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				</ul>
+			</li>
+			</ul>
+
+</div>
+
+		<li><a href="/desc/http://anat.org/">MUSCLES DU BRAS DROIT<span id=infobulle><img src="" alt="img. "/></span></a></li>
+
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/R-muscles-bras-loge-ant">Muscles antérieurs du bras droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=HDm05XiueCeCDGvy8T5Hrm41" alt="img. muscles ant bras D"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3233,7 +3262,7 @@ td {
 
 </div>
 
-			<li><a href="/desc/http://anat.org/R-muscles-bras-loge-post">Muscles postérieurs du bras droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-muscles-bras-loge-post">Muscles postérieurs du bras droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=PzKjWL5nyieyKPru4rW5Pra8" alt="img. muscles post bras D"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3253,8 +3282,9 @@ td {
 			</ul>
 		</li>
 		<li><a href="/desc/http://anat.org/">MUSCLES DE L'AVANT-BRAS DROIT<span id=infobulle><img src="" alt="img. "/></span></a>
+
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/R-muscles-ant-avt-bras">Muscles antérieurs de l’avant-bras droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-muscles-ant-avt-bras">Muscles antérieurs de l’avant-bras droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4nW5H5SLHzyWueyueWK5D0Da" alt="img. muscles ant avt-bras D"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3294,7 +3324,7 @@ td {
 
 </div>
 
-			<li><a href="/desc/http://anat.org/R-muscles-post-avt-bras">Muscles postérieurs de l’avant-bras droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-muscles-post-avt-bras">Muscles postérieurs de l’avant-bras droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=PXfCyuiSz8L5XDeyqaWLjKDe" alt="img. muscles post avt-bras D"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3317,8 +3347,9 @@ td {
 			</ul>
 		</li>
 		<li><a href="/desc/http://anat.org/">MUSCLES DE LA MAIN DROITE<span id=infobulle><img src="" alt="img. "/></span></a>
+
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/R-muscles-loge-med-main">Muscles de la loge médiale de la main droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-muscles-loge-med-main">Muscles de la loge médiale de la main droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=PXLf8H4j0vi0nqqeeSuKjyWH" alt="img. muscles loge mediale main D"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3339,7 +3370,7 @@ td {
 
 </div>
 
-			<li><a href="/desc/http://anat.org/R-muscles-loge-lat-main">Muscles de la loge latérale de la main droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-muscles-loge-lat-main">Muscles de la loge latérale de la main droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jeO1Xvr8vyqWjGbW1549fOvG" alt="img. muscles loge laterale main D"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3375,7 +3406,7 @@ td {
 
 </div>
 
-			<li><a href="/desc/http://anat.org/R-muscles-loge-moy-main">Muscles de la loge moyenne de la main droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-muscles-loge-moy-main">Muscles de la loge moyenne de la main droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Ca8HPnOfO15XKzyeK94viOju" alt="img. muscles loge moyenne main D"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3417,7 +3448,7 @@ td {
 
 </div>
 
-			<li><a href="/desc/http://anat.org/R-mscl-tabatiere-anatomique">Muscles de la tabatière anatomique droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-tabatiere-anatomique">Muscles de la tabatière anatomique droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XTX9LbrGH1nW1TL1DKSnO9Hr" alt="img. muscles tabatiere anat main D"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3430,7 +3461,7 @@ td {
 
 </div>
 
-			<li><a href="/desc/http://anat.org/R-retinaculum-fleR-main">Rétinaculum des fléchisseurs de la main droite<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-retinaculum-fleR-main">Rétinaculum des fléchisseurs de la main droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=z0TXDam45jSLXXr81DGv8DyG" alt="img. retinaculum flechisseurs main D"/></span></a></li>
 			</ul>
 		</li>
 		</ul>
@@ -3440,11 +3471,34 @@ td {
 	</li>
 	<button class="collapsible"><li><h4 class="subarea">MEMBRE SUPÉRIEUR GAUCHE</h4></button>
 	<div class="content">
+<p><a>►<span id=infobulle><img src="" alt="img. "/></span></a></p>
 
 		<ul style="list-style-type:square">
-		<li><a href="/desc/http://anat.org/">MUSCLES DU BRAS GAUCHE<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/L-muscles-propres-epaule">MUSCLES DE L'ÉPAULE GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=j8vamm8bm4X5nKbq8PTDySLr" alt="img. muscles propres de l'epaule G"/></span></a></li>
+
+<button class="collapsible">▼</button>
+<div class="content">
+
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/L-muscles-bras-loge-ant">Muscles antérieurs du bras gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-supraepineux">Muscle supraépineux gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-infraepineux">Muscle infraépineux gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-pt-rond">Muscle petit rond gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-gd-rond">Muscle grand rond gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-subscapulaire">Muscle subscapulaire gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-deltoide">Muscle deltoïde gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/L-mscl-deltoide-fx-ant">Faisceau antérieur du muscle deltoïde gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-deltoide-fx-moy">Faisceau moyen du muscle deltoïde gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-deltoide-fx-post">Faisceau postérieur du muscle deltoïde gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				</ul>
+			</li>
+			</ul>
+
+</div>
+		<li><a href="/desc/http://anat.org/">MUSCLES DU BRAS GAUCHE<span id=infobulle><img src="" alt="img. "/></span></a></li>
+
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/L-muscles-bras-loge-ant">Muscles antérieurs du bras gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4DCiCi1XTjCW1rCWH10jGXbK" alt="img. muscles ant bras G"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3462,7 +3516,7 @@ td {
 
 </div>
 
-			<li><a href="/desc/http://anat.org/L-muscles-bras-loge-post">Muscles postérieurs du bras gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-muscles-bras-loge-post">Muscles postérieurs du bras gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XLr09TO1fuGj0LT1b0C4ry05" alt="img. muscles post bras G"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3482,8 +3536,9 @@ td {
 			</ul>
 		</li>
 		<li><a href="/desc/http://anat.org/">MUSCLES DE L'AVANT-BRAS GAUCHE<span id=infobulle><img src="" alt="img. "/></span></a>
+
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/L-muscles-ant-avt-bras">Muscles antérieurs de l’avant-bras gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-muscles-ant-avt-bras">Muscles antérieurs de l’avant-bras gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=fW1vmCrWH1TXyyWTPvaeKjSv" alt="img. muscles ant avt-bras G"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3523,7 +3578,7 @@ td {
 
 </div>
 
-			<li><a href="/desc/http://anat.org/L-muscles-post-avt-bras">Muscles postérieurs de l’avant-bras gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-muscles-post-avt-bras">Muscles postérieurs de l’avant-bras gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=niy4P9ve0f4fXzS9Lriiaa0f" alt="img. muscles post avt-bras G"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3546,8 +3601,9 @@ td {
 			</ul>
 		</li>
 		<li><a href="/desc/http://anat.org/">MUSCLES DE LA MAIN GAUCHE<span id=infobulle><img src="" alt="img. "/></span></a>
+
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/L-muscles-loge-med-main">Muscles de la loge médiale de la main gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-muscles-loge-med-main">Muscles de la loge médiale de la main gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rySTPvGLvaCKKP5Xjyr81HLf" alt="img. muscles loge mediale main G"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3568,7 +3624,7 @@ td {
 
 </div>
 
-			<li><a href="/desc/http://anat.org/L-muscles-loge-lat-main">Muscles de la loge latérale de la main gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-muscles-loge-lat-main">Muscles de la loge latérale de la main gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uGHX5DDWPP1HGHje0jGLbimS" alt="img. muscles loge laterale main G"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3604,7 +3660,7 @@ td {
 
 </div>
 
-			<li><a href="/desc/http://anat.org/L-muscles-loge-moy-main">Muscles de la loge moyenne de la main gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-muscles-loge-moy-main">Muscles de la loge moyenne de la main gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=mayS19Tfmy4LzGbOPTzO9HDa" alt="img. muscles loge moyenne main G"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3646,7 +3702,7 @@ td {
 
 </div>
 
-			<li><a href="/desc/http://anat.org/L-mscl-tabatiere-anatomique">Muscles de la tabatière anatomique gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-tabatiere-anatomique">Muscles de la tabatière anatomique gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yOnm0TC4n4z88fKnCqqWvS5D" alt="img. muscles tabatiere anat main G"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3659,7 +3715,7 @@ td {
 
 </div>
 
-			<li><a href="/desc/http://anat.org/L-retinaculum-fleR-main">Rétinaculum des fléchisseurs de la main gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-retinaculum-fleR-main">Rétinaculum des fléchisseurs de la main gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Tza4nmiOX5nGW9HnKDyayuKv" alt="img. retinaculum flechisseurs main G"/></span></a></li>
 			</ul>
 		</li>
 		</ul>
@@ -3676,9 +3732,10 @@ td {
 
 	<button class="collapsible"><li><h4 class="subarea">MUSCLES DE LA CEINTURE PELVIENNE</h4></button>
 	<div class="content">
+<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Tf455jru0XHPGHj4TPe8DiKj" alt="img. muscles ceinture pelvienne"/></span></a></p>
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/muscles-ceint-pelv-couche-pfde">Muscles de la ceinture pelvienne : couche profonde<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-ceint-pelv-couche-pfde">Muscles de la ceinture pelvienne : couche profonde<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DKfiKn1rmCKHX5Lr4T0PPDy0" alt="img. muscles ceinture pelvienne couche profonde"/></span></a>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3755,7 +3812,7 @@ td {
 </div>
 
 		</li>
-		<li><a href="/desc/http://anat.org/muscles-ceint-pelv-couche-supL">Muscles de la ceinture pelvienne : couche superficielle<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/muscles-ceint-pelv-couche-supL">Muscles de la ceinture pelvienne : couche superficielle<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CSDqK98niC81TH1fCOnWjCSD" alt="img. muscles ceinture pelvienne couche superficielle"/></span></a>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3811,11 +3868,13 @@ td {
 	</li>
 	<button class="collapsible"><li><h4 class="subarea">MEMBRE INFÉRIEUR DROIT</h4></button>
 	<div class="content">
+<p><a>►<span id=infobulle><img src="" alt="img. "/></span></a></p>
 
 		<ul style="list-style-type:square">
-		<li><a href="/desc/http://anat.org/">MUSCLES DE LA CUISSE DROITE<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/">MUSCLES DE LA CUISSE DROITE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=O11zSfWXL5fG5juGz8ODyWTP" alt="img. muscles cuisse D"/></span></a>
+
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/R-muscles-ant-cuisse">Muscles antérieurs de la cuisse droite<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/R-muscles-ant-cuisse">Muscles antérieurs de la cuisse droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=f4jKzWTr4P1D5juGzSXvCa8L" alt="img. muscles ant cuisse D"/></span></a>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3836,7 +3895,7 @@ td {
 </div>
 
 			</li>
-			<li><a href="/desc/http://anat.org/R-muscles-med-cuisse">Muscles médiaux de la cuisse droite<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/R-muscles-med-cuisse">Muscles médiaux de la cuisse droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bODayC1b8zye45jySj4LXPjG" alt="img. muscles mediaux cuisse D"/></span></a>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3857,7 +3916,7 @@ td {
 </div>
 
 			</li>
-			<li><a href="/desc/http://anat.org/R-muscles-post-cuisse">Muscles postérieurs de la cuisse droite<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/R-muscles-post-cuisse">Muscles postérieurs de la cuisse droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=naKviWG1TXDibKvWT50XTn0f" alt="img. muscles post cuisse D"/></span></a>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3876,7 +3935,7 @@ td {
 </div>
 
 			</li>
-			<li><a href="/desc/http://anat.org/R-muscles-patte-oie">Muscles de la patte d’oie droite<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/R-muscles-patte-oie">Muscles de la patte d’oie droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Kf0PnurGjS1z89ruq8DS9nmS" alt="img. muscles patte d'oie D"/></span></a>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3890,12 +3949,13 @@ td {
 </div>
 
 			</li>
-			<li><a href="/desc/http://anat.org/R-lgmt-patellaire">Ligament patellaire (anc. rotulien) droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-lgmt-patellaire">Ligament patellaire (anc. rotulien) droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/">MUSCLES DE LA JAMBE DROITE<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/">MUSCLES DE LA JAMBE DROITE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9zyyW58P5LHPbOjuqGLny0fa" alt="img. muscles jambe D"/></span></a>
+
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/R-muscles-ant-jambe">Muscles antérieurs de la jambe droite<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/R-muscles-ant-jambe">Muscles antérieurs de la jambe droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=O9XDGfz0zSziqWzCmSvqO15L" alt="img. muscles ant jambe D"/></span></a>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3909,7 +3969,7 @@ td {
 </div>
 
 			</li>
-			<li><a href="/desc/http://anat.org/R-muscles-lat-jambe">Muscles latéraux de la jambe droite<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/R-muscles-lat-jambe">Muscles latéraux de la jambe droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=r8zySvGDSX5Hzea8nCLHLX1D" alt="img. muscles ant lateraux D"/></span></a>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3929,7 +3989,7 @@ td {
 </div>
 
 			</li>
-			<li><a href="/desc/http://anat.org/R-muscles-post-jambe">Muscles postérieurs de la jambe droite<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/R-muscles-post-jambe">Muscles postérieurs de la jambe droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4TDumO9fOTP5OXrSbiuymS51" alt="img. muscles post jambe D"/></span></a>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3956,8 +4016,9 @@ td {
 			</ul>
 		</li>
 		<li><a href="/desc/http://anat.org/">MUSCLES DU PIED DROIT<span id=infobulle><img src="" alt="img. "/></span></a>
+
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/R-muscles-plantR-med-pied">Muscles plantaires médiaux droits<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/R-muscles-plantR-med-pied">Muscles plantaires médiaux droits<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=muey85fymaS5TzGvCCKveKjW" alt="img. muscles plantaires mediaux D"/></span></a>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3984,7 +4045,7 @@ td {
 </div>
 
 			</li>
-			<li><a href="/desc/http://anat.org/R-muscles-plantR-lat-pied">Muscles plantaires latéraux droits<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/R-muscles-plantR-lat-pied">Muscles plantaires latéraux droits<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=S5DqKDD4XbW9HnKzGf11D05D" alt="img. muscles plantaires lateraux D"/></span></a>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -4006,7 +4067,7 @@ td {
 </div>
 
 			</li>
-			<li><a href="/desc/http://anat.org/R-muscles-plantR-intermed-pied">Muscles plantaires intermédiaires droit<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/R-muscles-plantR-intermed-pied">Muscles plantaires intermédiaires droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XTfqqurSne8jua4PDqXjmSHH" alt="img. muscles plantaires intermediaires D"/></span></a>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -4059,7 +4120,7 @@ td {
 </div>
 
 			</li>
-			<li><a href="/desc/http://anat.org/R-muscles-dorsaux-pied">Muscles dorsaux du pied droit<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/R-muscles-dorsaux-pied">Muscles dorsaux du pied droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9ji0XTC8PHP5WbWTLPnyGzyq" alt="img. muscles dorsaux pied D"/></span></a>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -4081,11 +4142,13 @@ td {
 	</li>
 	<button class="collapsible"><li><h4 class="subarea">MEMBRE INFÉRIEUR GAUCHE</h4></button>
 	<div class="content">
+<p><a>►<span id=infobulle><img src="" alt="img. "/></span></a></p>
 
 		<ul style="list-style-type:square">
-		<li><a href="/desc/http://anat.org/">MUSCLES DE LA CUISSE GAUCHE<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/">MUSCLES DE LA CUISSE GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=SHLXLHeK5LfSOb4HLDO5HHHb" alt="img. muscles cuisse G"/></span></a>
+
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/L-muscles-ant-cuisse">Muscles antérieurs de la cuisse gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/L-muscles-ant-cuisse">Muscles antérieurs de la cuisse gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=e4Lzmue0P9PXTDiqOXvmaOPv" alt="img. muscles ant cuisse G"/></span></a>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -4106,7 +4169,7 @@ td {
 </div>
 
 			</li>
-			<li><a href="/desc/http://anat.org/L-muscles-med-cuisse">Muscles médiaux de la cuisse gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/L-muscles-med-cuisse">Muscles médiaux de la cuisse gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=fuyKHfrCy4vav4nOXHyuCeeK" alt="img. muscles mediaux cuisse G"/></span></a>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -4127,7 +4190,7 @@ td {
 </div>
 
 			</li>
-			<li><a href="/desc/http://anat.org/L-muscles-post-cuisse">Muscles postérieurs de la cuisse gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/L-muscles-post-cuisse">Muscles postérieurs de la cuisse gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=mmOTHnWz45XzqyCSHvGjSrG1" alt="img. muscles post cuisse G"/></span></a>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -4146,7 +4209,7 @@ td {
 </div>
 
 			</li>
-			<li><a href="/desc/http://anat.org/L-muscles-patte-oie">Muscles de la patte d’oie gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/L-muscles-patte-oie">Muscles de la patte d’oie gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nyGb01PXje0L4X5nm0e8P9Xf" alt="img. muscles patte d'oie G"/></span></a>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -4160,12 +4223,13 @@ td {
 </div>
 
 			</li>
-			<li><a href="/desc/http://anat.org/L-lgmt-patellaire">Ligament patellaire (anc. rotulien) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-lgmt-patellaire">Ligament patellaire (anc. rotulien) gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/">MUSCLES DE LA JAMBE GAUCHE<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/">MUSCLES DE LA JAMBE GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=aC8nGzDqW1n8Wvq8DuWnq8j4" alt="img. muscles jambe G"/></span></a>
+
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/L-muscles-ant-jambe">Muscles antérieurs de la jambe gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/L-muscles-ant-jambe">Muscles antérieurs de la jambe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KzSnm0r4fmea1rSX9zye0nu0" alt="img. muscles ant jambe G"/></span></a>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -4179,7 +4243,7 @@ td {
 </div>
 
 			</li>
-			<li><a href="/desc/http://anat.org/L-muscles-lat-jambe">Muscles latéraux de la jambe gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/L-muscles-lat-jambe">Muscles latéraux de la jambe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eWrm091nWXHzXnSfCOSvWbaS" alt="img. muscles lateraux jambe G"/></span></a>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -4199,7 +4263,7 @@ td {
 </div>
 
 			</li>
-			<li><a href="/desc/http://anat.org/L-muscles-post-jambe">Muscles postérieurs de la jambe gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/L-muscles-post-jambe">Muscles postérieurs de la jambe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=f4D8L18nyyWPuGLHPrvemmyq" alt="img. muscles post jambe G"/></span></a>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -4225,9 +4289,10 @@ td {
 			</li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/">MUSCLES DU PIED GAUCHE<span id=infobulle><img src="" alt="img. "/></span>f</a>
+		<li><a href="/desc/http://anat.org/">MUSCLES DU PIED GAUCHE<span id=infobulle><img src="" alt="img. "/></span></a>
+
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/L-muscles-plantR-med-pied">Muscles plantaires médiaux gauches<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/L-muscles-plantR-med-pied">Muscles plantaires médiaux gauches<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Kvim8Tze8neuTnWr0jrKzmue" alt="img. muscles plantaires mediaux G"/></span></a>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -4254,7 +4319,7 @@ td {
 </div>
 
 			</li>
-			<li><a href="/desc/http://anat.org/L-muscles-plantR-lat-pied">Muscles plantaires latéraux gauches<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/L-muscles-plantR-lat-pied">Muscles plantaires latéraux gauches<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yKfyCqWru4zyfCiaC4eiSj0v" alt="img. muscles plantaires lateraux G"/></span></a>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -4276,7 +4341,7 @@ td {
 </div>
 
 			</li>
-			<li><a href="/desc/http://anat.org/L-muscles-plantR-intermed-pied">Muscles plantaires intermédiaires gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/L-muscles-plantR-intermed-pied">Muscles plantaires intermédiaires gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Hzq4zOLTzGPD4zeObOuC4191" alt="img. muscles plantaires intermediaires G"/></span></a>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -4329,7 +4394,7 @@ td {
 </div>
 
 			</li>
-			<li><a href="/desc/http://anat.org/L-muscles-dorsaux-pied">Muscles dorsaux du pied gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/L-muscles-dorsaux-pied">Muscles dorsaux du pied gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zKLjymfuuuyGWrOfCuqOriC4" alt="img. muscles dorsaux pied G"/></span></a>
 
 <button class="collapsible">▼</button>
 <div class="content">

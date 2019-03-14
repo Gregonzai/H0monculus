@@ -3661,7 +3661,7 @@ anat:muscles-masticateurs	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shor
 anat:muscles-temporaux	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=zK15TzvyKz8L0LPT1D4TniOT> .
 anat:R-mscl-temporal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Tn01jCXzeuWjjObmaGX5bGPL> .
 anat:L-mscl-temporal	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=WzOP9T8TTj89jqqKPL9HvG59> .
-anat:muscles-masseter	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=5veWHbnSzCGjemKba8OLDCyy> .
+anat:muscles-masseter	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=qOXzKbSPDW5b4LH5L55PXnSv> .
 anat:R-mscl-masseter	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=OL9DiuriOvO5DW1Tf0ruGnqK> .
 anat:R-mscl-masseter-fx-supL	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=XTXrWLuCyCOvrKrCai1HziOD> .
 anat:R-mscl-masseter-fx-pfd	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=aqeSbCXvO5HznuC4158Damya> .
@@ -5277,14 +5277,14 @@ anat:L-mscl-digastrique	anat:comprend	anat:L-mscl-digastrique-fx-post .
 anat:L-mscl-digastrique	anat:comprend	anat:L-mscl-digastrique-fx-ant .
 anat:L-mscl-digastrique	anat:comprend	anat:L-mscl-digastrique-td-central .
 		
-anat:R-poulie-fbse-mscl-digastrique	anat:insere-sur	anat:os-hyoide .
-anat:L-poulie-fbse-mscl-digastrique	anat:insere-sur	anat:os-hyoide .
+anat:R-poulie-fbse-mscl-digastrique	anat:s-insere-sur	anat:os-hyoide .
+anat:L-poulie-fbse-mscl-digastrique	anat:s-insere-sur	anat:os-hyoide .
 anat:R-mscl-digastrique-td-central	anat:coulisse-dans	anat:R-poulie-fbse-mscl-digastrique .
 anat:L-mscl-digastrique-td-central	anat:coulisse-dans	anat:L-poulie-fbse-mscl-digastrique .
-anat:raphe-median-mylohyoidien	anat:insere-sur	anat:R-mscl-mylohyoidien .
-anat:raphe-median-mylohyoidien	anat:insere-sur	anat:L-mscl-mylohyoidien .
-anat:septum-inter-geniohyoidien	anat:insere-sur	anat:R-mscl-geniohyoidien .
-anat:septum-inter-geniohyoidien	anat:insere-sur	anat:L-mscl-geniohyoidien .
+anat:raphe-median-mylohyoidien	anat:s-insere-sur	anat:R-mscl-mylohyoidien .
+anat:raphe-median-mylohyoidien	anat:s-insere-sur	anat:L-mscl-mylohyoidien .
+anat:septum-inter-geniohyoidien	anat:s-insere-sur	anat:R-mscl-geniohyoidien .
+anat:septum-inter-geniohyoidien	anat:s-insere-sur	anat:L-mscl-geniohyoidien .
 anat:R-mscl-platysma	anat:origi-insere-sur	anat:R-portion-peau-clavicule .
 anat:R-mscl-platysma	anat:origi-insere-sur	anat:R-portion-peau-acrimion .
 anat:R-mscl-platysma	anat:termi-insere-sur	anat:mandibule .

@@ -2108,7 +2108,7 @@ anat:charniere-cervico-thoracique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/
 anat:charniere-thoraco-lombaire	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=WfGvyum4PXbSbK5zuCSf4PLf> .
 anat:charniere-lombo-sacree	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=T9neKf9Tn8nSfKTb8fnmWf4n> .
 #anat:charniere-sacro-coccygienne	anat:hasImage3D	<> .
-anat:cage-thoracique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=zW1nuSK1jaqyL55Hn8nme8DG> .
+anat:cage-thoracique	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=GLvaaWzuWfWbSziyma5TfOHX> .
 anat:cage-thoracique-sup	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=H5Tni4OHTbmeDCKfqyj4fWz8> .
 anat:cage-thoracique-moy	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=HLnKLPHfCSb8nCS5n8ODaKLv> .
 anat:cage-thoracique-inf	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=yaiaGzy4jiCe9r0DODmqWnKD> .
@@ -2296,7 +2296,7 @@ anat:R-trapeze	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?short
 anat:R-metaC-I	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=u4XTva9rW1PbGjm01Hqaaaey> .
 anat:R-metaC-II	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=r0Xjia1nSfeGPrKDWjveaSb4> .
 anat:R-metaC-III	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=0Lvyam91vGH9b0TvmmnWPT9j> .
-anat:R-metaC-IV	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=yWja8n4vu4j0iOraaa> .
+anat:R-metaC-IV	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=SPvSnybuaaaamGbmWXH9DuWb> .
 anat:R-metaC-V	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=eaGjiGbu0jS1S51LbOrWrui0> .
 #anat:R-pouce-sesamoide-lat	anat:hasImage3D	<> .
 #anat:R-pouce-sesamoide-med	anat:hasImage3D	<> .
@@ -2353,13 +2353,13 @@ anat:L-metaC-V	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?short
 anat:L-main-phal-proxi-I	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Gr0j0nXLrG559jaO51uKvy8b> .
 anat:L-main-phal-dist-I	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=GXvOry1nuGvqTbqe4TO9ruuG> .
 anat:L-main-phal-proxi-II	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=THH95LbiCqu4KnWzWD89baaO> .
-anat:L-main-phal-moy-II	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=fOzq8HKTDSbareqm8zfySjaq> .
-anat:L-main-phal-dist-II	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=O5r45rmmWnuWu0X1vuHnyGDO> .
-anat:L-main-phal-proxi-III	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=P9vW9HKfO1Dm4rWneCyu0bSf> .
-anat:L-main-phal-moy-III	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=mGLD4TuKza0PH1bGXTOreiq4> .
-anat:L-main-phal-dist-III	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=uaaqKnyGvGX1nmimyK11zOza> .
-anat:L-main-phal-proxi-IV	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=15H9ryKHfKLznmSjimLLzq0X> .
-anat:L-main-phal-moy-IV	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=SnCKPniGv49byyiKPvymi8z0> .
+anat:L-main-phal-moy-II	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=O5r45rmmWnuWu0X1vuHnyGDO> .
+anat:L-main-phal-dist-II	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=eGru8DWT99f4jyiKz8aCSfaa> .
+anat:L-main-phal-proxi-III	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=mGLD4TuKza0PH1bGXTOreiq4> .
+anat:L-main-phal-moy-III	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=uaaqKnyGvGX1nmimyK11zOza> .
+anat:L-main-phal-dist-III	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=P9vW9HKfO1Dm4rWneCyu0bSf> .
+anat:L-main-phal-proxi-IV	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=SnCKPniGv49byyiKPvymi8z0> .
+anat:L-main-phal-moy-IV	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=KX9fSrPvC0Dyq4XbS90f0zmG> .
 anat:L-main-phal-dist-IV	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=K5Tru4Lj8fSbf8PP9PSDaOzi> .
 anat:L-main-phal-proxi-V	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=yCO9jKPPTbKP1DG9XX5PzWP9> .
 anat:L-main-phal-moy-V	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=zCyee4n8va0TqW9v8L1XPzO9> .
@@ -2502,7 +2502,7 @@ anat:charniere-cervico-thoracique	anat:has3DmodelURL	<http://lifesciencedb.jp/bp
 anat:charniere-thoraco-lombaire	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Hj0rWfLLnuyGC0P1X9aSnG1n> .
 anat:charniere-lombo-sacree	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=fa0DayOrS5TrGjCG5j591X91> .
 #anat:charniere-sacro-coccygienne	anat:has3DmodelURL	<> .
-anat:cage-thoracique	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=buuqSnHjiO1f5zquu4fue4Xb> .
+anat:cage-thoracique	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=rmqame9bWLzyOXvOb8zWT19D> .
 anat:cage-thoracique-sup	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=XDW15vST9ne4m41DWnCC8zG5> .
 anat:cage-thoracique-moy	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=SLbyGTLDG1DWv05zyy5bu0jG> .
 anat:cage-thoracique-inf	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=v0rG5T85fO5ffay4X91LbCSb> .
@@ -2747,13 +2747,13 @@ anat:L-metaC-V	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=P9HLfSb
 anat:L-main-phal-proxi-I	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=9HP9Hry81HTfGT5T1bC0TnGj> .
 anat:L-main-phal-dist-I	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=9ruiWTCuObeSjyiKHbKX5TbK> .
 anat:L-main-phal-proxi-II	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=yuuqa85fa49HuuququD8LL99> .
-anat:L-main-phal-moy-II	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=yuuqa85fa49HuuququD8LL99> .
-anat:L-main-phal-dist-II	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=K5vG5TGHPz09G9TbSvnyq0Hr> .
-anat:L-main-phal-proxi-III	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=DGXHT145b8DS59jCWPmSHfyu> .
-anat:L-main-phal-moy-III	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=1HDi4rDeimeiiC0ni4b4f49v> .
-anat:L-main-phal-dist-III	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=4rW1zqbi8fOPOTPTjibCSHfu> .
-anat:L-main-phal-proxi-IV	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=HnuWzm0bWXPXeimSbCveu8Ln> .
-anat:L-main-phal-moy-IV	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=nSjKDC1rGzy8PHzWveLfCuim> .
+anat:L-main-phal-moy-II	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=K5vG5TGHPz09G9TbSvnyq0Hr> .
+anat:L-main-phal-dist-II	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Pz4XvWyCaW5z0nu0998TTXrG> .
+anat:L-main-phal-proxi-III	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=1HDi4rDeimeiiC0ni4b4f49v> .
+anat:L-main-phal-moy-III	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=4rW1zqbi8fOPOTPTjibCSHfu> .
+anat:L-main-phal-dist-III	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=HnuWzm0bWXPXeimSbCveu8Ln> .
+anat:L-main-phal-proxi-IV	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=nSjKDC1rGzy8PHzWveLfCuim> .
+anat:L-main-phal-moy-IV	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=TTzq8LKLv4bqimOPj4TXDCq0> .
 anat:L-main-phal-dist-IV	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=DeCi8rGvyCSDi0vCSDLTPTD8> .
 anat:L-main-phal-proxi-V	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=TDSHTjWPPDyCPXj0X14b0fam> .
 anat:L-main-phal-moy-V	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=ymCSPnCaqWvK5LXn8j0vG1vC> .
@@ -3081,8 +3081,8 @@ anat:R-maxilaire	rdfs:label	"Os maxilaire droit" .
 anat:L-maxilaire	rdfs:label	"Os maxilaire gauche" .
 anat:R-palatin	rdfs:label	"Os palatin droit" .
 anat:L-palatin	rdfs:label	"Os palatin gauche" .
-anat:R-os-lacrimal	rdfs:label	"Os lacrimal (unguis) droit" .
-anat:L-os-lacrimal	rdfs:label	"Os lacrimal (unguis) gauche" .
+anat:R-os-lacrimal	rdfs:label	"Os lacrimal (anc. unguis) droit" .
+anat:L-os-lacrimal	rdfs:label	"Os lacrimal (anc. unguis) gauche" .
 anat:R-cornet-nasal-inf	rdfs:label	"Os cornet nasal inférieur droit" .
 anat:L-cornet-nasal-inf	rdfs:label	"Os cornet nasal inférieur gauche" .
 anat:R-os-nasal	rdfs:label	"Os nasal droit" .
@@ -12993,7 +12993,7 @@ anat:R-mscl-deltoide-fx-moy	rdfs:label	"Faisceau moyen du muscle deltoïde droit
 anat:R-mscl-deltoide-fx-post	rdfs:label	"Faisceau postérieur du muscle deltoïde droit" .
 anat:R-muscles-bras-loge-ant	rdfs:label	"Muscles antérieurs du bras droit" .
 anat:R-mscl-biceps-brachial	rdfs:label	"Muscle biceps brachial droit" .
-anat:R-mscl-biceps-brachial-chef-crt	rdfs:label	"Chef courf du muscle biceps brachial droit" .
+anat:R-mscl-biceps-brachial-chef-crt	rdfs:label	"Chef court du muscle biceps brachial droit" .
 anat:R-mscl-biceps-brachial-chef-lg	rdfs:label	"Chef long du muscle biceps brachial droit" .
 anat:R-mscl-coraco-brachial	rdfs:label	"Muscle coraco-brachial droit" .
 anat:R-mscl-brachial	rdfs:label	"Muscle brachial droit" .

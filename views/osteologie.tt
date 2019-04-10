@@ -144,8 +144,8 @@ td {
 						<li><a href="/desc/http://anat.org/L-maxilaire">Os maxilaire gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=G95TjuTn0fG5D8DSTDuC81Hr" alt="img. maxilaire gauche"/></span></a></li>
 						<li><a href="/desc/http://anat.org/R-palatin">Os palatin droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LfCOraSrWDqmqq4DGbOT1jGP" alt="img. palatin droit"/></span></a></li>
 						<li><a href="/desc/http://anat.org/L-palatin">Os palatin gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LbOnCKLv0f8nf0nGPPaWfKza" alt="img. palatin gauche"/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-os-lacrimal">Os lacrimal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Ci8f0zOL9vmeSjauuuvqOr8z" alt="img. lacrimal droit"/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-os-lacrimal">Os lacrimal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bSzuGb8L5TXviu8Tvybi8P5r" alt="img. lacrimal gauche"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-os-lacrimal">Os lacrimal (anc. unguis) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Ci8f0zOL9vmeSjauuuvqOr8z" alt="img. lacrimal droit"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-os-lacrimal">Os lacrimal (anc. unguis) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bSzuGb8L5TXviu8Tvybi8P5r" alt="img. lacrimal gauche"/></span></a></li>
 						<li><a href="/desc/http://anat.org/R-cornet-nasal-inf">Os cornet nasal inférieur droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jaCKDW8vGzuSXTjCSD91Pjua" alt="img. CNI droit"/></span></a></li>
 						<li><a href="/desc/http://anat.org/L-cornet-nasal-inf">Os cornet nasal inférieur gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=HPj0nyeOD0L1Lna4f8GTvO11" alt="img. CNI gauche"/></span></a></li>
 						<li><a href="/desc/http://anat.org/R-os-nasal">Os nasal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Kn4D85GX5nSvqyGjWbu8b4vi" alt="img. nasal droit"/></span></a></li>
@@ -226,8 +226,8 @@ td {
 						<li><a href="/desc/http://anat.org/L-maxilaire">Os maxilaire gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=G95TjuTn0fG5D8DSTDuC81Hr" alt="img. maxilaire gauche"/></span></a></li>
 						<li><a href="/desc/http://anat.org/R-palatin">Os palatin droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LfCOraSrWDqmqq4DGbOT1jGP" alt="img. palatin droit"/></span></a></li>
 						<li><a href="/desc/http://anat.org/L-palatin">Os palatin gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LbOnCKLv0f8nf0nGPPaWfKza" alt="img. palatin gauche"/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-os-lacrimal">Os lacrimal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Ci8f0zOL9vmeSjauuuvqOr8z" alt="img. lacrimal droit"/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-os-lacrimal">Os lacrimal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bSzuGb8L5TXviu8Tvybi8P5r" alt="img. lacrimal gauche"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-os-lacrimal">Os lacrimal (anc. unguis) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Ci8f0zOL9vmeSjauuuvqOr8z" alt="img. lacrimal droit"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-os-lacrimal">Os lacrimal (anc. unguis) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bSzuGb8L5TXviu8Tvybi8P5r" alt="img. lacrimal gauche"/></span></a></li>
 						<li><a href="/desc/http://anat.org/R-cornet-nasal-inf">Os cornet nasal inférieur droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jaCKDW8vGzuSXTjCSD91Pjua" alt="img. CNI droit"/></span></a></li>
 						<li><a href="/desc/http://anat.org/L-cornet-nasal-inf">Os cornet nasal inférieur gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=HPj0nyeOD0L1Lna4f8GTvO11" alt="img. CNI gauche"/></span></a></li>
 						<li><a href="/desc/http://anat.org/R-os-nasal">Os nasal droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Kn4D85GX5nSvqyGjWbu8b4vi" alt="img. nasal droit"/></span></a></li>
@@ -735,8 +735,8 @@ td {
 					<li><a href="/desc/http://anat.org/v-L5">Vertèbre L5<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qOHDquyymqSLnSPDCyCSfKL1" alt="img. vertebre L5"/></span></a></li>
 					<li><a href="/desc/http://anat.org/sacrum">Sacrum<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XjeeuirqiCiaamuauKeWf0Hr" alt="img. sacrum"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/v-S1">Vertèbre S1<span id=infobulle><img src="https://www.socabelec.co.ke/shop/pu-0855clear-pneumatic-8-mm-clear-tubing/" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/v-S2">Vertèbre S2<span id=infobulle><img src="https://www.socabelec.co.ke/shop/pu-0855clear-pneumatic-8-mm-clear-tubing/" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-S1">Vertèbre S1<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/v-S2">Vertèbre S2<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 						<li><a href="/desc/http://anat.org/v-S3">Vertèbre S3<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 						<li><a href="/desc/http://anat.org/v-S4">Vertèbre S4<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 						<li><a href="/desc/http://anat.org/v-S5">Vertèbre S5<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
@@ -787,20 +787,20 @@ td {
 		</table>
 		</ul>
 	</li>
-	<li><a href="/desc/http://anat.org/charnieres-vertebrales">CHARNIÈRES VERTÉBRALES<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=0T9XXfbW1juSii45b0W9vO9T" alt="img. "/></span></a></li>
+	<li><a href="/desc/http://anat.org/charnieres-vertebrales">CHARNIÈRES VERTÉBRALES<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=0T9XXfbW1juSii45b0W9vO9T" alt="img. charnieres vertebrales"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/charniere-C0-C1-C2">Charnière C0-C1-C2<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DCGPDuiqiaWnSjy8XPemWH15" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/charniere-C0-C1-C2">Charnière C0-C1-C2<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DCGPDuiqiaWnSjy8XPemWH15" alt="img. charniere C0-C1-C2"/></span></a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/occiput">Os occiput<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TX59PrKDiCiSSDeaKXOHneeG" alt="img. occiput"/></span></a></li>
 			<li><a href="/desc/http://anat.org/v-C1">Vertèbre C1<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5P5XPjbaWbiKrGzG9PWbqiuC" alt="img. vertebre C1"/></span></a></li>
 			<li><a href="/desc/http://anat.org/v-C2">Vertèbre C2<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=mGP95rGfa81zuySfKTiiuKT5" alt="img. vertebre C2"/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/charniere-cervico-thoracique">Charnière cervico-thoracique<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=mGjqOnXPjaie0buueebaCO1L" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/charniere-cervico-thoracique">Charnière cervico-thoracique<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=mGjqOnXPjaie0buueebaCO1L" alt="img. charniere cervico-thoracique"/></span></a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/v-C7">Vertèbre C7<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jK1rq8yKHfuyKX5j0DLDOjWH" alt="img. vertebre C7"/></span></a></li>
 			<li><a href="/desc/http://anat.org/v-T1">Vertèbre T1<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=iyKbquKTve8Lf09zyi5vOnaq" alt="img. vertebre T1"/></span></a></li>
@@ -815,21 +815,21 @@ td {
 			</li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/charniere-thoraco-lombaire">Charnière thoraco-lombaire<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ve85b0PzSHniuOPPDOqGD8Lb" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/charniere-thoraco-lombaire">Charnière thoraco-lombaire<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ve85b0PzSHniuOPPDOqGD8Lb" alt="img. charniere thoraco-lombaire"/></span></a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/v-T12">Vertèbre T12<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CG9f05LHzaSzPjueumKPfSTH" alt="img. vertebre T12"/></span></a></li>
 			<li><a href="/desc/http://anat.org/v-L1">Vertèbre L1<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4fiKP1qmWLjaqaOTDq0P9DOP" alt="img. vertebre L1"/></span></a></li>
 			<li><a href="/desc/http://anat.org/div-T12-L1">Disque intervertébral T12-L1<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=0j45nmLL995TiWT1vGGXvC4n" alt="img. DIV T12-L1"/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/charniere-lombo-sacree">Charnière lombo-sacrée<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ymGT5LzGzeSDLn4Hje8jCiK9" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/charniere-lombo-sacree">Charnière lombo-sacrée<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ymGT5LzGzeSDLn4Hje8jCiK9" alt="img. charniere lombo-sacree"/></span></a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/v-L5">Vertèbre L5<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qOHDquyymqSLnSPDCyCSfKL1" alt="img. vertebre L5"/></span></a></li>
 			<li><a href="/desc/http://anat.org/v-S1">Vertèbre S1<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			<li><a href="/desc/http://anat.org/div-L5-S1">Disque intervertébral L5-S1<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=iCOnaqueiaqGeCuumGjKL9f0" alt="img. DIV L5-S1"/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/charniere-sacro-coccygienne">Charnière sacro-coccygienne<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/charniere-sacro-coccygienne">Charnière sacro-coccygienne<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. charniere sacro-coccygienne"/></span></a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/v-S5">Vertèbre S5<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			<li><a href="/desc/http://anat.org/coccyx">Coccyx<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
@@ -944,7 +944,7 @@ td {
 
 </div>
 
-	<li><a href="/desc/http://anat.org/cage-thoracique">CAGE THORACIQUE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zyu0PPKDOTnCuOf09XHHTfq8" alt="img. cage thoracique"/></span></a></li>
+	<li><a href="/desc/http://anat.org/cage-thoracique">CAGE THORACIQUE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Hbiu4HLDq8jO8nuO9vzGruqm" alt="img. cage thoracique"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">

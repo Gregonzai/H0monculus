@@ -77,7 +77,6 @@ td {
 
 <button class="collapsible"><h4 class="area">RÉGION DE LA TÊTE</h4></button>
 <div class="content">
-<p><a>►<span id=infobulle><img src="" alt="img. "/></span></a></p>
 
 	<ul style="list-style-type:square">
 
@@ -693,7 +692,6 @@ td {
 
 <button class="collapsible"><h4 class="area">RÉGION DU COU</h4></button>
 <div class="content">
-<p><a>►<span id=infobulle><img src="" alt="img. "/></span></a></p>
 
 	<ul style="list-style-type:square">
 
@@ -3075,16 +3073,16 @@ td {
 						<li><a href="/desc/http://anat.org/L-mscl-angulaire-scapula">Muscle élévateur de la scapula (anc. angulaire de l'omoplate) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bGb4fa8ru0ze5XHnuemyqimC" alt="img. muscle elevateur de la scapula G"/></span></a></li>
 						</ul>
 					</li>
-					<li><a href="/desc/http://anat.org/muscles-subclavier">Muscles subclaviers<span id=infobulle><img src="" alt="img. muscles subclaviers"/></span></a>
+					<li><a href="/desc/http://anat.org/muscles-subclavier">Muscles subclaviers<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yaWL1HHjWP5n0Dumy4DOvKPn" alt="img. muscles subclaviers"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-mscl-subclavier">Muscle subclavier droit<span id=infobulle><img src="" alt="img. muscle subclavier D"/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-subclavier">Muscle subclavier gauche<span id=infobulle><img src="" alt="img. muscle subclavier G"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-subclavier">Muscle subclavier droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=iiC81PLPTLvWzC81rm4XDWHf" alt="img. muscle subclavier D"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-subclavier">Muscle subclavier gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DuqyWvTHTz8LXniiqizGzy4X" alt="img. muscle subclavier G"/></span></a></li>
 						</ul>
 					</li>
-					<li><a href="/desc/http://anat.org/muscles-pt-pectoral">Muscles petits pectoraux<span id=infobulle><img src="" alt="img. muscles petits pectoraux"/></span></a>
+					<li><a href="/desc/http://anat.org/muscles-pt-pectoral">Muscles petits pectoraux<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KzWveKGT11feqaG5nyvGjO1n" alt="img. muscles petits pectoraux"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-mscl-pt-pectoral">Muscle petit pectoral droit<span id=infobulle><img src="" alt="img. muscle petit pectoral D"/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-pt-pectoral">Muscle petit pectoral gauche<span id=infobulle><img src="" alt="img. muscle petit pectoral G"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-pt-pectoral">Muscle petit pectoral droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=umaq8vqyKf8r0TX5T95fSPvO" alt="img. muscle petit pectoral D"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-pt-pectoral">Muscle petit pectoral gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KHPnSD91PjeKuiKzSXC0fCW1" alt="img. muscle petit pectoral G"/></span></a></li>
 						</ul>
 					</li>
 					</ul>
@@ -3113,16 +3111,16 @@ td {
 						</li>
 						</ul>
 					</li>
-					<li><a href="/desc/http://anat.org/muscles-dentele-ant">Muscles dentelés antérieurs<span id=infobulle><img src="" alt="img. muscles denteles ant"/></span></a>
+					<li><a href="/desc/http://anat.org/muscles-dentele-ant">Muscles dentelés antérieurs<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5XDmOfDaume4i8TXnWG9nWv8" alt="img. muscles denteles ant"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-mscl-dentele-ant">Muscle dentelé antérieur droit<span id=infobulle><img src="" alt="img. muscle dentele ant D"/></span></a>
+						<li><a href="/desc/http://anat.org/R-mscl-dentele-ant">Muscle dentelé antérieur droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=HXX1buDOvieSzK5Hf0Hre0j0" alt="img. muscle dentele ant D"/></span></a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/R-mscl-dentele-ant-fx-sup">Faisceau supérieur du muscle dentelé antérieur droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 							<li><a href="/desc/http://anat.org/R-mscl-dentele-ant-fx-moy">Faisceau moyen du muscle dentelé antérieur droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 							<li><a href="/desc/http://anat.org/R-mscl-dentele-ant-fx-inf">Faisceau inférieur du muscle dentelé antérieur droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 							</ul>
 						</li>
-						<li><a href="/desc/http://anat.org/L-mscl-dentele-ant">Muscle dentelé antérieur gauche<span id=infobulle><img src="" alt="img. muscle dentele ant G"/></span></a>
+						<li><a href="/desc/http://anat.org/L-mscl-dentele-ant">Muscle dentelé antérieur gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8vS55DWfi0f8Gj8beuWrCWzq" alt="img. muscle dentele ant G"/></span></a>
 							<ul style="list-style-type:circle">
 							<li><a href="/desc/http://anat.org/L-mscl-dentele-ant-fx-sup">Faisceau supérieur du muscle dentelé antérieur gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 							<li><a href="/desc/http://anat.org/L-mscl-dentele-ant-fx-moy">Faisceau moyen du muscle dentelé antérieur gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
@@ -3167,20 +3165,20 @@ td {
 					<li><a href="/desc/http://anat.org/L-mscl-gd-dorsal">Muscle grand dorsal gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nSD4XzuCyCaqyWLvmmbyq095" alt="img. muscle grand dorsal G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/muscles-gd-pectoral">Muscles grands pectoraux<span id=infobulle><img src="" alt="img. muscles grands pectoraux"/></span></a>
+				<li><a href="/desc/http://anat.org/muscles-gd-pectoral">Muscles grands pectoraux<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zqC4zm419H5jOvKHL19TjeKr" alt="img. muscles grands pectoraux"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-gd-pectoral">Muscle grand pectoral droit<span id=infobulle><img src="" alt="img. muscle grand pectoral D"/></span></a>
+					<li><a href="/desc/http://anat.org/R-mscl-gd-pectoral">Muscle grand pectoral droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=PDWreCLHXfi0yuSHPTn0PHT1" alt="img. muscle grand pectoral D"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-mscl-gd-pectoral-fx-sup">Faisceau supérieur du muscle grand pectoral droit<span id=infobulle><img src="" alt="img. muscle grand pectoral D fx sup"/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-gd-pectoral-fx-moy">Faisceau moyen du muscle grand pectoral droit<span id=infobulle><img src="" alt="img. muscle grand pectoral D fx moy"/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-gd-pectoral-fx-inf">Faisceau inférieur du muscle grand pectoral droit<span id=infobulle><img src="" alt="img. muscle grand pectoral D fx inf"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-gd-pectoral-fx-sup">Faisceau supérieur du muscle grand pectoral droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=D0H5DOPz05neq0HnWXHTD4Da" alt="img. muscle grand pectoral D fx sup"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-gd-pectoral-fx-moy">Faisceau moyen du muscle grand pectoral droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LfKbqODqWLjS89r4DO4Tju81" alt="img. muscle grand pectoral D fx moy"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-gd-pectoral-fx-inf">Faisceau inférieur du muscle grand pectoral droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rmST1rHj8beaOHj8H1Hna4j4" alt="img. muscle grand pectoral D fx inf"/></span></a></li>
 						</ul>
 					</li>
-					<li><a href="/desc/http://anat.org/R-mscl-gd-pectoral">Muscle grand pectoral gauche<span id=infobulle><img src="" alt="img. muscle grand pectoral G"/></span></a>
+					<li><a href="/desc/http://anat.org/R-mscl-gd-pectoral">Muscle grand pectoral gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=z4ny4n0HvGLnqi4LP5ue0XX9" alt="img. muscle grand pectoral G"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-mscl-gd-pectoral-fx-sup">Faisceau supérieur du muscle grand pectoral gauche<span id=infobulle><img src="" alt="img. muscle grand pectoral G fx sup"/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-gd-pectoral-fx-moy">Faisceau moyen du muscle grand pectoral gauche<span id=infobulle><img src="" alt="img. muscle grand pectoral G fx moy"/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-gd-pectoral-fx-inf">Faisceau inférieur du muscle grand pectoral gauche<span id=infobulle><img src="" alt="img. muscle grand pectoral G fx inf"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-gd-pectoral-fx-sup">Faisceau supérieur du muscle grand pectoral gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=05515rzOXbaCPrKj09W5Hz4T" alt="img. muscle grand pectoral G fx sup"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-gd-pectoral-fx-moy">Faisceau moyen du muscle grand pectoral gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jWzq4T1TjCuujKfCGnqe81vi" alt="img. muscle grand pectoral G fx moy"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-gd-pectoral-fx-inf">Faisceau inférieur du muscle grand pectoral gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8DSPPziiS9XD95r8HDui8LXT" alt="img. muscle grand pectoral G fx inf"/></span></a></li>
 						</ul>
 					</li>
 					</ul>
@@ -3197,16 +3195,16 @@ td {
 <div class="content">
 
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/R-mscl-supraepineux">Muscle supraépineux droit<span id=infobulle><img src="" alt="img. muscle supraepineux D"/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-mscl-infraepineux">Muscle infraépineux droit<span id=infobulle><img src="" alt="img. muscle infraepineux D"/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-mscl-pt-rond">Muscle petit rond droit<span id=infobulle><img src="" alt="img. muscle petit rond D"/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-mscl-gd-rond">Muscle grand rond droit<span id=infobulle><img src="" alt="img. muscle grand rond D"/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-mscl-subscapulaire">Muscle subscapulaire droit<span id=infobulle><img src="" alt="img. muscle subscapulaire D"/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-mscl-deltoide">Muscle deltoïde droit<span id=infobulle><img src="" alt="img. muscle deltoide D"/></span></a>
+			<li><a href="/desc/http://anat.org/R-mscl-supraepineux">Muscle supraépineux droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1nG95ffST1b8PLPjWjKXraGv" alt="img. muscle supraepineux D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-infraepineux">Muscle infraépineux droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nKXLTfWbauWL0TzyOvDmiqS9" alt="img. muscle infraepineux D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-pt-rond">Muscle petit rond droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=maiOf04Xz49LKfKXXjOL9HPn" alt="img. muscle petit rond D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-gd-rond">Muscle grand rond droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1LfqamrGTj0veeyOrqGz0b4D" alt="img. muscle grand rond D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-subscapulaire">Muscle subscapulaire droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=O9zqKbzyCWvqCy8LX5bSz8z0" alt="img. muscle subscapulaire D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-deltoide">Muscle deltoïde droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1rmWX5LnWbCKqG1X1HSXHTHj" alt="img. muscle deltoide D"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-deltoide-fx-ant">Faisceau antérieur du muscle deltoïde droit<span id=infobulle><img src="" alt="img. muscle deltoide D fx ant"/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-deltoide-fx-moy">Faisceau moyen du muscle deltoïde droit<span id=infobulle><img src="" alt="img. muscle deltoide D fx moy"/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-deltoide-fx-post">Faisceau postérieur du muscle deltoïde droit<span id=infobulle><img src="" alt="img. muscle deltoide D fx post"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-deltoide-fx-ant">Faisceau antérieur du muscle deltoïde droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=y4jKzGam0jWX4bC0LfPvqqy0" alt="img. muscle deltoide D fx ant"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-deltoide-fx-moy">Faisceau moyen du muscle deltoïde droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eCWfm4vaiaqiXXfyi04vSrea" alt="img. muscle deltoide D fx moy"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-deltoide-fx-post">Faisceau postérieur du muscle deltoïde droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=WP5jOnTHLfaq8fCyeiGjK9by" alt="img. muscle deltoide D fx post"/></span></a></li>
 				</ul>
 			</li>
 			</ul>
@@ -3219,16 +3217,16 @@ td {
 <div class="content">
 
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/L-mscl-supraepineux">Muscle supraépineux gauche<span id=infobulle><img src="" alt="img. muscle supraepineux G"/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-infraepineux">Muscle infraépineux gauche<span id=infobulle><img src="" alt="img. muscle infraepineux G"/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-pt-rond">Muscle petit rond gauche<span id=infobulle><img src="" alt="img. muscle petit rond G"/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-gd-rond">Muscle grand rond gauche<span id=infobulle><img src="" alt="img. muscle grand rond G"/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-subscapulaire">Muscle subscapulaire gauche<span id=infobulle><img src="" alt="img. muscle subscapulaire G"/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-deltoide">Muscle deltoïde gauche<span id=infobulle><img src="" alt="img. muscle deltoide G"/></span></a>
+			<li><a href="/desc/http://anat.org/L-mscl-supraepineux">Muscle supraépineux gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=neuWr0LzCCKXfue4XnOryCuK" alt="img. muscle supraepineux G"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-infraepineux">Muscle infraépineux gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=GXHHz8ySbCqW8TnS1LHXPbGD" alt="img. muscle infraepineux G"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-pt-rond">Muscle petit rond gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=aCmCGTqWXnmW4z4P1rTP1bS5" alt="img. muscle petit rond G"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-gd-rond">Muscle grand rond gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=vCC0fuDyae81Pf81vi5beu4n" alt="img. muscle grand rond G"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-subscapulaire">Muscle subscapulaire gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rCW95PfmKLriHDm4TjyKr8Pb" alt="img. muscle subscapulaire G"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-deltoide">Muscle deltoïde gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=fKb4rWD4LXXjz05f8LyWTvuO" alt="img. muscle deltoide G"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/L-mscl-deltoide-fx-ant">Faisceau antérieur du muscle deltoïde gauche<span id=infobulle><img src="" alt="img. muscle deltoide G fx ant"/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-deltoide-fx-moy">Faisceau moyen du muscle deltoïde gauche<span id=infobulle><img src="" alt="img. muscle deltoide G fx moy"/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-deltoide-fx-post">Faisceau postérieur du muscle deltoïde gauche<span id=infobulle><img src="" alt="img. muscle deltoide G fx post"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-deltoide-fx-ant">Faisceau antérieur du muscle deltoïde gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uCO9rWeq4feeTfquOLiKfuO1" alt="img. muscle deltoide G fx ant"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-deltoide-fx-moy">Faisceau moyen du muscle deltoïde gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Da85X5bGHjWvLzuCaGbuy0Pj" alt="img. muscle deltoide G fx moy"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-deltoide-fx-post">Faisceau postérieur du muscle deltoïde gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eauCm8bKHX5v4jWvOzqW9jSb" alt="img. muscle deltoide G fx post"/></span></a></li>
 				</ul>
 			</li>
 			</ul>
@@ -3251,16 +3249,16 @@ td {
 <div class="content">
 
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/R-mscl-supraepineux">Muscle supraépineux droit<span id=infobulle><img src="" alt="img. muscle supraepineux D"/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-mscl-infraepineux">Muscle infraépineux droit<span id=infobulle><img src="" alt="img. muscle infraepineux D"/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-mscl-pt-rond">Muscle petit rond droit<span id=infobulle><img src="" alt="img. muscle petit rond D"/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-mscl-gd-rond">Muscle grand rond droit<span id=infobulle><img src="" alt="img. muscle grand rond D"/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-mscl-subscapulaire">Muscle subscapulaire droit<span id=infobulle><img src="" alt="img. muscle subscapulaire D"/></span></a></li>
-			<li><a href="/desc/http://anat.org/R-mscl-deltoide">Muscle deltoïde droit<span id=infobulle><img src="" alt="img. muscle deltoide D"/></span></a>
+			<li><a href="/desc/http://anat.org/R-mscl-supraepineux">Muscle supraépineux droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1nG95ffST1b8PLPjWjKXraGv" alt="img. muscle supraepineux D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-infraepineux">Muscle infraépineux droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nKXLTfWbauWL0TzyOvDmiqS9" alt="img. muscle infraepineux D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-pt-rond">Muscle petit rond droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=maiOf04Xz49LKfKXXjOL9HPn" alt="img. muscle petit rond D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-gd-rond">Muscle grand rond droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1LfqamrGTj0veeyOrqGz0b4D" alt="img. muscle grand rond D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-subscapulaire">Muscle subscapulaire droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=O9zqKbzyCWvqCy8LX5bSz8z0" alt="img. muscle subscapulaire D"/></span></a></li>
+			<li><a href="/desc/http://anat.org/R-mscl-deltoide">Muscle deltoïde droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1rmWX5LnWbCKqG1X1HSXHTHj" alt="img. muscle deltoide D"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-deltoide-fx-ant">Faisceau antérieur du muscle deltoïde droit<span id=infobulle><img src="" alt="img. muscle deltoide D fx ant"/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-deltoide-fx-moy">Faisceau moyen du muscle deltoïde droit<span id=infobulle><img src="" alt="img. muscle deltoide D fx moy"/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-deltoide-fx-post">Faisceau postérieur du muscle deltoïde droit<span id=infobulle><img src="" alt="img. muscle deltoide D fx post"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-deltoide-fx-ant">Faisceau antérieur du muscle deltoïde droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=y4jKzGam0jWX4bC0LfPvqqy0" alt="img. muscle deltoide D fx ant"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-deltoide-fx-moy">Faisceau moyen du muscle deltoïde droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eCWfm4vaiaqiXXfyi04vSrea" alt="img. muscle deltoide D fx moy"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-deltoide-fx-post">Faisceau postérieur du muscle deltoïde droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=WP5jOnTHLfaq8fCyeiGjK9by" alt="img. muscle deltoide D fx post"/></span></a></li>
 				</ul>
 			</li>
 			</ul>
@@ -3276,14 +3274,14 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-mscl-biceps-brachial">Muscle biceps brachial droit<span id=infobulle><img src="" alt="img. muscle biceps brachial D"/></span></a>
+				<li><a href="/desc/http://anat.org/R-mscl-biceps-brachial">Muscle biceps brachial droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=buOTzim8TbuC8rai0reaOT1L" alt="img. muscle biceps brachial D"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-biceps-brachial-chef-crt">Chef courf du muscle biceps brachial droit<span id=infobulle><img src="" alt="img. muscle biceps brachial D chef court"/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-biceps-brachial-chef-lg">Chef long du muscle biceps brachial droit<span id=infobulle><img src="" alt="img. muscle biceps brachial D chef long"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-biceps-brachial-chef-crt">Chef court du muscle biceps brachial droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=D4bmqSPfqiqOHfmWHDvm4vKH" alt="img. muscle biceps brachial D chef court"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-biceps-brachial-chef-lg">Chef long du muscle biceps brachial droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=n0fCu8S5DK9nfmuSLfuCi8ve" alt="img. muscle biceps brachial D chef long"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/R-mscl-coraco-brachial">Muscle coraco-brachial droit<span id=infobulle><img src="" alt="img. muscle coraco-brachial D"/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-brachial">Muscle brachial droit<span id=infobulle><img src="" alt="img. muscle brachial D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-coraco-brachial">Muscle coraco-brachial droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yWzCqi45bODG0ji0HbOruGTD" alt="img. muscle coraco-brachial D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-brachial">Muscle brachial droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=C4XvKb5zim85Ozm09b0r4HvO" alt="img. muscle brachial D"/></span></a></li>
 				</ul>
 
 </div>
@@ -3294,11 +3292,11 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-mscl-triceps-brachial">Muscle triceps brachial droit<span id=infobulle><img src="" alt="img. muscle triceps brachial D"/></span></a>
+				<li><a href="/desc/http://anat.org/R-mscl-triceps-brachial">Muscle triceps brachial droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=PzKjWL5nyieyKPru4rW5Pra8" alt="img. muscle triceps brachial D"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-triceps-brachial-chef-lg">Chef long du muscle triceps brachial droit<span id=infobulle><img src="" alt="img. muscle triceps brachial D chef long"/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-triceps-brachial-chef-med">Chef médial du muscle triceps brachial droit<span id=infobulle><img src="" alt="img. muscle triceps brachial D chef medial"/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-triceps-brachial-chef-lat">Chef latéral du muscle triceps brachial droit<span id=infobulle><img src="" alt="img. muscle triceps brachial D chef lat"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-triceps-brachial-chef-lg">Chef long du muscle triceps brachial droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=n0T99fWX59n41LH9L1yya0ve" alt="img. muscle triceps brachial D chef long"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-triceps-brachial-chef-med">Chef médial du muscle triceps brachial droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nimqqOOHDmKvWnyOTHmGfuiC" alt="img. muscle triceps brachial D chef medial"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-triceps-brachial-chef-lat">Chef latéral du muscle triceps brachial droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=T5XLP1emSL9HPPXvOziGXHXz" alt="img. muscle triceps brachial D chef lat"/></span></a></li>
 					</ul>
 				</li>
 				</ul>
@@ -3316,36 +3314,36 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-mscl-brachio-radial">Muscle brachio-radial droit<span id=infobulle><img src="" alt="img. muscle brachio-radial D"/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-rond-pronateur">Muscle rond pronateur droit<span id=infobulle><img src="" alt="img. muscle rond pronateur D"/></span></a>
+				<li><a href="/desc/http://anat.org/R-mscl-brachio-radial">Muscle brachio-radial droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1PLbiGO9jOvKTPfiSzySXjuK" alt="img. muscle brachio-radial D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-rond-pronateur">Muscle rond pronateur droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=T1TfCGOXDm0v8Xzii0nmeuGD" alt="img. muscle rond pronateur D"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-rond-pronateur-chef-humeral">Chef huméral du muscle rond pronateur droit<span id=infobulle><img src="" alt="img. muscle rond pronateur D chef humeral"/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-rond-pronateur-chef-ulnaire">Chef ulnaire du muscle rond pronateur droit<span id=infobulle><img src="" alt="img. muscle rond pronateur Dchef ulnaire"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-rond-pronateur-chef-humeral">Chef huméral du muscle rond pronateur droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KzeeS5qOfyaCq0bO9HDKTD8f" alt="img. muscle rond pronateur D chef humeral"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-rond-pronateur-chef-ulnaire">Chef ulnaire du muscle rond pronateur droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=n8f4rWfK51bKLb415LnK9995" alt="img. muscle rond pronateur Dchef ulnaire"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/R-mscl-fleR-radial-carpe">Muscle fléchisseur radial du carpe droit<span id=infobulle><img src="" alt="img. muscle flechisseur radial du carpe D"/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-lg-palmaire">Muscle long palmaire droit<span id=infobulle><img src="" alt="img. muscle long palmaire D"/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-fleR-ulnaire-carpe">Muscle fléchisseur ulnaire du carpe droit<span id=infobulle><img src="" alt="img. muscle flechisseur ulnaire du carpe D"/></span></a>
+				<li><a href="/desc/http://anat.org/R-mscl-fleR-radial-carpe">Muscle fléchisseur radial du carpe droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=X1Hf8rPbWDuiDuSXXbC4D495" alt="img. muscle flechisseur radial du carpe D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-lg-palmaire">Muscle long palmaire droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=mWfGPvW9Lveq5nya0HTXPfWf" alt="img. muscle long palmaire D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-fleR-ulnaire-carpe">Muscle fléchisseur ulnaire du carpe droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uSLnCKP1Hbmi1vC0n4C4jK19" alt="img. muscle flechisseur ulnaire du carpe D"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-fleR-ulnaire-carpe-chef-humeral">Chef huméral du muscle fléchisseur ulnaire du carpe droit<span id=infobulle><img src="" alt="img. muscle flechisseur ulnaire du carpe D chef humeral"/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-fleR-ulnaire-carpe-chef-ulnaire">Chef ulnaire du muscle fléchisseur ulnaire du carpe droit<span id=infobulle><img src="" alt="img. muscle flechisseur ulnaire du carpe D chef ulnaire"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-fleR-ulnaire-carpe-chef-humeral">Chef huméral du muscle fléchisseur ulnaire du carpe droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=HbOji8aGTTTzS9PnGj9PXjuS" alt="img. muscle flechisseur ulnaire du carpe D chef humeral"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-fleR-ulnaire-carpe-chef-ulnaire">Chef ulnaire du muscle fléchisseur ulnaire du carpe droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=15fWXfuCim4PruyyOzHjSn4j" alt="img. muscle flechisseur ulnaire du carpe D chef ulnaire"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/R-mscl-fleR-pfd-doigts">Muscle fléchisseur profond des doigts droit<span id=infobulle><img src="" alt="img. muscle flechisseur profond des doigts D"/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-fleR-supL-doigts">Muscle fléchisseur superficiel des doigts droit<span id=infobulle><img src="" alt="img. muscle flechisseur superficiel des doigts D"/></span></a>
+				<li><a href="/desc/http://anat.org/R-mscl-fleR-pfd-doigts">Muscle fléchisseur profond des doigts droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=H1nuCe9XHLnuP1HzuavquqCa" alt="img. muscle flechisseur profond des doigts D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-fleR-supL-doigts">Muscle fléchisseur superficiel des doigts droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5LDWnGPb8PLbv4zyaOvu8z8D" alt="img. muscle flechisseur superficiel des doigts D"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-fleR-supL-doigts-chef-humero-ulnaire">Chef huméro-ulnaire du muscle fléchisseur superficiel des doigts droit<span id=infobulle><img src="" alt="img. muscle flechisseur superficiel des doigts D chef humero-ulnaire"/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-fleR-supL-doigts-chef-radial">Chef radial du muscle fléchisseur superficiel des doigts droit<span id=infobulle><img src="" alt="img. muscle flechisseur superficiel des doigts D chef radial"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-fleR-supL-doigts-chef-humero-ulnaire">Chef huméro-ulnaire du muscle fléchisseur superficiel des doigts droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9PTPzSmWHLbqPfOXHDriimaS" alt="img. muscle flechisseur superficiel des doigts D chef humero-ulnaire"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-fleR-supL-doigts-chef-radial">Chef radial du muscle fléchisseur superficiel des doigts droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=WHLbeiyqau0PmmuKrGzm41D4" alt="img. muscle flechisseur superficiel des doigts D chef radial"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/R-mscl-lg-fleR-pouce">Muscle long fléchisseur du pouce droit<span id=infobulle><img src="" alt="img. muscle long flechisseur du pouce D"/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-supinateur">Muscle supinateur droit<span id=infobulle><img src="" alt="img. muscle supinateur D"/></span></a>
+				<li><a href="/desc/http://anat.org/R-mscl-lg-fleR-pouce">Muscle long fléchisseur du pouce droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=GnKHjimCeyaeneq89Dj4fyey" alt="img. muscle long flechisseur du pouce D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-supinateur">Muscle supinateur droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nmOvi0C0TTbC0PTLTLvOnWXL" alt="img. muscle supinateur D"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-supinateur-fx-supL">Faisceau superficiel du muscle supinateur droit<span id=infobulle><img src="" alt="img. https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528"/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-supinateur-fx-pfd">Faisceau profond du muscle supinateur droit<span id=infobulle><img src="" alt="img. https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-supinateur-fx-supL">Faisceau superficiel du muscle supinateur droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-supinateur-fx-pfd">Faisceau profond du muscle supinateur droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/R-mscl-carre-pronateur">Muscle carré pronateur droit<span id=infobulle><img src="" alt="img. muscle carre pronateur D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-carre-pronateur">Muscle carré pronateur droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qqK9r41PLD8ffWT15zXX5v0P" alt="img. muscle carre pronateur D"/></span></a></li>
 				</ul>
 
 </div>
@@ -3356,16 +3354,16 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-mscl-lg-extR-radial-carpe">Muscle long extenseur radial du carpe droit<span id=infobulle><img src="" alt="img. muscle long extenseur radial du carpe D"/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-crt-extR-radial-carpe">Muscle court extenseur radial du carpe droit<span id=infobulle><img src="" alt="img. muscle court extenseur radial du carpe D"/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-extR-doigts">Muscle extenseur des doigts droit<span id=infobulle><img src="" alt="img. muscle extenseur des doigts D"/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-extR-pt-doigt">Muscle extenseur du petit doigt droit<span id=infobulle><img src="" alt="img. muscle extenseur du petit doigt D"/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-extR-ulnaire-carpe">Muscle extenseur ulnaire du carpe droit<span id=infobulle><img src="" alt="img. muscle extenseur ulnaire du carpe D"/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-ancone">Muscle anconé droit<span id=infobulle><img src="" alt="img. muscle ancone D"/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-lg-abdR-pouce">Muscle long abducteur du pouce droit<span id=infobulle><img src="" alt="img. muscle long abducteur du pouce D"/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-crt-extR-pouce">Muscle court extenseur du pouce droit<span id=infobulle><img src="" alt="img. muscle court extenseur du pouce D"/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-extR-index">Muscle extenseur de l’index droit<span id=infobulle><img src="" alt="img. muscle extenseur de l’index D"/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-lg-extR-pouce">Muscle long extenseur du pouce droit<span id=infobulle><img src="" alt="img. muscle long extenseur du pouce D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-lg-extR-radial-carpe">Muscle long extenseur radial du carpe droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=H5vqqCWj4XfWH51ziqCeaiy4" alt="img. muscle long extenseur radial du carpe D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-crt-extR-radial-carpe">Muscle court extenseur radial du carpe droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=quuK1jfyuyWTvuKnWjfO5L1v" alt="img. muscle court extenseur radial du carpe D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-extR-doigts">Muscle extenseur des doigts droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=WrCCCyTL5vuW9nm89vT9vaGr" alt="img. muscle extenseur des doigts D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-extR-pt-doigt">Muscle extenseur du petit doigt droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DqiSDay09X1Heuq0LnHPvu8P" alt="img. muscle extenseur du petit doigt D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-extR-ulnaire-carpe">Muscle extenseur ulnaire du carpe droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=SvaiieTfGzqiDC0rCmf0HT99" alt="img. muscle extenseur ulnaire du carpe D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-ancone">Muscle anconé droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9599DenqmmG18Hram0Sr0va0" alt="img. muscle ancone D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-lg-abdR-pouce">Muscle long abducteur du pouce droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=THXn0TfmSjq0ySDqKnXrCK51" alt="img. muscle long abducteur du pouce D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-crt-extR-pouce">Muscle court extenseur du pouce droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jieWTf0PT5buSTTjmGrie8Xr" alt="img. muscle court extenseur du pouce D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-extR-index">Muscle extenseur de l’index droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=99D0b0SnOfWfOnmeeaO5z8rm" alt="img. muscle extenseur de l’index D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-lg-extR-pouce">Muscle long extenseur du pouce droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=fqyqyC05ziaOnaO11nDq85r8" alt="img. muscle long extenseur du pouce D"/></span></a></li>
 				</ul>
 
 </div>
@@ -3381,15 +3379,15 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-muscles-loge-med-main-plan-supL">Plan superficiel<span id=infobulle><img src="" alt="img. muscles loge mediale main D plan superficiel"/></span></a>
+				<li><a href="/desc/http://anat.org/R-muscles-loge-med-main-plan-supL">Plan superficiel<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KfaGbW49jSPbv8Xr05XbSLLT" alt="img. muscles loge mediale main D plan superficiel"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/R-mscl-crt-fleR-auriculaire">Muscle court fléchisseur du petit doigt droit<span id=infobulle><img src="" alt="img. muscle court flechisseur du petit doigt D"/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-abdR-auriculaire">Muscle abducteur du petit doigt droit<span id=infobulle><img src="" alt="img. muscle abducteur du petit doigt D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-fleR-auriculaire">Muscle court fléchisseur du petit doigt droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uSXf059TjGfmjKbmeS1HzWrG" alt="img. muscle court flechisseur du petit doigt D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-abdR-auriculaire">Muscle abducteur du petit doigt droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=PHbe4nvuiO1XDyeiq4KnGLve" alt="img. muscle abducteur du petit doigt D"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/R-muscles-loge-med-main-plan-pfd">Plan profond<span id=infobulle><img src="" alt="img. muscles loge mediale main D plan profond"/></span></a>
+				<li><a href="/desc/http://anat.org/R-muscles-loge-med-main-plan-pfd">Plan profond<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yeuiySCSHPzKiWHfyuaqa8Pf" alt="img. muscles loge mediale main D plan profond"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/R-mscl-opposant-auriculaire">Muscle opposant du petit doigt droit<span id=infobulle><img src="" alt="img. muscle opposant du petit doigt D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-opposant-auriculaire">Muscle opposant du petit doigt droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yeuiySCSHPzKiWHfyuaqa8Pf" alt="img. muscle opposant du petit doigt D"/></span></a></li>
 					</ul>
 				</li>
 				</ul>
@@ -3402,28 +3400,28 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-muscles-loge-lat-main-plan-supL">Plan superficiel<span id=infobulle><img src="" alt="img. muscles loge laterale main D plan superficiel"/></span></a>
+				<li><a href="/desc/http://anat.org/R-muscles-loge-lat-main-plan-supL">Plan superficiel<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=fSru0bu41T99i015riGPHzee" alt="img. muscles loge laterale main D plan superficiel"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/R-mscl-crt-abdR-pouce">Muscle court abducteur du pouce droit<span id=infobulle><img src="" alt="img. muscle court abducteur du pouce D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-abdR-pouce">Muscle court abducteur du pouce droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=fSru0bu41T99i015riGPHzee" alt="img. muscle court abducteur du pouce D"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/R-muscles-loge-lat-main-plan-moy">Plan moyen<span id=infobulle><img src="" alt="img. muscles loge laterale main D plan moyen"/></span></a>
+				<li><a href="/desc/http://anat.org/R-muscles-loge-lat-main-plan-moy">Plan moyen<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=aC0L9v0Pb4vi8HLXv45DmCCW" alt="img. muscles loge laterale main D plan moyen"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/R-mscl-crt-fleR-pouce">Muscle court fléchisseur du pouce droit<span id=infobulle><img src="" alt="img. muscle court flechisseur du pouce D"/></span></a>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-fleR-pouce">Muscle court fléchisseur du pouce droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=y85bySyayuy08Tz4bW8TDuWf" alt="img. muscle court flechisseur du pouce D"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-mscl-crt-fleR-pouce-fx-supL">Faisceau superficiel du muscle court fléchisseur du pouce droit<span id=infobulle><img src="" alt="img. muscle court flechisseur du pouce D fx superficiel"/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-crt-fleR-pouce-fx-pfd">Faisceau profond du muscle court fléchisseur du pouce droit<span id=infobulle><img src="" alt="img. muscle court flechisseur du pouce D fx profond"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-crt-fleR-pouce-fx-supL">Faisceau superficiel du muscle court fléchisseur du pouce droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uGHPDa1zC059mu0nqeKviGP1" alt="img. muscle court flechisseur du pouce D fx superficiel"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-crt-fleR-pouce-fx-pfd">Faisceau profond du muscle court fléchisseur du pouce droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ObaW95ObemW5TLDyWrmyCW51" alt="img. muscle court flechisseur du pouce D fx profond"/></span></a></li>
 						</ul>
 					</li>
-					<li><a href="/desc/http://anat.org/R-mscl-opposant-pouce">Muscle opposant du pouce droit<span id=infobulle><img src="" alt="img. muscle opposant du pouce D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-opposant-pouce">Muscle opposant du pouce droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=r89D0HWnye0P0n0T5j5HjCWn" alt="img. muscle opposant du pouce D"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/R-muscles-loge-lat-main-plan-pfd">Plan profond<span id=infobulle><img src="" alt="img. muscles loge laterale main D plan profond"/></span></a>
+				<li><a href="/desc/http://anat.org/R-muscles-loge-lat-main-plan-pfd">Plan profond<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=S1DSDSmmyC89eq0TnWimOzKv" alt="img. muscles loge laterale main D plan profond"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/R-mscl-addR-pouce">Muscle adducteur du pouce droit<span id=infobulle><img src="" alt="img. muscle adducteur du pouce D"/></span></a>
+					<li><a href="/desc/http://anat.org/R-mscl-addR-pouce">Muscle adducteur du pouce droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=S1DSDSmmyC89eq0TnWimOzKv" alt="img. muscle adducteur du pouce D"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-mscl-addR-pouce-fx-oblique">Faisceau oblique du muscle adducteur du pouce droit<span id=infobulle><img src="" alt="img. muscle adducteur du pouce D fx oblique"/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-addR-pouce-fx-trsv">Faisceau transverse du muscle adducteur du pouce droit<span id=infobulle><img src="" alt="img. muscle adducteur du pouce D fx transverse"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-addR-pouce-fx-oblique">Faisceau oblique du muscle adducteur du pouce droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=maOfSnDeSDiuy459DuyCKzKT" alt="img. muscle adducteur du pouce D fx oblique"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-addR-pouce-fx-trsv">Faisceau transverse du muscle adducteur du pouce droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=z0bKvmm0HLT9PfeWT9LzaK1L" alt="img. muscle adducteur du pouce D fx transverse"/></span></a></li>
 						</ul>
 					</li>
 					</ul>
@@ -3438,34 +3436,34 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-muscles-loge-moy-main-plan-supL">Plan superficiel<span id=infobulle><img src="" alt="img. muscles loge moyenne main D plan superficiel"/></span></a>
+				<li><a href="/desc/http://anat.org/R-muscles-loge-moy-main-plan-supL">Plan superficiel<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TzKfeOnaaCimTXL91Du0jemq" alt="img. muscles loge moyenne main D plan superficiel"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/R-muscles-lombricaux-main">Muscles lombricaux de la main droite<span id=infobulle><img src="" alt="img. muscles lombricaux de la main D"/></span></a>
+					<li><a href="/desc/http://anat.org/R-muscles-lombricaux-main">Muscles lombricaux de la main droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TzKfeOnaaCimTXL91Du0jemq" alt="img. muscles lombricaux de la main D"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-mscl-lombrical-du-II-main">Premier muscle lombrical de la main droite<span id=infobulle><img src="" alt="img. 1er muscle lombrical de la main D"/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-lombrical-du-III-main">Deuxième muscle lombrical de la main droite<span id=infobulle><img src="" alt="img. 2e muscle lombrical de la main D"/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-lombrical-du-IV-main">Troisième muscle lombrical de la main droite<span id=infobulle><img src="" alt="img. 3e muscle lombrical de la main D"/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-lombrical-du-V-main">Quatrième muscle lombrical de la main droite<span id=infobulle><img src="" alt="img. 4e muscle lombrical de la main D"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-lombrical-du-II-main">Premier muscle lombrical de la main droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=em0fW5SnmqeuP5TXn4Hv01DG" alt="img. 1er muscle lombrical de la main D"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-lombrical-du-III-main">Deuxième muscle lombrical de la main droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4TfG1f8v8vi8ymGf09eKfCay" alt="img. 2e muscle lombrical de la main D"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-lombrical-du-IV-main">Troisième muscle lombrical de la main droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qGr4TzamyO1jT951reySbuae" alt="img. 3e muscle lombrical de la main D"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-lombrical-du-V-main">Quatrième muscle lombrical de la main droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XPbyKD9Dyy05ieW9P90TbqWX" alt="img. 4e muscle lombrical de la main D"/></span></a></li>
 						</ul>
 					</li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/R-muscles-loge-moy-main-plan-pfd">Plan profond<span id=infobulle><img src="" alt="img. muscles loge moyenne main D plan profond"/></span></a>
+				<li><a href="/desc/http://anat.org/R-muscles-loge-moy-main-plan-pfd">Plan profond<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Dm49H5PT5fWzay0v8bf0rWnG" alt="img. muscles loge moyenne main D plan profond"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/R-muscles-interosseux-dorsaux-main">Muscles interosseux dorsaux de la main droite<span id=infobulle><img src="" alt="img. m interosseux dorsaux de la main D"/></span></a>
+					<li><a href="/desc/http://anat.org/R-muscles-interosseux-dorsaux-main">Muscles interosseux dorsaux de la main droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=T99TDm9z0P11uieieu8vWnuS" alt="img. m interosseux dorsaux de la main D"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-mscl-interosseux-dorsal-main-1">Premier muscle interosseux dorsal de la main droite<span id=infobulle><img src="" alt="img. 1er muscle interosseux dorsal de la main D"/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-interosseux-dorsal-main-2">Deuxième muscle interosseux dorsal de la main droite<span id=infobulle><img src="" alt="img. 2e muscle interosseux dorsal de la main D"/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-interosseux-dorsal-main-3">Troisième muscle interosseux dorsal de la main droite<span id=infobulle><img src="" alt="img. 3e muscle interosseux dorsal de la main D"/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-interosseux-dorsal-main-4">Quatrième muscle interosseux dorsal de la main droite<span id=infobulle><img src="" alt="img. 4e muscle interosseux dorsal de la main D"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-interosseux-dorsal-main-1">Premier muscle interosseux dorsal de la main droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=WvyaWzG5z81Lz0Pna8SX9PHL" alt="img. 1er muscle interosseux dorsal de la main D"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-interosseux-dorsal-main-2">Deuxième muscle interosseux dorsal de la main droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=i0vi0XuqaO1DrWji8HW1b0re" alt="img. 2e muscle interosseux dorsal de la main D"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-interosseux-dorsal-main-3">Troisième muscle interosseux dorsal de la main droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1HLLjGW1XXXfva0TbmGzCSXH" alt="img. 3e muscle interosseux dorsal de la main D"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-interosseux-dorsal-main-4">Quatrième muscle interosseux dorsal de la main droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=a45rCiPT15LXueObaqDeGrGr" alt="img. 4e muscle interosseux dorsal de la main D"/></span></a></li>
 						</ul>
 					</li>
-					<li><a href="/desc/http://anat.org/R-muscles-interosseux-palmaire-main">Muscles interosseux palmaires de la main droite<span id=infobulle><img src="" alt="img. muscles interosseux palmaires de la main D"/></span></a>
+					<li><a href="/desc/http://anat.org/R-muscles-interosseux-palmaire-main">Muscles interosseux palmaires de la main droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=X9n85D8TP1jO9z0r0zyeCqqW" alt="img. muscles interosseux palmaires de la main D"/></span></a>
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/R-mscl-interosseux-palmaire-main-1">Premier muscle interosseux palmaire de la main droite<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-interosseux-palmaire-main-2">Deuxième muscle interosseux palmaire de la main droite<span id=infobulle><img src="" alt="img. 2e muscle interosseux palmaire de la main D"/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-interosseux-palmaire-main-3">Troisième muscle interosseux palmaire de la main droite<span id=infobulle><img src="" alt="img. 3e muscle interosseux palmaire de la main D"/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-interosseux-palmaire-main-4">Quatrième muscle interosseux palmaire de la main droite<span id=infobulle><img src="" alt="img. 4e muscle interosseux palmaire de la main D"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-interosseux-palmaire-main-2">Deuxième muscle interosseux palmaire de la main droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=SrW5Tr9jaOTb8v4r8LjWfyqm" alt="img. 2e muscle interosseux palmaire de la main D"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-interosseux-palmaire-main-3">Troisième muscle interosseux palmaire de la main droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=muWTX1KnWXvGbSbKja0zeaOj" alt="img. 3e muscle interosseux palmaire de la main D"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-interosseux-palmaire-main-4">Quatrième muscle interosseux palmaire de la main droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=S1P9fu0vmyqqTnaWHPvOH99n" alt="img. 4e muscle interosseux palmaire de la main D"/></span></a></li>
 						</ul>
 					</li>
 					</ul>
@@ -3480,9 +3478,9 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-mscl-lg-abdR-pouce">Muscle long abducteur du pouce droit<span id=infobulle><img src="" alt="img. muscle long abducteur du pouce D"/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-crt-extR-pouce">Muscle court extenseur du pouce droit<span id=infobulle><img src="" alt="img. muscle court extenseur du pouce D"/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-lg-extR-pouce">Muscle long extenseur du pouce droit<span id=infobulle><img src="" alt="img. muscle long extenseur du pouce D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-lg-abdR-pouce">Muscle long abducteur du pouce droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=THXn0TfmSjq0ySDqKnXrCK51" alt="img. muscle long abducteur du pouce D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-crt-extR-pouce">Muscle court extenseur du pouce droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jieWTf0PT5buSTTjmGrie8Xr" alt="img. muscle court extenseur du pouce D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-lg-extR-pouce">Muscle long extenseur du pouce droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=fqyqyC05ziaOnaO11nDq85r8" alt="img. muscle long extenseur du pouce D"/></span></a></li>
 				</ul>
 
 </div>
@@ -3506,16 +3504,16 @@ td {
 <div class="content">
 
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/L-mscl-supraepineux">Muscle supraépineux gauche<span id=infobulle><img src="" alt="img. muscle supraepineux G"/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-infraepineux">Muscle infraépineux gauche<span id=infobulle><img src="" alt="img. muscle infraepineux G"/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-pt-rond">Muscle petit rond gauche<span id=infobulle><img src="" alt="img. muscle petit rond G"/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-gd-rond">Muscle grand rond gauche<span id=infobulle><img src="" alt="img. muscle grand rond G"/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-subscapulaire">Muscle subscapulaire gauche<span id=infobulle><img src="" alt="img. muscle subscapulaire G"/></span></a></li>
-			<li><a href="/desc/http://anat.org/L-mscl-deltoide">Muscle deltoïde gauche<span id=infobulle><img src="" alt="img. muscle deltoide G"/></span></a>
+			<li><a href="/desc/http://anat.org/L-mscl-supraepineux">Muscle supraépineux gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=neuWr0LzCCKXfue4XnOryCuK" alt="img. muscle supraepineux G"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-infraepineux">Muscle infraépineux gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=GXHHz8ySbCqW8TnS1LHXPbGD" alt="img. muscle infraepineux G"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-pt-rond">Muscle petit rond gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=aCmCGTqWXnmW4z4P1rTP1bS5" alt="img. muscle petit rond G"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-gd-rond">Muscle grand rond gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=vCC0fuDyae81Pf81vi5beu4n" alt="img. muscle grand rond G"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-subscapulaire">Muscle subscapulaire gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rCW95PfmKLriHDm4TjyKr8Pb" alt="img. muscle subscapulaire G"/></span></a></li>
+			<li><a href="/desc/http://anat.org/L-mscl-deltoide">Muscle deltoïde gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=fKb4rWD4LXXjz05f8LyWTvuO" alt="img. muscle deltoide G"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/L-mscl-deltoide-fx-ant">Faisceau antérieur du muscle deltoïde gauche<span id=infobulle><img src="" alt="img. muscle deltoide G fx ant"/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-deltoide-fx-moy">Faisceau moyen du muscle deltoïde gauche<span id=infobulle><img src="" alt="img. muscle deltoide G fx moy"/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-deltoide-fx-post">Faisceau postérieur du muscle deltoïde gauche<span id=infobulle><img src="" alt="img. muscle deltoide G fx post"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-deltoide-fx-ant">Faisceau antérieur du muscle deltoïde gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uCO9rWeq4feeTfquOLiKfuO1" alt="img. muscle deltoide G fx ant"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-deltoide-fx-moy">Faisceau moyen du muscle deltoïde gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Da85X5bGHjWvLzuCaGbuy0Pj" alt="img. muscle deltoide G fx moy"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-deltoide-fx-post">Faisceau postérieur du muscle deltoïde gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eauCm8bKHX5v4jWvOzqW9jSb" alt="img. muscle deltoide G fx post"/></span></a></li>
 				</ul>
 			</li>
 			</ul>
@@ -3530,14 +3528,14 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/L-mscl-biceps-brachial">Muscle biceps brachial gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-mscl-biceps-brachial">Muscle biceps brachial gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TrSLvKC0va4briemW98LTzi8" alt="img. muscle biceps brachial G"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/L-mscl-biceps-brachial-chef-crt">Chef courf du muscle biceps brachial gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-biceps-brachial-chef-lg">Chef long du muscle biceps brachial gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-biceps-brachial-chef-crt">Chef court du muscle biceps brachial gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jiGXPzSnOXPb9Hzq4jLHniKX" alt="img. muscle biceps brachial G chef court"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-biceps-brachial-chef-lg">Chef long du muscle biceps brachial gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qGn0LHbWXzODneS9j44fCK1L" alt="img. muscle biceps brachial G chef long"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-mscl-coraco-brachial">Muscle coraco-brachial gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-brachial">Muscle brachial gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-coraco-brachial">Muscle coraco-brachial gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=fO55bKbOfmGvXXLvyaXbWTTn" alt="img. muscle coraco-brachial G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-brachial">Muscle brachial gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=SPvemyzmaqGLeiW5f4LnOnKP" alt="img. muscle brachial G"/></span></a></li>
 				</ul>
 
 </div>
@@ -3548,11 +3546,11 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/L-mscl-triceps-brachial">Muscle triceps brachial gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-mscl-triceps-brachial">Muscle triceps brachial gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XLr09TO1fuGj0LT1b0C4ry05" alt="img. muscle triceps brachial G"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/L-mscl-triceps-brachial-chef-lg">Chef long du muscle triceps brachial gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-triceps-brachial-chef-med">Chef médial du muscle triceps brachial gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-triceps-brachial-chef-lat">Chef latéral du muscle triceps brachial gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-triceps-brachial-chef-lg">Chef long du muscle triceps brachial gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=am0XX1zeauSrOvqOTXbyOPbC" alt="img. muscle triceps brachial G chef long"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-triceps-brachial-chef-med">Chef médial du muscle triceps brachial gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=WPnWniOHbG5vmyiOriLLfWDW" alt="img. muscle triceps brachial G chef medial"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-triceps-brachial-chef-lat">Chef latéral du muscle triceps brachial gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XTPTPTvy8TjSyOTnyeeaqeye" alt="img. muscle triceps brachial G chef lateral"/></span></a></li>
 					</ul>
 				</li>
 				</ul>
@@ -3570,36 +3568,36 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/L-mscl-brachio-radial">Muscle brachio-radial gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-rond-pronateur">Muscle rond pronateur gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-mscl-brachio-radial">Muscle brachio-radial gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=59XX95OvOfu4CmKnCu8X9nCO" alt="img. muscle brachio-radial G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-rond-pronateur">Muscle rond pronateur gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5DyeqqLbOje0WPX95f0baGLD" alt="img. muscle rond pronateur G"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/L-mscl-rond-pronateur-chef-humeral">Chef huméral du muscle rond pronateur gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-rond-pronateur-chef-ulnaire">Chef ulnaire du muscle rond pronateur gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-rond-pronateur-chef-humeral">Chef huméral du muscle rond pronateur gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=HvmWn8qCSP91a4biWnjGzy0j" alt="img. muscle rond pronateur G chef humeral"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-rond-pronateur-chef-ulnaire">Chef ulnaire du muscle rond pronateur gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8X9nyGD8TPzCGTXDuyKfa4nS" alt="img. muscle rond pronateur G chef ulnaire"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-mscl-fleR-radial-carpe">Muscle fléchisseur radial du carpe gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-lg-palmaire">Muscle long palmaire gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-fleR-ulnaire-carpe">Muscle fléchisseur ulnaire du carpe gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-mscl-fleR-radial-carpe">Muscle fléchisseur radial du carpe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rWH1TP9Pv4LLf0nui8jWPDCG" alt="img. muscle flechisseur radial du carpe G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-lg-palmaire">Muscle long palmaire gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Kv4XLD5DequS91fOnWbm4LzC" alt="img. muscle long palmaire G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-fleR-ulnaire-carpe">Muscle fléchisseur ulnaire du carpe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=z0L1bO8vi49r551fKXLP1X1D" alt="img. muscle flechisseur ulnaire du carpe G"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/L-mscl-fleR-ulnaire-carpe-chef-humeral">Chef huméral du muscle fléchisseur ulnaire du carpe gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-fleR-ulnaire-carpe-chef-ulnaire">Chef ulnaire du muscle fléchisseur ulnaire du carpe gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-fleR-ulnaire-carpe-chef-humeral">Chef huméral du muscle fléchisseur ulnaire du carpe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eWfuq805X9jGfW1zmyXj4z4P" alt="img. muscle flechisseur ulnaire du carpe G chef humeral"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-fleR-ulnaire-carpe-chef-ulnaire">Chef ulnaire du muscle fléchisseur ulnaire du carpe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=T9nCyK1n0zaO41LnqGT59HHb" alt="img. muscle flechisseur ulnaire du carpe G chef ulnaire"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-mscl-fleR-pfd-doigts">Muscle fléchisseur profond des doigts gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-fleR-supL-doigts">Muscle fléchisseur superficiel des doigts gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-mscl-fleR-pfd-doigts">Muscle fléchisseur profond des doigts gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8nGLD8DSj4DGTXD0XbOvKr0j" alt="img. muscle flechisseur profond des doigts G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-fleR-supL-doigts">Muscle fléchisseur superficiel des doigts gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=u8vG1v9X5jWrWXT9DSzyuy0H" alt="img. muscle flechisseur superficiel des doigts G"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/L-mscl-fleR-supL-doigts-chef-humero-ulnaire">Chef huméro-ulnaire du muscle fléchisseur superficiel des doigts gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-fleR-supL-doigts-chef-radial">Chef radial du muscle fléchisseur superficiel des doigts gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-fleR-supL-doigts-chef-humero-ulnaire">Chef huméro-ulnaire du muscle fléchisseur superficiel des doigts gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=i4fue8yu89H59XnemC5LzyS9" alt="img. muscle flechisseur superficiel des doigts G chef humero-ulnaire"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-fleR-supL-doigts-chef-radial">Chef radial du muscle fléchisseur superficiel des doigts gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LDyu05n0nKvu5X9fey0fuuOX" alt="img. muscle flechisseur superficiel des doigts G chef radial"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-mscl-lg-fleR-pouce">Muscle long fléchisseur du pouce gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-supinateur">Muscle supinateur gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-mscl-lg-fleR-pouce">Muscle long fléchisseur du pouce gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=i0LHfyPTnWvSWjGTDa1j0Hv4" alt="img. muscle long flechisseur du pouce G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-supinateur">Muscle supinateur gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=H9TL9X55Hb0zrOvWvO1jOTn0" alt="img. muscle supinateur G"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/L-mscl-supinateur-fx-supL">Faisceau superficiel du muscle supinateur gauche<span id=infobulle><img src="" alt="img. https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528"/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-supinateur-fx-pfd">Faisceau profond du muscle supinateur gauche<span id=infobulle><img src="" alt="img. https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-supinateur-fx-supL">Faisceau superficiel du muscle supinateur gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-supinateur-fx-pfd">Faisceau profond du muscle supinateur gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-mscl-carre-pronateur">Muscle carré pronateur gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-carre-pronateur">Muscle carré pronateur gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=vuCuKXryyCSTO5jWTHG1zWve" alt="img. muscle carre pronateur G"/></span></a></li>
 				</ul>
 
 </div>
@@ -3610,16 +3608,16 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/L-mscl-lg-extR-radial-carpe">Muscle long extenseur radial du carpe gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-crt-extR-radial-carpe">Muscle court extenseur radial du carpe gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-extR-doigts">Muscle extenseur des doigts gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-extR-pt-doigt">Muscle extenseur du petit doigt gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-extR-ulnaire-carpe">Muscle extenseur ulnaire du carpe gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-ancone">Muscle anconé gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-lg-abdR-pouce">Muscle long abducteur du pouce gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-crt-extR-pouce">Muscle court extenseur du pouce gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-extR-index">Muscle extenseur de l’index gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-lg-extR-pouce">Muscle long extenseur du pouce gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-lg-extR-radial-carpe">Muscle long extenseur radial du carpe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ue8ryiGfOPj0i8n4v8WjeCuC" alt="img. muscle long extenseur radial du carpe G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-crt-extR-radial-carpe">Muscle court extenseur radial du carpe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ramWb4Du0TvKz0f4veOT1jSL" alt="img. muscle court extenseur radial du carpe G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-extR-doigts">Muscle extenseur des doigts gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nGzWv0iKLjC8yaqOnmPfO1j8" alt="img. muscle extenseur des doigts G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-extR-pt-doigt">Muscle extenseur du petit doigt gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CayC0fuiySryrGbuSze0PXTb" alt="img. muscle extenseur du petit doigt G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-extR-ulnaire-carpe">Muscle extenseur ulnaire du carpe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Sf0rqOKDSD4DPLnSn8q4nSPP" alt="img. muscle extenseur ulnaire du carpe G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-ancone">Muscle anconé gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9nSjG1TDGnuez8zGjSr4TPXn" alt="img. muscle ancone G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-lg-abdR-pouce">Muscle long abducteur du pouce gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Tz0fiW1Tv0zeqq81jCiy0HP9" alt="img. muscle long abducteur du pouce G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-crt-extR-pouce">Muscle court extenseur du pouce gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=W9HrOXjK9n89X5jyWfze0Pr0" alt="img. muscle court extenseur du pouce G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-extR-index">Muscle extenseur de l’index gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Wz8v0jn4P559WrmiyWyea49f" alt="img. muscle extenseur de l’index G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-lg-extR-pouce">Muscle long extenseur du pouce gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1j0X1HzWneqqfeGLriGnCyCu" alt="img. muscle long extenseur du pouce G"/></span></a></li>
 				</ul>
 
 </div>
@@ -3635,15 +3633,15 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/L-muscles-loge-med-main-plan-supL">Plan superficiel<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-muscles-loge-med-main-plan-supL">Plan superficiel<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qmyemOSbWT5bCy4Lny1bG9ju" alt="img. muscle de la loge mediale de la main G plan superficiel"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/L-mscl-crt-fleR-auriculaire">Muscle court fléchisseur du petit doigt gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-abdR-auriculaire">Muscle abducteur du petit doigt gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-fleR-auriculaire">Muscle court fléchisseur du petit doigt gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nKfyO9LXPHnyTbm0HXz4fSPH" alt="img. muscle court flechisseur du petit doigt G"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-abdR-auriculaire">Muscle abducteur du petit doigt gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=T19jiuzmWr0n4Dq4PvSnWj8f" alt="img. muscle abducteur du petit doigt G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-muscles-loge-med-main-plan-pfd">Plan profond<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-muscles-loge-med-main-plan-pfd">Plan profond<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=a4n4TT5vObS9qaKDWHXn4fOj" alt="img. muscle de la loge mediale de la main G plan profond"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/L-mscl-opposant-auriculaire">Muscle opposant du petit doigt gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-opposant-auriculaire">Muscle opposant du petit doigt gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=a4n4TT5vObS9qaKDWHXn4fOj" alt="img. muscle opposant du petit doigt G"/></span></a></li>
 					</ul>
 				</li>
 				</ul>
@@ -3656,28 +3654,28 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/L-muscles-loge-lat-main-plan-supL">Plan superficiel<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-muscles-loge-lat-main-plan-supL">Plan superficiel<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Tv4za0by8TL5LXn0Lbj4Tzqu" alt="img. muscle de la loge laterale de la main G plan superficiel"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/L-mscl-crt-abdR-pouce">Muscle court abducteur du pouce gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-abdR-pouce">Muscle court abducteur du pouce gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Tv4za0by8TL5LXn0Lbj4Tzqu" alt="img. muscle court abducteur du pouce G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-muscles-loge-lat-main-plan-moy">Plan moyen<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-muscles-loge-lat-main-plan-moy">Plan moyen<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=O5Xrmu1X95vmjC8DSfnSneme" alt="img. muscle de la loge laterale de la main G plan moyen"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/L-mscl-crt-fleR-pouce">Muscle court fléchisseur du pouce gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-fleR-pouce">Muscle court fléchisseur du pouce gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=WzaW9rHf4X5HXfWL5DWvWv0z" alt="img. muscle court flechisseur du pouce G"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/L-mscl-crt-fleR-pouce-fx-supL">Faisceau superficiel du muscle court fléchisseur du pouce gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-crt-fleR-pouce-fx-pfd">Faisceau profond du muscle court fléchisseur du pouce gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-crt-fleR-pouce-fx-supL">Faisceau superficiel du muscle court fléchisseur du pouce gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=HPzGDmjm4PryLz4Xr0SDW1H1" alt="img. muscle court flechisseur du pouce G fx superficiel"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-crt-fleR-pouce-fx-pfd">Faisceau profond du muscle court fléchisseur du pouce gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=u0fWfuHbObCeKPTnuyue8LD8" alt="img. muscle court flechisseur du pouce G fx profond"/></span></a></li>
 						</ul>
 					</li>
-					<li><a href="/desc/http://anat.org/L-mscl-opposant-pouce">Muscle opposant du pouce gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-opposant-pouce">Muscle opposant du pouce gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=fuWvCm85riKz1n8fSf4bSLHX" alt="img. muscle opposant du pouce G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-muscles-loge-lat-main-plan-pfd">Plan profond<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-muscles-loge-lat-main-plan-pfd">Plan profond<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=j0LrqKyaWb4rObOzqiH9Trma" alt="img. muscle de la loge laterale de la main G plan profond"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/L-mscl-addR-pouce">Muscle adducteur du pouce gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+					<li><a href="/desc/http://anat.org/L-mscl-addR-pouce">Muscle adducteur du pouce gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=j0LrqKyaWb4rObOzqiH9Trma" alt="img. muscle adducteur du pouce G"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/L-mscl-addR-pouce-fx-oblique">Faisceau oblique du muscle adducteur du pouce gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-addR-pouce-fx-trsv">Faisceau transverse du muscle adducteur du pouce gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-addR-pouce-fx-oblique">Faisceau oblique du muscle adducteur du pouce gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=T11TT5va0LTTvSr4jW0raWj4" alt="img. muscle adducteur du pouce G fx oblique"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-addR-pouce-fx-trsv">Faisceau transverse du muscle adducteur du pouce gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=niGrqaySDGvyCm4fG9z8LXXf" alt="img. muscle adducteur du pouce G fx transverse"/></span></a></li>
 						</ul>
 					</li>
 					</ul>
@@ -3692,34 +3690,34 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/L-muscles-loge-moy-main-plan-supL">Plan superficiel<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-muscles-loge-moy-main-plan-supL">Plan superficiel<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eWH95vKni4baKn8bqmquqSjK" alt="img. muscle de la loge moyenne de la main G plan superficiel"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/L-muscles-lombricaux-main">Muscles lombricaux de la main gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+					<li><a href="/desc/http://anat.org/L-muscles-lombricaux-main">Muscles lombricaux de la main gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eWH95vKni4baKn8bqmquqSjK" alt="img. muscles lombricaux de la main G"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/L-mscl-lombrical-du-II-main">Premier muscle lombrical de la main gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-lombrical-du-III-main">Deuxième muscle lombrical de la main gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-lombrical-du-IV-main">Troisième muscle lombrical de la main gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-lombrical-du-V-main">Quatrième muscle lombrical de la main gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-lombrical-du-II-main">Premier muscle lombrical de la main gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yeGnuWj8vSTHziy8zWi4DuOL" alt="img. 1er muscle lombrical de la main G"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-lombrical-du-III-main">Deuxième muscle lombrical de la main gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uS1TXDqu05be55XDSjLbiam0" alt="img. 2e muscle lombrical de la main G"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-lombrical-du-IV-main">Troisième muscle lombrical de la main gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=e0jOfaOP99zue8vu8L0nyqST" alt="img. 3e muscle lombrical de la main G"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-lombrical-du-V-main">Quatrième muscle lombrical de la main gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=0LDe81ae01TPzKPnqaOH15L9" alt="img. 4e muscle lombrical de la main G"/></span></a></li>
 						</ul>
 					</li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-muscles-loge-moy-main-plan-pfd">Plan profond<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-muscles-loge-moy-main-plan-pfd">Plan profond<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rG5H5XiaimS9mCiiSXbG1bWL" alt="img. muscle de la loge moyenne de la main G plan profond"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/L-muscles-interosseux-dorsaux-main">Muscles interosseux dorsaux de la main gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+					<li><a href="/desc/http://anat.org/L-muscles-interosseux-dorsaux-main">Muscles interosseux dorsaux de la main gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TnO1PbGn4DyW4rmm0fLfKP51" alt="img. muscles interosseux dorsaux de la main G"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/L-mscl-interosseux-dorsal-main-1">Premier muscle interosseux dorsal de la main gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-interosseux-dorsal-main-2">Deuxième muscle interosseux dorsal de la main gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-interosseux-dorsal-main-3">Troisième muscle interosseux dorsal de la main gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-interosseux-dorsal-main-4">Quatrième muscle interosseux dorsal de la main gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-interosseux-dorsal-main-1">Premier muscle interosseux dorsal de la main gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=aiSTby5Tz0HfCWDuSvb0zWLP" alt="img. 1er muscle interosseux dorsal de la main G"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-interosseux-dorsal-main-2">Deuxième muscle interosseux dorsal de la main gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uiOb0X45Dy8Dmm01XnXLbWD4" alt="img. 2e muscle interosseux dorsal de la main G"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-interosseux-dorsal-main-3">Troisième muscle interosseux dorsal de la main gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=f0T91jLTnSL5eSrqyeLfmuue" alt="img. 3e muscle interosseux dorsal de la main G"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-interosseux-dorsal-main-4">Quatrième muscle interosseux dorsal de la main gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=SvmmuqnyODaOvG95by5bSfqi" alt="img. 4e muscle interosseux dorsal de la main G"/></span></a></li>
 						</ul>
 					</li>
-					<li><a href="/desc/http://anat.org/L-muscles-interosseux-palmaire-main">Muscles interosseux palmaires de la main gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+					<li><a href="/desc/http://anat.org/L-muscles-interosseux-palmaire-main">Muscles interosseux palmaires de la main gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9rSLnCbO1XjW8DSbuiPzmui8" alt="img. muscles interosseux palmaires de la main G"/></span></a>
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/L-mscl-interosseux-palmaire-main-1">Premier muscle interosseux palmaire de la main gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-interosseux-palmaire-main-2">Deuxième muscle interosseux palmaire de la main gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-interosseux-palmaire-main-3">Troisième muscle interosseux palmaire de la main gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-interosseux-palmaire-main-4">Quatrième muscle interosseux palmaire de la main gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-interosseux-palmaire-main-2">Deuxième muscle interosseux palmaire de la main gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=45nmOXyG1jaSzmiObKTXbSHr" alt="img. 2e muscle interosseux palmaire de la main G"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-interosseux-palmaire-main-3">Troisième muscle interosseux palmaire de la main gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=y851PDjeeCG91v89fiP1LLXn" alt="img. 3e muscle interosseux palmaire de la main G"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-interosseux-palmaire-main-4">Quatrième muscle interosseux palmaire de la main gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yymmOXnWL91nf01HrajSPry8" alt="img. 4e muscle interosseux palmaire de la main G"/></span></a></li>
 						</ul>
 					</li>
 					</ul>
@@ -3734,9 +3732,9 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/L-mscl-lg-abdR-pouce">Muscle long abducteur du pouce gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-crt-extR-pouce">Muscle court extenseur du pouce gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-lg-extR-pouce">Muscle long extenseur du pouce gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-lg-abdR-pouce">Muscle long abducteur du pouce gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Tz0fiW1Tv0zeqq81jCiy0HP9" alt="img. muscle long abducteur du pouce G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-crt-extR-pouce">Muscle court extenseur du pouce gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=W9HrOXjK9n89X5jyWfze0Pr0" alt="img. muscle court extenseur du pouce G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-lg-extR-pouce">Muscle long extenseur du pouce gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1j0X1HzWneqqfeGLriGnCyCu" alt="img. muscle long extenseur du pouce G"/></span></a></li>
 				</ul>
 
 </div>
@@ -3767,35 +3765,35 @@ td {
 <div class="content">
 
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/muscles-iliopsoas">Muscles ilio-psoas<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-iliopsoas">Muscles ilio-psoas<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KD81TTieWrOHXjqa8Hq0D8je" alt="img. muscles ilio-psoas"/></span></a>
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-muscle-iliopsoas">Muscle ilio-psoas droit<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/R-muscle-iliopsoas">Muscle ilio-psoas droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1Lve4rDK1nSTqWPX1bymCiqC" alt="img. muscle ilio-psoas D"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/R-mscl-iliaque">Muscle iliaque droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-gd-psoas">Muscle grand psoas droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-iliaque">Muscle iliaque droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=P9fquOGb4zqKDeK1PPXruG1X" alt="img. muscle iliaque D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-gd-psoas">Muscle grand psoas droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=r49vyOWf419znSb0TDv0biem" alt="img. muscle grand psoas D"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-muscle-iliopsoas">Muscle ilio-psoas gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-muscle-iliopsoas">Muscle ilio-psoas gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LTbKDGC8byiWnuyWP1PDuemG" alt="img. muscle ilio-psoas G"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/L-mscl-iliaque">Muscle iliaque gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-gd-psoas">Muscle grand psoas gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-iliaque">Muscle iliaque gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rSby4rjS19vqjyKbGDryWveu" alt="img. muscle iliaque G"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-gd-psoas">Muscle grand psoas gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yCOHfqPXDGn4Tfu4nWTz85rK" alt="img. muscle grand psoas G"/></span></a></li>
 					</ul>
 				</li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/muscles-pt-psoas">Muscles petits psoas<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-pt-psoas">Muscles petits psoas<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-mscl-pt-psoas">Muscle petit psoas droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-pt-psoas">Muscle petit psoas gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-pt-psoas">Muscle petit psoas droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-pt-psoas">Muscle petit psoas gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/muscles-piriforme">Muscles piriformes (anc. pyramidal du bassin)<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-piriforme">Muscles piriformes (anc. pyramidal du bassin)<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=iy4LryiOT9nmru8Tvyui4vmu" alt="img. muscles piriformes"/></span></a>
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-mscl-piriforme">Muscle piriforme (anc. pyramidal du bassin) droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-piriforme">Muscle piriforme (anc. pyramidal du bassin) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-piriforme">Muscle piriforme (anc. pyramidal du bassin) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=y8fO919zmGzKya019P8rKDG9" alt="img. muscle piriforme D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-piriforme">Muscle piriforme (anc. pyramidal du bassin) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=fy8b8njiOPv041H9TrD8vyW9" alt="img. muscle piriforme G"/></span></a></li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/muscles-obturateur">Muscles obturateurs<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-obturateur">Muscles obturateurs<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rGjS11u89j8Tz89rGzLLzGrK" alt="img. muscles obturateurs"/></span></a>
 				<ul style="list-style-type:disc">
 				<li><a href="/desc/http://anat.org/muscles-obturateur-int">Muscles obturateurs internes<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4vOHvK5LXb8b9jaiG1Pr4z4T" alt="img. muscles obturateurs internes"/></span></a></li>
 					<ul style="list-style-type:circle">
@@ -3811,26 +3809,26 @@ td {
 				</li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/muscles-jumeau">Muscles jumeaux<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-jumeau">Muscles jumeaux<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5X9vm44be4XPPzOnKnPPzGTL" alt="img. muscles jumeaux"/></span></a>
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/muscles-jumeau-sup">Muscles jumeaux supérieurs<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/muscles-jumeau-sup">Muscles jumeaux supérieurs<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Gjy8Lrb0XfO5iqm4nKDSzCSj" alt="img. muscles jumeaux superieurs"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/R-mscl-jumeau-sup">Muscle jumeau supérieur droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-jumeau-sup">Muscle jumeau supérieur gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-jumeau-sup">Muscle jumeau supérieur droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=q4v4r0zmuWnGqmOLbmzCSb0z" alt="img. muscle jumeau superieur D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-jumeau-sup">Muscle jumeau supérieur gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KPXXfKfeCq4HWjeaSH5vu45L" alt="img. muscle jumeau superieur G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/muscles-jumeau-inf">Muscles jumeaux inférieurs<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/muscles-jumeau-inf">Muscles jumeaux inférieurs<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1DuGr4Sf8Pv4j4HzyqfCWjOD" alt="img. muscles jumeaux inferieurs"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/R-mscl-jumeau-inf">Muscle jumeau inférieur droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-jumeau-inf">Muscle jumeau inférieur gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-jumeau-inf">Muscle jumeau inférieur droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ySfeGv0fCq4P0PTT5niaiWnW" alt="img. muscle jumeau inferieur D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-jumeau-inf">Muscle jumeau inférieur gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nmiCy04z0XbS9nKzG1WLTTfC" alt="img. muscle jumeau inferieur G"/></span></a></li>
 					</ul>
 				</li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/muscles-carre-femoral">Muscles carrés fémoraux<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-carre-femoral">Muscles carrés fémoraux<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=umeSXrfGXve4DieiSrnKLn8n" alt="img. muscles carres femoraux"/></span></a>
 				<ul style="list-style-type:circle">
-				<li><a href="/desc/http://anat.org/R-mscl-carre-femoral">Muscle carré fémoral droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-carre-femoral">Muscle carré fémoral gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-carre-femoral">Muscle carré fémoral droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8LH9f0TjSb4bqu0D0bD4Pjmu" alt="img. muscle carre femoral D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-carre-femoral">Muscle carré fémoral gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=PryKHDPfqiS19LfiSvG1PfK1" alt="img. muscle carre femoral G"/></span></a></li>
 				</ul>
 			</li>
 			</ul>
@@ -3844,42 +3842,42 @@ td {
 <div class="content">
 
 			<ul style="list-style-type:disc">
-			<li><a href="/desc/http://anat.org/muscles-fessier">Muscles fessiers<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-fessier">Muscles fessiers<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5zaa8TjqiOHXKzuG5bDK5f85" alt="img. muscles fessiers"/></span></a>
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/muscles-pt-fessier">Muscles petits fessiers<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/muscles-pt-fessier">Muscles petits fessiers<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qemKDuXvOTTHnWfG5rb05ny4" alt="img. muscles petits fessiers"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/R-mscl-pt-fessier">Muscle petit fessier droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-pt-fessier">Muscle petit fessier gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-pt-fessier">Muscle petit fessier droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uiKX9vPD4zW1jWfuCu4v8bKr" alt="img. muscle petit fessier D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-pt-fessier">Muscle petit fessier gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4zmCGzLfeSXzeObSvKS1TXPD" alt="img. muscle petit fessier G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/muscles-moy-fessier">Muscles moyens fessiers<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/muscles-moy-fessier">Muscles moyens fessiers<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OTvKLHyW9n4bymy4Pr5f8r4n" alt="img. muscles moyens fessiers"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/R-mscl-moy-fessier">Muscle moyen fessier droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-moy-fessier">Muscle moyen fessier gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-moy-fessier">Muscle moyen fessier droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=GHD4D0PHPPniWfKXrWHjOLDy" alt="img. muscle moyen fessier D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-moy-fessier">Muscle moyen fessier gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uW5TXbzKH5DGHPHT5feimGbi" alt="img. muscle moyen fessier G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/muscles-gd-fessier">Muscles grands fessiers<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/muscles-gd-fessier">Muscles grands fessiers<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XvGbWH9De0vaqOLbG9yyuqC8" alt="img. muscles grands fessiers"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/R-mscl-gd-fessier">Muscle grand fessier droit<span id=infobulle><img src="" alt="img. "/></span></a>
+					<li><a href="/desc/http://anat.org/R-mscl-gd-fessier">Muscle grand fessier droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=GLXD4Hq0Pry4nK1PvOvCmi0H" alt="img. muscle grand fessier D"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-mscl-gd-fessier-fx-supL">Faisceau superficiel du muscle grand fessier droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-gd-fessier-fx-pfd">Faisceau profond du muscle grand fessier droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-gd-fessier-fx-supL">Faisceau superficiel du muscle grand fessier droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-gd-fessier-fx-pfd">Faisceau profond du muscle grand fessier droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 						</ul>
 					</li>
-					<li><a href="/desc/http://anat.org/L-mscl-gd-fessier">Muscle grand fessier gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+					<li><a href="/desc/http://anat.org/L-mscl-gd-fessier">Muscle grand fessier gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LXr05zKziyOvuGDKvWHXHTTr" alt="img. muscle grand fessier G"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/L-mscl-gd-fessier-fx-supL">Faisceau superficiel du muscle grand fessier gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-gd-fessier-fx-pfd">Faisceau profond du muscle grand fessier gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-gd-fessier-fx-supL">Faisceau superficiel du muscle grand fessier gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-gd-fessier-fx-pfd">Faisceau profond du muscle grand fessier gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 						</ul>
 					</li>
 					</ul>
 				</li>
 				</ul>
 			</li>
-			<li><a href="/desc/http://anat.org/muscles-TFL">Muscles tenseurs des fascias lata<span id=infobulle><img src="" alt="img. "/></span></a>
+			<li><a href="/desc/http://anat.org/muscles-TFL">Muscles tenseurs des fascias lata<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rueyi8jeyWvaOnyiqqrui4T9" alt="img. muscles TFL"/></span></a>
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-mscl-TFL">Muscle tenseur du fascia lata droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-TFL">Muscle tenseur du fascia lata gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-TFL">Muscle tenseur du fascia lata droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Sr8ru0OTHDi0CqCSr099PXnq" alt="img. muscle TFL D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-TFL">Muscle tenseur du fascia lata gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LPfme4n45TzqCG5X9j0DuWX9" alt="img. muscle TFL G"/></span></a></li>
 				</ul>
 			</li>
 			</ul>
@@ -3906,16 +3904,16 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-mscl-quadriceps-femoral">Muscle quadriceps fémoral droit<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/R-mscl-quadriceps-femoral">Muscle quadriceps fémoral droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zG9HrmDiGTXf9HDGfmeOHXfW" alt="img. muscle quadriceps femoral D"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-droit-femoral">Muscle droit fémoral droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-vaste-med">Muscle vaste médial droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-vaste-inter">Muscle vaste intermédiaire droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-vaste-lat">Muscle vaste latéral droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-droit-femoral">Muscle droit fémoral droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zGD0nOLLjKraeyKzCarWna4H" alt="img. muscle droit femoral D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-vaste-med">Muscle vaste médial droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=b0rOLrf8XzySPryCayXXnieC" alt="img. muscle vaste medial D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-vaste-inter">Muscle vaste intermédiaire droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=GDKPDSSD4rSL4X99jCW555Tj" alt="img. muscle vaste intermediaire D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-vaste-lat">Muscle vaste latéral droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=G1XLvCam09bmnq0bqC1LrCma" alt="img. muscle vaste lateral D"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/R-mscl-sartorius">Muscle sartorius droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-articulaire-genou">Muscle articulaire du genou droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-sartorius">Muscle sartorius droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4zOjSrO51Pjyya09bqqu89z8" alt="img. muscle sartorius D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-articulaire-genou">Muscle articulaire du genou droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 				</ul>
 
 </div>
@@ -3927,16 +3925,16 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-mscl-pectine">Muscle pectiné droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-crt-addR-femur">Muscle court adducteur du fémur droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-lg-addR-femur">Muscle long adducteur du fémur droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-gd-addR-femur">Muscle grand adducteur du fémur droit<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/R-mscl-pectine">Muscle pectiné droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Ovmm0TKjCWfGb41DGfvObaaS" alt="img. muscle pectine D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-crt-addR-femur">Muscle court adducteur du fémur droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nKniCWn0zG1Tu41PPDi09juK" alt="img. muscle court adducteur du femur D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-lg-addR-femur">Muscle long adducteur du fémur droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eqSv8bzyy8nS9PrqeSGvuWP5" alt="img. muscle long adducteur du femur D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-gd-addR-femur">Muscle grand adducteur du fémur droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qGLbyOqWD41n1T59r4Tf0P59" alt="img. muscle grand adducteur du femur D"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-gd-addR-femur-faisceau-ant">Faisceau antérieur du muscle grand adducteur du fémur droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-gd-addR-femur-faisceau-post">Faisceau postérieur du muscle grand adducteur du fémur droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-gd-addR-femur-faisceau-ant">Faisceau antérieur du muscle grand adducteur du fémur droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-gd-addR-femur-faisceau-post">Faisceau postérieur du muscle grand adducteur du fémur droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/R-mscl-gracile">Muscle gracile droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-gracile">Muscle gracile droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=G9XfCu5jOXfGDmWLn4WPHHfG" alt="img. muscle gracile D"/></span></a></li>
 				</ul>
 
 </div>
@@ -3948,14 +3946,14 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-mscl-biceps-femoral">Muscle biceps fémoral droit<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/R-mscl-biceps-femoral">Muscle biceps fémoral droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=uW9ney4PLTb8GHraGXfue0TX" alt="img. muscle biceps femoral D"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-biceps-femoral-chef-lg">Chef long du muscle biceps fémoral droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-biceps-femoral-chef-crt">Chef court du muscle biceps fémoral droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-biceps-femoral-chef-lg">Chef long du muscle biceps fémoral droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Xb4r8TSXvGLvuCWr0bbmmS5b" alt="img. muscle biceps femoral D chef long"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-biceps-femoral-chef-crt">Chef court du muscle biceps fémoral droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ny4jGX0HrSXrSDOTvuyuC8PX" alt="img. muscle biceps femoral D chef court"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/R-mscl-semi-tendineux">Muscle semi-tendineux droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-semi-membraneux">Muscle semi-membraneux droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-semi-tendineux">Muscle semi-tendineux droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eu4riG8jmCe8v8115TvS5vW5" alt="img. muscle semi-tendineux D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-semi-membraneux">Muscle semi-membraneux droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zW5fKvKDSXjmjuOfa84fOvOj" alt="img. muscle semi-membraneux D"/></span></a></li>
 				</ul>
 
 </div>
@@ -3967,9 +3965,9 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-mscl-sartorius">Muscle sartorius droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-semi-tendineux">Muscle semi-tendineux droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-gracile">Muscle gracile droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-sartorius">Muscle sartorius droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4zOjSrO51Pjyya09bqqu89z8" alt="img. muscle sartorius D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-semi-tendineux">Muscle semi-tendineux droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eu4riG8jmCe8v8115TvS5vW5" alt="img. muscle semi-tendineux D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-gracile">Muscle gracile droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=G9XfCu5jOXfGDmWLn4WPHHfG" alt="img. muscle gracile D"/></span></a></li>
 				</ul>
 
 </div>
@@ -3987,9 +3985,9 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-mscl-tibial-ant">Muscle tibial antérieur droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-lg-extR-orteils">Muscle long extenseur des orteils droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-lg-extR-hallux">Muscle long extenseur du hallux droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-tibial-ant">Muscle tibial antérieur droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=L1ru0nyO9neSjmimK9GDum4P" alt="img. muscle tibial ant D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-lg-extR-orteils">Muscle long extenseur des orteils droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=51vyWXDa05Lb1z4rW5GTDOf4" alt="img. muscle long extenseur des orteils D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-lg-extR-hallux">Muscle long extenseur du hallux droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DGj8HXiKzyqW8De0LreGv8PT" alt="img. muscle long extenseur du hallux D"/></span></a></li>
 				</ul>
 
 </div>
@@ -4001,15 +3999,15 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-mscl-lg-fibulaire">Muscle long fibulaire droit<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/R-mscl-lg-fibulaire">Muscle long fibulaire droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=u8T5rOfCObm8qqe8nqeOTvK1" alt="img. muscle long fibulaire D"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-lg-fibulaire-chef-sup">Chef supérieur du muscle long fibulaire droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-lg-fibulaire-chef-ant">Chef antérieur du muscle long fibulaire droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-lg-fibulaire-chef-post">Chef postérieur du muscle long fibulaire droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-lg-fibulaire-chef-sup">Chef supérieur du muscle long fibulaire droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-lg-fibulaire-chef-ant">Chef antérieur du muscle long fibulaire droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-lg-fibulaire-chef-post">Chef postérieur du muscle long fibulaire droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/R-mscl-crt-fibulaire">Muscle court fibulaire droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-3e-fibulaire">Muscle troisième fibulaire droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-crt-fibulaire">Muscle court fibulaire droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1nyyeK5r4Di4HD4PXnamqi4r" alt="img. muscle court fibulaire D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-3e-fibulaire">Muscle troisième fibulaire droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eOrK1ree8H5nfGHTHrve4PT1" alt="img. muscle 3e fibulaire D"/></span></a></li>
 				</ul>
 
 </div>
@@ -4021,19 +4019,19 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-mscl-triceps-sural">Muscle triceps sural droit<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/R-mscl-triceps-sural">Muscle triceps sural droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=r49nWLqmWDO5CGPLLjv4TDmC" alt="img. muscle triceps sural D"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/R-mscl-gastrocnemien-med">Muscle gastrocnémien médial droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-gastrocnemien-lat">Muscle gastrocnémien latéral droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-soleaire">Muscle soléaire droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-triceps-sural-td-achileen">Tendon calcanéen (anc. tendon achiléen) droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-gastrocnemien-med">Muscle gastrocnémien médial droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=K1L15b1LLbOT05zKPvCaGDSn" alt="img. muscle gastrocnemien medial D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-gastrocnemien-lat">Muscle gastrocnémien latéral droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5n4LfizqSHPza8HnKrf0bG91" alt="img. muscle gastrocnemien lateral D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-soleaire">Muscle soléaire droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=P5DKzW9DO9DWfmSbCOPDG9PH" alt="img. muscle soleaire D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-triceps-sural-td-achileen">Tendon calcanéen (anc. tendon achiléen) droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=niGnaGbiyGjSrqiCGv5Pzaqa" alt="img. tendon calcaneen"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/R-mscl-plantaire">Muscle plantaire droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-poplite">Muscle poplité droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-tibial-post">Muscle tibial postérieur droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-lg-fleR-orteils">Muscle long fléchisseur des orteils droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-lg-fleR-hallux">Muscle long fléchisseur du hallux droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-plantaire">Muscle plantaire droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XHrOziHrK9XnemmyK5neCiqK" alt="img. muscle plantaire D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-poplite">Muscle poplité droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=n01r8Ln85j89eCWrKPbqyia4" alt="img. muscle poplite D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-tibial-post">Muscle tibial postérieur droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=quCiKPOn4PbOrGvOv4mey8bq" alt="img. muscle tibial post D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-lg-fleR-orteils">Muscle long fléchisseur des orteils droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eWXnqq8veSv44X1Hfm8HH5DC" alt="img. muscle long flechisseur des orteils D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-lg-fleR-hallux">Muscle long fléchisseur du hallux droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Tfa8Dieym8vqOL5zeKKzy0jy" alt="img. muscle long flechisseur du hallux D"/></span></a></li>
 				</ul>
 
 </div>
@@ -4050,18 +4048,18 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-muscles-plantR-med-pied-plan-supL">Plan superficiel<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/R-muscles-plantR-med-pied-plan-supL">Plan superficiel<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=15vGP9eGzuqGKf0zie51TnCm" alt="img. muscles plantaires mediaux D plan superficiel"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/R-mscl-abdR-hallux">Muscle abducteur du hallus droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-crt-fleR-hallux">Muscle court fléchisseur du hallus droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-abdR-hallux">Muscle abducteur du hallus droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=mWH9nmTXfSfy85D8XHCeq8vi" alt="img. muscle abducteur du hallus D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-fleR-hallux">Muscle court fléchisseur du hallus droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=vGPjOb9v0PvCbSnWHX9n8n8L" alt="img. muscle court flechisseur du hallus D"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/R-muscles-plantR-med-pied-plan-pfd">Plan profond<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/R-muscles-plantR-med-pied-plan-pfd">Plan profond<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9TTvyK0HPDa8ia0HLPniyqC8" alt="img. muscles plantaires mediaux D plan profond"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/R-mscl-addR-hallux">Muscle adducteur du hallus droit<span id=infobulle><img src="" alt="img. "/></span></a>
+					<li><a href="/desc/http://anat.org/R-mscl-addR-hallux">Muscle adducteur du hallus droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9TTvyK0HPDa8ia0HLPniyqC8" alt="img. muscle adducteur du hallus D"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-mscl-addR-hallux-chef-oblique">Chef oblique du muscle adducteur du hallus droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-addR-hallux-chef-trsv">Chef transverse du muscle adducteur du hallus droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-addR-hallux-chef-oblique">Chef oblique du muscle adducteur du hallus droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=01v8XTv0juK9vqqqOjv0XfG5" alt="img. muscle adducteur du hallus D chef oblique"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-addR-hallux-chef-trsv">Chef transverse du muscle adducteur du hallus droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=GbO9TvS9PnCiHrCK1vmGn8z4" alt="img. muscle adducteur du hallus D chef transverse"/></span></a></li>
 						</ul>
 					</li>
 					</ul>
@@ -4077,15 +4075,15 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-muscles-plantR-lat-pied-plan-supL">Plan superficiel</a>
+				<li><a href="/desc/http://anat.org/R-muscles-plantR-lat-pied-plan-supL">Plan superficiel<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=SbK9zeiGzCWH1XH95bq0TrC8" alt="img. muscles plantaires lateraux D plan superficiel"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/R-mscl-abdR-orteil-V">Muscle abducteur du 5e orteil droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-abdR-orteil-V">Muscle abducteur du 5e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=SbK9zeiGzCWH1XH95bq0TrC8" alt="img. muscle abducteur du 5e orteil D"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/R-muscles-plantR-lat-pied-plan-pfd">Plan profond<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/R-muscles-plantR-lat-pied-plan-pfd">Plan profond<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=GzO1zO5rGL1DnWzeSfaK5Dye" alt="img. muscles plantaires lateraux D plan profond"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/R-mscl-crt-fleR-orteil-V">Muscle court fléchisseur du 5e orteil droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/R-mscl-opposant-orteil-V">Muscle opposant du 5e orteil droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-fleR-orteil-V">Muscle court fléchisseur du 5e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1HbK9LrK99zyzW1n8XOPzSPr" alt="img. muscle court flechisseur du 5e orteil D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-opposant-orteil-V">Muscle opposant du 5e orteil droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=0TvuuKeOra8Tv0zmCKH99Dy0" alt="img. muscle opposant du 5e orteil D"/></span></a></li>
 					</ul>
 				</li>
 				</ul>
@@ -4099,44 +4097,44 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-muscles-plantR-intermed-pied-plan-supL">Plan superficiel<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/R-muscles-plantR-intermed-pied-plan-supL">Plan superficiel<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TXriyGDaSzGrLviKzeyOnKL1" alt="img. muscles plantaires intermediaires D plan superficiel"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/R-mscl-crt-fleR-orteils">Muscle court fléchisseur des orteils droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-mscl-crt-fleR-orteils">Muscle court fléchisseur des orteils droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TXriyGDaSzGrLviKzeyOnKL1" alt="img. muscle court flechisseur des orteils D"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/R-muscles-plantR-intermed-pied-plan-moy">Plan moyen<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/R-muscles-plantR-intermed-pied-plan-moy">Plan moyen<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=j4L5Hv5515DWqyaySj1neGvK" alt="img. muscles plantaires intermediaires D plan moyen"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/R-mscl-carre-plantaire">Muscle carré plantaire droit<span id=infobulle><img src="" alt="img. "/></span></a>
+					<li><a href="/desc/http://anat.org/R-mscl-carre-plantaire">Muscle carré plantaire droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=j4L5Hv5515DWqyaySj1neGvK" alt="img. muscle carre plantaire D"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-mscl-carre-plantaire-chef-med">Chef médial du muscle carré plantaire droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-carre-plantaire-chef-lat">Chef latéral du muscle carré plantaire droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-carre-plantaire-chef-med">Chef médial du muscle carré plantaire droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-carre-plantaire-chef-lat">Chef latéral du muscle carré plantaire droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 						</ul>
 					</li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/R-muscles-plantR-intermed-pied-plan-pfd">Plan profond<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/R-muscles-plantR-intermed-pied-plan-pfd">Plan profond<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=fS1j4LTHrim4jaSHv8qmCODa" alt="img. muscles plantaires intermediaires D plan profond"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/R-muscles-lombricaux-pied">Muscles lombricaux du pied droit<span id=infobulle><img src="" alt="img. "/></span></a>
+					<li><a href="/desc/http://anat.org/R-muscles-lombricaux-pied">Muscles lombricaux du pied droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OzK95H8PTzaSfquSnSfe0vqu" alt="img. muscles lombricaux du pied D"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-mscl-lombrical-pied-du-II">Premier muscle lombrical du pied droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-lombrical-pied-du-III">Deuxième muscle lombrical du pied droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-lombrical-pied-du-IV">Troisième muscle lombrical du pied droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-lombrical-pied-du-V">Quatrième muscle lombrical du pied droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-lombrical-pied-du-II">Premier muscle lombrical du pied droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rSr81LfSb45PW5L5119vOrmC" alt="img. 1er muscle lombrical du pied D"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-lombrical-pied-du-III">Deuxième muscle lombrical du pied droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=0ryKb8aS9Tb0Tf8LzqSjm4P1" alt="img. 2e muscle lombrical du pied D"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-lombrical-pied-du-IV">Troisième muscle lombrical du pied droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jOnmi4eeqCKDb89zu4qaGz8f" alt="img. 3e muscle lombrical du pied D"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-lombrical-pied-du-V">Quatrième muscle lombrical du pied droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XfWvWTG9PvueTDqmC0j4nmGz" alt="img. 4e muscle lombrical du pied D"/></span></a></li>
 						</ul>
 					</li>
-					<li><a href="/desc/http://anat.org/R-muscles-interosseux-dorsaux-pied">Muscles interosseux dorsaux du pied droits<span id=infobulle><img src="" alt="img. "/></span></a>
+					<li><a href="/desc/http://anat.org/R-muscles-interosseux-dorsaux-pied">Muscles interosseux dorsaux du pied droits<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=L9LXvSr05Tv0OP9zq0uu4vSH" alt="img. muscles interosseux dorsaux du pied D"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-mscl-interosseux-dorsaux-du-II-1">Premier muscle interosseux dorsal du pied droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-interosseux-dorsaux-du-II-2">Deuxième muscle interosseux dorsal du pied droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-interosseux-dorsaux-du-III">Troisième muscle interosseux dorsal du pied droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-interosseux-dorsaux-du-IV">Quatrième muscle interosseux dorsal du pied droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-interosseux-dorsaux-du-II-1">Premier muscle interosseux dorsal du pied droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DeyaqiviK5PnSP1H5jvG1rqu" alt="img. 1er muscle interosseux dorsal du pied D"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-interosseux-dorsaux-du-II-2">Deuxième muscle interosseux dorsal du pied droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=aWniG1b0rSP9j05jqWODOja4" alt="img. 2e muscle interosseux dorsal du pied D"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-interosseux-dorsaux-du-III">Troisième muscle interosseux dorsal du pied droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=q4DCqGrqqGza9rC8rSq89ja0" alt="img. 3e muscle interosseux dorsal du pied D"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-interosseux-dorsaux-du-IV">Quatrième muscle interosseux dorsal du pied droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=aS5fKbXzmCqyXn8bG18zGrui" alt="img. 4e muscle interosseux dorsal du pied D"/></span></a></li>
 						</ul>
 					</li>
-					<li><a href="/desc/http://anat.org/R-muscles-interosseux-plantR-pied">Muscles interosseux plantaires droits<span id=infobulle><img src="" alt="img. "/></span></a>
+					<li><a href="/desc/http://anat.org/R-muscles-interosseux-plantR-pied">Muscles interosseux plantaires droits<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/R-mscl-interosseux-plantaire-du-III">Muscle interosseux plantaire du 3e orteil droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-interosseux-plantaire-du-IV">Muscle interosseux plantaire du 4e orteil droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-mscl-interosseux-plantaire-du-V">Muscle interosseux plantaire du 5e orteil droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-interosseux-plantaire-du-III">Muscle interosseux plantaire du 3e orteil droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-interosseux-plantaire-du-IV">Muscle interosseux plantaire du 4e orteil droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-interosseux-plantaire-du-V">Muscle interosseux plantaire du 5e orteil droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 						</ul>
 					</li>
 					</ul>
@@ -4152,8 +4150,8 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/R-mscl-crt-extR-orteils">Muscle court extenseur des orteils droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/R-mscl-crt-extR-hallux">Muscle court extenseur du hallux droit<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-crt-extR-orteils">Muscle court extenseur des orteils droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=n0vGrC0j0fiqSPvyi0ay8f0T" alt="img. muscle court extenseur des orteils D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-mscl-crt-extR-hallux">Muscle court extenseur du hallux droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CGXLnW8TPnq4vu4rq0fuq0vu" alt="img. muscle court extenseur du hallux D"/></span></a></li>
 				</ul>
 
 </div>
@@ -4180,16 +4178,16 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/L-mscl-quadriceps-femoral">Muscle quadriceps fémoral gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-mscl-quadriceps-femoral">Muscle quadriceps fémoral gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=fuqCmGWHXvWHeyqimuiOTHr8" alt="img. muscle quadriceps femoral G"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/L-mscl-droit-femoral">Muscle droit fémoral gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-vaste-med">Muscle vaste médial gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-vaste-inter">Muscle vaste intermédiaire gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-vaste-lat">Muscle vaste latéral gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-droit-femoral">Muscle droit fémoral gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=buGv09buKvui5HDa0b0XfWzW" alt="img. muscle droit femoral G"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-vaste-med">Muscle vaste médial gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=0bCme41HPjiKiqiqS5aOXvim" alt="img. muscle vaste medial G"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-vaste-inter">Muscle vaste intermédiaire gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CGfSzCa0TfyWuGnGXj9n41vO" alt="img. muscle vaste intermediaire G"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-vaste-lat">Muscle vaste latéral gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=ma4bam1TH9faLXzKLbTDeSTn" alt="img. muscle vaste lateral G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-mscl-sartorius">Muscle sartorius gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-articulaire-genou">Muscle articulaire du genou gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-sartorius">Muscle sartorius gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Pnaiuq8HfW5vKTLfa4vaCS5n" alt="img. muscle sartorius G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-articulaire-genou">Muscle articulaire du genou gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 				</ul>
 
 </div>
@@ -4201,16 +4199,16 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/L-mscl-pectine">Muscle pectiné gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-crt-addR-femur">Muscle court adducteur du fémur gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-lg-addR-femur">Muscle long adducteur du fémur gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-gd-addR-femur">Muscle grand adducteur du fémur gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-mscl-pectine">Muscle pectiné gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jau4DirKTTjquOXHDue0HvaG" alt="img. muscle pectine G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-crt-addR-femur">Muscle court adducteur du fémur gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Hnuuyyb0PzGPT5XbC8SfaCiK" alt="img. muscle court adducteur du femur G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-lg-addR-femur">Muscle long adducteur du fémur gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4vOz0XKnG5zKa0XbKHPvKLD0" alt="img. muscle long adducteur du femur G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-gd-addR-femur">Muscle grand adducteur du fémur gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eKPLnuKnmGbqaWrmKb1PfSrm" alt="img. muscle grand adducteur du femur G"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/L-mscl-gd-addR-femur-faisceau-ant">Faisceau antérieur du muscle grand adducteur du fémur gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-gd-addR-femur-faisceau-post">Faisceau postérieur du muscle grand adducteur du fémur gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-gd-addR-femur-faisceau-ant">Faisceau antérieur du muscle grand adducteur du fémur gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-gd-addR-femur-faisceau-post">Faisceau postérieur du muscle grand adducteur du fémur gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-mscl-gracile">Muscle gracile gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-gracile">Muscle gracile gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DuGzmmuaOn4PHDOz8v8TremK" alt="img. muscle gracile G"/></span></a></li>
 				</ul>
 
 </div>
@@ -4222,14 +4220,14 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/L-mscl-biceps-femoral">Muscle biceps fémoral gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-mscl-biceps-femoral">Muscle biceps fémoral gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=meyeyanC4rqKq495fiD45nKP" alt="img. muscle biceps femoral G"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/L-mscl-biceps-femoral-chef-lg">Chef long du muscle biceps fémoral gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-biceps-femoral-chef-crt">Chef court du muscle biceps fémoral gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-biceps-femoral-chef-lg">Chef long du muscle biceps fémoral gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=O5n0zeSL5919iSfuq8GDCGjy" alt="img. muscle biceps femoral G chef long"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-biceps-femoral-chef-crt">Chef court du muscle biceps fémoral gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=99f8PXW91fmubq4bmy9Dm4fS" alt="img. muscle biceps femoral G chef court"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-mscl-semi-tendineux">Muscle semi-tendineux gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-semi-membraneux">Muscle semi-membraneux gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-semi-tendineux">Muscle semi-tendineux gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4faWPb8TH159SX551z5PXf4P" alt="img. muscle semi-tendineux G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-semi-membraneux">Muscle semi-membraneux gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8LXDKXXP1fSjjuWn0nuOLD8X" alt="img. muscle semi-membraneux G"/></span></a></li>
 				</ul>
 
 </div>
@@ -4241,9 +4239,9 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/L-mscl-sartorius">Muscle sartorius gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-semi-tendineux">Muscle semi-tendineux gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-gracile">Muscle gracile gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-sartorius">Muscle sartorius gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Pnaiuq8HfW5vKTLfa4vaCS5n" alt="img. muscle sartorius G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-semi-tendineux">Muscle semi-tendineux gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4faWPb8TH159SX551z5PXf4P" alt="img. muscle semi-tendineux G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-gracile">Muscle gracile gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DuGzmmuaOn4PHDOz8v8TremK" alt="img. muscle gracile G"/></span></a></li>
 				</ul>
 
 </div>
@@ -4261,9 +4259,9 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/L-mscl-tibial-ant">Muscle tibial antérieur gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-lg-extR-orteils">Muscle long extenseur des orteils gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-lg-extR-hallux">Muscle long extenseur du hallux gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-tibial-ant">Muscle tibial antérieur gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bKDa4zS9D01HfOTr8nm4TPnq" alt="img. muscle tibial ant G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-lg-extR-orteils">Muscle long extenseur des orteils gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eOXveKviauKfWXjeqSruOn0f" alt="img. muscle long extenseur des orteils G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-lg-extR-hallux">Muscle long extenseur du hallux gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=PrW1DCCC8fueyyWrGfiae0fO" alt="img. muscle long extenseur du hallux G"/></span></a></li>
 				</ul>
 
 </div>
@@ -4275,15 +4273,15 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/L-mscl-lg-fibulaire">Muscle long fibulaire gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-mscl-lg-fibulaire">Muscle long fibulaire gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=z4111DGrG1zWXDeaCWWfmiSf" alt="img. muscle long fibulaire G"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/L-mscl-lg-fibulaire-chef-sup">Chef supérieur du muscle long fibulaire gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-lg-fibulaire-chef-ant">Chef antérieur du muscle long fibulaire gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-lg-fibulaire-chef-post">Chef postérieur du muscle long fibulaire gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-lg-fibulaire-chef-sup">Chef supérieur du muscle long fibulaire gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-lg-fibulaire-chef-ant">Chef antérieur du muscle long fibulaire gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-lg-fibulaire-chef-post">Chef postérieur du muscle long fibulaire gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-mscl-crt-fibulaire">Muscle court fibulaire gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-3e-fibulaire">Muscle troisième fibulaire gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-crt-fibulaire">Muscle court fibulaire gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=55vimqKDyiCmvGvCSTvyaaSz" alt="img. muscle court fibulaire G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-3e-fibulaire">Muscle troisième fibulaire gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=y4viqmLz8X150zWL1jC09zya" alt="img. muscle 3e fibulaire G"/></span></a></li>
 				</ul>
 
 </div>
@@ -4295,19 +4293,19 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/L-mscl-triceps-sural">Muscle triceps sural gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-mscl-triceps-sural">Muscle triceps sural gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4H9fuaLnummCz499vOuyC09L" alt="img. muscle triceps sural G"/></span></a>
 					<ul style="list-style-type:circle">
-					<li><a href="/desc/http://anat.org/L-mscl-gastrocnemien-med">Muscle gastrocnémien médial gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-gastrocnemien-lat">Muscle gastrocnémien latéral gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-soleaire">Muscle soléaire gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-triceps-sural-td-achileen">Tendon calcanéen (anc. tendon achiléen) gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-gastrocnemien-med">Muscle gastrocnémien médial gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qeGn05Dyem8nqCCiCCXnKbiG" alt="img. muscle gastrocnemien medial G"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-gastrocnemien-lat">Muscle gastrocnémien latéral gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=TDqOribea0biCKXP9XO5fWPD" alt="img. muscle gastrocnemien lateral G"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-soleaire">Muscle soléaire gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=vm8P9XiKXbaSaKf419eS1HLv" alt="img. muscle soleaire G"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-triceps-sural-td-achileen">Tendon calcanéen (anc. tendon achiléen) gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=P9ba0PCiSfGXL9Lb0D0Hb8Lz" alt="img. tendon calcaneen G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-mscl-plantaire">Muscle plantaire gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-poplite">Muscle poplité gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-tibial-post">Muscle tibial postérieur gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-lg-fleR-orteils">Muscle long fléchisseur des orteils gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-lg-fleR-hallux">Muscle long fléchisseur du hallux gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-plantaire">Muscle plantaire gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=W9fWjmemCSrubWnyuia0rWvm" alt="img. muscle plantaire G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-poplite">Muscle poplité gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Of05PzqWnKnmm8T1faKLruO5" alt="img. muscle poplite G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-tibial-post">Muscle tibial postérieur gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8PbCyyzeu8niiqSjea5buWze" alt="img. muscle tibial post G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-lg-fleR-orteils">Muscle long fléchisseur des orteils gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OPjqaSu0DqaSH1ziGnLraOX5" alt="img. muscle long flechisseur des orteils G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-lg-fleR-hallux">Muscle long fléchisseur du hallux gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bWbSD4fKrGjqLz491r1zGXPL" alt="img. muscle long flechisseur du hallux G"/></span></a></li>
 				</ul>
 
 </div>
@@ -4324,18 +4322,18 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/L-muscles-plantR-med-pied-plan-supL">Plan superficiel<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-muscles-plantR-med-pied-plan-supL">Plan superficiel<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=P1HfaWOruSvaCGbSv4ame05P" alt="img. muscles plantaires mediaux G plan superficiel"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/L-mscl-abdR-hallux">Muscle abducteur du hallus gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-crt-fleR-hallux">Muscle court fléchisseur du hallus gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-abdR-hallux">Muscle abducteur du hallus gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9HvWTPKr89HnfW5b8LD0HTLX" alt="img. muscle abducteur du hallus G"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-fleR-hallux">Muscle court fléchisseur du hallus gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=r8vuaKDySX1LvmquGj5veqeq" alt="img. muscle court flechisseur du hallus G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-muscles-plantR-med-pied-plan-pfd">Plan profond<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-muscles-plantR-med-pied-plan-pfd">Plan profond<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5TjSXnDOzy4r9nq4nuvyKPPz" alt="img. muscles plantaires mediaux G plan profond"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/L-mscl-addR-hallux">Muscle adducteur du hallus gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+					<li><a href="/desc/http://anat.org/L-mscl-addR-hallux">Muscle adducteur du hallus gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5TjSXnDOzy4r9nq4nuvyKPPz" alt="img. muscle adducteur du hallus G"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/L-mscl-addR-hallux-chef-oblique">Chef oblique du muscle adducteur du hallus gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-addR-hallux-chef-trsv">Chef transverse du muscle adducteur du hallus gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-addR-hallux-chef-oblique">Chef oblique du muscle adducteur du hallus gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rqiWbKza4HDuTT59Pnva4vWj" alt="img. muscle adducteur du hallus G chef oblique"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-addR-hallux-chef-trsv">Chef transverse du muscle adducteur du hallus gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Lr4r4PjS9Hj01jySbmmaCC41" alt="img. muscle adducteur du hallus G chef transverse"/></span></a></li>
 						</ul>
 					</li>
 					</ul>
@@ -4351,15 +4349,15 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/L-muscles-plantR-lat-pied-plan-supL">Plan superficiel<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-muscles-plantR-lat-pied-plan-supL">Plan superficiel<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4fieOPrSTfmuOPPPr0i05X5P" alt="img. muscles plantaires lateraux G plan superficiel"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/L-mscl-abdR-orteil-V">Muscle abducteur du 5e orteil gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-abdR-orteil-V">Muscle abducteur du 5e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4fieOPrSTfmuOPPPr0i05X5P" alt="img. muscle abducteur du 5e orteil G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-muscles-plantR-lat-pied-plan-pfd">Plan profond<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-muscles-plantR-lat-pied-plan-pfd">Plan profond<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KzOXjOzqCqa8jCmGvqeyWD0X" alt="img. muscles plantaires lateraux G plan profond"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/L-mscl-crt-fleR-orteil-V">Muscle court fléchisseur du 5e orteil gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-					<li><a href="/desc/http://anat.org/L-mscl-opposant-orteil-V">Muscle opposant du 5e orteil gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-fleR-orteil-V">Muscle court fléchisseur du 5e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XDKfSXv4ziC8DSf4nWHXvODm" alt="img. muscle court flechisseur du 5e orteil G"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-opposant-orteil-V">Muscle opposant du 5e orteil gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DiOr8jqCeiG5baaaieGzqOvy" alt="img. muscle opposant du 5e orteil G"/></span></a></li>
 					</ul>
 				</li>
 				</ul>
@@ -4373,44 +4371,44 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/L-muscles-plantR-intermed-pied-plan-supL">Plan superficiel<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-muscles-plantR-intermed-pied-plan-supL">Plan superficiel<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XDyCKf1jiiOPmuyamCuieuya" alt="img. muscles plantaires intermediaires G plan superficiel"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/L-mscl-crt-fleR-orteils">Muscle court fléchisseur des orteils gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-crt-fleR-orteils">Muscle court fléchisseur des orteils gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XDyCKf1jiiOPmuyamCuieuya" alt="img. muscle court flechisseur des orteils G"/></span></a></li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-muscles-plantR-intermed-pied-plan-moy">Plan moyen<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-muscles-plantR-intermed-pied-plan-moy">Plan moyen<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=STnKLv1Pb4ju01baq8q0z0DC" alt="img. muscles plantaires intermediaires G plan moyen"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/L-mscl-carre-plantaire">Muscle carré plantaire gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+					<li><a href="/desc/http://anat.org/L-mscl-carre-plantaire">Muscle carré plantaire gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=STnKLv1Pb4ju01baq8q0z0DC" alt="img. muscle carre plantaire G"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/L-mscl-carre-plantaire-chef-med">Chef médial du muscle carré plantaire gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-carre-plantaire-chef-lat">Chef latéral du muscle carré plantaire gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-carre-plantaire-chef-med">Chef médial du muscle carré plantaire gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-carre-plantaire-chef-lat">Chef latéral du muscle carré plantaire gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 						</ul>
 					</li>
 					</ul>
 				</li>
-				<li><a href="/desc/http://anat.org/L-muscles-plantR-intermed-pied-plan-pfd">Plan profond<span id=infobulle><img src="" alt="img. "/></span></a>
+				<li><a href="/desc/http://anat.org/L-muscles-plantR-intermed-pied-plan-pfd">Plan profond<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=PbWPX9i81zGb0XbWTv8neGrO" alt="img. muscles plantaires intermediaires G plan profond"/></span></a>
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/L-muscles-lombricaux-pied">Muscles lombricaux du pied gauche<span id=infobulle><img src="" alt="img. "/></span></a>
+					<li><a href="/desc/http://anat.org/L-muscles-lombricaux-pied">Muscles lombricaux du pied gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=CSbGPXPjayqSj8DqqOW5TP5H" alt="img. muscles lombricaux du pied G"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/L-mscl-lombrical-pied-du-II">Premier muscle lombrical du pied gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-lombrical-pied-du-III">Deuxième muscle lombrical du pied gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-lombrical-pied-du-IV">Troisième muscle lombrical du pied gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-lombrical-pied-du-V">Quatrième muscle lombrical du pied gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-lombrical-pied-du-II">Premier muscle lombrical du pied gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=raqOnCn4L1HDimeymavyy0Pr" alt="img. 1er muscle lombrical du pied G"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-lombrical-pied-du-III">Deuxième muscle lombrical du pied gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=vS1jquCaC4LXm4fSfKvC4zqu" alt="img. 2e muscle lombrical du pied G"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-lombrical-pied-du-IV">Troisième muscle lombrical du pied gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Sby4nS1nmCq8zqO1beG5bee8" alt="img. 3e muscle lombrical du pied G"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-lombrical-pied-du-V">Quatrième muscle lombrical du pied gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Kfii8HfCumC4maqGjqSPLnyu" alt="img. 4e muscle lombrical du pied G"/></span></a></li>
 						</ul>
 					</li>
-					<li><a href="/desc/http://anat.org/L-muscles-interosseux-dorsaux-pied">Muscles interosseux dorsaux du pied gauches<span id=infobulle><img src="" alt="img. "/></span></a>
+					<li><a href="/desc/http://anat.org/L-muscles-interosseux-dorsaux-pied">Muscles interosseux dorsaux du pied gauches<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zKLjymfuuuyGWrOfCuqOriC4" alt="img. muscles interosseux du pied G"/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/L-mscl-interosseux-dorsaux-du-II-1">Premier muscle interosseux dorsal du pied gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-interosseux-dorsaux-du-II-2">Deuxième muscle interosseux dorsal du pied gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-interosseux-dorsaux-du-III">Troisième muscle interosseux dorsal du pied gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-interosseux-dorsaux-du-IV">Quatrième muscle interosseux dorsal du pied gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-interosseux-dorsaux-du-II-1">Premier muscle interosseux dorsal du pied gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=emi891W5LrCmem4bu0TLvqie" alt="img. 1er muscle interosseux dorsal du pied G"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-interosseux-dorsaux-du-II-2">Deuxième muscle interosseux dorsal du pied gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yKXraWO5XjWrrWbW1PSv8nqO" alt="img. 2e muscle interosseux dorsal du pied G"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-interosseux-dorsaux-du-III">Troisième muscle interosseux dorsal du pied gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=11HDeaj8fimam01z0D4vKjeW" alt="img. 3e muscle interosseux dorsal du pied G"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-interosseux-dorsaux-du-IV">Quatrième muscle interosseux dorsal du pied gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OzeSzi9D0TnmTzymKbfumyuu" alt="img. 4e muscle interosseux dorsal du pied G"/></span></a></li>
 						</ul>
 					</li>
-					<li><a href="/desc/http://anat.org/L-muscles-interosseux-plantR-pied">Muscles interosseux plantaires gauches<span id=infobulle><img src="" alt="img. "/></span></a>
+					<li><a href="/desc/http://anat.org/L-muscles-interosseux-plantR-pied">Muscles interosseux plantaires gauches<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a>
 						<ul style="list-style-type:circle">
-						<li><a href="/desc/http://anat.org/L-mscl-interosseux-plantaire-du-III">Muscle interosseux plantaire du 3e orteil gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-interosseux-plantaire-du-IV">Muscle interosseux plantaire du 4e orteil gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-mscl-interosseux-plantaire-du-V">Muscle interosseux plantaire du 5e orteil gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-interosseux-plantaire-du-III">Muscle interosseux plantaire du 3e orteil gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-interosseux-plantaire-du-IV">Muscle interosseux plantaire du 4e orteil gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-interosseux-plantaire-du-V">Muscle interosseux plantaire du 5e orteil gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 						</ul>
 					</li>
 					</ul>
@@ -4426,8 +4424,8 @@ td {
 <div class="content">
 
 				<ul style="list-style-type:disc">
-				<li><a href="/desc/http://anat.org/L-mscl-crt-extR-orteils">Muscle court extenseur des orteils gauche<span id=infobulle><img src="" alt="img. "/></span></a></li>
-				<li><a href="/desc/http://anat.org/L-mscl-crt-extR-hallux">Muscle court extenseur du hallux gauche<span id=infobulle><img src="" alt=img. "/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-crt-extR-orteils">Muscle court extenseur des orteils gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=PPzeuym4Xv4551vSXPDaKzaq" alt="img. muscle court extenseur des orteils G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-mscl-crt-extR-hallux">Muscle court extenseur du hallux gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=mSj019rG15XjHv05Pzi4DCq4" alt="img. muscle court extenseur du hallux G"/></span></a></li>
 				</ul>
 
 </div>

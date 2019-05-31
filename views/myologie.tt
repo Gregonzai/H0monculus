@@ -692,6 +692,7 @@ td {
 
 <button class="collapsible"><h4 class="area">RÉGION DU COU</h4></button>
 <div class="content">
+<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=SDuu4vj0rmeq85HH1bXfmOXn" alt="img. muscles region du cou"/></span></a></p>
 
 	<ul style="list-style-type:square">
 
@@ -1286,7 +1287,7 @@ td {
 
 <button class="collapsible"><h4 class="area">RÉGION DU THORAX</h4></button>
 <div class="content">
-<p><a>►<span id=infobulle><img src="" alt="img. "/></span></a></p>
+<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zyaeu8jyGPD81ju4zeKPHz4X" alt="img. muscles region du thorax"/></span></a></p>
 
 	<ul style="list-style-type:square">
 	<li><a href="/desc/http://anat.org/muscles-thoraciq-ext">Muscles thoraciques externes<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eC4fe09reWnyC8DiWTj89bGz" alt="img. muscles thoraciques externes"/></span></a></li>
@@ -1611,7 +1612,7 @@ td {
 
 <button class="collapsible"><h4 class="area">RÉGION DE L'ABDOMEN</h4></button>
 <div class="content">
-<p><a>►<span id=infobulle><img src="" alt="img. "/></span></a></p>
+<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=im8X9bmyySrWS5nWXXqWLLD4" alt="img. muscles region de l'abdomen"/></span></a></p>
 
 	<ul style="list-style-type:square">
 	<li><a href="/desc/http://anat.org/mscl-diaphragme">Muscle diaphragme<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DKLjaOCim851i0j8fu49LLr0" alt="img. diaphragme"/></span></a></li>
@@ -2016,7 +2017,7 @@ td {
 
 <button class="collapsible"><h4 class="area">RÉGION DU PELVIS</h4></button>
 <div class="content">
-<p><a>►<span id=infobulle><img src="" alt="img. "/></span></a></p>
+<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=XPHbuKvO9rq0PHjKbaDuqWje" alt="img. muscles region du pelvis"/></span></a></p>
 
 	<ul style="list-style-type:square">
 	<li><a href="/desc/http://anat.org/muscles-extrinseq-pelvis">Muscles extrinsèques du pelvis<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=D4bqmOXX5v4PXfW9PT9PPHfm" alt="img. muscles extrinseques du pelvis"/></span></a></li>
@@ -2284,7 +2285,7 @@ td {
 
 <button class="collapsible"><h4 class="area">RÉGION DU DOS</h4></button>
 <div class="content">
-<p><a>►<span id=infobulle><img src="" alt="img. "/></span></a></p>
+<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=iyyieGzmqyyySnOLPvzGjiey" alt="img. muscles region du dos"/></span></a></p>
 
 	<ul style="list-style-type:square">
 	<li><a href="/desc/http://anat.org/muscles-supL-dos">Muscles superficiels du dos<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=5TH9TLTLbquqv8LjGH099Xnu" alt="img. muscles superficiels du dos"/></span></a></li>
@@ -3054,7 +3055,7 @@ td {
 
 	<button class="collapsible"><li><h4 class="subarea">MUSCLES DE LA CEINTURE SCAPULAIRE</h4></button>
 	<div class="content">
-<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=S9jq0XremmO1zyG9vGHD4DuW" alt="img. muscles ceinture scapulaire"/></span></a></p>
+<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=0r8DKfGTfyKP8jyOTDy4ruu8" alt="img. muscles region de la ceinture scapulaire"/></span></a></p>
 
 		<ul style="list-style-type:disc">
 		<li><a href="/desc/http://anat.org/muscles-propres-ceint-scap">Muscles propres de la ceinture scapulaire<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DmWjWnCeieWTGDiKLvXnGLv4" alt="img. muscles propres de la ceinture scapulaire"/></span></a>
@@ -3240,10 +3241,10 @@ td {
 	</li>
 	<button class="collapsible"><li><h4 class="subarea">MEMBRE SUPÉRIEUR DROIT</h4></button>
 	<div class="content">
-<p><a>►<span id=infobulle><img src="" alt="img. "/></span></a></p>
+<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=O9DKniTbyeuKzCWj8Lq01jKr" alt="img. muscles region du mb sup D"/></span></a></p>
 
 		<ul style="list-style-type:square">
-		<li><a href="/desc/http://anat.org/R-muscles-propres-epaule">MUSCLES DE L'ÉPAULE DROITE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yy4PvOb8jKHLe4HzWXqWn4f4" alt="img. muscles propres de l'epaule D"/></span></a></li>
+		<li><a href="/desc/http://anat.org/MSCL-R-epaule">MUSCLES DE L'ÉPAULE DROITE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Pf8XPPn41H9Ti091LfC4DK51" alt="img. muscles region de l'epaule D"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3265,7 +3266,7 @@ td {
 
 </div>
 
-		<li><a href="/desc/http://anat.org/">MUSCLES DU BRAS DROIT<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/">MUSCLES DU BRAS DROIT<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OrCuiWC89fi8GriyeCDmmeiy" alt="img. muscles region du bras D"/></span></a></li>
 
 			<ul style="list-style-type:disc">
 			<li><a href="/desc/http://anat.org/R-muscles-bras-loge-ant">Muscles antérieurs du bras droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=HDm05XiueCeCDGvy8T5Hrm41" alt="img. muscles ant bras D"/></span></a></li>
@@ -3305,7 +3306,7 @@ td {
 
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/">MUSCLES DE L'AVANT-BRAS DROIT<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/">MUSCLES DE L'AVANT-BRAS DROIT<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=8v49nKzu4j0njmeKj4i45jue" alt="img. muscles region de l'avant-bras D"/></span></a>
 
 			<ul style="list-style-type:disc">
 			<li><a href="/desc/http://anat.org/R-muscles-ant-avt-bras">Muscles antérieurs de l’avant-bras droit<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4nW5H5SLHzyWueyueWK5D0Da" alt="img. muscles ant avt-bras D"/></span></a></li>
@@ -3370,7 +3371,7 @@ td {
 
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/">MUSCLES DE LA MAIN DROITE<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/">MUSCLES DE LA MAIN DROITE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=a8fSzSeei8jmaiW1rG0r8bqe" alt="img. muscles region de la main D"/></span></a>
 
 			<ul style="list-style-type:disc">
 			<li><a href="/desc/http://anat.org/R-muscles-loge-med-main">Muscles de la loge médiale de la main droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=PXLf8H4j0vi0nqqeeSuKjyWH" alt="img. muscles loge mediale main D"/></span></a></li>
@@ -3495,10 +3496,10 @@ td {
 	</li>
 	<button class="collapsible"><li><h4 class="subarea">MEMBRE SUPÉRIEUR GAUCHE</h4></button>
 	<div class="content">
-<p><a>►<span id=infobulle><img src="" alt="img. "/></span></a></p>
+<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zmaWLHiyuC0DTHjuqGX9jS15" alt="img. muscles region du mb sup G"/></span></a></p>
 
 		<ul style="list-style-type:square">
-		<li><a href="/desc/http://anat.org/L-muscles-propres-epaule">MUSCLES DE L'ÉPAULE GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=j8vamm8bm4X5nKbq8PTDySLr" alt="img. muscles propres de l'epaule G"/></span></a></li>
+		<li><a href="/desc/http://anat.org/MSCL-L-epaule">MUSCLES DE L'ÉPAULE GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=91H9D8COzq0zWbSDqWne89Dq" alt="img. muscles region de l'epaule G"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
@@ -3519,7 +3520,7 @@ td {
 			</ul>
 
 </div>
-		<li><a href="/desc/http://anat.org/">MUSCLES DU BRAS GAUCHE<span id=infobulle><img src="" alt="img. "/></span></a></li>
+		<li><a href="/desc/http://anat.org/">MUSCLES DU BRAS GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=01LDSLvKfuS11PzS5zWPrquG" alt="img. muscles region du bras G"/></span></a></li>
 
 			<ul style="list-style-type:disc">
 			<li><a href="/desc/http://anat.org/L-muscles-bras-loge-ant">Muscles antérieurs du bras gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4DCiCi1XTjCW1rCWH10jGXbK" alt="img. muscles ant bras G"/></span></a></li>
@@ -3559,7 +3560,7 @@ td {
 
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/">MUSCLES DE L'AVANT-BRAS GAUCHE<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/">MUSCLES DE L'AVANT-BRAS GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=SDiiCiuiiGzqD019DKfCuWna" alt="img. muscles region de l'avant-bras G"/></span></a>
 
 			<ul style="list-style-type:disc">
 			<li><a href="/desc/http://anat.org/L-muscles-ant-avt-bras">Muscles antérieurs de l’avant-bras gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=fW1vmCrWH1TXyyWTPvaeKjSv" alt="img. muscles ant avt-bras G"/></span></a></li>
@@ -3624,7 +3625,7 @@ td {
 
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/">MUSCLES DE LA MAIN GAUCHE<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/">MUSCLES DE LA MAIN GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=u85fee4f01f0Lz8bOXy45HnK" alt="img. muscles region de la main G"/></span></a>
 
 			<ul style="list-style-type:disc">
 			<li><a href="/desc/http://anat.org/L-muscles-loge-med-main">Muscles de la loge médiale de la main gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=rySTPvGLvaCKKP5Xjyr81HLf" alt="img. muscles loge mediale main G"/></span></a></li>
@@ -3756,7 +3757,7 @@ td {
 
 	<button class="collapsible"><li><h4 class="subarea">MUSCLES DE LA CEINTURE PELVIENNE</h4></button>
 	<div class="content">
-<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Tf455jru0XHPGHj4TPe8DiKj" alt="img. muscles ceinture pelvienne"/></span></a></p>
+<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4LfyiOySPrimiy8neGyaa0rC" alt="img. muscles region de la ceinture pelvienne"/></span></a></p>
 
 		<ul style="list-style-type:disc">
 		<li><a href="/desc/http://anat.org/muscles-ceint-pelv-couche-pfde">Muscles de la ceinture pelvienne : couche profonde<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DKfiKn1rmCKHX5Lr4T0PPDy0" alt="img. muscles ceinture pelvienne couche profonde"/></span></a>
@@ -3892,10 +3893,10 @@ td {
 	</li>
 	<button class="collapsible"><li><h4 class="subarea">MEMBRE INFÉRIEUR DROIT</h4></button>
 	<div class="content">
-<p><a>►<span id=infobulle><img src="" alt="img. "/></span></a></p>
+<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=bWrKXvTz0b0b4HXT5LmeyCKr" alt="img. muscles region du membre inf D"/></span></a></p>
 
 		<ul style="list-style-type:square">
-		<li><a href="/desc/http://anat.org/MSCL-R-cuisse">MUSCLES DE LA CUISSE DROITE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=O11zSfWXL5fG5juGz8ODyWTP" alt="img. muscles cuisse D"/></span></a>
+		<li><a href="/desc/http://anat.org/MSCL-R-cuisse">MUSCLES DE LA CUISSE DROITE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=SDyWj4q0jS1Lii4bGPT11rmq" alt="img. muscles region de la cuisse D"/></span></a>
 
 			<ul style="list-style-type:disc">
 			<li><a href="/desc/http://anat.org/R-muscles-ant-cuisse">Muscles antérieurs de la cuisse droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=f4jKzWTr4P1D5juGzSXvCa8L" alt="img. muscles ant cuisse D"/></span></a>
@@ -3976,7 +3977,7 @@ td {
 			<li><a href="/desc/http://anat.org/R-lgmt-patellaire">Ligament patellaire (anc. rotulien) droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/MSCL-R-jambe">MUSCLES DE LA JAMBE DROITE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=9zyyW58P5LHPbOjuqGLny0fa" alt="img. muscles jambe D"/></span></a>
+		<li><a href="/desc/http://anat.org/MSCL-R-jambe">MUSCLES DE LA JAMBE DROITE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=j09nmyTn8vOHmiqu8rXXjKDC" alt="img. muscles region de la jambe D"/></span></a>
 
 			<ul style="list-style-type:disc">
 			<li><a href="/desc/http://anat.org/R-muscles-ant-jambe">Muscles antérieurs de la jambe droite<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=O9XDGfz0zSziqWzCmSvqO15L" alt="img. muscles ant jambe D"/></span></a>
@@ -4039,7 +4040,7 @@ td {
 			</li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/MSCL-R-pied">MUSCLES DU PIED DROIT<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/MSCL-R-pied">MUSCLES DU PIED DROIT<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=riKjy45PHfG5umuyOfz8LDGH" alt="img. muscles region du pied D"/></span></a>
 
 			<ul style="list-style-type:disc">
 			<li><a href="/desc/http://anat.org/R-muscles-plantR-med-pied">Muscles plantaires médiaux droits<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=muey85fymaS5TzGvCCKveKjW" alt="img. muscles plantaires mediaux D"/></span></a>
@@ -4166,10 +4167,10 @@ td {
 	</li>
 	<button class="collapsible"><li><h4 class="subarea">MEMBRE INFÉRIEUR GAUCHE</h4></button>
 	<div class="content">
-<p><a>►<span id=infobulle><img src="" alt="img. "/></span></a></p>
+<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yyGfWnb0nyuW8DGP9PqSrCqK" alt="img. muscles region du membre inf G"/></span></a></p>
 
 		<ul style="list-style-type:square">
-		<li><a href="/desc/http://anat.org/MSCL-L-cuisse">MUSCLES DE LA CUISSE GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=SHLXLHeK5LfSOb4HLDO5HHHb" alt="img. muscles cuisse G"/></span></a>
+		<li><a href="/desc/http://anat.org/MSCL-L-cuisse">MUSCLES DE LA CUISSE GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Tf0bmevKTDO9PnmC810DeiKD" alt="img. muscles region de la cuisse G"/></span></a>
 
 			<ul style="list-style-type:disc">
 			<li><a href="/desc/http://anat.org/L-muscles-ant-cuisse">Muscles antérieurs de la cuisse gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=e4Lzmue0P9PXTDiqOXvmaOPv" alt="img. muscles ant cuisse G"/></span></a>
@@ -4250,7 +4251,7 @@ td {
 			<li><a href="/desc/http://anat.org/L-lgmt-patellaire">Ligament patellaire (anc. rotulien) gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/MSCL-L-jambe">MUSCLES DE LA JAMBE GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=aC8nGzDqW1n8Wvq8DuWnq8j4" alt="img. muscles jambe G"/></span></a>
+		<li><a href="/desc/http://anat.org/MSCL-L-jambe">MUSCLES DE LA JAMBE GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=eWDm0feKXbCqeq0bmS1X991f" alt="img. muscles region de la jambe G"/></span></a>
 
 			<ul style="list-style-type:disc">
 			<li><a href="/desc/http://anat.org/L-muscles-ant-jambe">Muscles antérieurs de la jambe gauche<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=KzSnm0r4fmea1rSX9zye0nu0" alt="img. muscles ant jambe G"/></span></a>
@@ -4313,7 +4314,7 @@ td {
 			</li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/MSCL-L-pied">MUSCLES DU PIED GAUCHE<span id=infobulle><img src="" alt="img. "/></span></a>
+		<li><a href="/desc/http://anat.org/MSCL-L-pied">MUSCLES DU PIED GAUCHE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=OHLXn8GvuGPDHXn89LLL599v" alt="img. muscles region du pied G"/></span></a>
 
 			<ul style="list-style-type:disc">
 			<li><a href="/desc/http://anat.org/L-muscles-plantR-med-pied">Muscles plantaires médiaux gauches<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Kvim8Tze8neuTnWr0jrKzmue" alt="img. muscles plantaires mediaux G"/></span></a>

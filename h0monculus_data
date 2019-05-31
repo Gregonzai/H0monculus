@@ -471,180 +471,370 @@ anat:OS-tronc	rdf:type	anat:OS-region-anat .
 anat:OS-tete-cou	rdf:type	anat:OS-region-anat .
 anat:OS-tete	rdf:type	anat:OS-region-anat .
 anat:OS-cou	rdf:type	anat:OS-region-anat .
-anat:OS-thorax	rdf:type	anat:OS-region-anat .
-anat:OS-abdomen	rdf:type	anat:OS-region-anat .
-anat:OS-pelvis	rdf:type	anat:OS-region-anat .
-anat:OS-dos	rdf:type	anat:OS-region-anat .
-anat:OS-dos-cervi	rdf:type	anat:OS-region-anat .
-anat:OS-dos-thorax	rdf:type	anat:OS-region-anat .
-anat:OS-dos-lombaire	rdf:type	anat:OS-region-anat .
-anat:OS-dos-pelvis	rdf:type	anat:OS-region-anat .
-anat:OS-charn-C0-C1-C2	rdf:type	anat:OS-region-anat .
-anat:OS-charn-C-T	rdf:type	anat:OS-region-anat .
-anat:OS-charn-T-L	rdf:type	anat:OS-region-anat .
-anat:OS-charn-L-S	rdf:type	anat:OS-region-anat .
-anat:OS-charn-S-Co	rdf:type	anat:OS-region-anat .
-anat:OS-tete-ant	rdf:type	anat:OS-region-anat .
-anat:OS-tete-moy	rdf:type	anat:OS-region-anat .
-anat:OS-tete-post	rdf:type	anat:OS-region-anat .
 anat:OS-cou-sup	rdf:type	anat:OS-region-anat .
 anat:OS-cou-moy	rdf:type	anat:OS-region-anat .
 anat:OS-cou-inf	rdf:type	anat:OS-region-anat .
+anat:OS-thorax	rdf:type	anat:OS-region-anat .
 anat:OS-thorax-sup	rdf:type	anat:OS-region-anat .
 anat:OS-thorax-moy	rdf:type	anat:OS-region-anat .
 anat:OS-thorax-inf	rdf:type	anat:OS-region-anat .
+anat:OS-abdomen	rdf:type	anat:OS-region-anat .
 anat:OS-abdomen-sup	rdf:type	anat:OS-region-anat .
 anat:OS-abdomen-inf	rdf:type	anat:OS-region-anat .
+anat:OS-pelvis	rdf:type	anat:OS-region-anat .
 anat:OS-pelvis-sup	rdf:type	anat:OS-region-anat .
 anat:OS-pelvis-inf	rdf:type	anat:OS-region-anat .
-
-
-
-
-
-# A FAIRE !!!
-
-
-
-
-
+anat:OS-dos	rdf:type	anat:OS-region-anat .
+anat:OS-charnieres-vertebrales	rdf:type	anat:OS-region-anat .
+anat:OS-ceintures	rdf:type	anat:OS-region-anat .
 anat:OS-ceinture-pelv	rdf:type	anat:OS-region-anat .
 anat:OS-ceinture-scap	rdf:type	anat:OS-region-anat .
+anat:OS-R-membre-inf	rdf:type	anat:OS-region-anat .
 anat:OS-R-hanche	rdf:type	anat:OS-region-anat .
 anat:OS-R-cuisse	rdf:type	anat:OS-region-anat .
 anat:OS-R-genou	rdf:type	anat:OS-region-anat .
 anat:OS-R-jambe	rdf:type	anat:OS-region-anat .
 anat:OS-R-cheville	rdf:type	anat:OS-region-anat .
 anat:OS-R-pied	rdf:type	anat:OS-region-anat .
+anat:OS-L-membre-inf	rdf:type	anat:OS-region-anat .
 anat:OS-L-hanche	rdf:type	anat:OS-region-anat .
 anat:OS-L-cuisse	rdf:type	anat:OS-region-anat .
 anat:OS-L-genou	rdf:type	anat:OS-region-anat .
 anat:OS-L-jambe	rdf:type	anat:OS-region-anat .
 anat:OS-L-cheville	rdf:type	anat:OS-region-anat .
 anat:OS-L-pied	rdf:type	anat:OS-region-anat .
+anat:OS-R-membre-sup	rdf:type	anat:OS-region-anat .
 anat:OS-R-epaule	rdf:type	anat:OS-region-anat .
 anat:OS-R-bras	rdf:type	anat:OS-region-anat .
 anat:OS-R-coude	rdf:type	anat:OS-region-anat .
 anat:OS-R-avt-bras	rdf:type	anat:OS-region-anat .
 anat:OS-R-poignet	rdf:type	anat:OS-region-anat .
 anat:OS-R-main	rdf:type	anat:OS-region-anat .
+anat:OS-L-membre-sup	rdf:type	anat:OS-region-anat .
 anat:OS-L-epaule	rdf:type	anat:OS-region-anat .
 anat:OS-L-bras	rdf:type	anat:OS-region-anat .
 anat:OS-L-coude	rdf:type	anat:OS-region-anat .
 anat:OS-L-avt-bras	rdf:type	anat:OS-region-anat .
 anat:OS-L-poignet	rdf:type	anat:OS-region-anat .
 anat:OS-L-main	rdf:type	anat:OS-region-anat .
-
-anat:OS-ceinture-pelv	anat:comprend	anat:OS-R-hanche .
-anat:OS-ceinture-pelv	anat:comprend	anat:OS-L-hanche .
-anat:OS-ceinture-pelv	anat:comprend	anat:disque-interpubien .
-anat:OS-ceinture-pelv	anat:comprend	anat:sacrum .
-anat:OS-ceinture-pelv	anat:comprend	anat:coccyx .
-anat:OS-ceinture-pelv	anat:comprend	anat:div-S5-Co .
+		
+anat:OS-tronc	anat:prolonge	anat:OS-tete .
+anat:OS-cou	anat:prolonge	anat:OS-tete .
+anat:OS-thorax	anat:prolonge	anat:OS-cou .
+anat:OS-cou-sup	anat:prolonge	anat:OS-tete .
+anat:OS-cou-moy	anat:prolonge	anat:OS-cou-sup .
+anat:OS-cou-inf	anat:prolonge	anat:OS-cou-moy .
+anat:OS-thorax	anat:prolonge	anat:OS-tete-cou .
+anat:OS-thorax-sup	anat:prolonge	anat:OS-cou-inf .
+anat:OS-thorax-moy	anat:prolonge	anat:OS-thorax-sup .
+anat:OS-thorax-inf	anat:prolonge	anat:OS-thorax-moy .
+anat:OS-abdomen	anat:prolonge	anat:OS-thorax .
+anat:OS-abdomen-sup	anat:prolonge	anat:OS-thorax-inf .
+anat:OS-abdomen-sup	anat:prolonge	anat:OS-thorax-moy .
+anat:OS-abdomen-inf	anat:prolonge	anat:OS-abdomen-sup .
+anat:OS-pelvis	anat:prolonge	anat:OS-abdomen .
+anat:OS-pelvis-sup	anat:prolonge	anat:OS-abdomen-inf .
+anat:OS-pelvis-inf	anat:prolonge	anat:OS-pelvis-sup .
+anat:OS-dos	anat:prolonge	anat:OS-tete .
+anat:OS-dos	anat:prolonge	anat:OS-R-hanche .
+anat:OS-dos	anat:prolonge	anat:OS-L-hanche .
+anat:OS-dos	anat:prolonge	anat:OS-R-membre-inf .
+anat:OS-dos	anat:prolonge	anat:OS-L-membre-inf .
+anat:OS-R-membre-sup	anat:prolonge	anat:OS-thorax .
+anat:OS-R-avt-bras	anat:prolonge	anat:OS-R-bras .
+anat:OS-R-main	anat:prolonge	anat:OS-R-avt-bras .
+anat:OS-R-epaule	anat:prolonge	anat:OS-thorax .
+anat:OS-L-membre-sup	anat:prolonge	anat:OS-thorax .
+anat:OS-L-avt-bras	anat:prolonge	anat:OS-L-bras .
+anat:OS-L-main	anat:prolonge	anat:OS-L-avt-bras .
+anat:OS-L-epaule	anat:prolonge	anat:OS-thorax .
+anat:OS-R-cuisse	anat:prolonge	anat:OS-pelvis .
+anat:OS-R-jambe	anat:prolonge	anat:OS-R-cuisse .
+anat:OS-R-pied	anat:prolonge	anat:OS-R-jambe .
+anat:OS-L-cuisse	anat:prolonge	anat:OS-pelvis .
+anat:OS-L-jambe	anat:prolonge	anat:OS-L-cuisse .
+anat:OS-L-pied	anat:prolonge	anat:OS-L-jambe .
+		
+anat:Sys-osseux	anat:comprend	anat:OS-unite-centrale .
+anat:Sys-osseux	anat:comprend	anat:OS-ceintures .
+anat:Sys-osseux	anat:comprend	anat:OS-R-membre-sup .
+anat:Sys-osseux	anat:comprend	anat:OS-L-membre-sup .
+anat:Sys-osseux	anat:comprend	anat:OS-R-membre-inf .
+anat:Sys-osseux	anat:comprend	anat:OS-L-membre-inf .
+anat:OS-unite-centrale	anat:comprend	anat:OS-tronc .
+anat:OS-unite-centrale	anat:comprend	anat:OS-tete-cou .
+anat:OS-unite-centrale	anat:comprend	anat:OS-charnieres-vertebrales .
+anat:OS-tronc	anat:comprend	anat:OS-cou .
+anat:OS-tronc	anat:comprend	anat:OS-thorax .
+anat:OS-tronc	anat:comprend	anat:OS-abdomen .
+anat:OS-tronc	anat:comprend	anat:OS-pelvis .
+anat:OS-tronc	anat:comprend	anat:OS-dos .
+anat:OS-tronc	anat:comprend	anat:OS-charnieres-vertebrales .
+anat:OS-tete-cou	anat:comprend	anat:OS-tete .
+anat:OS-tete-cou	anat:comprend	anat:OS-cou .
+anat:OS-cou	anat:comprend	anat:OS-cou-sup .
+anat:OS-cou	anat:comprend	anat:OS-cou-moy .
+anat:OS-cou	anat:comprend	anat:OS-cou-inf .
+anat:OS-thorax	anat:comprend	anat:OS-thorax-sup .
+anat:OS-thorax	anat:comprend	anat:OS-thorax-moy .
+anat:OS-thorax	anat:comprend	anat:OS-thorax-inf .
+anat:OS-abdomen	anat:comprend	anat:OS-abdomen-sup .
+anat:OS-abdomen	anat:comprend	anat:OS-abdomen-inf .
+anat:OS-pelvis	anat:comprend	anat:OS-pelvis-sup .
+anat:OS-pelvis	anat:comprend	anat:OS-pelvis-inf .
+anat:OS-pelvis	anat:part-comprend	anat:OS-R-membre-inf .
+anat:OS-pelvis	anat:part-comprend	anat:OS-L-membre-inf .
+anat:OS-pelvis	anat:part-comprend	anat:OS-R-hanche .
+anat:OS-pelvis	anat:part-comprend	anat:OS-L-hanche .
+anat:OS-dos	anat:comprend	anat:OS-charnieres-vertebrales .
+anat:OS-ceintures	anat:comprend	anat:OS-ceinture-scap .
+anat:OS-ceintures	anat:comprend	anat:OS-ceinture-pelv .
 anat:OS-ceinture-scap	anat:comprend	anat:OS-R-epaule .
 anat:OS-ceinture-scap	anat:comprend	anat:OS-L-epaule .
+anat:OS-ceinture-pelv	anat:comprend	anat:OS-charn-L-S .
+anat:OS-ceinture-pelv	anat:comprend	anat:OS-R-hanche .
+anat:OS-ceinture-pelv	anat:comprend	anat:OS-L-hanche .
+anat:OS-R-membre-sup	anat:comprend	anat:OS-R-epaule .
+anat:OS-R-membre-sup	anat:comprend	anat:OS-R-bras .
+anat:OS-R-membre-sup	anat:comprend	anat:OS-R-coude .
+anat:OS-R-membre-sup	anat:comprend	anat:OS-R-avt-bras .
+anat:OS-R-membre-sup	anat:comprend	anat:OS-R-poignet .
+anat:OS-R-membre-sup	anat:comprend	anat:OS-R-main .
+anat:OS-R-epaule	anat:part-comprend	anat:OS-R-bras .
+anat:OS-R-coude	anat:part-comprend	anat:OS-R-bras .
+anat:OS-R-coude	anat:part-comprend	anat:OS-R-avt-bras .
+anat:OS-R-poignet	anat:part-comprend	anat:OS-R-avt-bras .
+anat:OS-R-poignet	anat:part-comprend	anat:OS-R-main .
+anat:OS-L-membre-sup	anat:comprend	anat:OS-L-epaule .
+anat:OS-L-membre-sup	anat:comprend	anat:OS-L-bras .
+anat:OS-L-membre-sup	anat:comprend	anat:OS-L-coude .
+anat:OS-L-membre-sup	anat:comprend	anat:OS-L-avt-bras .
+anat:OS-L-membre-sup	anat:comprend	anat:OS-L-poignet .
+anat:OS-L-membre-sup	anat:comprend	anat:OS-L-main .
+anat:OS-L-epaule	anat:part-comprend	anat:OS-L-bras .
+anat:OS-L-coude	anat:part-comprend	anat:OS-L-bras .
+anat:OS-L-coude	anat:part-comprend	anat:OS-L-avt-bras .
+anat:OS-L-poignet	anat:part-comprend	anat:OS-L-avt-bras .
+anat:OS-L-poignet	anat:part-comprend	anat:OS-L-main .
+anat:OS-R-membre-inf	anat:comprend	anat:OS-R-hanche .
+anat:OS-R-membre-inf	anat:comprend	anat:OS-R-cuisse .
+anat:OS-R-membre-inf	anat:comprend	anat:OS-R-genou .
+anat:OS-R-membre-inf	anat:comprend	anat:OS-R-jambe .
+anat:OS-R-membre-inf	anat:comprend	anat:OS-R-cheville .
+anat:OS-R-membre-inf	anat:comprend	anat:OS-R-pied .
+anat:OS-R-hanche	anat:part-comprend	anat:OS-pelvis .
+anat:OS-R-hanche	anat:part-comprend	anat:OS-R-cuisse .
+anat:OS-R-genou	anat:part-comprend	anat:OS-R-cuisse .
+anat:OS-R-genou	anat:part-comprend	anat:OS-R-jambe .
+anat:OS-R-cheville	anat:part-comprend	anat:OS-R-jambe .
+anat:OS-R-cheville	anat:part-comprend	anat:OS-R-pied .
+anat:OS-L-membre-inf	anat:comprend	anat:OS-L-hanche .
+anat:OS-L-membre-inf	anat:comprend	anat:OS-L-cuisse .
+anat:OS-L-membre-inf	anat:comprend	anat:OS-L-genou .
+anat:OS-L-membre-inf	anat:comprend	anat:OS-L-jambe .
+anat:OS-L-membre-inf	anat:comprend	anat:OS-L-cheville .
+anat:OS-L-membre-inf	anat:comprend	anat:OS-L-pied .
+anat:OS-L-hanche	anat:part-comprend	anat:OS-pelvis .
+anat:OS-L-hanche	anat:part-comprend	anat:OS-L-cuisse .
+anat:OS-L-genou	anat:part-comprend	anat:OS-L-cuisse .
+anat:OS-L-genou	anat:part-comprend	anat:OS-L-jambe .
+anat:OS-L-cheville	anat:part-comprend	anat:OS-L-jambe .
+anat:OS-L-cheville	anat:part-comprend	anat:OS-L-pied .
+		
+anat:OS-unite-centrale	anat:comprend	anat:grande-colonne-v .
+anat:OS-tronc	anat:comprend	anat:colonne-v .
+anat:OS-tete-cou	anat:comprend	anat:charniere-C0-C1-C2 .
+anat:OS-tete-cou	anat:part-comprend	anat:charniere-cervico-thoracique .
+anat:OS-tete	anat:comprend	anat:os-crane .
+anat:OS-tete	anat:comprend	anat:menisques-temporo-mandibulaires .
+anat:OS-tete	anat:part-comprend	anat:charniere-C0-C1-C2 .
+anat:OS-cou	anat:comprend	anat:cv-cervicale .
+anat:OS-cou	anat:comprend	anat:os-hyoide .
+anat:OS-cou	anat:part-comprend	anat:charniere-C0-C1-C2 .
+anat:OS-cou	anat:part-comprend	anat:charniere-cervico-thoracique .
+anat:OS-cou-sup	anat:comprend	anat:cv-cervicale-sup .
+anat:OS-cou-sup	anat:comprend	anat:os-hyoide .
+anat:OS-cou-sup	anat:part-comprend	anat:charniere-C0-C1-C2 .
+anat:OS-cou-moy	anat:comprend	anat:cv-cervicale-moy .
+anat:OS-cou-inf	anat:comprend	anat:cv-cervicale-inf .
+anat:OS-cou-inf	anat:part-comprend	anat:charniere-cervico-thoracique .
+anat:OS-thorax	anat:comprend	anat:cv-thoraciq .
+anat:OS-thorax	anat:comprend	anat:cage-thoracique .
+anat:OS-thorax	anat:part-comprend	anat:charniere-cervico-thoracique .
+anat:OS-thorax	anat:part-comprend	anat:charniere-thoraco-lombaire .
+anat:OS-thorax-sup	anat:comprend	anat:cv-thoraciq-sup .
+anat:OS-thorax-sup	anat:comprend	anat:cage-thoracique-sup .
+anat:OS-thorax-sup	anat:part-comprend	anat:sternum .
+anat:OS-thorax-sup	anat:part-comprend	anat:charniere-cervico-thoracique .
+anat:OS-thorax-moy	anat:comprend	anat:cv-thoraciq-moy .
+anat:OS-thorax-moy	anat:comprend	anat:cage-thoracique-moy .
+anat:OS-thorax-moy	anat:part-comprend	anat:sternum .
+anat:OS-thorax-inf	anat:comprend	anat:cv-thoraciq-inf .
+anat:OS-thorax-inf	anat:comprend	anat:cage-thoracique-inf .
+anat:OS-thorax-inf	anat:part-comprend	anat:charniere-thoraco-lombaire .
+anat:OS-abdomen	anat:comprend	anat:cv-lombaire .
+anat:OS-abdomen	anat:part-comprend	anat:charniere-thoraco-lombaire .
+anat:OS-abdomen	anat:part-comprend	anat:charniere-lombo-sacree .
+anat:OS-abdomen-sup	anat:comprend	anat:cv-lombaire-sup .
+anat:OS-abdomen-sup	anat:part-comprend	anat:charniere-thoraco-lombaire .
+anat:OS-abdomen-inf	anat:comprend	anat:cv-lombaire-inf .
+anat:OS-abdomen-inf	anat:part-comprend	anat:charniere-lombo-sacree .
+anat:OS-pelvis	anat:comprend	anat:pelvis-osseux .
+anat:OS-pelvis	anat:comprend	anat:div-S5-Co .
+anat:OS-pelvis	anat:comprend	anat:disque-interpubien .
+anat:OS-pelvis	anat:comprend	anat:R-labrum-acetabulaire .
+anat:OS-pelvis	anat:comprend	anat:L-labrum-acetabulaire .
+anat:OS-pelvis	anat:part-comprend	anat:charniere-lombo-sacree .
+anat:OS-pelvis	anat:comprend	anat:charniere-sacro-coccygienne .
+anat:OS-pelvis-sup	anat:comprend	anat:cv-pelvienne-sup .
+anat:OS-pelvis-sup	anat:part-comprend	anat:R-iliaque .
+anat:OS-pelvis-sup	anat:part-comprend	anat:L-iliaque .
+anat:OS-pelvis-sup	anat:part-comprend	anat:charniere-lombo-sacree .
+#anat:OS-pelvis-sup	anat:comprend	anat:R-aile-iliaque .
+#anat:OS-pelvis-sup	anat:part-comprend	anat:R-port-acetabulaire .
+#anat:OS-pelvis-sup	anat:comprend	anat:L-aile-iliaque .
+#anat:OS-pelvis-sup	anat:part-comprend	anat:L-port-acetabulaire .
+anat:OS-pelvis-inf	anat:comprend	anat:cv-pelvienne-inf .
+anat:OS-pelvis-inf	anat:part-comprend	anat:R-iliaque .
+anat:OS-pelvis-inf	anat:part-comprend	anat:L-iliaque .
+anat:OS-pelvis-inf	anat:comprend	anat:charniere-sacro-coccygienne .
+#anat:OS-pelvis-inf	anat:comprend	anat:R-port-acetabulaire .
+#anat:OS-pelvis-inf	anat:part-comprend	anat:R-port-pourtour-foramen .
+#anat:OS-pelvis-inf	anat:comprend	anat:L-port-acetabulaire .
+#anat:OS-pelvis-inf	anat:part-comprend	anat:L-port-pourtour-foramen .
+anat:OS-dos	anat:comprend	anat:colonne-v .
+anat:OS-dos	anat:part-comprend	anat:cotes .
+anat:OS-dos	anat:part-comprend	anat:R-iliaque .
+anat:OS-dos	anat:part-comprend	anat:L-iliaque .
+anat:OS-charnieres-vertebrales	anat:comprend	anat:charniere-C0-C1-C2 .
+anat:OS-charnieres-vertebrales	anat:comprend	anat:charniere-cervico-thoracique .
+anat:OS-charnieres-vertebrales	anat:comprend	anat:charniere-thoraco-lombaire .
+anat:OS-charnieres-vertebrales	anat:comprend	anat:charniere-lombo-sacree .
+anat:OS-charnieres-vertebrales	anat:comprend	anat:charniere-sacro-coccygienne .
 anat:OS-ceinture-scap	anat:comprend	anat:sternum-manubrium .
-anat:OS-R-hanche	anat:comprend	anat:R-iliaque .
-anat:OS-R-hanche	anat:comprend	anat:R-femur-epiP-sup .
-anat:OS-R-hanche	anat:comprend	anat:R-labrum-acetabulaire .
+anat:OS-R-bras	anat:comprend	anat:R-humerus .
+anat:OS-L-bras	anat:comprend	anat:L-humerus .
+anat:OS-R-avt-bras	anat:comprend	anat:R-radius .
+anat:OS-R-avt-bras	anat:comprend	anat:R-ulna .
+anat:OS-R-avt-bras	anat:comprend	anat:R-menisque-ulno-carpien .
+anat:OS-L-avt-bras	anat:comprend	anat:L-radius .
+anat:OS-L-avt-bras	anat:comprend	anat:L-ulna .
+anat:OS-L-avt-bras	anat:comprend	anat:L-menisque-ulno-carpien .
+anat:OS-R-main	anat:comprend	anat:R-os-carpe .
+anat:OS-R-main	anat:comprend	anat:R-meta-carpe .
+anat:OS-R-main	anat:comprend	anat:R-main-phalanges .
+anat:OS-R-main	anat:comprend	anat:R-main-os-sesamoides .
+anat:OS-L-main	anat:comprend	anat:L-os-carpe .
+anat:OS-L-main	anat:comprend	anat:L-meta-carpe .
+anat:OS-L-main	anat:comprend	anat:L-main-phalanges .
+anat:OS-L-main	anat:comprend	anat:L-main-os-sesamoides .
+anat:OS-ceinture-pelv	anat:comprend	anat:disque-interpubien .
+anat:OS-ceinture-pelv	anat:comprend	anat:sacrum .
 anat:OS-R-cuisse	anat:comprend	anat:R-femur .
 anat:OS-R-cuisse	anat:comprend	anat:R-patella .
-anat:OS-R-genou	anat:comprend	anat:R-femur-epiP-inf .
-anat:OS-R-genou	anat:comprend	anat:R-patella .
-anat:OS-R-genou	anat:comprend	anat:R-tibia-epiP-sup .
-anat:OS-R-genou	anat:comprend	anat:R-fibula-epiP-sup .
-anat:OS-R-genou	anat:comprend	anat:R-tibia-menisques .
-anat:OS-R-jambe	anat:comprend	anat:R-tibia .
-anat:OS-R-jambe	anat:comprend	anat:R-fibula .
-anat:OS-R-cheville	anat:comprend	anat:R-tibia-epiP-inf .
-anat:OS-R-cheville	anat:comprend	anat:R-fibula-epiP-inf .
-anat:OS-R-cheville	anat:comprend	anat:R-os-tarse .
-anat:OS-R-pied	anat:comprend	anat:R-os-tarse .
-anat:OS-R-pied	anat:comprend	anat:R-meta-tarse .
-anat:OS-R-pied	anat:comprend	anat:R-pied-os-sesamoides .
-anat:OS-R-pied	anat:comprend	anat:R-pied-phalanges .
-anat:OS-R-pied	anat:comprend	anat:R-os-arche-int .
-anat:OS-R-pied	anat:comprend	anat:R-os-arche-ext .
-anat:OS-L-hanche	anat:comprend	anat:L-iliaque .
-anat:OS-L-hanche	anat:comprend	anat:L-femur-epiP-sup .
-anat:OS-L-hanche	anat:comprend	anat:L-labrum-acetabulaire .
 anat:OS-L-cuisse	anat:comprend	anat:L-femur .
 anat:OS-L-cuisse	anat:comprend	anat:L-patella .
-anat:OS-L-genou	anat:comprend	anat:L-femur-epiP-inf .
-anat:OS-L-genou	anat:comprend	anat:L-patella .
-anat:OS-L-genou	anat:comprend	anat:L-tibia-epiP-sup .
-anat:OS-L-genou	anat:comprend	anat:L-fibula-epiP-sup .
-anat:OS-L-genou	anat:comprend	anat:L-tibia-menisques .
+anat:OS-R-jambe	anat:comprend	anat:R-tibia .
+anat:OS-R-jambe	anat:comprend	anat:R-fibula .
+anat:OS-R-jambe	anat:comprend	anat:R-tibia-menisques .
 anat:OS-L-jambe	anat:comprend	anat:L-tibia .
 anat:OS-L-jambe	anat:comprend	anat:L-fibula .
-anat:OS-L-cheville	anat:comprend	anat:L-tibia-epiP-inf .
-anat:OS-L-cheville	anat:comprend	anat:L-fibula-epiP-inf .
-anat:OS-L-cheville	anat:comprend	anat:L-os-tarse .
+anat:OS-L-jambe	anat:comprend	anat:L-tibia-menisques .
+anat:OS-R-pied	anat:comprend	anat:R-os-tarse .
+anat:OS-R-pied	anat:comprend	anat:R-meta-tarse .
+anat:OS-R-pied	anat:comprend	anat:R-pied-phalanges .
+anat:OS-R-pied	anat:comprend	anat:R-pied-os-sesamoides .
+anat:OS-R-pied	anat:comprend	anat:R-os-arche-int .
+anat:OS-R-pied	anat:comprend	anat:R-os-arche-ext .
 anat:OS-L-pied	anat:comprend	anat:L-os-tarse .
 anat:OS-L-pied	anat:comprend	anat:L-meta-tarse .
-anat:OS-L-pied	anat:comprend	anat:L-pied-os-sesamoides .
 anat:OS-L-pied	anat:comprend	anat:L-pied-phalanges .
+anat:OS-L-pied	anat:comprend	anat:L-pied-os-sesamoides .
 anat:OS-L-pied	anat:comprend	anat:L-os-arche-int .
 anat:OS-L-pied	anat:comprend	anat:L-os-arche-ext .
 anat:OS-R-epaule	anat:comprend	anat:R-clavicule .
 anat:OS-R-epaule	anat:comprend	anat:R-scapula .
 anat:OS-R-epaule	anat:comprend	anat:R-humerus-epiP-sup .
-anat:OS-R-epaule	anat:comprend	anat:R-labrum-glenoidal .
-anat:OS-R-bras	anat:comprend	anat:R-humerus .
-anat:OS-R-coude	anat:comprend	anat:R-humerus-epiP-inf .
-anat:OS-R-coude	anat:comprend	anat:R-ulna-epiP-sup .
-anat:OS-R-coude	anat:comprend	anat:R-radius-epiP-sup .
-anat:OS-R-avt-bras	anat:comprend	anat:R-ulna .
-anat:OS-R-avt-bras	anat:comprend	anat:R-radius .
-anat:OS-R-poignet	anat:comprend	anat:R-ulna-epiP-inf .
-anat:OS-R-poignet	anat:comprend	anat:R-radius-epiP-inf .
-anat:OS-R-poignet	anat:comprend	anat:R-os-carpe .
-anat:OS-R-poignet	anat:comprend	anat:R-menisque-ulno-carpien .
-anat:OS-R-main	anat:comprend	anat:R-os-carpe .
-anat:OS-R-main	anat:comprend	anat:R-meta-carpe .
-anat:OS-R-main	anat:comprend	anat:R-main-os-sesamoides .
-anat:OS-R-main	anat:comprend	anat:R-main-phalanges .
-anat:OS-R-main	anat:comprend	anat:R-colonne-du-pouce .
 anat:OS-L-epaule	anat:comprend	anat:L-clavicule .
 anat:OS-L-epaule	anat:comprend	anat:L-scapula .
 anat:OS-L-epaule	anat:comprend	anat:L-humerus-epiP-sup .
-anat:OS-L-epaule	anat:comprend	anat:L-labrum-glenoidal .
-anat:OS-L-bras	anat:comprend	anat:L-humerus .
+anat:OS-R-coude	anat:comprend	anat:R-humerus-epiP-inf .
+anat:OS-R-coude	anat:comprend	anat:R-ulna-epiP-sup .
+anat:OS-R-coude	anat:comprend	anat:R-radius-epiP-sup .
 anat:OS-L-coude	anat:comprend	anat:L-humerus-epiP-inf .
 anat:OS-L-coude	anat:comprend	anat:L-ulna-epiP-sup .
 anat:OS-L-coude	anat:comprend	anat:L-radius-epiP-sup .
-anat:OS-L-avt-bras	anat:comprend	anat:L-ulna .
-anat:OS-L-avt-bras	anat:comprend	anat:L-radius .
+anat:OS-R-poignet	anat:comprend	anat:R-ulna-epiP-inf .
+anat:OS-R-poignet	anat:comprend	anat:R-radius-epiP-inf .
+anat:OS-R-poignet	anat:comprend	anat:R-os-carpe .
 anat:OS-L-poignet	anat:comprend	anat:L-ulna-epiP-inf .
 anat:OS-L-poignet	anat:comprend	anat:L-radius-epiP-inf .
 anat:OS-L-poignet	anat:comprend	anat:L-os-carpe .
-anat:OS-L-poignet	anat:comprend	anat:L-menisque-ulno-carpien .
-anat:OS-L-main	anat:comprend	anat:L-os-carpe .
-anat:OS-L-main	anat:comprend	anat:L-meta-carpe .
-anat:OS-L-main	anat:comprend	anat:L-main-os-sesamoides .
-anat:OS-L-main	anat:comprend	anat:L-main-phalanges .
-anat:OS-L-main	anat:comprend	anat:L-colonne-du-pouce .
+anat:OS-R-hanche	anat:comprend	anat:R-iliaque .
+anat:OS-R-hanche	anat:comprend	anat:R-femur-epiP-sup .
+anat:OS-L-hanche	anat:comprend	anat:L-iliaque .
+anat:OS-L-hanche	anat:comprend	anat:L-femur-epiP-sup .
+anat:OS-R-genou	anat:comprend	anat:R-femur-epiP-inf .
+anat:OS-R-genou	anat:comprend	anat:R-patella .
+anat:OS-R-genou	anat:comprend	anat:R-tibia-epiP-sup .
+anat:OS-R-genou	anat:comprend	anat:R-fibula-epiP-sup .
+anat:OS-L-genou	anat:comprend	anat:L-femur-epiP-inf .
+anat:OS-L-genou	anat:comprend	anat:L-patella .
+anat:OS-L-genou	anat:comprend	anat:L-tibia-epiP-sup .
+anat:OS-L-genou	anat:comprend	anat:L-fibula-epiP-sup .
+anat:OS-R-cheville	anat:comprend	anat:R-tibia-epiP-inf .
+anat:OS-R-cheville	anat:comprend	anat:R-fibula-epiP-inf .
+anat:OS-R-cheville	anat:comprend	anat:R-os-tarse .
+anat:OS-L-cheville	anat:comprend	anat:L-tibia-epiP-inf .
+anat:OS-L-cheville	anat:comprend	anat:L-fibula-epiP-inf .
+anat:OS-L-cheville	anat:comprend	anat:L-os-tarse .
 
+anat:Sys-osseux	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=8T1vGnuK5DG1qeKX59TPn4j8> .
+anat:OS-unite-centrale	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=baGDyCqaGrqqa4vGHPOnmWjG> .
+anat:OS-tronc	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=WjiWvKXvqGz8ySTH1fX911fK> .
+anat:OS-tete-cou	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=qKvammHrOfumfSDWr405faau> .
+anat:OS-tete	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=HfeG1DOjqOvSn4TTDGbOv4D4> .
+anat:OS-cou	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=5D45fKzSHbCK8jC4ne0jW9P1> .
+anat:OS-cou-sup	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=n8v8zSzyqyKnvmyiC0vaCGjy> .
+anat:OS-cou-moy	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=qaaOf849rS9r8PrOHnvC41b0> .
+anat:OS-cou-inf	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=T9T5HzPbWvyGDWXb8n1Hn0P9> .
+anat:OS-thorax	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=auS1fCbu4vuaXLnyi8zGzGre> .
+anat:OS-thorax-sup	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=KDSjySjqyCaqHreKTfaqKP5T> .
+anat:OS-thorax-moy	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=vmSXjqPfamOnjCmmmG4ri0PD> .
+anat:OS-thorax-inf	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=eGjK9fnKTvm0iyyyCOv0D4T9> .
+anat:OS-abdomen	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=eK1rKzyu0XTrve8T1z8LTTL1> .
+anat:OS-abdomen-sup	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=PbaSD8eKrea0Gr8f0fzumCCq> .
+anat:OS-abdomen-inf	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=yCqyey0rK1v0rqieem0XPz8P> .
+anat:OS-pelvis	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=qSHL5vC0PP9HCWnW1PjiuWHT> .
+#anat:OS-pelvis-sup	anat:hasImage3D	<> .
+#anat:OS-pelvis-inf	anat:hasImage3D	<> .
+anat:OS-dos	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=WXvCG9ue4HLjbq0vODWXL1Pn> .
+anat:OS-charnieres-vertebrales	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=y05jiO1D8fqOWXbOD4zODm0z> .
+anat:OS-ceintures	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=DiS9DODi81jqHnyGnK8vKzWH> .
 anat:OS-ceinture-pelv	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=HXPbWvfCaGzyLvCqOvTzGLXX> .
 anat:OS-ceinture-scap	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=WLf49nvCSfyy8zKf8bLfe4jm> .
+anat:OS-R-membre-inf	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=DaGz8LzGTHruOL1PXTTbS99D> .
 anat:OS-R-hanche	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=K19HfSe45TrW9n0LfyPLPHLj> .
 anat:OS-R-cuisse	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=0159L1yaSLnqXz0HrOKPD0Lj> .
-anat:OS-R-genou	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=f8ziWvvKraKju8L519KLnSbO> .
+anat:OS-R-genou	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=qCCuST19vO59yO1riyKPHLTb> .
 anat:OS-R-jambe	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ryWnmaGTvSL9GbiOPjqSTTPz> .
 anat:OS-R-cheville	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=fOLXzeuS5DCyrKjK9DGT1viK> .
 anat:OS-R-pied	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=GrKTDSy4LHnyWj459Xv8Du4j> .
+anat:OS-L-membre-inf	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=LLLviKTj49nuDeieq8a8XHPn> .
 anat:OS-L-hanche	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=vei055Sr0n8TqmeKjGX1LrCC> .
 anat:OS-L-cuisse	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=PHriqyDuqWXfK591XL0fe4Tz> .
-anat:OS-L-genou	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=L1f0n8aO1PfK0j4DeODy4bue> .
+anat:OS-L-genou	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=qKzKP9HnCSbeueiumu4XvCu8> .
 anat:OS-L-jambe	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=8TXb0Hn4beKP1b8Lz8D4nWXT> .
 anat:OS-L-cheville	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=PH5zi85DyGPPLb4THPKnS9Tz> .
 anat:OS-L-pied	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=y0fuS1LPfCKnTf8bGfDqKnuK> .
+anat:OS-R-membre-sup	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=byO9bCLbqmiiHP5z0nS9zu4n> .
 anat:OS-R-epaule	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=K5veSPDuiaimzOD0v0ma85LX> .
 anat:OS-R-bras	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=fyiiK901PrOX5r01bGKHXDiG> .
 anat:OS-R-coude	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=nKHf0Pai4vGn0ru8PTbSbeKn> .
 anat:OS-R-avt-bras	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=TL515PPzySbevyme4TLji4jO> .
 anat:OS-R-poignet	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=XzWHXnaem8TbeiueW5myOnCW> .
 anat:OS-R-main	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=5jeKfO9P1Di8uCCWbibC45fC> .
+anat:OS-L-membre-sup	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ySzaGHyeOv0vGTXDueD41vq0> .
 anat:OS-L-epaule	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=5nWT1fKfObm8j0zGTzuqqCm4> .
 anat:OS-L-bras	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=r0P9HPHvK9vuyGnqCKKfqSrS> .
 anat:OS-L-coude	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=jiGneWGf459brumGfKL5biO5> .
@@ -652,26 +842,52 @@ anat:OS-L-avt-bras	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?s
 anat:OS-L-poignet	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=W5nmqGKzSTXHm49DiO1PDSXj> .
 anat:OS-L-main	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=m0juemHzym4P8P9zqSDCO55T> .
 		
+anat:Sys-osseux	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=0TH9TruGDeOP0feGj4fi01va> .
+anat:OS-unite-centrale	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=DiqGbeXrK9HvPDa8jGaC8D0H> .
+anat:OS-tronc	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=u8j8LHODCGL99zmKPXeqGTza> .
+anat:OS-tete-cou	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=eGvmeOyGTD0LXfG55bPHvCK1> .
+anat:OS-tete	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=nyGHzq0zGTLTyqa4Lf5HDSPX> .
+anat:OS-cou	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=SD85TrXPDaeGyyC09TuaiKn4> .
+anat:OS-cou-sup	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=19zC4rvWPHP9Hruuq01THb81> .
+anat:OS-cou-moy	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=LXX5r8q4ra8HjWLDe8q4XDGH> .
+anat:OS-cou-inf	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=rumeeCr8neeCLTTzKnj0jKrK> .
+anat:OS-thorax	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=KniaCOna8bmqfay4PH0DqmW5> .
+anat:OS-thorax-sup	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=CWXziWbWb4ze5TP9DKyGnOPn> .
+anat:OS-thorax-moy	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=KT9THvy4LfC4imG5rOTvK5ny> .
+anat:OS-thorax-inf	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=4H15T9mWPfKv19zmeeXr4TvC> .
+anat:OS-abdomen	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=KfyK1H0zmK5fzOveaqnqeGvi> .
+anat:OS-abdomen-sup	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=XDqO5bKPbC0Pem4Pf8O1v0Lr> .
+anat:OS-abdomen-inf	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=TvOL1zjO91jeuqiyOPyyOPPr> .
+anat:OS-pelvis	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=yyWnaaniCSPP5HruaGPHb81r> .
+#anat:OS-pelvis-sup	anat:has3DmodelURL	<> .
+#anat:OS-pelvis-inf	anat:has3DmodelURL	<> .
+anat:OS-dos	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=SP5fGnK19j8zOvuiq85PjaC0> .
+anat:OS-charnieres-vertebrales	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=yCqKXbau4XvauKLH5PG5LTXX> .
+anat:OS-ceintures	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=1HTPrieKr49rPfm8DmP95DmW> .
 anat:OS-ceinture-pelv	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=vCaq8P89v8DOGfKnuCyKTHjm> .
 anat:OS-ceinture-scap	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=WjWnWrrm8PLzCiuOXLXz8zue> .
+anat:OS-R-membre-inf	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=rqKL91STLLbu41T5j4SPD4vS> .
 anat:OS-R-hanche	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Tb09rS5ruq4rPnieGzaqay8f> .
 anat:OS-R-cuisse	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=vuuaSP81vCyi1H5DKX1Dm0Hf> .
-anat:OS-R-genou	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=ei0LbuDCyGDuaq8Tbiama4vK> .
+anat:OS-R-genou	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=iaKD4Tniy0nCqmSLrObaCSf0> .
 anat:OS-R-jambe	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=9XfKPnGLjauGPXL991qiCy05> .
 anat:OS-R-cheville	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=vauWzC9vmuySuSXjyKbeO5P9> .
 anat:OS-R-pied	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=5XzG5j5j0XXvr0H51vbO99HP> .
+anat:OS-L-membre-inf	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Gb0z01vq01nGKf0fmKm4TjaK> .
 anat:OS-L-hanche	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=nSDCu0HrSzqCaeqW5Lv49fia> .
 anat:OS-L-cuisse	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=95vK15GL9zSTK5LrmOH59vOv> .
-anat:OS-L-genou	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=byG9f0fm85XXKn41f8C8na8j> .
+anat:OS-L-genou	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=vOH1T5LjqqqCLv4f01S51re4> .
 anat:OS-L-jambe	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=GL5zWfrGHzSzfiiCqS1X1zOv> .
 anat:OS-L-cheville	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=euOPjmjaCeqGH1r01P9vOnq8> .
 anat:OS-L-pied	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=f0nau0Wj0TferaqCu80fSPzi> .
+anat:OS-R-membre-sup	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=rqiq0HvKPjaCG9n8b0HP5THf> .
 anat:OS-R-epaule	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=KX5L9LGnW9D0TjGbeqm49fWv> .
 anat:OS-R-bras	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=CiWv0HbuaymeWreaSHaeKT5P> .
 anat:OS-R-coude	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=KLrumCPjum8DuKDy8TrKriia> .
 anat:OS-R-avt-bras	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=j09nKTWTD01XvW9z89SPfKzK> .
 anat:OS-R-poignet	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=PbWL5Pm015H1a4zueC9n0fSr> .
 anat:OS-R-main	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=rqC8nWmaua0rTbST5HKL1LDC> .
+anat:OS-L-membre-sup	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=ayuuKPmameuKn41vqu5jST9n> .
 anat:OS-L-epaule	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=reO9DOmm891LjK9nmqiaqeKX> .
 anat:OS-L-bras	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=f8DSnCCqWzySH5H5DK4jiKTP> .
 anat:OS-L-coude	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=T5bKjSiqiiCmv0bGvaLb8TL9> .
@@ -679,32 +895,58 @@ anat:OS-L-avt-bras	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=GPP
 anat:OS-L-poignet	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=qqC8XffeKDy4aW9jWreqGnqy> .
 anat:OS-L-main	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=emuemCGnKvmqLL15Pvu0DC4P> .
 
-anat:OS-ceinture-pelv	rdfs:label	"Os de la ceinture pelvienne" .
-anat:OS-ceinture-scap	rdfs:label	"Os de la ceinture scapulaire" .
-anat:OS-R-hanche	rdfs:label	"Os de la hanche droite" .
-anat:OS-R-cuisse	rdfs:label	"Os de la cuisse droite" .
-anat:OS-R-genou	rdfs:label	"Os du genou droit" .
-anat:OS-R-jambe	rdfs:label	"Os de la jambe droite" .
-anat:OS-R-cheville	rdfs:label	"Os de la cheville droite" .
-anat:OS-R-pied	rdfs:label	"Os du pied droit" .
-anat:OS-L-hanche	rdfs:label	"Os de la hanche gauche" .
-anat:OS-L-cuisse	rdfs:label	"Os de la cuisse gauche" .
-anat:OS-L-genou	rdfs:label	"Os du genou gauche" .
-anat:OS-L-jambe	rdfs:label	"Os de la jambe gauche" .
-anat:OS-L-cheville	rdfs:label	"Os de la cheville gauche" .
-anat:OS-L-pied	rdfs:label	"Os du pied gauche" .
-anat:OS-R-epaule	rdfs:label	"Os de l’épaule droite" .
-anat:OS-R-bras	rdfs:label	"Os du bras droit" .
-anat:OS-R-coude	rdfs:label	"Os du coude droit" .
-anat:OS-R-avt-bras	rdfs:label	"Os de l’avant-bras droit" .
-anat:OS-R-poignet	rdfs:label	"Os du poignet droit" .
-anat:OS-R-main	rdfs:label	"Os de la main droite" .
-anat:OS-L-epaule	rdfs:label	"Os de l’épaule gauche" .
-anat:OS-L-bras	rdfs:label	"Os du bras gauche" .
-anat:OS-L-coude	rdfs:label	"Os du coude gauche" .
-anat:OS-L-avt-bras	rdfs:label	"Os de l’avant-bras gauche" .
-anat:OS-L-poignet	rdfs:label	"Os du poignet gauche" .
-anat:OS-L-main	rdfs:label	"Os de la main gauche" .
+anat:Sys-osseux	rdfs:label	"Système osseux" .
+anat:OS-unite-centrale	rdfs:label	"Os de la région de l’unité centrale" .
+anat:OS-tronc	rdfs:label	"Os de la région du tronc" .
+anat:OS-tete-cou	rdfs:label	"Os de la région de la tête et du cou" .
+anat:OS-tete	rdfs:label	"Os de la région de la tête" .
+anat:OS-cou	rdfs:label	"Os de la région du cou" .
+anat:OS-cou-sup	rdfs:label	"Os de la région du cou supérieur" .
+anat:OS-cou-moy	rdfs:label	"Os de la région du cou moyen" .
+anat:OS-cou-inf	rdfs:label	"Os de la région du cou inférieur" .
+anat:OS-thorax	rdfs:label	"Os de la région du thorax" .
+anat:OS-thorax-sup	rdfs:label	"Os de la région du thorax supérieur" .
+anat:OS-thorax-moy	rdfs:label	"Os de la région du thorax moyen" .
+anat:OS-thorax-inf	rdfs:label	"Os de la région du thorax inférieur" .
+anat:OS-abdomen	rdfs:label	"Os de la région de l’abdomen" .
+anat:OS-abdomen-sup	rdfs:label	"Os de la région de l’abdomen supérieur" .
+anat:OS-abdomen-inf	rdfs:label	"Os de la région de l’abdomen inférieur" .
+anat:OS-pelvis	rdfs:label	"Os de la région du pelvis" .
+#anat:OS-pelvis-sup	rdfs:label	"Os de la région du pelvis supérieur" .
+#anat:OS-pelvis-inf	rdfs:label	"Os de la région du pelvis inférieur" .
+anat:OS-dos	rdfs:label	"Os de la région du dos" .
+anat:OS-charnieres-vertebrales	rdfs:label	"Os de la région des charnières vertébrales" .
+anat:OS-ceintures	rdfs:label	"Os de la région des ceintures" .
+anat:OS-ceinture-pelv	rdfs:label	"Os de la région de la ceinture pelvienne" .
+anat:OS-ceinture-scap	rdfs:label	"Os de la région de la ceinture scapulaire" .
+anat:OS-R-membre-inf	rdfs:label	"Os de la région du membre inférieur droit" .
+anat:OS-R-hanche	rdfs:label	"Os de la région de la hanche droite" .
+anat:OS-R-cuisse	rdfs:label	"Os de la région de la cuisse droite" .
+anat:OS-R-genou	rdfs:label	"Os de la région du genou droit" .
+anat:OS-R-jambe	rdfs:label	"Os de la région de la jambe droite" .
+anat:OS-R-cheville	rdfs:label	"Os de la région de la cheville droite" .
+anat:OS-R-pied	rdfs:label	"Os de la région du pied droit" .
+anat:OS-L-membre-inf	rdfs:label	"Os de la région du membre inférieur gauche" .
+anat:OS-L-hanche	rdfs:label	"Os de la région de la hanche gauche" .
+anat:OS-L-cuisse	rdfs:label	"Os de la région de la cuisse gauche" .
+anat:OS-L-genou	rdfs:label	"Os de la région du genou gauche" .
+anat:OS-L-jambe	rdfs:label	"Os de la région de la jambe gauche" .
+anat:OS-L-cheville	rdfs:label	"Os de la région de la cheville gauche" .
+anat:OS-L-pied	rdfs:label	"Os de la région du pied gauche" .
+anat:OS-R-membre-sup	rdfs:label	"Os de la région du membre supérieur droit" .
+anat:OS-R-epaule	rdfs:label	"Os de la région de l’épaule droite" .
+anat:OS-R-bras	rdfs:label	"Os de la région du bras droit" .
+anat:OS-R-coude	rdfs:label	"Os de la région du coude droit" .
+anat:OS-R-avt-bras	rdfs:label	"Os de la région de l’avant-bras droit" .
+anat:OS-R-poignet	rdfs:label	"Os de la région du poignet droit" .
+anat:OS-R-main	rdfs:label	"Os de la région de la main droite" .
+anat:OS-L-membre-sup	rdfs:label	"Os de la région du membre supérieur gauche" .
+anat:OS-L-epaule	rdfs:label	"Os de la région de l’épaule gauche" .
+anat:OS-L-bras	rdfs:label	"Os de la région du bras gauche" .
+anat:OS-L-coude	rdfs:label	"Os de la région du coude gauche" .
+anat:OS-L-avt-bras	rdfs:label	"Os de la région de l’avant-bras gauche" .
+anat:OS-L-poignet	rdfs:label	"Os de la région du poignet gauche" .
+anat:OS-L-main	rdfs:label	"Os de la région de la main gauche" .
 
 anat:sternum-manubrium	rdf:type	anat:bone-structure .
 anat:R-femur-epiP-sup	rdf:type	anat:bone-structure .
@@ -3644,14 +3886,14 @@ anat:MSCL-tronc	anat:comprend	anat:MSCL-thorax .
 anat:MSCL-tronc	anat:comprend	anat:MSCL-abdomen .
 anat:MSCL-tronc	anat:comprend	anat:MSCL-pelvis .
 anat:MSCL-tronc	anat:comprend	anat:MSCL-dos .
+anat:MSCL-R-membre-sup	anat:comprend	anat:MSCL-R-epaule .
 anat:MSCL-R-membre-sup	anat:comprend	anat:MSCL-R-bras .
 anat:MSCL-R-membre-sup	anat:comprend	anat:MSCL-R-avt-bras .
 anat:MSCL-R-membre-sup	anat:comprend	anat:MSCL-R-main .
-anat:MSCL-R-membre-sup	anat:comprend	anat:MSCL-R-epaule .
+anat:MSCL-L-membre-sup	anat:comprend	anat:MSCL-L-epaule .
 anat:MSCL-L-membre-sup	anat:comprend	anat:MSCL-L-bras .
 anat:MSCL-L-membre-sup	anat:comprend	anat:MSCL-L-avt-bras .
 anat:MSCL-L-membre-sup	anat:comprend	anat:MSCL-L-main .
-anat:MSCL-L-membre-sup	anat:comprend	anat:MSCL-L-epaule .
 anat:MSCL-R-membre-inf	anat:comprend	anat:MSCL-R-cuisse .
 anat:MSCL-R-membre-inf	anat:comprend	anat:MSCL-R-jambe .
 anat:MSCL-R-membre-inf	anat:comprend	anat:MSCL-R-pied .
@@ -3689,6 +3931,7 @@ anat:MSCL-ceinture-scap	anat:comprend	anat:R-muscles-propres-epaule .
 anat:MSCL-ceinture-scap	anat:comprend	anat:L-muscles-propres-epaule .
 anat:MSCL-ceinture-pelv	anat:comprend	anat:muscles-ceint-pelv-couche-pfde .
 anat:MSCL-ceinture-pelv	anat:comprend	anat:muscles-ceint-pelv-couche-supL .
+anat:MSCL-R-epaule	anat:comprend	anat:R-muscles-propres-epaule .
 anat:MSCL-R-bras	anat:comprend	anat:R-muscles-bras-loge-ant .
 anat:MSCL-R-bras	anat:comprend	anat:R-muscles-bras-loge-post .
 anat:MSCL-R-avt-bras	anat:comprend	anat:R-muscles-ant-avt-bras .
@@ -3707,6 +3950,7 @@ anat:MSCL-R-pied	anat:comprend	anat:R-muscles-plantR-med-pied .
 anat:MSCL-R-pied	anat:comprend	anat:R-muscles-plantR-lat-pied .
 anat:MSCL-R-pied	anat:comprend	anat:R-muscles-plantR-intermed-pied .
 anat:MSCL-R-pied	anat:comprend	anat:R-muscles-dorsaux-pied .
+anat:MSCL-L-epaule	anat:comprend	anat:L-muscles-propres-epaule .
 anat:MSCL-L-bras	anat:comprend	anat:L-muscles-bras-loge-ant .
 anat:MSCL-L-bras	anat:comprend	anat:L-muscles-bras-loge-post .
 anat:MSCL-L-avt-bras	anat:comprend	anat:L-muscles-ant-avt-bras .
@@ -3758,8 +4002,97 @@ anat:MSCL-L-pied	anat:prolonge	anat:MSCL-L-jambe .
 anat:MSCL-L-jambe	anat:prolonge	anat:MSCL-L-cuisse .
 anat:MSCL-L-cuisse	anat:prolonge	anat:MSCL-pelvis .
 
-# (images ; modeles 3d)
-# (labels)
+anat:Sys-mscl	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=iqKPXTrGLf0fmOHHPvKnSDq0> .
+#anat:MSCL-unite-centrale	anat:hasImage3D	<> .
+#anat:MSCL-tete-cou	anat:hasImage3D	<> .
+#anat:MSCL-tete	anat:hasImage3D	<> .
+anat:MSCL-cou	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=iiaq0nP9ryKPSv8XrKzOfCeu> .
+anat:MSCL-tronc	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=nyeGvibSnKvOzSfCmeX55fCu> .
+anat:MSCL-thorax	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=1zGnGjSPzq0rWPf8PH9155TX> .
+anat:MSCL-abdomen	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=9ram8z1r4n4LKzqWr4aCWvCG> .
+anat:MSCL-pelvis	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=OTjO9L4XvKrSm8LnmS9nG1fO> .
+anat:MSCL-dos	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=1PTXvuym0DC8jK9fiOH1LnG5> .
+anat:MSCL-ceinture-scap	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=mCSzCeD41Pr4bmGDe0ziGr8T> .
+anat:MSCL-R-membre-sup	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=my0bSj5HXnOPeS91vWKDW1zm> .
+anat:MSCL-R-epaule	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=fmSj4fLnyGniKzqSbiqG9n4v> .
+anat:MSCL-R-bras	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=TvGXbmLHj8PH9zGz8TXD8Dm4> .
+anat:MSCL-R-avt-bras	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=LnymqirOLnOru8zqu4WzWrST> .
+anat:MSCL-R-main	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=5D8bmeyKzuCW9XfOPHnuuSj8> .
+anat:MSCL-L-membre-sup	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=PrmOXfTPHbGXjea8n0beuemq> .
+anat:MSCL-L-epaule	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=y0DWLPveySDyjqmuue15Xz4v> .
+anat:MSCL-L-bras	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=feODSXfK1feCWnCyWrKXP9vC> .
+anat:MSCL-L-avt-bras	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=v0j41zP99TLjauaeSj8vq45D> .
+anat:MSCL-L-main	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=8fmqW1qKrWLv1jyGzuPzyim0> .
+anat:MSCL-ceinture-pelv	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=TnGzSLbummyO4PzumyGjeyOv> .
+anat:MSCL-R-membre-inf	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=59n49PGT5HLjSjmumaiiuSHL> .
+anat:MSCL-R-cuisse	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=XHPfWD4nm8rKuO5nGXbe0bee> .
+anat:MSCL-R-jambe	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=uWfGvK05Hr0HK1j4Pjuy0bWb> .
+anat:MSCL-R-pied	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=9vGvO9mC0XrCSPzaSDXTTTDq> .
+anat:MSCL-L-membre-inf	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=19jaea5TL9PDXTDGTzfmCqOf> .
+anat:MSCL-L-cuisse	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=1j0rSrGjySr8KLzyyaS1LTfO> .
+anat:MSCL-L-jambe	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=W9rm4juaG1PfLfGfmqyCmGX5> .
+anat:MSCL-L-pied	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=4H1L5bPzumOHC0v091Lni89X> .
+anat:Sys-mscl	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=TLLLXfLjOTPbHfmuW5XD8fy8> .
+#anat:MSCL-unite-centrale	anat:has3DmodelURL	<> .
+#anat:MSCL-tete-cou	anat:has3DmodelURL	<> .
+#anat:MSCL-tete	anat:has3DmodelURL	<> .
+anat:MSCL-cou	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=bGjG1PLDyGP5CuiueeKrKH9n> .
+anat:MSCL-tronc	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=9zaeu4mSfa05Sv41jOKvequS> .
+anat:MSCL-thorax	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=vKbWXPXzeWXPvGLf8rL9Tb4H> .
+anat:MSCL-abdomen	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=TDu0P5vq8bKHqKHHnG85ra0D> .
+anat:MSCL-pelvis	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Szq8n8mObiu0r4fiieWPH9Pn> .
+anat:MSCL-dos	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=SH1H1bbSvuaeHnCSzWCKHT15> .
+anat:MSCL-ceinture-scap	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=ruaq4bq0LPbqCq4H1jD4Xv4D> .
+anat:MSCL-R-membre-sup	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=X9TDKveOnyi88XHXLbObK1Lb> .
+anat:MSCL-R-epaule	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=8vSvSrb8vCi4uqKrCGiyaa8L> .
+anat:MSCL-R-bras	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=45X5TvTP1fmqXTra458zGnKL> .
+anat:MSCL-R-avt-bras	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=0XfKLnG9f0LPmGPfuGPfyOH9> .
+anat:MSCL-R-main	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=ueGfSz9zGrGPei8n0njyOP1r> .
+anat:MSCL-L-membre-sup	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=ua0jeWKHrqGf951P5PfiumKP> .
+anat:MSCL-L-epaule	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=vKbqKDvieGDWj8THfOiayqym> .
+anat:MSCL-L-bras	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=mOvyeCfWfGv0L5rmq0fyKDGP> .
+anat:MSCL-L-avt-bras	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=z4r0jCqSzSTvWTbyKDGPfai4> .
+anat:MSCL-L-main	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=m811P5nSrmOXqC4fCen8fG51> .
+anat:MSCL-ceinture-pelv	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Dma41HWvyCGH09jGXLKHrSDS> .
+anat:MSCL-R-membre-inf	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=C81nqq5v4zWDD8j4jWyqyWD8> .
+anat:MSCL-R-cuisse	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=riGXHvKriuW5v8zeWXzG9zW9> .
+anat:MSCL-R-jambe	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=ruSjuKymiWLHzuiOjaWvuueG> .
+anat:MSCL-R-pied	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=4L9rSrvm4fWrf8namGK1raC0> .
+anat:MSCL-L-membre-inf	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=rOj0v0jyCmyanCeqmq4fqiGT> .
+anat:MSCL-L-cuisse	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=qu4zGveGj4vay45Tjum8Dq4D> .
+anat:MSCL-L-jambe	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=Tn8HDq0zm8Hb1v4bieC8niuS> .
+anat:MSCL-L-pied	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=LnO5bebSLDK9GzOveK9jCOb8> .
+
+anat:Sys-mscl	rdfs:label	"Système musculaire" .
+anat:MSCL-unite-centrale	rdfs:label	"Muscles de la région de l’unité centrale" .
+anat:MSCL-tete-cou	rdfs:label	"Muscles de la région de la tête et du cou" .
+anat:MSCL-tete	rdfs:label	"Muscles de la région de la tête" .
+anat:MSCL-cou	rdfs:label	"Muscles de la région du cou" .
+anat:MSCL-tronc	rdfs:label	"Muscles de la région du tronc" .
+anat:MSCL-thorax	rdfs:label	"Muscles de la région du thorax" .
+anat:MSCL-abdomen	rdfs:label	"Muscles de la région de l’abdomen" .
+anat:MSCL-pelvis	rdfs:label	"Muscles de la région du pelvis" .
+anat:MSCL-dos	rdfs:label	"Muscles de la région du dos" .
+anat:MSCL-ceinture-scap	rdfs:label	"Muscles de la région de la ceinture scapulaire" .
+anat:MSCL-R-membre-sup	rdfs:label	"Muscles de la région du membre supérieur droit" .
+anat:MSCL-R-epaule	rdfs:label	"Muscles de la région de l’épaule droite" .
+anat:MSCL-R-bras	rdfs:label	"Muscles de la région du bras droit" .
+anat:MSCL-R-avt-bras	rdfs:label	"Muscles de la région de l’avant-bras droit" .
+anat:MSCL-R-main	rdfs:label	"Muscles de la région de la main droite" .
+anat:MSCL-L-membre-sup	rdfs:label	"Muscles de la région du membre supérieur gauche" .
+anat:MSCL-L-epaule	rdfs:label	"Muscles de la région de l’épaule gauche" .
+anat:MSCL-L-bras	rdfs:label	"Muscles de la région du bras gauche" .
+anat:MSCL-L-avt-bras	rdfs:label	"Muscles de la région de l’avant-bras gauche" .
+anat:MSCL-L-main	rdfs:label	"Muscles de la région de la main gauche" .
+anat:MSCL-ceinture-pelv	rdfs:label	"Muscles de la région de la ceinture pelvienne" .
+anat:MSCL-R-membre-inf	rdfs:label	"Muscles de la région du membre inférieur droit" .
+anat:MSCL-R-cuisse	rdfs:label	"Muscles de la région de la cuisse droite" .
+anat:MSCL-R-jambe	rdfs:label	"Muscles de la région de la jambe droite" .
+anat:MSCL-R-pied	rdfs:label	"Muscles de la région du pied droit" .
+anat:MSCL-L-membre-inf	rdfs:label	"Muscles de la région du membre inférieur gauche" .
+anat:MSCL-L-cuisse	rdfs:label	"Muscles de la région de la cuisse gauche" .
+anat:MSCL-L-jambe	rdfs:label	"Muscles de la région de la jambe gauche" .
+anat:MSCL-L-pied	rdfs:label	"Muscles de la région du pied gauche" .
 
 ############################################################################################## MUSCLES
 

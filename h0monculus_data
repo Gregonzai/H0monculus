@@ -2576,7 +2576,7 @@ anat:grande-colonne-v	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animatio
 anat:crane-v	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=uWHfKP4zii4XOfyee8za0buW> .
 anat:colonne-v	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=D0vmuKba81jueKPL5PHfCGP5> .
 anat:cv-cervicale	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=GjC4DifGzS9vji0rCuSz0Lf8> .
-anat:cv-thoraciq	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Obm891qeWLfiPz0zyqbqayOz> .
+anat:cv-thoraciq	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=Pz8juKryeSXHzC8TnSGDWXHn> .
 anat:cv-lombaire	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=jeyeKb8beCS5X5Pv01bCGzCC> .
 anat:cv-pelvienne	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=WX9TrO5beWTHSv8Dq4mWTrWj> .
 anat:crane-vertebral-ant	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=PvSDKzuKXXTz4re8PDzi8rqu> .
@@ -2585,9 +2585,9 @@ anat:crane-vertebral-post	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/anim
 anat:cv-cervicale-sup	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=vKTbiebWPn85uGPPP1fWX5nm> .
 anat:cv-cervicale-moy	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=8HT5DayyK95rjGf8TnuaS1T1> .
 anat:cv-cervicale-inf	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=uCCCGr4DmCyiymaiq4TbiGLD> .
-anat:cv-thoraciq-sup	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=STHDCuCuKXXrGTzmWDfmmW5L> .
-anat:cv-thoraciq-moy	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=0r0TrmTzq8XXyGHrSjXnGP5n> .
-anat:cv-thoraciq-inf	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=0TrGTbSHHX5HTPPjWTWrCmmy> .
+anat:cv-thoraciq-sup	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=b4Hv89OrmO5LHbuGLHL19r0j> .
+anat:cv-thoraciq-moy	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=ruWDeyP5zi8n4bqGr0WT91PT> .
+anat:cv-thoraciq-inf	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=9jKDyuXzGzSvfyaCSfXDO1ny> .
 anat:cv-lombaire-sup	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=O9vSH5PnCSL1mu8by0qO1Tnm> .
 anat:cv-lombaire-inf	anat:hasImage3D	<http://lifesciencedb.jp/bp3d/API/animation?shorten=8f89D8CObC4PLHT11zKrOPPb> .
 #anat:cv-pelvienne-sup	anat:hasImage3D	<> .
@@ -3044,7 +3044,7 @@ anat:charniere-lombo-sacree	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?sh
 #anat:charniere-sacro-coccygienne	anat:has3DmodelURL	<> .
 anat:cage-thoracique	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=rmqame9bWLzyOXvOb8zWT19D> .
 anat:cage-thoracique-sup	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=XDW15vST9ne4m41DWnCC8zG5> .
-anat:cage-thoracique-moy	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=SLbyGTLDG1DWv05zyy5bu0jG> .
+anat:cage-thoracique-moy	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=OjyuumKPfaSTD45L1vSHjOj4> .
 anat:cage-thoracique-inf	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=v0rG5T85fO5ffay4X91LbCSb> .
 anat:sternum	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=CK5HrKzOL9reiKr4jaymKziq> .
 anat:cotes	anat:has3DmodelURL	<http://lifesciencedb.jp/bp3d/?shorten=uG59j81fK1D41jCGnC41TTrO> .

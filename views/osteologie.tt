@@ -599,13 +599,13 @@ td {
 
 </div>
 
-				<li><a href="/desc/http://anat.org/cv-thoraciq">Colonne vertébrale thoracique<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Xjem0rf4rmGDKPDeKjODmqKL" alt="img. CV thoracique"/></span></a></li>
+				<li><a href="/desc/http://anat.org/cv-thoraciq">Colonne vertébrale thoracique<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Da45jCriCi0Tzaui8bLrOfKD" alt="img. CV thoracique"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">
 
 					<ul style="list-style-type:disc">
-					<li><a href="/desc/http://anat.org/cv-thoraciq-sup">Colonne vertébrale thoracique supérieure<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=55nmuSWHXjmCCGDai0rmmqq4" alt="img. CV thoracique sup"/></span></a>
+					<li><a href="/desc/http://anat.org/cv-thoraciq-sup">Colonne vertébrale thoracique supérieure<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qCaymK9LL5XffKHnyu5fOzyG" alt="img. CV thoracique sup"/></span></a>
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/v-T1">Vertèbre T1<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=iyKbquKTve8Lf09zyi5vOnaq" alt="img. vertebre T1"/></span></a></li>
 						<li><a href="/desc/http://anat.org/v-T2">Vertèbre T2<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DqGvO9iiqemWnuqiimrumKje" alt="img. vertebre T2"/></span></a></li>
@@ -620,7 +620,7 @@ td {
 						<li><a href="/desc/http://anat.org/div-T5-T6">Disque intervertébral T5-T6<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nKrueCyi8zqeuiGP1LLHXnGT" alt="img. DIV T5-T6"/></span></a></li>
 						</ul>
 					</li>
-					<li><a href="/desc/http://anat.org/cv-thoraciq-moy">Colonne vertébrale thoracique moyenne<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=fG1b0TTDCyCmHLXziummi0rG" alt="img. CV thoracique moy"/></span></a>
+					<li><a href="/desc/http://anat.org/cv-thoraciq-moy">Colonne vertébrale thoracique moyenne<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=W5j8Tvjumiy0a8vqSruiiOTn" alt="img. CV thoracique moy"/></span></a>
 						<ul style="list-style-type:circle">
 						<li><a href="/desc/http://anat.org/v-T6">Vertèbre T6<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jGDKP1G1DmCePTjqmC0bS9je" alt="img. vertebre T6"/></span></a></li>
 						<li><a href="/desc/http://anat.org/v-T7">Vertèbre T7<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4XLPz4111zGDOP1jGL5b4DSP" alt="img. vertebre T7"/></span></a></li>
@@ -897,13 +897,13 @@ td {
 <p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=aGb4v459LD4PmOPb0Hb0veGX" alt="img. region thorax"/></span></a></p>
 
 	<ul style="list-style-type:square">
-	<li><a href="/desc/http://anat.org/cv-thoraciq">COLONNE VERTÉBRALE THORACIQUE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Xjem0rf4rmGDKPDeKjODmqKL" alt="img. CV thoracique"/></span></a></li>
+	<li><a href="/desc/http://anat.org/cv-thoraciq">COLONNE VERTÉBRALE THORACIQUE<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=Da45jCriCi0Tzaui8bLrOfKD" alt="img. CV thoracique"/></span></a></li>
 
 <button class="collapsible">▼ </button>
 <div class="content">
 
 		<ul style="list-style-type:disc">
-		<li><a href="/desc/http://anat.org/cv-thoraciq-sup">Colonne vertébrale thoracique supérieure<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=55nmuSWHXjmCCGDai0rmmqq4" alt="img. CV thoracique sup"/></span></a>
+		<li><a href="/desc/http://anat.org/cv-thoraciq-sup">Colonne vertébrale thoracique supérieure<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=qCaymK9LL5XffKHnyu5fOzyG" alt="img. CV thoracique sup"/></span></a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/v-T1">Vertèbre T1<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=iyKbquKTve8Lf09zyi5vOnaq" alt="img. vertebre T1"/></span></a></li>
 			<li><a href="/desc/http://anat.org/v-T2">Vertèbre T2<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DqGvO9iiqemWnuqiimrumKje" alt="img. vertebre T2"/></span></a></li>
@@ -918,7 +918,7 @@ td {
 			<li><a href="/desc/http://anat.org/div-T5-T6">Disque intervertébral T5-T6<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nKrueCyi8zqeuiGP1LLHXnGT" alt="img. DIV T5-T6"/></span></a></li>
 			</ul>
 		</li>
-		<li><a href="/desc/http://anat.org/cv-thoraciq-moy">Colonne vertébrale thoracique moyenne<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=fG1b0TTDCyCmHLXziummi0rG" alt="img. CV thoracique moy"/></span></a>
+		<li><a href="/desc/http://anat.org/cv-thoraciq-moy">Colonne vertébrale thoracique moyenne<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=W5j8Tvjumiy0a8vqSruiiOTn" alt="img. CV thoracique moy"/></span></a>
 			<ul style="list-style-type:circle">
 			<li><a href="/desc/http://anat.org/v-T6">Vertèbre T6<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=jGDKP1G1DmCePTjqmC0bS9je" alt="img. vertebre T6"/></span></a></li>
 			<li><a href="/desc/http://anat.org/v-T7">Vertèbre T7<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=4XLPz4111zGDOP1jGL5b4DSP" alt="img. vertebre T7"/></span></a></li>
@@ -1049,7 +1049,7 @@ td {
 
 </div>
 
-				<li><a href="/desc/http://anat.org/cage-thoracique-moy">Cage thoracique moyenne<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=yuiGjuumm015595feGySvmm8" alt="img. cage thoracique moy"/></span></a></li>
+				<li><a href="/desc/http://anat.org/cage-thoracique-moy">Cage thoracique moyenne<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=1THTDSDq8vyOjGPTv0KnOr85" alt="img. cage thoracique moy"/></span></a></li>
 
 <button class="collapsible">▼</button>
 <div class="content">

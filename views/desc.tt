@@ -31,7 +31,7 @@
 	[% END %]
 </table>
 
-<h2>Interactive model</h2>
+<h2>Modèle interactif</h2>
 <iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="[% model_URL %]"></iframe>
 
 

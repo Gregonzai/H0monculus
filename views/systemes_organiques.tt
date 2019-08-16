@@ -1,0 +1,424 @@
+<!--<!DOCTYPE html>-->
+<html>
+<head>
+	<!--<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<script src="bootstrap/js/jquery.js"></script>
+	<script src="bootstrap/js/bootstrap.min.js"></script>-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.area {
+    background-color: indigo;
+    color: black;
+}
+.subarea {
+    background-color: purple;
+    color: black;
+}
+a span#infobulle {
+        position:absolute;
+	margin-bottom:auto;
+        margin-top:25px;
+        margin-left:-25px;
+        color:#fff;
+        background:rgba(0, 0, 0, 0.5);
+        padding:25px;
+        border-radius:3px;
+	z-index:999;
+                 
+    /* Faire disparaire infobulle par défaut */
+    /* On determine l'origine de la rotation */
+       transform:scale(0) rotate(-0deg);
+      
+     /* Faire durer l'effet */
+        transition:all .1s;
+                 
+     /* Effet sur la transparence */
+        opacity:0;
+      }
+             
+     /* Apparition de la bulle avec le scale à 1 */
+    a:hover span#infobulle, a:focus span#infobulle {
+     transform:scale(1) rotate(0);
+             
+    /* Effet sur la transparence */
+       opacity:1;
+}
+#infobulle img {
+max-width:inherit;
+}
+
+.collapsible {
+  color: none;
+  background-color: white;
+  cursor: pointer;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: white;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: none;
+}
+
+table {
+  width: 100%;
+}
+td {
+  width: 50%;
+}
+</style>
+</head>
+
+<body>
+
+<button class="collapsible"><h4 class="area">SYSTÈME RESPIRATOIRE</h4></button>
+<div class="content">
+<p><a>►<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nGzGvqqaGju40Tb0feWzSLL1" alt="img. systeme respi"/></span></a></p>
+
+</div>
+
+<button class="collapsible"><h4 class="area">SYSTÈME VOCAL</h4></button>
+<div class="content">
+<p><a>►<span id=infobulle><img src="" alt="img. systeme vocal"/></span></a></p>
+
+	<ul style="list-style-type:square">
+	<li><a href="/desc/http://anat.org/complexe-larynx">Complexe du larynx<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images%20H0monculus%2Fanat%3Acomplexe-larynx_thumb.gif" alt="img. complexe larynx"/></span></a></li>
+
+<button class="collapsible">▼</button>
+<div class="content">
+
+		<ul style="list-style-type:square">
+		<li><a href="/desc/http://anat.org/larynx">Larynx<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=nquySDOryyyejW9rO1Sbmuem" alt="img. complexe larynx"/></span></a></li>
+
+			<ul style="list-style-type:square">
+			<li><a href="/desc/http://anat.org/cartilages-larynx">Structures cartilagineuses du larynx<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Acartilages-larynx_thumb.gif" alt="img. structures carti du larynx"/></span></a></li>
+
+<button class="collapsible">▼</button>
+<div class="content">
+
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/cartilage-thyroide">Cartilage thyroïde<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Acartilage-thyroide_thumb.gif" alt="img. cartilage thyroide"/></span></a></li>
+				<li><a href="/desc/http://anat.org/cartilage-cricoide">Cartilage cricoïde<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Acartilage-cricoide_thumb.gif" alt="img. cartilage cricoide"/></span></a></li>
+				<li><a href="/desc/http://anat.org/cartilage-epiglottique">Cartilage épiglottique<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Acartilage-epiglottique_thumb.gif" alt="img. cartilage epiglotique"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-cartilage-arytenoide">Cartilage aryténoïde droit<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-cartilage-arytenoide_thumb.gif" alt="img. cartilage arythenoide D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-cartilage-arytenoide">Cartilage aryténoïde gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-cartilage-arytenoide_thumb.gif" alt="img. cartilage arythenoide G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-cartilage-cornicule">Cartilage corniculé droit<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-cartilage-cornicule_thumb.gif" alt="img. cartilage cornicule D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-cartilage-cornicule">Cartilage corniculé gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-cartilage-cornicule_thumb.gif" alt="img. cartilage cornicule G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-cartilage-cuneiforme">Cartilage cunéiforme droit<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-cartilage-cuneiforme_thumb.gif" alt="img. cartilage cuneiforme D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-cartilage-cuneiforme">Cartilage cunéiforme gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-cartilage-cuneiforme_thumb.gif" alt="img. cartilage cuneiforme G"/></span></a></li>
+				</ul>
+
+</div>
+
+			<li><a href="/desc/http://anat.org/articulations-larynx">Articulations du larynx<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Aarticulations-larynx_thumb.gif" alt="img. articulations du larynx"/></span></a></li>
+
+<button class="collapsible">▼</button>
+<div class="content">
+
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/R-arti-cricothyroidienne">Articulation crico-thyroïdienne droite<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-arti-cricothyroidienne_thumb.gif" alt="img. articulation crico-thyroidienne D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-arti-cricothyroidienne">Articulation crico-thyroïdienne gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-arti-cricothyroidienne_thumb.gif" alt="img. articulation crico-thyroidienne G"/></span></a></li>
+				<li><a href="/desc/http://anat.org/R-arti-cricoarytenoidienne">Articulation crico-aryténoïdienne droite<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-arti-cricoarytenoidienne_thumb.gif" alt="img. articulation crico-arythenoidienne D"/></span></a></li>
+				<li><a href="/desc/http://anat.org/L-arti-cricoarytenoidienne">Articulation crico-aryténoïdienne gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-arti-cricoarytenoidienne_thumb.gif" alt="img. articulation crico-arythenoidienne G"/></span></a></li>
+				</ul>
+
+</div>
+
+			<li><a href="/desc/http://anat.org/ligaments-larynx">Ligaments du larynx<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Aligaments-larynx_thumb.gif" alt="img. ligaments du larynx"/></span></a></li>
+
+<button class="collapsible">▼</button>
+<div class="content">
+
+				<ul style="list-style-type:circle">
+				<li><a href="/desc/http://anat.org/ligaments-thyrohyoidiens">Ligaments thyro-hyoïdiens<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Aligaments-thyrohyoidiens_thumb.gif" alt="img. ligaments thyro-hyoidiens"/></span></a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/mb-thyrohyoidienne">Membrane thyro-hyoïdienne<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Amb-thyrohyoidienne_thumb.gif" alt="img. membrane thyro-hyoidienne"/></span></a></li>
+					<li><a href="/desc/http://anat.org/lgmt-thyrohyoidien-med">Ligament thyro-hyoïdien médian<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Algmt-thyrohyoidien-med_thumb.gif" alt="img. ligament thyro-hyoidien median"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-lgmt-thyrohyoidien-lat">Ligament thyro-hyoïdien latéral droit<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-lgmt-thyrohyoidien-lat_thumb.gif" alt="img. ligament thyro-hyoidien lat D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-lgmt-thyrohyoidien-lat">Ligament thyro-hyoïdien latéral gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-lgmt-thyrohyoidien-lat_thumb.gif" alt="img. ligament thyro-hyoidien lat G"/></span></a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/lgmt-cricothyroidien">Ligament crico-thyroïdien<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Algmt-cricothyroidien_thumb.gif" alt="img. ligament crico-thyroidien"/></span></a></li>
+				<li><a href="/desc/http://anat.org/ligaments-epiglotte">Ligaments de l'épiglotte<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Aligaments-epiglotte_thumb.gif" alt="img. ligaments de l'epiglotte"/></span></a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/lgmt-hyoepiglottique">Ligament hyo-épiglottique<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Algmt-hyoepiglottique_thumb.gif" alt="img. ligament hyo-epiglottique"/></span></a></li>
+					<li><a href="/desc/http://anat.org/lgmt-thyroepiglottique">Ligament thyro-épiglottique<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Algmt-thyroepiglottique_thumb.gif" alt="img. ligament thyro-epiglottique"/></span></a></li>
+					</ul>
+				</li>
+				<li>Ligaments articulaires
+					<ul style="list-style-type:circle">
+					<li>Ligaments articulaires crico-thyroïdiens droits
+						<ul style="list-style-type:circle">
+						<li>Ligament articulaire crico-thyroïdien médial droit</li>
+						<li>Ligament articulaire crico-thyroïdien latéral droit</li>
+						<li>Ligament articulaire crico-thyroïdien antérieur droit</li>
+						<li>Ligament articulaire crico-thyroïdien postérieur droit</li>
+						</ul>
+					</li>
+					<li>Ligaments articulaires crico-thyroïdiens gauches
+						<ul style="list-style-type:circle">
+						<li>Ligament articulaire crico-thyroïdien médial gauche</li>
+						<li>Ligament articulaire crico-thyroïdien latéral gauche</li>
+						<li>Ligament articulaire crico-thyroïdien antérieur gauche</li>
+						<li>Ligament articulaire crico-thyroïdien postérieur gauche</li>
+						</ul>
+					</li>
+					<li>Ligament articulaire crico-aryténoïdien droit</li>
+					<li>Ligament articulaire crico-aryténoïdien gauche</li>
+					</ul>
+				</li>
+				</ul>
+
+</div>
+
+			<li><a href="/desc/http://anat.org/mb-fibroelastique-larynx">Membrane fibro-élastique du larynx<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Amb-fibroelastique-larynx_thumb.gif" alt="img. mb fibro-élastique du larynx"/></span></a></li>
+
+<button class="collapsible">▼</button>
+<div class="content">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/R-mb-fibroelastique-larynx">Membrane fibro-élastique du larynx droite<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-mb-fibroelastique-larynx_thumb.gif" alt="img. membrane fibro-elastique du larynx D"/></span></a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mb-quadrangulaire-larynx">Membrane quadrilataire du larynx droite<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-mb-quadrangulaire-larynx_thumb.gif" alt="img. membrane quadrilataire du larynx D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-lgmt-vestibulaire">Ligament vestibulaire droit<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-lgmt-vestibulaire_thumb.gif" alt="img. ligament vestibulaire D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-lgmt-vocal">Ligament vocal droit<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-lgmt-vocal_thumb.gif" alt="img. ligament vocal D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/R-cone-elastique-larynx">Cône élastique du larynx droit<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-cone-elastique-larynx_thumb.gif" alt="img. cone elastique du larynx D"/></span></a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/L-mb-fibroelastique-larynx">Membrane fibro-élastique du larynx gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-mb-fibroelastique-larynx_thumb.gif" alt="img. membrane fibro-elastique du larynx G"/></span></a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/L-mb-quadrangulaire-larynx">Membrane quadrilataire du larynx gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-mb-quadrangulaire-larynx_thumb.gif" alt="img. membrane quadrilataire du larynx G"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-lgmt-vestibulaire">Ligament vestibulaire gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-lgmt-vestibulaire_thumb.gif" alt="img. ligament vestibulaire G"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-lgmt-vocal">Ligament vocal gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-lgmt-vocal_thumb.gif" alt="img. ligament vocal G"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-cone-elastique-larynx">Cône élastique du larynx gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-cone-elastique-larynx_thumb.gif" alt="img. cone elastique du larynx G"/></span></a></li>
+					</ul>
+				</li>
+				</ul>
+
+</div>
+
+			</li>
+			<li><a href="/desc/http://anat.org/muscles-intrinseq-larynx">Muscles intrinsèques du larynx<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Amuscles-intrinseq-larynx_thumb.gif" alt="img. muscles intrinsèques du larynx"/></span></a>
+
+<button class="collapsible">▼</button>
+<div class="content">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/muscles-aditus-larynge">Muscles de l'aditus laryngé<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Amuscles-aditus-larynge_thumb.gif" alt="img. muscles de l'aditus laryngé"/></span></a>
+
+<button class="collapsible">▼</button>
+<div class="content">
+
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/muscles-aryepiglottique">Muscles ary-épiglottiques<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Amuscles-aryepiglottique_thumb.gif" alt="img. muscles ary-epiglottiques"/></span></a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-aryepiglottique">Muscle ary-épiglottique droit<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-mscl-aryepiglottique_thumb.gif" alt="img. muscle ary-epiglottique D"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-aryepiglottique">Muscle ary-épiglottique gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-mscl-aryepiglottique_thumb.gif" alt="img. muscle ary-epiglottique G"/></span></a></li>
+						</ul>
+					</li>
+					<li><a href="/desc/http://anat.org/muscles-thyroepiglottique">Muscles thyro-épiglottiques<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Amuscles-thyroepiglottique_thumb.gif" alt="img. muscles thyro-epiglottiques"/></span></a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-thyroepiglottique">Muscle thyro-épiglottique droit<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-mscl-thyroepiglottique_thumb.gif" alt="img. muscle thyro-epiglottique D"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-thyroepiglottique">Muscle thyro-épiglottique gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-mscl-thyroepiglottique_thumb.gif" alt="img. muscle thyro-epiglottique G"/></span></a></li>
+						</ul>
+					</li>
+					</ul>
+
+</div>
+
+				<li><a href="/desc/http://anat.org/muscles-addR-intra-larynx">Muscles adducteurs intrinsèques du larynx<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Amuscles-addR-intra-larynx_thumb.gif" alt="img. muscles adducteurs intrinsèques du larynx"/></span></a>
+
+<button class="collapsible">▼</button>
+<div class="content">
+
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/mscl-arytenoidien-trsv">Muscle aryténoïdien transverse<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Amscl-arytenoidien-trsv_thumb.gif" alt="img. muscle arythenoidien transverse"/></span></a></li>
+					<li><a href="/desc/http://anat.org/mscl-arytenoidien-obliq">Muscle aryténoïdien oblique<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Amscl-arytenoidien-obliq_thumb.gif" alt="img. muscle arythenoidien oblique"/></span></a></li>
+					<li><a href="/desc/http://anat.org/muscles-cricoarytenoidien-lat">Muscles crico-aryténoïdiens latéraux<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Amuscles-cricoarytenoidien-lat_thumb.gif" alt="img. muscles crico-arytenoidiens lat"/></span></a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-cricoarytenoidien-lat">Muscle crico-aryténoïdien latéral droit<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-mscl-cricoarytenoidien-lat_thumb.gif" alt="img. muscle crico-arythenoidien lat D"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-cricoarytenoidien-lat">Muscle crico-aryténoïdien latéral gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-mscl-cricoarytenoidien-lat_thumb.gif" alt="img. muscle crico-arythenoidien lat G"/></span></a></li>
+						</ul>
+					</li>
+					<li><a href="/desc/http://anat.org/muscles-thyroarytenoidien">Muscles thyro-aryténoïdiens<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Amuscles-thyroarytenoidien_thumb.gif" alt="img. muscles thyro-arytenoidiens"/></span></a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-thyroarytenoidien">Muscle thyro-aryténoïdien droit<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-mscl-thyroarytenoidien_thumb.gif" alt="img. muscle thyro-arythenoidien D"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-thyroarytenoidien">Muscle thyro-aryténoïdien gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-mscl-thyroarytenoidien_thumb.gif" alt="img. muscle thyro-arythenoidien G"/></span></a></li>
+						</ul>
+					</li>
+					</ul>
+
+</div>
+
+				<li><a href="/desc/http://anat.org/muscles-abdR-intra-larynx">Muscles abducteurs intrinsèques du larynx<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Amuscles-abdR-intra-larynx_thumb.gif" alt="img. muscles abducteurs intrinsèques du larynx"/></span></a>
+
+<button class="collapsible">▼</button>
+<div class="content">
+
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/muscles-cricoarytenoidien-post">Muscles crico-aryténoïdiens postérieurs<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Amuscles-abdR-intra-larynx_thumb.gif" alt="img. muscles ary-epiglotiques post"/></span></a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-cricoarytenoidien-post">Muscle crico-aryténoïdien postérieur droit<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-mscl-cricoarytenoidien-post_thumb.gif" alt="img. muscle crico-arythenoidien post D"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-cricoarytenoidien-post">Muscle crico-aryténoïdien postérieur gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-mscl-cricoarytenoidien-post_thumb.gif" alt="img. muscle crico-arythenoidien post G"/></span></a></li>
+						</ul>
+					</li>
+					</ul>
+
+</div>
+
+				<li><a href="/desc/http://anat.org/muscles-tenseurs-lgmts-vocaux">Muscles tenseurs des ligaments vocaux<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Amuscles-tenseurs-lgmts-vocaux_thumb.gif" alt="img. muscles tenseurs des ligaments vocaux"/></span></a>
+
+<button class="collapsible">▼</button>
+<div class="content">
+
+					<ul style="list-style-type:disc">
+					<li><a href="/desc/http://anat.org/muscles-cricothyroidien">Muscles crico-thyroïdiens<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Amuscles-cricothyroidien_thumb.gif" alt="img. muscles crico-thyroidiens"/></span></a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-cricothyroidien">Muscle crico-thyroïdien droit<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-mscl-cricothyroidien_thumb.gif" alt="img. muscle crico-thyroidien D"/></span></a>
+							<ul style="list-style-type:circle">
+							<li><a href="/desc/http://anat.org/R-mscl-cricothyroidien-chef-droit">Chef droit du muscle crico-thyroïdien droit<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-mscl-cricothyroidien-chef-droit_thumb.gif" alt="img. muscle crico-thyroidien D chef droit"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-cricothyroidien-chef-obliq">Chef oblique du muscle crico-thyroïdien droit<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-mscl-cricothyroidien-chef-obliq_thumb.gif" alt="img. muscle crico-thyroidien D chef oblique"/></span></a></li>
+							</ul>
+						</li>
+						<li><a href="/desc/http://anat.org/L-mscl-cricothyroidien">Muscle crico-thyroïdien gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-mscl-cricothyroidien_thumb.gif" alt="img. muscle crico-thyroidien G"/></span></a>
+							<ul style="list-style-type:circle">
+							<li><a href="/desc/http://anat.org/L-mscl-cricothyroidien-chef-droit">Chef droit du muscle crico-thyroïdien gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-mscl-cricothyroidien-chef-droit" alt="img. muscle crico-thyroidien G chef droit_thumb.gif"/></span></a></li>
+							<li><a href="/desc/http://anat.org/L-mscl-cricothyroidien-chef-obliq">Chef oblique du muscle crico-thyroïdien gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-mscl-cricothyroidien-chef-obliq_thumb.gif" alt="img. muscle crico-thyroidien G chef oblique"/></span></a></li>
+							</ul>
+						</li>
+						</ul>
+					</li>
+					<li><a href="/desc/http://anat.org/muscles-vocal">Muscles vocaux<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Amuscles-vocal_thumb.gif" alt="img. muscles vocaux"/></span></a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-vocal">Muscle vocal droit<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-mscl-vocal_thumb.gif" alt="img. muscle vocal D"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-vocal">Muscle vocal gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-mscl-vocal_thumb.gif" alt="img. muscle vocal G"/></span></a></li>
+						</ul>
+					</li>
+					</ul>
+
+</div>
+
+				</ul>
+
+</div>
+
+			</li>
+			</ul>
+		</li>
+		<li><a href="/desc/http://anat.org/muscles-extrinseq-larynx">Muscles extrinsèques du larynx<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Amuscles-extrinseq-larynx_thumb.gif" alt="img. muscles extrinsèques du larynx"/></span></a>
+			<ul style="list-style-type:disc">
+			<li><a href="/desc/http://anat.org/muscles-elevatR-larynx">Muscles élévateurs du larynx<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Amuscles-elevatR-larynx_thumb.gif" alt="img. muscles élévateurs du larynx"/></span></a>
+
+<button class="collapsible">▼</button>
+<div class="content">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/muscles-thyrohyoidien">Muscles thyro-hyoïdiens<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Amuscles-thyrohyoidien_thumb.gif" alt="img. muscles thyro-hyoidiens"/></span></a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-thyrohyoidien">Muscle thyro-hyoïdien droit<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-mscl-thyrohyoidien_thumb.gif" alt="img. muscle thyro-hyoidien D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-thyrohyoidien">Muscle thyro-hyoïdien gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-mscl-thyrohyoidien_thumb.gif" alt="img. muscle thyro-hyoidien G"/></span></a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-digastrique">Muscles digastriques<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Amuscles-digastrique_thumb.gif" alt="img. muscles digastriques"/></span></a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-digastrique">Muscle digastrique droit<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-mscl-digastrique_thumb.gif" alt="img. muscle digastrique D"/></span></a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/R-mscl-digastrique-fx-post">Faisceau postérieur du muscle digastrique droit<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-mscl-digastrique-fx-post_thumb.gif" alt="img. muscle digastrique D fx post"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-digastrique-fx-ant">Faisceau antérieur du muscle digastrique droit<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-mscl-digastrique-fx-ant_thumb.gif" alt="img. muscle digastrique D fx ant"/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-mscl-digastrique-td-central">Tendon central du muscle digastrique droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/R-poulie-fbse-mscl-digastrique">Poulie fibreuse du muscle digastrique droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+						</ul>
+					<li><a href="/desc/http://anat.org/L-mscl-digastrique">Muscle digastrique gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-mscl-digastrique_thumb.gif" alt="img. muscle digastrique G"/></span></a>
+						<ul style="list-style-type:circle">
+						<li><a href="/desc/http://anat.org/L-mscl-digastrique-fx-post">Faisceau postérieur du muscle digastrique gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-mscl-digastrique-fx-post_thumb.gif" alt="img. muscle digastrique G fx post"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-digastrique-fx-ant">Faisceau antérieur du muscle digastrique gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-mscl-digastrique-fx-ant_thumb.gif" alt="img. muscle digastrique G fx ant"/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-mscl-digastrique-td-central">Tendon central du muscle digastrique gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+						<li><a href="/desc/http://anat.org/L-poulie-fbse-mscl-digastrique">Poulie fibreuse du muscle digastrique gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a></li>
+						</ul>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-stylohyoidien">Muscles stylo-hyoïdiens<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Amuscles-stylohyoidien_thumb.gif" alt="img. muscles stylo-hyoidiens"/></span></a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-stylohyoidien">Muscle stylo-hyoïdien droit<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-mscl-stylohyoidien_thumb.gif" alt="img. muscle stylo-hyoidien D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-stylohyoidien">Muscle stylo-hyoïdien gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-mscl-stylohyoidien_thumb.gif" alt="img. muscle stylo-hyoidien G"/></span></a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-mylohyoidien">Muscles mylo-hyoïdiens<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Amuscles-mylohyoidien_thumb.gif" alt="img. muscles mylo-hyoidiens"/></span></a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-mylohyoidien">Muscle mylo-hyoïdien droit<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-mscl-mylohyoidien_thumb.gif" alt="img. muscle mylo-hyoidien D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-mylohyoidien">Muscle mylo-hyoïdien gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-mscl-mylohyoidien_thumb.gif" alt="img. muscle mylo-hyoidien G"/></span></a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-stylopharyngien">Muscles stylo-pharyngiens<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Amuscles-stylopharyngien_thumb.gif" alt="img. muscles stylo-pharyngiens"/></span></a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-stylopharyngien">Muscle stylo-pharyngien droit<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-mscl-stylopharyngien_thumb.gif" alt="img. muscle stylo-pharyngien D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-stylopharyngien">Muscle stylo-pharyngien gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-mscl-stylopharyngien_thumb.gif" alt="img. muscle stylo-pharyngien G"/></span></a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/arc-palatopharyngien">Arc palato-pharyngien<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Aarc-palatopharyngien_thumb.gif" alt="img. arc palato-pharyngien"/></span></a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-palatopharyngien">Muscle palato-pharyngien droit<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-mscl-palatopharyngien_thumb.gif" alt="img. muscle palato-pharyngien D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-palatopharyngien">Muscle palato-pharyngien gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-mscl-palatopharyngien_thumb.gif" alt="img. muscle palato-pharyngien G"/></span></a></li>
+					</ul>
+				</li>
+				</ul>
+
+</div>
+
+			<li><a href="/desc/http://anat.org/muscles-abaissR-larynx">Muscles abaisseurs du larynx<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Amuscles-abaissR-larynx_thumb.gif" alt="img. muscles abaisseurs du larynx"/></span></a>
+
+<button class="collapsible">▼</button>
+<div class="content">
+
+				<ul style="list-style-type:disc">
+				<li><a href="/desc/http://anat.org/muscles-sternohyoidien">Muscles sterno-hyoïdiens<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Amuscles-sternohyoidien_thumb.gif" alt="img. muscles sterno-hyoidiens"/></span></a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-sternohyoidien">Muscle sterno-hyoïdien droit<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-mscl-sternohyoidien_thumb.gif" alt="img. muscle sterno-hyoidien D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-sternohyoidien">Muscle sterno-hyoïdien gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-mscl-sternohyoidien_thumb.gif" alt="img. muscle sterno-hyoidien G"/></span></a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-omohyoidien">Muscles omo-hyoïdiens<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Amuscles-omohyoidien_thumb.gif" alt="img. muscles omo-hyoidiens"/></span></a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-omohyoidien">Muscle omo-hyoïdien droit<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-mscl-omohyoidien_thumb.gif" alt="img. muscle omo-hyoidien D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-omohyoidien">Muscle omo-hyoïdien gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-mscl-omohyoidien_thumb.gif" alt="img. muscle omo-hyoidien G"/></span></a></li>
+					</ul>
+				</li>
+				<li><a href="/desc/http://anat.org/muscles-sternothyroidien">Muscles sterno-thyroïdiens<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3Amuscles-sternothyroidien_thumb.gif" alt="img. muscles sterno-thyroidiens"/></span></a>
+					<ul style="list-style-type:circle">
+					<li><a href="/desc/http://anat.org/R-mscl-sternothyroidien">Muscle sterno-thyroïdien droit<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AR-mscl-sternothyroidien_thumb.gif" alt="img. muscle sterno-thyroidien D"/></span></a></li>
+					<li><a href="/desc/http://anat.org/L-mscl-sternothyroidien">Muscle sterno-thyroïdien gauche<span id=infobulle><img src="https://ia803004.us.archive.org/view_archive.php?archive=/18/items/ImagesH0monculusMusclesOs/Images_H0monculus_muscles_os.zip&file=Images H0monculus%2Fanat%3AL-mscl-sternothyroidien_thumb.gif" alt="img. muscle sterno-thyroidien G"/></span></a></li>
+					</ul>
+				</li>
+				</ul>
+
+</div>
+
+			</ul>
+		</li>
+		</ul>
+	</li>
+	</ul>
+</div>
+
+</div>
+
+
+
+
+
+<script>
+$(".collapsible").click(function() {
+  $(this).next().slideToggle("fast");
+});
+</script>
+
+</body>

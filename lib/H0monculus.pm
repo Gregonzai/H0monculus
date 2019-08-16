@@ -128,8 +128,9 @@ my $colors = {
 	'<http://anat.org/sous-sys-echange-air>'     	     => '#e2f3ff',
 	'<http://anat.org/organe-respi>'    	             => '#7499ff',
 	'<http://anat.org/organe-respi-subdi>'    	     => '#7499ff',
-	'<http://anat.org/conduit-air>'    	             => '#c6e6ff',
-	'<http://anat.org/gd-conduit-air>'    	             => '#c6e6ff',
+	'<http://anat.org/conduit-aerien>'    	             => '#c6e6ff',
+	'<http://anat.org/gd-conduit-aerien>'                => '#c6e6ff',
+	'<http://anat.org/groupe-conduit-aerien>'            => '#c6e6ff',
 	'<http://anat.org/Sys-assimilation>'   	             => '#f2be9d',
 	'<http://anat.org/sous-sys-assimilation>'            => '#f2be9d',
 	'<http://anat.org/organe-dig>'   	             => '#c8673a',
@@ -275,8 +276,9 @@ my $sizes = {
 	'<http://anat.org/anat:sous-sys-echange-air>'        => '1',
 	'<http://anat.org/organe-respi>'    	             => '3',
 	'<http://anat.org/organe-respi-subdi>'    	     => '0',
-	'<http://anat.org/conduit-air>'    	             => '0',
-	'<http://anat.org/gd-conduit-air>'    	             => '1',
+	'<http://anat.org/conduit-aerien>'    	             => '0',
+	'<http://anat.org/gd-conduit-aerien>'                => '1',
+	'<http://anat.org/groupe-conduit-aerien>'            => '3',
 	'<http://anat.org/Sys-assimilation>'   	             => '2',
 	'<http://anat.org/sous-sys-assimilation>'            => '1',
 	'<http://anat.org/organe-dig>'   	             => '3',
@@ -331,6 +333,10 @@ get '/osteologie' => sub {
 
 get '/myologie' => sub {
 	template 'myologie.tt';
+};
+
+get '/systemes_organiques' => sub {
+	template 'systemes_organiques.tt';
 };
 
 get '/graph' => sub {

@@ -97,6 +97,7 @@
 						<ul class="nav">
 							<li [% IF request.path == '/osteologie' %]class="active"[% END %]><a href="/osteologie">Ostéologie</a></li>
 							<li [% IF request.path == '/myologie' %]class="active"[% END %]><a href="/myologie">Myologie</a></li>
+							<li [% IF request.path == '/myologie' %]class="active"[% END %]><a href="/systemes_organiques">Systèmes organiques</a></li>
 							<li [% IF request.path == '/graph' %]class="active"[% END %]><a href="/graph">Graph</a></li>
 						</ul>
 					</div><!--/.nav-collapse -->

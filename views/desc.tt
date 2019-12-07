@@ -20,7 +20,6 @@ a span#infobulle {
      /* Effet sur la transparence */
         opacity:0;
       }
-	get_Imagemini3D           
 
      /* Apparition de la bulle avec le scale à 1 */
     a:hover span#infobulle, a:focus span#infobulle {
@@ -56,12 +55,12 @@ max-width:inherit;
 <table class="table table-striped">
 	[% FOREACH statement IN statements %]
 		<tr>
-			<td><a href="/desc/[% statement.subject %]">[% statement.subject_label %]<span id=infobulle><img src="[% statement.subject_Imagemini3d %]"/></span></a></td>
+			<td><a href="/desc/[% statement.subject %]">[% statement.subject_label %]<span id=infobulle><img src="[% statement.subject_Imagemini3D %]"/></span></a></td>
 			<td><a href="/desc/[% statement.predicate %]">[% statement.predicate_label %]</a></td>
 			[% IF statement.is_literal %]
 				<td>[% statement.object_label %]</td>
 			[% ELSE %]
-				<td><a href="/desc/[% statement.object %]">[% statement.object_label %]</a></td>
+				<td><a href="/desc/[% statement.object %]">[% statement.object_label %]<span id=infobulle><img src="[% statement.object_Imagemini3D %]"/></span></a></td>
 			[% END %]
 		</tr>
 	[% END %]

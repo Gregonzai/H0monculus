@@ -532,6 +532,7 @@ get qr{/desc/(?<uri> .*)$}x => sub {
 		$$statement{object_label} = labelize($st->object);
 		$$statement{is_literal} = $st->object->is_literal;
 		$$statement{subject_Imagemini3D} = get_Imagemini3D("<$$statement{subject}>");
+		$$statement{object_Imagemini3D} = get_Imagemini3D("<$$statement{object}>");
 
 		my $sty = get_type("<$$statement{subject}>");
 		my $oty = get_type("<$$statement{object}>");

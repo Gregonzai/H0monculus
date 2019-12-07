@@ -506,6 +506,7 @@ get qr{/desc/(?<uri> .*)$}x => sub {
 	my $uri = decode_utf8(uri_decode(captures->{uri}));
 
 	my $title = get_label("<$uri>");
+	$$statement{subject_Imagemini3D} = get_Imagemini3D("<$$statement{subject}>");
 	my $type = get_type("<$uri>");
 	my $model_URL = get_model_URL("<$uri>");
 	my $Image3D = get_Image3D("<$uri>");

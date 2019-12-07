@@ -21,6 +21,7 @@ a span#infobulle {
         opacity:0;
       }
 	get_Imagemini3D           
+
      /* Apparition de la bulle avec le scale à 1 */
     a:hover span#infobulle, a:focus span#infobulle {
      transform:scale(1) rotate(0);

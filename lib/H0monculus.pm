@@ -506,7 +506,6 @@ get qr{/desc/(?<uri> .*)$}x => sub {
 	my $uri = decode_utf8(uri_decode(captures->{uri}));
 
 	my $title = get_label("<$uri>");
-	$$statement{subject_Imagemini3D} = get_Imagemini3D("<$$statement{subject}>");
 	my $type = get_type("<$uri>");
 	my $model_URL = get_model_URL("<$uri>");
 	my $Image3D = get_Image3D("<$uri>");
@@ -532,6 +531,7 @@ get qr{/desc/(?<uri> .*)$}x => sub {
 		$$statement{predicate_label} = get_label("<$$statement{predicate}>");
 		$$statement{object_label} = labelize($st->object);
 		$$statement{is_literal} = $st->object->is_literal;
+		$$statement{subject_Imagemini3D} = get_Imagemini3D("<$$statement{subject}>");
 
 		my $sty = get_type("<$$statement{subject}>");
 		my $oty = get_type("<$$statement{object}>");

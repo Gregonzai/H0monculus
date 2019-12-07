@@ -1,3 +1,38 @@
+<style>
+a span#infobulle {
+        position:absolute;
+	margin-bottom:auto;
+        margin-top:25px;
+        margin-left:-25px;
+        color:#fff;
+        background:rgba(0, 0, 0, 0.5);
+        padding:25px;
+        border-radius:3px;
+	z-index:999;
+                 
+    /* Faire disparaire infobulle par défaut */
+    /* On determine l'origine de la rotation */
+       transform:scale(0) rotate(-0deg);
+      
+     /* Faire durer l'effet */
+        transition:all .1s;
+                 
+     /* Effet sur la transparence */
+        opacity:0;
+      }
+             
+     /* Apparition de la bulle avec le scale à 1 */
+    a:hover span#infobulle, a:focus span#infobulle {
+     transform:scale(1) rotate(0);
+             
+    /* Effet sur la transparence */
+       opacity:1;
+}
+#infobulle img {
+max-width:inherit;
+}
+</style>
+
 <ul class="breadcrumb">
 	[% FOREACH item IN breadcrumb %]
 		<li><a href="/desc/[% item.uri %]">[% item.label %]</a> <span class="divider">&gt;</span></li>
@@ -20,7 +55,7 @@
 <table class="table table-striped">
 	[% FOREACH statement IN statements %]
 		<tr>
-			<td><a href="/desc/[% statement.subject %]">[% statement.subject_label %]</a></td>
+			<td><a href="/desc/[% statement.subject %]">[% statement.subject_label %]<span id=infobulle><img src="[% statement.subject_model_URL %]"/></span></a></td>
 			<td><a href="/desc/[% statement.predicate %]">[% statement.predicate_label %]</a></td>
 			[% IF statement.is_literal %]
 				<td>[% statement.object_label %]</td>

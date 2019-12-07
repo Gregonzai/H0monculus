@@ -14,23 +14,17 @@ our $VERSION = '0.1';
 # colors
 my $colors = {
 	'<http://anat.org/anat-region>'                      => '#e6e6e6',
-	'<http://anat.org/anat-region-UC>'    	             => '#e6e6e6',
-	'<http://anat.org/anat-sous-region-UC>'              => '#e6e6e6',
-	'<http://anat.org/anat-region-ceinture>'             => '#e6e6e6',
-	'<http://anat.org/anat-region-apendiculaire>'        => '#e6e6e6',
-	'<http://anat.org/anat-region-sgmt>'                 => '#e6e6e6',
-	'<http://anat.org/anat-region-arti>'                 => '#e6e6e6',
-	'<http://anat.org/MS-region-anat>'    	             => '#dfcacc',
 	'<http://anat.org/Sys-support-mvt>'                  => '#dfcacc',
 	'<http://anat.org/MS-region-paroi-cavite-ant>'       => '#dfcacc',
 	'<http://anat.org/MS-region-paroi-cavite-post>'      => '#dfcacc',
-	'<http://anat.org/MS-region-3-membres>'    	     => '#9b9feb',
-	'<http://anat.org/MS-region-9-cplx-arti>'    	     => '#dfcacc',
+	'<http://anat.org/orifice-groupe>'                   => '#6b6b6b',
+	'<http://anat.org/orifice>'                          => '#6b6b6b',
 	'<http://anat.org/cavite>'                           => '#6b6b6b',
 	'<http://anat.org/cavite-ant>'                       => '#6b6b6b',
 	'<http://anat.org/sinus-aerien>'                     => '#6b6b6b',
 	'<http://anat.org/cavite-ext>'                       => '#6b6b6b',
 	'<http://anat.org/cavite-post>'                      => '#6b6b6b',
+	'<http://anat.org/paroi-cavitaire>'                  => '#6b6b6b',
 	'<http://anat.org/monde-ext>'                        => '#000000',
 	'<http://anat.org/OA-region-anat>'    	             => '#eeddb8',
 	'<http://anat.org/Sys-support-arti>'                 => '#eeddb8',
@@ -68,6 +62,9 @@ my $colors = {
 	'<http://anat.org/bone-description>'		     => '#d5d5d5',
 	'<http://anat.org/bone-foramen>'		     => '#d5d5d5',
 	'<http://anat.org/bone-canal>'			     => '#d5d5d5',
+	'<http://anat.org/orifice-osseux>'		     => '#d5d5d5',
+	'<http://anat.org/cloison-osseuse>'		     => '#d5d5d5',
+	'<http://anat.org/cloison-osteo-carti>'		     => '#d5d5d5',
 	'<http://anat.org/surf-insrt-mscl>'	             => '#cf7585',
 	'<http://anat.org/surf-insrt-lgmt>'	             => '#b8c285',
 	'<http://anat.org/surf-insrt-capsule-arti>'          => '#b8c285',
@@ -75,8 +72,11 @@ my $colors = {
 	'<http://anat.org/surface-articulaire>'              => '#dbd023',
 	'<http://anat.org/cartilage-articulaire>'            => '#dbd023',
 	'<http://anat.org/carti-structure>'   	             => '#c7be36',
+	'<http://anat.org/carti-structure-groupe>'           => '#c7be36',
 	'<http://anat.org/ligament>'   	                     => '#abc235',
+	'<http://anat.org/feuillet-ligamentaire>'            => '#abc235',
 	'<http://anat.org/groupe-ligamentaire>'              => '#abc235',
+	'<http://anat.org/structure-fibreuse>'               => '#abc235',
 	'<http://anat.org/capsule-arti>'                     => '#abc235',
 	'<http://anat.org/bourse-synoviale>'                 => '#abc235',
 	'<http://anat.org/str-diaphragmatiq>'                => '#cf2d49',
@@ -89,6 +89,7 @@ my $colors = {
 	'<http://anat.org/muscle-visceral-volontaire>'       => '#de5c3b',
 	'<http://anat.org/groupe-musculaire>'                => '#ba1327',
 	'<http://anat.org/fascia>'    	                     => '#dfcacc',
+	'<http://anat.org/muqueuse>'   	                     => '#ffb2b2',
 	'<http://anat.org/Sys-Organique>'    	             => '#f4dcc3',
 	'<http://anat.org/glande-dig>'    	             => '#c8673a',
 #	'<http://anat.org/glande-oeil>'    	             => '#',
@@ -123,14 +124,18 @@ my $colors = {
 	'<http://anat.org/ganglion-lymph>'    	             => '#949160',
 	'<http://anat.org/tissu-lymph-muqueuse>'	     => '#949160',
 	'<http://anat.org/vaisseau-lymph>'    	             => '#5aff00',
+	'<http://anat.org/canal-lacrymal>'    	             => '#00ccff',
 	'<http://anat.org/Sys-transition>'    	             => '#f4dcc3',
-	'<http://anat.org/Sys-echange-air>'    	             => '#e2f3ff',
-	'<http://anat.org/sous-sys-echange-air>'     	     => '#e2f3ff',
+	'<http://anat.org/organe-vocal>'    	             => '#e2f3ff',
+	'<http://anat.org/Sys-echange-gaz>'    	             => '#e2f3ff',
+	'<http://anat.org/sous-sys-echange-gaz>'     	     => '#e2f3ff',
 	'<http://anat.org/organe-respi>'    	             => '#7499ff',
 	'<http://anat.org/organe-respi-subdi>'    	     => '#7499ff',
 	'<http://anat.org/conduit-aerien>'    	             => '#c6e6ff',
 	'<http://anat.org/gd-conduit-aerien>'                => '#c6e6ff',
 	'<http://anat.org/groupe-conduit-aerien>'            => '#c6e6ff',
+	'<http://anat.org/cavite-aerienne>'    	             => '#c6e6ff',
+	'<http://anat.org/canal-aerien>'    	             => '#c6e6ff',
 	'<http://anat.org/Sys-assimilation>'   	             => '#f2be9d',
 	'<http://anat.org/sous-sys-assimilation>'            => '#f2be9d',
 	'<http://anat.org/organe-dig>'   	             => '#c8673a',
@@ -170,23 +175,17 @@ my $colors = {
 # sizes
 my $sizes = {
 	'<http://anat.org/anat-region>'    	             => '2',
-	'<http://anat.org/anat-region-UC>'    	             => '2',
-	'<http://anat.org/anat-sous-region-UC>'              => '1',
-	'<http://anat.org/anat-region-ceinture>'             => '2',
-	'<http://anat.org/anat-region-apendiculaire>'        => '2',
-	'<http://anat.org/anat-region-sgmt>'                 => '1',
-	'<http://anat.org/anat-region-arti>'                 => '1',
-	'<http://anat.org/MS-region-anat>'    	             => '1',
 	'<http://anat.org/Sys-support-mvt>'    	             => '4',
 	'<http://anat.org/MS-region-paroi-cavite-ant>'       => '1',
 	'<http://anat.org/MS-region-paroi-cavite-post>'      => '1',
-	'<http://anat.org/MS-region-3-membres>'    	     => '1',
-	'<http://anat.org/MS-region-9-cplx-arti>'    	     => '1',
+	'<http://anat.org/orifice-groupe>'                   => '1',
+	'<http://anat.org/orifice>'                          => '0',
 	'<http://anat.org/cavite>'                           => '1',
 	'<http://anat.org/cavite-ant>'                       => '1',
 	'<http://anat.org/sinus-aerien>'                     => '1',
 	'<http://anat.org/cavite-ext>'                       => '1',
 	'<http://anat.org/cavite-post>'                      => '1',
+	'<http://anat.org/paroi-cavitaire>'                  => '0',
 	'<http://anat.org/monde-ext>'                        => '0',
 	'<http://anat.org/OA-region-anat>'  	             => '1',
 	'<http://anat.org/Sys-support-arti>'           	     => '4',
@@ -222,6 +221,9 @@ my $sizes = {
 	'<http://anat.org/bone-description>'		     => '0',
 	'<http://anat.org/bone-foramen>'		     => '1',
 	'<http://anat.org/bone-canal>'			     => '0',
+	'<http://anat.org/orifice-osseux>'		     => '0',
+	'<http://anat.org/cloison-osseuse>'		     => '0',
+	'<http://anat.org/cloison-osteo-carti>'		     => '0',
 	'<http://anat.org/dent>'			     => '0',
 	'<http://anat.org/dent-groupe>'			     => '1',
 	'<http://anat.org/surf-insrt-mscl>'	             => '0',
@@ -231,8 +233,11 @@ my $sizes = {
 	'<http://anat.org/surface-articulaire>'              => '0',
 	'<http://anat.org/cartilage-articulaire>'            => '0',
 	'<http://anat.org/carti-structure>'	             => '0',
+	'<http://anat.org/carti-structure-groupe>'           => '1',
 	'<http://anat.org/ligament>'   	                     => '0',
+	'<http://anat.org/feuillet-ligamentaire>'            => '0',
 	'<http://anat.org/groupe-ligamentaire>'              => '1',
+	'<http://anat.org/structure-fibreuse>'               => '0',
 	'<http://anat.org/capsule-arti>'                     => '0',
 	'<http://anat.org/bourse-synoviale>'                 => '0',
 	'<http://anat.org/str-diaphragmatiq>'                => '2',
@@ -243,6 +248,7 @@ my $sizes = {
 	'<http://anat.org/attache-musculaire>'               => '0',
 	'<http://anat.org/groupe-tendineux>'                 => '2',
 	'<http://anat.org/fascia>'    	                     => '0',
+	'<http://anat.org/muqueuse>'   	                     => '0',
 	'<http://anat.org/Sys-Organique>'    	             => '4',
 	'<http://anat.org/glande-dig>'    	             => '0',
 	'<http://anat.org/glande-oeil>'    	             => '0',
@@ -271,14 +277,18 @@ my $sizes = {
 	'<http://anat.org/ganglion-lymph>'    	             => '0',
 	'<http://anat.org/tissu-lymph-muqueuse>'	     => '0',
 	'<http://anat.org/vaisseau-lymph>'    	             => '0',
+	'<http://anat.org/canal-lacrymal>'    	             => '0',
 	'<http://anat.org/Sys-transition>'    	             => '0',
-	'<http://anat.org/Sys-echange-air>'    	             => '2',
-	'<http://anat.org/anat:sous-sys-echange-air>'        => '1',
+	'<http://anat.org/organe-vocal>'    	             => '1',
+	'<http://anat.org/Sys-echange-gaz>'    	             => '2',
+	'<http://anat.org/anat:sous-sys-echange-gaz>'        => '1',
 	'<http://anat.org/organe-respi>'    	             => '3',
 	'<http://anat.org/organe-respi-subdi>'    	     => '0',
 	'<http://anat.org/conduit-aerien>'    	             => '0',
 	'<http://anat.org/gd-conduit-aerien>'                => '1',
 	'<http://anat.org/groupe-conduit-aerien>'            => '3',
+	'<http://anat.org/cavite-aerienne>'    	             => '0',
+	'<http://anat.org/canal-aerien>'    	             => '0',
 	'<http://anat.org/Sys-assimilation>'   	             => '2',
 	'<http://anat.org/sous-sys-assimilation>'            => '1',
 	'<http://anat.org/organe-dig>'   	             => '3',
@@ -376,6 +386,7 @@ get '/graph' => sub {
 							and $$statement{predicate} ne 'http://www.w3.org/2000/01/rdf-schema#domain'
 							and $$statement{predicate} ne 'http://www.w3.org/2002/07/owl#inverseOf'
 							and $$statement{predicate} ne 'http://anat.org/hasImage3D'
+							and $$statement{predicate} ne 'http://anat.org/hasImagemini3D'
 							and $$statement{predicate} ne 'http://anat.org/has3DmodelURL'
 									;
 	}
@@ -450,6 +461,20 @@ sub get_Image3D {
 	return $Image3D;
 }
 
+sub get_Imagemini3D {
+	my $uri = shift;
+	my $Imagemini3D;
+	my $query = RDF::Query->new( "SELECT ?o WHERE { $uri <http://anat.org/hasImagemini3D> ?o }" );
+	if ($query) {
+		my $iterator = $query->execute( $model );
+		while (my $row = $iterator->next) {
+			$Imagemini3D = $$row{o}->as_string;
+			$Imagemini3D =~ s/^<|>$//g;
+		}
+	}
+	return $Imagemini3D;
+}
+
 sub get_surclass {
 	my $uri = shift;
 	my $breadcrumb = shift;
@@ -484,6 +509,7 @@ get qr{/desc/(?<uri> .*)$}x => sub {
 	my $type = get_type("<$uri>");
 	my $model_URL = get_model_URL("<$uri>");
 	my $Image3D = get_Image3D("<$uri>");
+	my $Imagemini3D = get_Imagemini3D("<$uri>");
 	my $color = ($type and $$colors{"<$type>"}) ? $$colors{"<$type>"} : '#000000';
 	my $type_label = get_label("<$type>") if $type;
 	my $breadcrumb = get_surclass("<$type>", ()) if $type;
@@ -515,7 +541,8 @@ get qr{/desc/(?<uri> .*)$}x => sub {
 		push @statements, $statement if $$statement{predicate} ne 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type'
 						and $$statement{predicate} ne 'http://www.w3.org/2000/01/rdf-schema#label'
 						and $$statement{predicate} ne 'http://anat.org/has3DmodelURL'
-						and $$statement{predicate} ne 'http://anat.org/hasImage3D';
+						and $$statement{predicate} ne 'http://anat.org/hasImage3D'
+						and $$statement{predicate} ne 'http://anat.org/hasImagemini3D';
 	}
 
 
@@ -524,6 +551,7 @@ get qr{/desc/(?<uri> .*)$}x => sub {
 		uri => $uri,
 		title => $title,
 		Image3D => $Image3D,
+		Imagemini3D => $Imagemini3D,
 		type => $type,
 		model_URL => $model_URL,
 		color => $color,

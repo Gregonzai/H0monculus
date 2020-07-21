@@ -6,12 +6,7 @@
 	<script src="bootstrap/js/bootstrap.min.js"></script>-->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-.area {
-    color: #d7e0ea;
-}
-.subarea {
-    color: #d7e0ea;
-}
+
 a span#infobulle {
         position:absolute;
 	margin-bottom:auto;
@@ -67,19 +62,14 @@ max-width:inherit;
   background-color:#131c2a;
 }
 
-li {
-  color: #b6680b;
-}
-
 #ul-initial {
-  border-left: 0px;
+  list-style-type:none;
   padding-left: 0px;
   margin-left: 0px;
 }
 
 #ul-border-left {
   list-style-type:none;
-  color: #b6680b;
   border-left: 1px solid #b6680b;
   padding-left: 21px;
   margin-left: 4px;
@@ -87,27 +77,40 @@ li {
 
 a {
   color: #d7e0ea;
+  background-color:#131c2a;
+  padding-right: 300px ;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 3px;
+  margin-left: -3px;
 }
 a:hover {
   color: #b6680b; 
+  padding-right: border-box;
+  text-decoration: none;
 }
 a:link:active, a:visited:active {
   color: #d7e0ea;
 }
 
+.active, li:hover {
+  outline : 1px solid; 
+  outline-color:#243344;
+  padding-left: 5px;
+  margin-left:-4px;
+}
+
 details {
   color: #b6680b;
 }
-details.details-final {
-  color: #b6680b;
-}
+
 summary {
   border-left: 0px solid #131c2a;
 }
 .active, summary:hover {
   background-color:#243344;
-  padding-left: 9px;
-  margin-left:-8px;
+  padding-left: 5px;
+  margin-left:-4px;
 }
 
 summary::-webkit-details-marker {
@@ -122,7 +125,16 @@ summary::-webkit-details-marker {
  outline : none 
 }
 
+i{
+ color: #b6680b;
+}
+
+#table-icones {
+ float: right;
+}
+
 </style>
+<script src="https://kit.fontawesome.com/a076d05399.js"></script>
 </head>
 
 <body style="background-color:#131c2a;">
@@ -130,7 +142,6 @@ summary::-webkit-details-marker {
 <ul id="ul-initial">
 <details>
 <summary><a style="font-size:17px"><b>RÉGION DE LA TÊTE</b><span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3AOS-tete_thumb.gif" alt="img. region tete"/></span></a></summary>
-
 	<ul id="ul-border-left">
 	<details open>
 	<summary><a href="/desc/http://anat.org/os-crane">CRÂNE OSSEUX<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3Aos-crane_thumb.gif" alt="img. crâne"/></span></a></summary>

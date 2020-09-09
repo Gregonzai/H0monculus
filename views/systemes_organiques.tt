@@ -8,6 +8,7 @@
 <style>
 
 .help {cursor: help;}
+.default {cursor: default;}
 
 a span#infobulle {
         position:absolute;
@@ -79,7 +80,6 @@ max-width:inherit;
 
 a {
   color: #d7e0ea;
-  background-color:#131c2a;
 }
 a:hover {
   color: #b6680b; 
@@ -99,8 +99,7 @@ a1 {
 .active, li:hover {
   outline : 1px solid; 
   outline-color:#243344;
-  padding-left: 5px;
-  margin-left:-4px;
+  padding-left: 1px;
 }
 
 details {
@@ -113,16 +112,7 @@ summary {
 .active, summary:hover {
   outline : 1px solid; 
   outline-color:#243344;
-  padding-left: 5px;
-  margin-left:-4px;
-}
-
-summary::-webkit-details-marker {
-  border: 1px solid #243344;
-  padding: 4px;
-  margin-left: -9px;
-  margin-top: 2px;
-  margin-bottom: -3px;
+  padding-left: 1px;
 }
 
 *:focus {
@@ -145,7 +135,7 @@ i{
 
 <ul id="ul-initial">
 <details>
-<summary><a style="font-size:17px"><b>SYSTÈME RESPIRATOIRE</b><span id=infobulle><img src="https://ia803101.us.archive.org/view_archive.php?archive=/17/items/systrespi_20191207/SystRespi.zip&file=anat%3ASys-Respi_thumb.gif" alt="img. système respiratoire"/></span></a></summary>
+<summary><a style="font-size:17px"><b class="default">SYSTÈME RESPIRATOIRE</b><span id=infobulle><img src="https://ia803101.us.archive.org/view_archive.php?archive=/17/items/systrespi_20191207/SystRespi.zip&file=anat%3ASys-Respi_thumb.gif" alt="img. système respiratoire"/></span></a></summary>
 
 	<ul id="ul-border-left">
 	<details open>
@@ -355,9 +345,9 @@ i{
 					<details>
 					<summary><a href="/desc/http://anat.org/R-fosse-nasale-ant-vestibulaire">Fosse nasale antérieure (vestibulaire) droite<span id=infobulle><img src="https://ia803101.us.archive.org/view_archive.php?archive=/17/items/systrespi_20191207/SystRespi.zip&file=anat%3AR-fosse-nasale-ant-vestibulaire_thumb.gif" alt="img. fosse nasale antérieure (vestibulaire) droite"/></span></a></summary>
 						<ul id="ul-border-left">
-						<li><a href="/desc/http://anat.org/R-carti-narine">Cartilage de la narine droite<span id=infobulle><img src="https://ia803101.us.archive.org/view_archive.php?archive=/17/items/systrespi_20191207/SystRespi.zip&file=anat%3AR-carti-narine_thumb.gif" alt="img. cartilage de la narine droite"/></span></a></li>
-						<li><a href="/desc/http://anat.org/R-carti-lat-nez">Cartilage latéral droit du nez<span id=infobulle><img src="https://ia803101.us.archive.org/view_archive.php?archive=/17/items/systrespi_20191207/SystRespi.zip&file=anat%3AR-carti-lat-nez_thumb.gif" alt="img. cartilage latéral droit du nez"/></span></a></li>
-						<li><a href="/desc/http://anat.org/carti-septal">Cartilage septal<span id=infobulle><img src="https://ia803101.us.archive.org/view_archive.php?archive=/17/items/systrespi_20191207/SystRespi.zip&file=anat%3Acarti-septal_thumb.gif" alt="img. cartilage septal"/></span></a></li>
+						<li><a1 class="help">&#9673;&nbsp;</a1><a href="/desc/http://anat.org/R-carti-narine">Cartilage de la narine droite<span id=infobulle><img src="https://ia803101.us.archive.org/view_archive.php?archive=/17/items/systrespi_20191207/SystRespi.zip&file=anat%3AR-carti-narine_thumb.gif" alt="img. cartilage de la narine droite"/></span></a></li>
+						<li><a1 class="help">&#9673;&nbsp;</a1><a href="/desc/http://anat.org/R-carti-lat-nez">Cartilage latéral droit du nez<span id=infobulle><img src="https://ia803101.us.archive.org/view_archive.php?archive=/17/items/systrespi_20191207/SystRespi.zip&file=anat%3AR-carti-lat-nez_thumb.gif" alt="img. cartilage latéral droit du nez"/></span></a></li>
+						<li><a1 class="help">&#9673;&nbsp;</a1><a href="/desc/http://anat.org/carti-septal">Cartilage septal<span id=infobulle><img src="https://ia803101.us.archive.org/view_archive.php?archive=/17/items/systrespi_20191207/SystRespi.zip&file=anat%3Acarti-septal_thumb.gif" alt="img. cartilage septal"/></span></a></li>
 						</ul>
 					</details>
 					<details>
@@ -370,10 +360,10 @@ i{
 							<details>
 							<summary><a href="/desc/http://anat.org/R-fosse-nasale-osseuse-ant-lacrymale">Fosse nasale osseuse antérieure (lacrymale) droite<span id=infobulle><img src="https://ia803101.us.archive.org/view_archive.php?archive=/17/items/systrespi_20191207/SystRespi.zip&file=anat%3AR-fosse-nasale-osseuse-ant-lacrymale_thumb.gif" alt="img. fosse nasale osseuse antérieure (lacrymale) droite"/></span></a></summary>
 								<ul id="ul-border-left">
-								<li><a href="/desc/http://anat.org/R-os-nasal">Os nasal droit<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3AR-os-nasal_thumb.gif" alt="img. nasal droit"/></span></a></li>
-								<li><a href="/desc/http://anat.org/R-maxillaire">Os maxillaire droit<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3AR-maxillaire_thumb.gif" alt="img. maxillaire droit"/></span></a></li>
-								<li><a href="/desc/http://anat.org/R-os-lacrymal">Os lacrymal (anc. unguis) droit<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3AR-os-lacrymal_thumb.gif" alt="img. lacrymal droit"/></span></a></li>
-								<li><a href="/desc/http://anat.org/R-cornet-nasal-inf">Os cornet nasal inférieur droit<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3AR-cornet-nasal-inf_thumb.gif" alt="img. CNI droit"/></span></a></li>
+								<li><a1 class="help">&#9673;&nbsp;</a1><a href="/desc/http://anat.org/R-os-nasal">Os nasal droit<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3AR-os-nasal_thumb.gif" alt="img. nasal droit"/></span></a></li>
+								<li><a1 class="help">&#9673;&nbsp;</a1><a href="/desc/http://anat.org/R-maxillaire">Os maxillaire droit<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3AR-maxillaire_thumb.gif" alt="img. maxillaire droit"/></span></a></li>
+								<li><a1 class="help">&#9673;&nbsp;</a1><a href="/desc/http://anat.org/R-os-lacrymal">Os lacrymal (anc. unguis) droit<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3AR-os-lacrymal_thumb.gif" alt="img. lacrymal droit"/></span></a></li>
+								<li><a1 class="help">&#9673;&nbsp;</a1><a href="/desc/http://anat.org/R-cornet-nasal-inf">Os cornet nasal inférieur droit<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3AR-cornet-nasal-inf_thumb.gif" alt="img. CNI droit"/></span></a></li>
 								<li><a href="/desc/http://anat.org/R-canal-lacrymo-nasal">Canal lacrymo-nasal droit<span id=infobulle><img src="https://ia803101.us.archive.org/view_archive.php?archive=/17/items/systrespi_20191207/SystRespi.zip&file=anat%3AR-canal-lacrymo-nasal_thumb.gif" alt="img. canal lacrymo-nasal droit"/></span></a>
 									<ul style="list-style-type:none">
 									<li><a1 class="help">&#x279C;&nbsp;</a1><a href="/desc/http://anat.org/R-meat-inf">Méat nasal inférieur droit<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. méat nasal inférieur droit"/></span></a></li>
@@ -384,18 +374,18 @@ i{
 							<details>
 							<summary><a href="/desc/http://anat.org/R-fosse-nasale-osseuse-post-respiratoire">Fosse nasale osseuse postérieure (respiratoire) droite<span id=infobulle><img src="https://ia803101.us.archive.org/view_archive.php?archive=/17/items/systrespi_20191207/SystRespi.zip&file=anat%3AR-fosse-nasale-osseuse-post-respiratoire_thumb.gif" alt="img. fosse nasale osseuse postérieure (respiratoire) droite"/></span></a></summary>
 								<ul id="ul-border-left">
-								<li><a href="/desc/http://anat.org/R-maxillaire">Os maxillaire droit<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3AR-maxillaire_thumb.gif" alt="img. maxillaire droit"/></span></a></li>
-								<li><a href="/desc/http://anat.org/R-palatin">Os palatin droit<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3AR-palatin_thumb.gif" alt="img. palatin droit"/></span></a></li>
-								 <li><a href="/desc/http://anat.org/frontal">Os frontal<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3Afrontal_thumb.gif" alt="img. frontal"/></span></a></li>
-								<li><a href="/desc/http://anat.org/ethmoide">Os ethmoïde<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3Aethmoide_thumb.gif" alt="img. ethmoide"/></span></a></li>
-								<li><a href="/desc/http://anat.org/sphenoide">Os sphénoïde<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3Asphenoide_thumb.gif" alt="img. sphenoide"/></span></a></li>
-								<li><a href="/desc/http://anat.org/vomer">Os vomer<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3Avomer_thumb.gif" alt="img. vomer"/></span></a></li>
+								<li><a1 class="help">&#9673;&nbsp;</a1><a href="/desc/http://anat.org/R-maxillaire">Os maxillaire droit<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3AR-maxillaire_thumb.gif" alt="img. maxillaire droit"/></span></a></li>
+								<li><a1 class="help">&#9673;&nbsp;</a1><a href="/desc/http://anat.org/R-palatin">Os palatin droit<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3AR-palatin_thumb.gif" alt="img. palatin droit"/></span></a></li>
+								 <li><a1 class="help">&#9673;&nbsp;</a1><a href="/desc/http://anat.org/frontal">Os frontal<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3Afrontal_thumb.gif" alt="img. frontal"/></span></a></li>
+								<li><a1 class="help">&#9673;&nbsp;</a1><a href="/desc/http://anat.org/ethmoide">Os ethmoïde<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3Aethmoide_thumb.gif" alt="img. ethmoide"/></span></a></li>
+								<li><a1 class="help">&#9673;&nbsp;</a1><a href="/desc/http://anat.org/sphenoide">Os sphénoïde<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3Asphenoide_thumb.gif" alt="img. sphenoide"/></span></a></li>
+								<li><a1 class="help">&#9673;&nbsp;</a1><a href="/desc/http://anat.org/vomer">Os vomer<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3Avomer_thumb.gif" alt="img. vomer"/></span></a></li>
 								</ul>
 							</details>
 							<details>
 							<summary><a href="/desc/http://anat.org/R-fosse-nasale-osseuse-sup-olfactive">Fosse nasale osseuse supérieure (olfactive) droite<span id=infobulle><img src="https://ia803101.us.archive.org/view_archive.php?archive=/17/items/systrespi_20191207/SystRespi.zip&file=anat%3AR-fosse-nasale-osseuse-sup-olfactive_thumb.gif" alt="img. fosse nasale osseuse supérieure (olfactive) droite"/></span></a></summary>
 								<ul id="ul-border-left">
-								<li><a href="/desc/http://anat.org/ethmoide">Os ethmoïde<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3Aethmoide_thumb.gif" alt="img. ethmoide"/></span></a></li>
+								<li><a1 class="help">&#9673;&nbsp;</a1><a href="/desc/http://anat.org/ethmoide">Os ethmoïde<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3Aethmoide_thumb.gif" alt="img. ethmoide"/></span></a></li>
 								</ul>
 							</details>
 							</ul>
@@ -460,9 +450,9 @@ i{
 					<details>
 					<summary><a href="/desc/http://anat.org/L-fosse-nasale-ant-vestibulaire">Fosse nasale antérieure (vestibulaire) gauche<span id=infobulle><img src="https://ia803101.us.archive.org/view_archive.php?archive=/17/items/systrespi_20191207/SystRespi.zip&file=anat%3AL-fosse-nasale-ant-vestibulaire_thumb.gif" alt="img. fosse nasale antérieure (vestibulaire) gauche"/></span></a></summary>
 						<ul id="ul-border-left">
-						<li><a href="/desc/http://anat.org/L-carti-narine">Cartilage de la narine gauche<span id=infobulle><img src="https://ia803101.us.archive.org/view_archive.php?archive=/17/items/systrespi_20191207/SystRespi.zip&file=anat%3AL-carti-narine_thumb.gif" alt="img. cartilage de la narine gauche"/></span></a></li>
-						<li><a href="/desc/http://anat.org/L-carti-lat-nez">Cartilage latéral gauche du nez<span id=infobulle><img src="https://ia803101.us.archive.org/view_archive.php?archive=/17/items/systrespi_20191207/SystRespi.zip&file=anat%3AL-carti-lat-nez_thumb.gif" alt="img. cartilage latéral gauche du nez"/></span></a></li>
-						<li><a href="/desc/http://anat.org/carti-septal">Cartilage septal<span id=infobulle><img src="https://ia803101.us.archive.org/view_archive.php?archive=/17/items/systrespi_20191207/SystRespi.zip&file=anat%3Acarti-septal_thumb.gif" alt="img. cartilage septal"/></span></a></li>
+						<li><a1 class="help">&#9673;&nbsp;</a1><a href="/desc/http://anat.org/L-carti-narine">Cartilage de la narine gauche<span id=infobulle><img src="https://ia803101.us.archive.org/view_archive.php?archive=/17/items/systrespi_20191207/SystRespi.zip&file=anat%3AL-carti-narine_thumb.gif" alt="img. cartilage de la narine gauche"/></span></a></li>
+						<li><a1 class="help">&#9673;&nbsp;</a1><a href="/desc/http://anat.org/L-carti-lat-nez">Cartilage latéral gauche du nez<span id=infobulle><img src="https://ia803101.us.archive.org/view_archive.php?archive=/17/items/systrespi_20191207/SystRespi.zip&file=anat%3AL-carti-lat-nez_thumb.gif" alt="img. cartilage latéral gauche du nez"/></span></a></li>
+						<li><a1 class="help">&#9673;&nbsp;</a1><a href="/desc/http://anat.org/carti-septal">Cartilage septal<span id=infobulle><img src="https://ia803101.us.archive.org/view_archive.php?archive=/17/items/systrespi_20191207/SystRespi.zip&file=anat%3Acarti-septal_thumb.gif" alt="img. cartilage septal"/></span></a></li>
 						</ul>
 					</details>
 					<details>
@@ -475,10 +465,10 @@ i{
 							<details>
 							<summary><a href="/desc/http://anat.org/L-fosse-nasale-osseuse-ant-lacrymale">Fosse nasale osseuse antérieure (lacrymale) gauche<span id=infobulle><img src="https://ia803101.us.archive.org/view_archive.php?archive=/17/items/systrespi_20191207/SystRespi.zip&file=anat%3AL-fosse-nasale-osseuse-ant-lacrymale_thumb.gif" alt="img. fosse nasale osseuse antérieure (lacrymale) gauche"/></span></a></summary>
 								<ul id="ul-border-left">
-								<li><a href="/desc/http://anat.org/L-os-nasal">Os nasal gauche<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3AL-os-nasal_thumb.gif" alt="img. nasal gauche"/></span></a></li>
-								<li><a href="/desc/http://anat.org/L-maxillaire">Os maxillaire gauche<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3AL-maxillaire_thumb.gif" alt="img. maxillaire gauche"/></span></a></li>
-								<li><a href="/desc/http://anat.org/L-os-lacrymal">Os lacrymal (anc. unguis) gauche<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3AL-os-lacrymal_thumb.gif" alt="img. lacrymal gauche"/></span></a></li>
-								<li><a href="/desc/http://anat.org/L-cornet-nasal-inf">Os cornet nasal inférieur gauche<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3AL-cornet-nasal-inf_thumb.gif" alt="img. CNI gauche"/></span></a></li>
+								<li><a1 class="help">&#9673;&nbsp;</a1><a href="/desc/http://anat.org/L-os-nasal">Os nasal gauche<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3AL-os-nasal_thumb.gif" alt="img. nasal gauche"/></span></a></li>
+								<li><a1 class="help">&#9673;&nbsp;</a1><a href="/desc/http://anat.org/L-maxillaire">Os maxillaire gauche<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3AL-maxillaire_thumb.gif" alt="img. maxillaire gauche"/></span></a></li>
+								<li><a1 class="help">&#9673;&nbsp;</a1><a href="/desc/http://anat.org/L-os-lacrymal">Os lacrymal (anc. unguis) gauche<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3AL-os-lacrymal_thumb.gif" alt="img. lacrymal gauche"/></span></a></li>
+								<li><a1 class="help">&#9673;&nbsp;</a1><a href="/desc/http://anat.org/L-cornet-nasal-inf">Os cornet nasal inférieur gauche<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3AL-cornet-nasal-inf_thumb.gif" alt="img. CNI gauche"/></span></a></li>
 								<li><a href="/desc/http://anat.org/L-canal-lacrymo-nasal">Canal lacrymo-nasal gauche<span id=infobulle><img src="https://ia803101.us.archive.org/view_archive.php?archive=/17/items/systrespi_20191207/SystRespi.zip&file=anat%3AL-canal-lacrymo-nasal_thumb.gif" alt="img. canal lacrymo-nasal gauche"/></span></a>
 									<ul style="list-style-type:none">
 									<li><a1 class="help">&#x279C;&nbsp;</a1><a href="/desc/http://anat.org/L-meat-inf">Méat nasal inférieur gauche<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. méat nasal inférieur gauche"/></span></a></li>
@@ -489,18 +479,18 @@ i{
 							<details>
 							<summary><a href="/desc/http://anat.org/L-fosse-nasale-osseuse-post-respiratoire">Fosse nasale osseuse postérieure (respiratoire) gauche<span id=infobulle><img src="https://ia803101.us.archive.org/view_archive.php?archive=/17/items/systrespi_20191207/SystRespi.zip&file=anat%3AL-fosse-nasale-osseuse-post-respiratoire_thumb.gif" alt="img. fosse nasale osseuse postérieure (respiratoire) gauche"/></span></a></summary>
 								<ul id="ul-border-left">
-								<li><a href="/desc/http://anat.org/L-maxillaire">Os maxillaire gauche<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3AL-maxillaire_thumb.gif" alt="img. maxillaire gauche"/></span></a></li>
-								<li><a href="/desc/http://anat.org/L-palatin">Os palatin gauche<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3AL-palatin_thumb.gif" alt="img. palatin gauche"/></span></a></li>
-								 <li><a href="/desc/http://anat.org/frontal">Os frontal<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3Afrontal_thumb.gif" alt="img. frontal"/></span></a></li>
-								<li><a href="/desc/http://anat.org/ethmoide">Os ethmoïde<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3Aethmoide_thumb.gif" alt="img. ethmoide"/></span></a></li>
-								<li><a href="/desc/http://anat.org/sphenoide">Os sphénoïde<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3Asphenoide_thumb.gif" alt="img. sphenoide"/></span></a></li>
-								<li><a href="/desc/http://anat.org/vomer">Os vomer<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3Avomer_thumb.gif" alt="img. vomer"/></span></a></li>
+								<li><a1 class="help">&#9673;&nbsp;</a1><a href="/desc/http://anat.org/L-maxillaire">Os maxillaire gauche<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3AL-maxillaire_thumb.gif" alt="img. maxillaire gauche"/></span></a></li>
+								<li><a1 class="help">&#9673;&nbsp;</a1><a href="/desc/http://anat.org/L-palatin">Os palatin gauche<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3AL-palatin_thumb.gif" alt="img. palatin gauche"/></span></a></li>
+								 <li><a1 class="help">&#9673;&nbsp;</a1><a href="/desc/http://anat.org/frontal">Os frontal<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3Afrontal_thumb.gif" alt="img. frontal"/></span></a></li>
+								<li><a1 class="help">&#9673;&nbsp;</a1><a href="/desc/http://anat.org/ethmoide">Os ethmoïde<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3Aethmoide_thumb.gif" alt="img. ethmoide"/></span></a></li>
+								<li><a1 class="help">&#9673;&nbsp;</a1><a href="/desc/http://anat.org/sphenoide">Os sphénoïde<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3Asphenoide_thumb.gif" alt="img. sphenoide"/></span></a></li>
+								<li><a1 class="help">&#9673;&nbsp;</a1><a href="/desc/http://anat.org/vomer">Os vomer<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3Avomer_thumb.gif" alt="img. vomer"/></span></a></li>
 								</ul>
 							</details>
 							<details>
 							<summary><a href="/desc/http://anat.org/L-fosse-nasale-osseuse-sup-olfactive">Fosse nasale osseuse supérieure (olfactive) gauche<span id=infobulle><img src="https://ia803101.us.archive.org/view_archive.php?archive=/17/items/systrespi_20191207/SystRespi.zip&file=anat%3AL-fosse-nasale-osseuse-sup-olfactive_thumb.gif" alt="img. fosse nasale osseuse supérieure (olfactive) gauche"/></span></a></summary>
 								<ul id="ul-border-left">
-								<li><a href="/desc/http://anat.org/ethmoide">Os ethmoïde<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3Aethmoide_thumb.gif" alt="img. ethmoide"/></span></a></li>
+								<li><a1 class="help">&#9673;&nbsp;</a1><a href="/desc/http://anat.org/ethmoide">Os ethmoïde<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3Aethmoide_thumb.gif" alt="img. ethmoide"/></span></a></li>
 								</ul>
 							</details>
 							</ul>
@@ -738,13 +728,35 @@ i{
 					<summary><a href="/desc/http://anat.org/muscles-naso-pharynx">Muscles du nasopharynx<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-naso-pharynx_thumb.gif" alt="img. mscl nasopharynx"/></span></a></summary>
 						<ul id="ul-border-left">
 						<details open>
-						<summary><a href="/desc/http://anat.org/muscles-constricteur-sup-pharynx">Muscles constricteurs supérieurs du pharynx<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-constricteur-sup-pharynx_thumb.gif" alt="img. muscles constricteurs sup du pharynx"/></span></a></summary>
+						<summary><a href="/desc/http://anat.org/muscles-constricteur-sup-pharynx">Muscles constricteurs supérieurs du pharynx<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-constricteur-sup-pharynx_thumb.gif" alt="img. muscles constricteurs sup du pharynx"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
 							<ul id="ul-border-left">
-							<li><a href="/desc/http://anat.org/R-mscl-constricteur-sup-pharynx">Muscle constricteur supérieur du pharynx droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-constricteur-sup-pharynx_thumb.gif" alt="img. muscle constricteur sup du pharynx D"/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-mscl-constricteur-sup-pharynx">Muscle constricteur supérieur du pharynx gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-constricteur-sup-pharynx_thumb.gif" alt="img. muscle constricteur sup du pharynx G"/></span></a></li>
+							<details>
+							<summary><a href="/desc/http://anat.org/muscles-pterygopharyngien">Muscles ptérigo-pharyngiens<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-pterygopharyngien_thumb.gif" alt="img. muscles pterygo-pharyngiens"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
+								<ul id="ul-border-left">
+								<li><a href="/desc/http://anat.org/R-mscl-pterygopharyngien">Muscle ptérigo-pharyngien droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-pterygopharyngien_thumb.gif" alt="img. muscle pterygo-pharyngien D"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+								<li><a href="/desc/http://anat.org/L-mscl-pterygopharyngien">Muscle ptérigo-pharyngien gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-pterygopharyngien_thumb.gif" alt="img. muscle pterygo-pharyngien G"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+							</details>
+							<details>
+							<summary><a href="/desc/http://anat.org/muscles-buccopharyngien">Muscles bucco-pharyngiens<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-buccopharyngien_thumb.gif" alt="img. muscles bucco-pharyngiens"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
+								<ul id="ul-border-left">
+								<li><a href="/desc/http://anat.org/R-mscl-buccopharyngien">Muscle bucco-pharyngien droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-buccopharyngien_thumb.gif" alt="img. muscle bucco-pharyngien D"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+								<li><a href="/desc/http://anat.org/L-mscl-buccopharyngien">Muscle bucco-pharyngien gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-buccopharyngien_thumb.gif" alt="img. muscle bucco-pharyngien G"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+							</details>
+							<details>
+							<summary><a href="/desc/http://anat.org/muscles-mylopharyngien">Muscles mylo-pharyngiens<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-mylopharyngien_thumb.gif" alt="img. muscles mylo-pharyngiens"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
+								<ul id="ul-border-left">
+								<li><a href="/desc/http://anat.org/R-mscl-mylopharyngien">Muscle mylo-pharyngien droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-mylopharyngien_thumb.gif" alt="img. muscle mylo-pharyngien D"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+								<li><a href="/desc/http://anat.org/L-mscl-mylopharyngien">Muscle mylo-pharyngien gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-mylopharyngien_thumb.gif" alt="img. muscle mylo-pharyngien G"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+							</details>
+							<details>
+							<summary><a href="/desc/http://anat.org/muscles-glossopharyngien">Muscles glosso-pharyngiens<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-glossopharyngien_thumb.gif" alt="img. muscles glosso-pharyngiens"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
+								<ul id="ul-border-left">
+								<li><a href="/desc/http://anat.org/R-mscl-glossopharyngien">Muscle glosso-pharyngien droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-glossopharyngien_thumb.gif" alt="img. muscle glosso-pharyngien D"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+								<li><a href="/desc/http://anat.org/L-mscl-glossopharyngien">Muscle glosso-pharyngien gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-glossopharyngien_thumb.gif" alt="img. muscle glosso-pharyngien G"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+							</details>
 							</ul>
 						</details>
-						<details open>
+						<details>
 						<summary><a href="/desc/http://anat.org/muscles-salpingopharyngien">Muscles salpingo-pharyngiens<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-salpingopharyngien_thumb.gif" alt="img. muscles salpingo-pharyngiens"/></span></a></summary>
 							<ul id="ul-border-left">
 							<li><a href="/desc/http://anat.org/R-mscl-salpingopharyngien">Muscle salpingo-pharyngien droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-salpingopharyngien_thumb.gif" alt="img. muscle salpingo-pharyngien D"/></span></a></li>
@@ -762,20 +774,30 @@ i{
 					<summary><a href="/desc/http://anat.org/muscles-oro-pharynx">Muscles de l'oropharynx<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-oro-pharynx_thumb.gif" alt="img. mscl oropharynx"/></span></a></summary>
 						<ul id="ul-border-left">
 						<details open>
-						<summary><a href="/desc/http://anat.org/muscles-constricteur-moy-pharynx">Muscles constricteurs moyens du pharynx<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-constricteur-moy-pharynx_thumb.gif" alt="img. muscles constricteurs moyens du pharynx"/></span></a></summary>
+						<summary><a href="/desc/http://anat.org/muscles-constricteur-moy-pharynx">Muscles constricteurs moyens du pharynx<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-constricteur-moy-pharynx_thumb.gif" alt="img. muscles constricteurs moyens du pharynx"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
 							<ul id="ul-border-left">
-							<li><a href="/desc/http://anat.org/R-mscl-constricteur-moy-pharynx">Muscle constricteur moyen du pharynx droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-constricteur-moy-pharynx_thumb.gif" alt="img. muscle constricteur moyen du pharynx D"/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-mscl-constricteur-moy-pharynx">Muscle constricteur moyen du pharynx gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-constricteur-moy-pharynx_thumb.gif" alt="img. muscle constricteur moyen du pharynx G"/></span></a></li>
+							<details>
+							<summary><a href="/desc/http://anat.org/muscles-chondropharyngien">Muscles chondro-pharyngiens<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-chondropharyngien_thumb.gif" alt="img. muscles chondro-pharyngiens"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
+								<ul id="ul-border-left">
+								<li><a href="/desc/http://anat.org/R-mscl-chondropharyngien">Muscle chondro-pharyngien droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-chondropharyngien_thumb.gif" alt="img. muscle chondro-pharyngien D"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+								<li><a href="/desc/http://anat.org/L-mscl-chondropharyngien">Muscle chondro-pharyngien gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-chondropharyngien_thumb.gif" alt="img. muscle chondro-pharyngien G"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+							</details>
+							<details>
+							<summary><a href="/desc/http://anat.org/muscles-ceratopharyngien">Muscles cérato-pharyngiens<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-ceratopharyngien_thumb.gif" alt="img. muscles cerato-pharyngiens"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
+								<ul id="ul-border-left">
+								<li><a href="/desc/http://anat.org/R-mscl-ceratopharyngien">Muscle cérato-pharyngien droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-ceratopharyngien_thumb.gif" alt="img. muscle cerato-pharyngien D"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+								<li><a href="/desc/http://anat.org/L-mscl-ceratopharyngien">Muscle cérato-pharyngien gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-ceratopharyngien_thumb.gif" alt="img. muscle cerato-pharyngien G"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+							</details>
 							</ul>
 						</details>
-						<details open>
+						<details>
 						<summary><a href="/desc/http://anat.org/muscles-stylopharyngien">Muscles stylo-pharyngiens<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-stylopharyngien_thumb.gif" alt="img. muscles stylo-pharyngiens"/></span></a></summary>
 							<ul id="ul-border-left">
 							<li><a href="/desc/http://anat.org/R-mscl-stylopharyngien">Muscle stylo-pharyngien droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-stylopharyngien_thumb.gif" alt="img. muscle stylo-pharyngien D"/></span></a></li>
 							<li><a href="/desc/http://anat.org/L-mscl-stylopharyngien">Muscle stylo-pharyngien gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-stylopharyngien_thumb.gif" alt="img. muscle stylo-pharyngien G"/></span></a></li>
 							</ul>
 						</details>
-						<details open>
+						<details>
 						<summary><a href="/desc/http://anat.org/muscles-palatopharyngien">Muscles palato-pharyngiens (pharyngo-staphylins)<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-palatopharyngien_thumb.gif" alt="img. Muscles palato-pharyngiens"/></span></a></summary>
 							<ul id="ul-border-left">
 							<li><a href="/desc/http://anat.org/R-mscl-palatopharyngien">Muscle palato-pharyngien (pharyngo-staphylin) droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-palatopharyngien_thumb.gif" alt="img. muscle palato-pharyngien D"/></span></a></li>
@@ -793,45 +815,125 @@ i{
 					<summary><a href="/desc/http://anat.org/muscles-laryngo-pharynx">Muscles du laryngopharynx<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-laryngo-pharynx_thumb.gif" alt="img. mscl laryngopharynx"/></span></a></summary>
 						<ul id="ul-border-left">
 						<details open>
-						<summary><a href="/desc/http://anat.org/muscles-constricteur-inf-pharynx">Muscles constricteurs inférieurs du pharynx<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-constricteur-inf-pharynx_thumb.gif" alt="img. muscles constricteurs inf du pharynx"/></span></a></summary>
+						<summary><a href="/desc/http://anat.org/muscles-constricteur-inf-pharynx">Muscles constricteurs inférieurs du pharynx<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-constricteur-inf-pharynx_thumb.gif" alt="img. muscles constricteurs inf du pharynx"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
 							<ul id="ul-border-left">
-							<li><a href="/desc/http://anat.org/R-mscl-constricteur-inf-pharynx">Muscle constricteur inférieur du pharynx droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-constricteur-inf-pharynx_thumb.gif" alt="img. muscle constricteur inf du pharynx D"/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-mscl-constricteur-inf-pharynx">Muscle constricteur inférieur du pharynx gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-constricteur-inf-pharynx_thumb.gif" alt="img. muscle constricteur inf du pharynx G"/></span></a></li>
+							<details>
+							<summary><a href="/desc/http://anat.org/muscles-thyropharyngien">Muscles thyro-pharyngiens<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-thyropharyngien_thumb.gif" alt="img. muscles thyro-pharyngiens"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
+								<ul id="ul-border-left">
+								<li><a href="/desc/http://anat.org/R-mscl-thyropharyngien">Muscle thyro-pharyngien droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-thyropharyngien_thumb.gif" alt="img. muscle thyro-pharyngien D"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+								<li><a href="/desc/http://anat.org/L-mscl-thyropharyngien">Muscle thyro-pharyngien gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-thyropharyngien_thumb.gif" alt="img. muscle thyro-pharyngien G"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+							</details>
+							<details>
+							<summary><a href="/desc/http://anat.org/mscl-cricopharyngien">Muscle crico-pharyngien<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-ceratopharyngien_thumb.gif" alt="img. muscles cerato-pharyngiens"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
+								<ul id="ul-border-left">
+								<details>
+								<summary><a href="/desc/http://anat.org/mscl-cricopharyngien-fx-oblique-sup">Faisceaux obliques supérieurs du muscle crico-pharyngien<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
+									<ul id="ul-border-left">
+									<li><a href="/desc/http://anat.org/R-mscl-cricopharyngien-fx-oblique-sup">Faisceau oblique supérieur droit du muscle crico-pharyngien<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+									<li><a href="/desc/http://anat.org/L-mscl-cricopharyngien-fx-oblique-sup">Faisceau oblique supérieur gauche du muscle crico-pharyngien<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+									</ul>
+								</details>
+								<li><a href="/desc/http://anat.org/mscl-cricopharyngien-fx-horizontal">Faisceau horizontal du muscle crico-pharyngien<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+								<details>
+								<summary><a href="/desc/http://anat.org/mscl-cricopharyngien-fx-oblique-inf">Faisceaux obliques inférieurs du muscle crico-pharyngien<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
+									<ul id="ul-border-left">
+									<li><a href="/desc/http://anat.org/R-mscl-cricopharyngien-fx-oblique-inf">Faisceau oblique inférieur droit du muscle crico-pharyngien<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+									<li><a href="/desc/http://anat.org/L-mscl-cricopharyngien-fx-oblique-inf">Faisceau oblique inférieur gauche du muscle crico-pharyngien<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+									</ul>
+								</details>
+								</ul>
+							</details>
 							</ul>
 						</details>
 						</ul>
 					</details>
 					</ul>
 				</details>
-				<li><br></li>
+				<br>
 				<details open>
 				<summary><a href="/desc/http://anat.org/muscles-pharynx">Muscles du pharynx<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-pharynx_thumb.gif" alt="img. mscl pharynx"/></span></a></summary>
 					<ul id="ul-border-left">
 					<details>
-					<summary><a href="/desc/http://anat.org/muscles-pharynx-couche-ext">Muscles du pharynx : couche externe circulaire<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-pharynx-couche-ext_thumb.gif" alt="img. muscles du pharynx couche ext"/></span></a></summary>
+					<summary><a href="/desc/http://anat.org/muscles-pharynx-couche-ext">Muscles du pharynx : couche externe circulaire<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=zSLHviT9DqKDHrKre4ey8bKf" alt="img. muscles du pharynx couche ext"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
 						<ul id="ul-border-left">
 						<details open>
-						<summary><a href="/desc/http://anat.org/muscles-constricteurs-pharynx">Muscles constricteurs du pharynx<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-constricteurs-pharynx_thumb.gif" alt="img. muscles constricteurs du pharynx"/></span></a></summary>
+						<summary><a href="/desc/http://anat.org/muscles-constricteurs-pharynx">Muscles constricteurs du pharynx<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-constricteurs-pharynx_thumb.gif" alt="img. muscles constricteurs du pharynx"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
 							<ul id="ul-border-left">
 							<details open>
-							<summary><a href="/desc/http://anat.org/muscles-constricteur-sup-pharynx">Muscles constricteurs supérieurs du pharynx<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-constricteur-sup-pharynx_thumb.gif" alt="img. muscles constricteurs sup du pharynx"/></span></a></summary>
+							<summary><a href="/desc/http://anat.org/muscles-constricteur-sup-pharynx">Muscles constricteurs supérieurs du pharynx<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-constricteur-sup-pharynx_thumb.gif" alt="img. muscles constricteurs sup du pharynx"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
 								<ul id="ul-border-left">
-								<li><a href="/desc/http://anat.org/R-mscl-constricteur-sup-pharynx">Muscle constricteur supérieur du pharynx droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-constricteur-sup-pharynx_thumb.gif" alt="img. muscle constricteur sup du pharynx D"/></span></a></li>
-								<li><a href="/desc/http://anat.org/L-mscl-constricteur-sup-pharynx">Muscle constricteur supérieur du pharynx gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-constricteur-sup-pharynx_thumb.gif" alt="img. muscle constricteur sup du pharynx G"/></span></a></li>
+								<details>
+								<summary><a href="/desc/http://anat.org/muscles-pterygopharyngien">Muscles ptérigo-pharyngiens<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-pterygopharyngien_thumb.gif" alt="img. muscles pterygo-pharyngiens"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
+									<ul id="ul-border-left">
+									<li><a href="/desc/http://anat.org/R-mscl-pterygopharyngien">Muscle ptérigo-pharyngien droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-pterygopharyngien_thumb.gif" alt="img. muscle pterygo-pharyngien D"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+									<li><a href="/desc/http://anat.org/L-mscl-pterygopharyngien">Muscle ptérigo-pharyngien gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-pterygopharyngien_thumb.gif" alt="img. muscle pterygo-pharyngien G"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+								</details>
+								<details>
+								<summary><a href="/desc/http://anat.org/muscles-buccopharyngien">Muscles bucco-pharyngiens<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-buccopharyngien_thumb.gif" alt="img. muscles bucco-pharyngiens"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
+									<ul id="ul-border-left">
+									<li><a href="/desc/http://anat.org/R-mscl-buccopharyngien">Muscle bucco-pharyngien droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-buccopharyngien_thumb.gif" alt="img. muscle bucco-pharyngien D"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+									<li><a href="/desc/http://anat.org/L-mscl-buccopharyngien">Muscle bucco-pharyngien gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-buccopharyngien_thumb.gif" alt="img. muscle bucco-pharyngien G"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+								</details>
+								<details>
+								<summary><a href="/desc/http://anat.org/muscles-mylopharyngien">Muscles mylo-pharyngiens<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-mylopharyngien_thumb.gif" alt="img. muscles mylo-pharyngiens"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
+									<ul id="ul-border-left">
+									<li><a href="/desc/http://anat.org/R-mscl-mylopharyngien">Muscle mylo-pharyngien droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-mylopharyngien_thumb.gif" alt="img. muscle mylo-pharyngien D"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+									<li><a href="/desc/http://anat.org/L-mscl-mylopharyngien">Muscle mylo-pharyngien gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-mylopharyngien_thumb.gif" alt="img. muscle mylo-pharyngien G"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+								</details>
+								<details>
+								<summary><a href="/desc/http://anat.org/muscles-glossopharyngien">Muscles glosso-pharyngiens<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-glossopharyngien_thumb.gif" alt="img. muscles glosso-pharyngiens"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
+									<ul id="ul-border-left">
+									<li><a href="/desc/http://anat.org/R-mscl-glossopharyngien">Muscle glosso-pharyngien droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-glossopharyngien_thumb.gif" alt="img. muscle glosso-pharyngien D"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+									<li><a href="/desc/http://anat.org/L-mscl-glossopharyngien">Muscle glosso-pharyngien gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-glossopharyngien_thumb.gif" alt="img. muscle glosso-pharyngien G"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+								</details>
 								</ul>
 							</details>
 							<details open>
-							<summary><a href="/desc/http://anat.org/muscles-constricteur-moy-pharynx">Muscles constricteurs moyens du pharynx<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-constricteur-moy-pharynx_thumb.gif" alt="img. muscles constricteurs moyens du pharynx"/></span></a></summary>
+							<summary><a href="/desc/http://anat.org/muscles-constricteur-moy-pharynx">Muscles constricteurs moyens du pharynx<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-constricteur-moy-pharynx_thumb.gif" alt="img. muscles constricteurs moyens du pharynx"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
 								<ul id="ul-border-left">
-								<li><a href="/desc/http://anat.org/R-mscl-constricteur-moy-pharynx">Muscle constricteur moyen du pharynx droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-constricteur-moy-pharynx_thumb.gif" alt="img. muscle constricteur moyen du pharynx D"/></span></a></li>
-								<li><a href="/desc/http://anat.org/L-mscl-constricteur-moy-pharynx">Muscle constricteur moyen du pharynx gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-constricteur-moy-pharynx_thumb.gif" alt="img. muscle constricteur moyen du pharynx G"/></span></a></li>
+								<details>
+								<summary><a href="/desc/http://anat.org/muscles-chondropharyngien">Muscles chondro-pharyngiens<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-chondropharyngien_thumb.gif" alt="img. muscles chondro-pharyngiens"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
+									<ul id="ul-border-left">
+									<li><a href="/desc/http://anat.org/R-mscl-chondropharyngien">Muscle chondro-pharyngien droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-chondropharyngien_thumb.gif" alt="img. muscle chondro-pharyngien D"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+									<li><a href="/desc/http://anat.org/L-mscl-chondropharyngien">Muscle chondro-pharyngien gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-chondropharyngien_thumb.gif" alt="img. muscle chondro-pharyngien G"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+								</details>
+								<details>
+								<summary><a href="/desc/http://anat.org/muscles-ceratopharyngien">Muscles cérato-pharyngiens<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-ceratopharyngien_thumb.gif" alt="img. muscles cerato-pharyngiens"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
+									<ul id="ul-border-left">
+									<li><a href="/desc/http://anat.org/R-mscl-ceratopharyngien">Muscle cérato-pharyngien droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-ceratopharyngien_thumb.gif" alt="img. muscle cerato-pharyngien D"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+									<li><a href="/desc/http://anat.org/L-mscl-ceratopharyngien">Muscle cérato-pharyngien gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-ceratopharyngien_thumb.gif" alt="img. muscle cerato-pharyngien G"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+								</details>
 								</ul>
 							</details>
 							<details open>
-							<summary><a href="/desc/http://anat.org/muscles-constricteur-inf-pharynx">Muscles constricteurs inférieurs du pharynx<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-constricteur-inf-pharynx_thumb.gif" alt="img. muscles constricteurs inf du pharynx"/></span></a></summary>
+							<summary><a href="/desc/http://anat.org/muscles-constricteur-inf-pharynx">Muscles constricteurs inférieurs du pharynx<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-constricteur-inf-pharynx_thumb.gif" alt="img. muscles constricteurs inf du pharynx"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
 								<ul id="ul-border-left">
-								<li><a href="/desc/http://anat.org/R-mscl-constricteur-inf-pharynx">Muscle constricteur inférieur du pharynx droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-constricteur-inf-pharynx_thumb.gif" alt="img. muscle constricteur inf du pharynx D"/></span></a></li>
-								<li><a href="/desc/http://anat.org/L-mscl-constricteur-inf-pharynx">Muscle constricteur inférieur du pharynx gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-constricteur-inf-pharynx_thumb.gif" alt="img. muscle constricteur inf du pharynx G"/></span></a></li>
+								<details>
+								<summary><a href="/desc/http://anat.org/muscles-thyropharyngien">Muscles thyro-pharyngiens<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-thyropharyngien_thumb.gif" alt="img. muscles thyro-pharyngiens"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
+									<ul id="ul-border-left">
+									<li><a href="/desc/http://anat.org/R-mscl-thyropharyngien">Muscle thyro-pharyngien droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-thyropharyngien_thumb.gif" alt="img. muscle thyro-pharyngien D"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+									<li><a href="/desc/http://anat.org/L-mscl-thyropharyngien">Muscle thyro-pharyngien gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-thyropharyngien_thumb.gif" alt="img. muscle thyro-pharyngien G"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+								</details>
+								<details>
+								<summary><a href="/desc/http://anat.org/mscl-cricopharyngien">Muscle crico-pharyngien<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-ceratopharyngien_thumb.gif" alt="img. muscles cerato-pharyngiens"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
+									<ul id="ul-border-left">
+									<details>
+									<summary><a href="/desc/http://anat.org/mscl-cricopharyngien-fx-oblique-sup">Faisceaux obliques supérieurs du muscle crico-pharyngien<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
+										<ul id="ul-border-left">
+										<li><a href="/desc/http://anat.org/R-mscl-cricopharyngien-fx-oblique-sup">Faisceau oblique supérieur droit du muscle crico-pharyngien<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+										<li><a href="/desc/http://anat.org/L-mscl-cricopharyngien-fx-oblique-sup">Faisceau oblique supérieur gauche du muscle crico-pharyngien<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+										</ul>
+									</details>
+									<li><a href="/desc/http://anat.org/mscl-cricopharyngien-fx-horizontal">Faisceau horizontal du muscle crico-pharyngien<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+									<details>
+									<summary><a href="/desc/http://anat.org/mscl-cricopharyngien-fx-oblique-inf">Faisceaux obliques inférieurs du muscle crico-pharyngien<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
+										<ul id="ul-border-left">
+										<li><a href="/desc/http://anat.org/R-mscl-cricopharyngien-fx-oblique-inf">Faisceau oblique inférieur droit du muscle crico-pharyngien<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+										<li><a href="/desc/http://anat.org/L-mscl-cricopharyngien-fx-oblique-inf">Faisceau oblique inférieur gauche du muscle crico-pharyngien<span id=infobulle><img src="https://vignette.wikia.nocookie.net/canadians-vs-vampires/images/a/a4/Not_available_icon.jpg/revision/latest?cb=20130403054528" alt="img. "/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+										</ul>
+									</details>
+									</ul>
+								</details>
 								</ul>
 							</details>
 							</ul>
@@ -839,27 +941,27 @@ i{
 						</ul>
 					</details>
 					<details>
-					<summary><a href="/desc/http://anat.org/muscles-pharynx-couche-int">Muscles du pharynx : couche interne longitudinale<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-pharynx-couche-int_thumb.gif" alt="img. muscles du pharynx couche int"/></span></a></summary>
+					<summary><a href="/desc/http://anat.org/muscles-pharynx-couche-int">Muscles du pharynx : couche interne longitudinale<span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=LLvCiuKv8jyCLnmeOn51PPTn" alt="img. muscles du pharynx couche int"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
 						<ul id="ul-border-left">
-						<details open>
-						<summary><a href="/desc/http://anat.org/muscles-stylopharyngien">Muscles stylo-pharyngiens<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-stylopharyngien_thumb.gif" alt="img. muscles stylo-pharyngiens"/></span></a></summary>
+						<details>
+						<summary><a href="/desc/http://anat.org/muscles-stylopharyngien">Muscles stylo-pharyngiens<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-stylopharyngien_thumb.gif" alt="img. muscles stylo-pharyngiens"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
 							<ul id="ul-border-left">
-							<li><a href="/desc/http://anat.org/R-mscl-stylopharyngien">Muscle stylo-pharyngien droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-stylopharyngien_thumb.gif" alt="img. muscle stylo-pharyngien D"/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-mscl-stylopharyngien">Muscle stylo-pharyngien gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-stylopharyngien_thumb.gif" alt="img. muscle stylo-pharyngien G"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-stylopharyngien">Muscle stylo-pharyngien droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-stylopharyngien_thumb.gif" alt="img. muscle stylo-pharyngien D"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+							<li><a href="/desc/http://anat.org/L-mscl-stylopharyngien">Muscle stylo-pharyngien gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-stylopharyngien_thumb.gif" alt="img. muscle stylo-pharyngien G"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
 							</ul>
 						</details>
-						<details open>
-						<summary><a href="/desc/http://anat.org/muscles-salpingopharyngien">Muscles salpingo-pharyngiens<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-salpingopharyngien_thumb.gif" alt="img. muscles salpingo-pharyngiens"/></span></a></summary>
+						<details>
+						<summary><a href="/desc/http://anat.org/muscles-salpingopharyngien">Muscles salpingo-pharyngiens<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-salpingopharyngien_thumb.gif" alt="img. muscles salpingo-pharyngiens"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
 							<ul id="ul-border-left">
-							<li><a href="/desc/http://anat.org/R-mscl-salpingopharyngien">Muscle salpingo-pharyngien droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-salpingopharyngien_thumb.gif" alt="img. muscle salpingo-pharyngien D"/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-mscl-salpingopharyngien">Muscle salpingo-pharyngien gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-salpingopharyngien_thumb.gif" alt="img. muscle salpingo-pharyngien G"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-salpingopharyngien">Muscle salpingo-pharyngien droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-salpingopharyngien_thumb.gif" alt="img. muscle salpingo-pharyngien D"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+							<li><a href="/desc/http://anat.org/L-mscl-salpingopharyngien">Muscle salpingo-pharyngien gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-salpingopharyngien_thumb.gif" alt="img. muscle salpingo-pharyngien G"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
 							</ul>
 						</details>
-						<details open>
-						<summary><a href="/desc/http://anat.org/muscles-palatopharyngien">Muscles palato-pharyngiens (pharyngo-staphylins)<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-palatopharyngien_thumb.gif" alt="img. Muscles palato-pharyngiens"/></span></a></summary>
+						<details>
+						<summary><a href="/desc/http://anat.org/muscles-palatopharyngien">Muscles palato-pharyngien (pharyngo-staphylins)<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-palatopharyngien_thumb.gif" alt="img. Muscles palato-pharyngiens"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
 							<ul id="ul-border-left">
-							<li><a href="/desc/http://anat.org/R-mscl-palatopharyngien">Muscle palato-pharyngien (pharyngo-staphylin) droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-palatopharyngien_thumb.gif" alt="img. muscle palato-pharyngien D"/></span></a></li>
-							<li><a href="/desc/http://anat.org/L-mscl-palatopharyngien">Muscle palato-pharyngien (pharyngo-staphylin) gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-palatopharyngien_thumb.gif" alt="img. muscle palato-pharyngien G"/></span></a></li>
+							<li><a href="/desc/http://anat.org/R-mscl-palatopharyngien">Muscle palato-pharyngien (pharyngo-staphylin) droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-palatopharyngien_thumb.gif" alt="img. muscle palato-pharyngien D"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
+							<li><a href="/desc/http://anat.org/L-mscl-palatopharyngien">Muscle palato-pharyngien (pharyngo-staphylin) gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-palatopharyngien_thumb.gif" alt="img. muscle palato-pharyngien G"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
 							</ul>
 						</details>
 						</ul>
@@ -4113,7 +4215,7 @@ i{
 	</ul>
 </details>
 <details>
-<summary><a style="font-size:17px"><b>SYSTÈME VOCAL</b><span id=infobulle><img src="" alt="img. systeme vocal"/></span></a></summary>
+<summary><a style="font-size:17px"><b class="default">SYSTÈME VOCAL</b><span id=infobulle><img src="" alt="img. systeme vocal"/></span></a></summary>
 
 	<ul id="ul-border-left">
 	<details open>

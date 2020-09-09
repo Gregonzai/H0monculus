@@ -57,11 +57,13 @@
 			padding: 30px 0;
 			margin-top: 70px;
 			border-top: 1px solid #e5e5e5;
-			background-color: #f5f5f5;
+			background-color: #191919;
 		}
+
 		td {
 		vertical-align: top;
 		}
+
 	</style>
 	<link href="/tree.css" rel="stylesheet">
 	<link href="/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
@@ -95,9 +97,9 @@
 								<input type="text" class="search-query" placeholder="Search">
 							</form>
 						<ul class="nav">
-							<li [% IF request.path == '/osteologie' %]class="active"[% END %]><a href="/osteologie">Ostéologie</a></li>
+							<li [% IF request.path == '/anatomie' %]class="active"[% END %]><a href="/anatomie">Anatomie</a></li>
 							<li [% IF request.path == '/myologie' %]class="active"[% END %]><a href="/myologie">Myologie</a></li>
-							<li [% IF request.path == '/myologie' %]class="active"[% END %]><a href="/systemes_organiques">Systèmes organiques</a></li>
+							<li [% IF request.path == '/systemes_organiques' %]class="active"[% END %]><a href="/systemes_organiques">Systèmes organiques</a></li>
 							<li [% IF request.path == '/graph' %]class="active"[% END %]><a href="/graph">Graph</a></li>
 						</ul>
 					</div><!--/.nav-collapse -->
@@ -113,7 +115,7 @@
 
 		<footer class="footer">
 			<div class="container">
-				<p class="muted">Powered by <a href="http://semantica.kivutar.me">Semantica</a></p>
+				<p class="muted">Powered by <a style="color:#b6680b; background-color:#191919" href="https://github.com/kivutar/semantica" target="_blank">Semantica</a></p>
 			</div>
 		</footer>
 

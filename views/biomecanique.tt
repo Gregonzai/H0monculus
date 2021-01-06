@@ -1,0 +1,158 @@
+<!--<!DOCTYPE html>-->
+<html>
+<head>
+	<!--<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<script src="bootstrap/js/jquery.js"></script>
+	<script src="bootstrap/js/bootstrap.min.js"></script>-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+.help {cursor: help;}
+.default {cursor: default;}
+
+a span#infobulle {
+        position:absolute;
+	margin-bottom:auto;
+        margin-top:25px;
+        margin-left:-25px;
+        color:#fff;
+        background:rgba(0, 0, 0, 0.5);
+        padding:25px;
+        border-radius:3px;
+	z-index:999;
+                 
+    /* Faire disparaire infobulle par défaut */
+    /* On determine l'origine de la rotation */
+       transform:scale(0) rotate(-0deg);
+      
+     /* Faire durer l'effet */
+        transition:all .0s;
+                 
+     /* Effet sur la transparence */
+        opacity:0;
+      }
+             
+     /* Apparition de la bulle avec le scale à 1 */
+    a:hover span#infobulle, a:focus span#infobulle {
+     transform:scale(1) rotate(0);
+             
+    /* Effet sur la transparence */
+       opacity:1;
+}
+#infobulle img {
+max-width:inherit;
+}
+
+.collapsible {
+  color: none;
+  background-color:#131c2a;
+  cursor: pointer;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color:#243344;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color:#131c2a;
+}
+
+#ul-initial {
+  list-style-type:none;
+  padding-left: 0px;
+  margin-left: 0px;
+}
+
+#ul-border-left {
+  list-style-type:none;
+  border-left: 1px solid #b6680b;
+  padding-left: 21px;
+  margin-left: 4px;
+}
+
+#symbol {
+  color: red;
+}
+
+a {
+  color: #d7e0ea;
+}
+a:hover {
+  color: #d7e0ea; 
+  text-decoration: none;
+}
+a:link:active, a:visited:active {
+  color: #d7e0ea;
+}
+
+a0 {
+  color: #d7e0ea;
+}
+
+.active, li:hover {
+  outline : 1px solid; 
+  outline-color:#b6680b;
+  padding-left: 1px;
+}
+
+details {
+  color: #b6680b;
+}
+
+summary {
+  border-left: 0px solid #131c2a;
+}
+.active, summary:hover {
+  outline : 1px solid; 
+  outline-color:#b6680b;
+  padding-left: 1px;
+}
+
+*:focus {
+ outline : none 
+}
+
+i{
+ color: #d7e0ea;
+}
+
+icon1 {
+ float: right;
+ color: white;
+ padding-left: 8px;
+ padding-right: 8px;
+}
+icon2 {
+ float: right;
+ margin-right: 8px;
+ color: white;
+}
+
+</style>
+<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+
+</head>
+
+<body style="background-color:#131c2a;">
+
+<hr style="height:1px;border-width:0;background-color:#b6680b">
+<img src="https://ia801409.us.archive.org/13/items/icone_projets/__ia_thumb.jpg" alt="icone en projet" width="200" height="200">
+<hr style="height:1px;border-width:0;background-color:#b6680b">
+<script>
+$(".collapsible").click(function() {
+  $(this).next().slideToggle("fast");
+
+});
+
+</script>
+
+</body>
+

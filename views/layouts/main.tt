@@ -64,6 +64,10 @@
 		vertical-align: top;
 		}
 
+		#content {
+			min-height: calc(100vh - 41px - 91px - 90px);
+		}
+
 	</style>
 	<link href="/tree.css" rel="stylesheet">
 	<link href="/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
@@ -98,8 +102,7 @@
 							</form>
 						<ul class="nav">
 							<li [% IF request.path == '/anatomie' %]class="active"[% END %]><a href="/anatomie">Anatomie</a></li>
-							<li [% IF request.path == '/myologie' %]class="active"[% END %]><a href="/myologie">Myologie</a></li>
-							<li [% IF request.path == '/systemes_organiques' %]class="active"[% END %]><a href="/systemes_organiques">Systèmes organiques</a></li>
+							<li [% IF request.path == '/biomecanique' %]class="active"[% END %]><a href="/biomecanique">Biomecanique</a></li>
 							<li [% IF request.path == '/graph' %]class="active"[% END %]><a href="/graph">Graph</a></li>
 						</ul>
 					</div><!--/.nav-collapse -->
@@ -107,7 +110,7 @@
 			</div>
 		</div>
 
-		<div class="container">
+		<div class="container" id="content">
 
 			[% content %]
 

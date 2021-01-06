@@ -93,27 +93,44 @@ a:link:active, a:visited:active {
   color: #d7e0ea;
 }
 
+a0 {
+  color: #d7e0ea;
+}
+
+li {
+  border : 1px solid transparent; 
+}
+
 .active, li:hover {
-  outline : 1px solid; 
-  outline-color:#b6680b;
+  border : 1px solid; 
+  border-color:#b6680b;
   padding-left: 1px;
 }
 
 details {
+  padding-top : 2px;
+  padding-bottom : 1px;
   color: #b6680b;
+  transition: max-height 250000s ease;
+  overflow: hidden;
 }
+details:not([open]) { max-height: 25px; }
+details[open] { max-height: 500000000px; }
+
 
 summary {
-  border-left: 0px solid #131c2a;
 }
+
 .active, summary:hover {
-  outline : 1px solid; 
-  outline-color:#b6680b;
+  margin-top: -1px;
+  margin-bottom: -1px;
+  border : 1px solid; 
+  border-color:#b6680b;
   padding-left: 1px;
 }
 
 *:focus {
- outline : none 
+ border : none 
 }
 
 i{
@@ -143,7 +160,7 @@ icon2 {
 <ul id="ul-initial">
 <details open>
 <summary><a style="font-size:20px; padding-down:5px"><b class="default">SYSTÈME MUSCULO-SQUELETTIQUE</b></a></summary>
-	<li><br></li>
+	<br>
 	<ul style="list-style-type:none;">
 	<details>
 	<summary><a style="font-size:17px; padding-down:5px"><b class="default">SYSTÈME SQUELETTIQUE</b><span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3ASys-osseux_thumb.gif" alt="img. sys squelettique"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
@@ -392,7 +409,7 @@ icon2 {
 					</details>
 					</ul>
 				</details>
-				<li><br></li>
+				<br>
 				<details>
 				<summary><a href="/desc/http://anat.org/os-machoire">Os de la machoire<span id=infobulle><img src="https://ia803102.us.archive.org/view_archive.php?archive=/26/items/osteologie_201912/Osteologie.zip&file=anat%3Aos-machoire_thumb.gif" alt="img. os machoire"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
 					<ul id="ul-border-left">
@@ -1309,7 +1326,7 @@ icon2 {
 			</ul>
 		</details>
 		<details open>
-		<summary><a style="font-size:17px"><b class="default">Région des membres inférieurs</b></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
+		<summary><a style="font-size:17px"><b class="default">Région des membres inférieurs</b></a></summary>
 			<ul id="ul-border-left">
 
 			<details>
@@ -1815,7 +1832,7 @@ icon2 {
 		</details>
 
 		<details open>
-		<summary><a style="font-size:17px"><b class="default">Région des membres supérieurs</b></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
+		<summary><a style="font-size:17px"><b class="default">Région des membres supérieurs</b></a></summary>
 
 			<ul id="ul-border-left">
 
@@ -3321,7 +3338,7 @@ icon2 {
 						</ul>
 					</details>
 					<details>
-					<summary><a href="/desc/http://anat.org/muscles-palatopharyngien">Muscles palato-pharyngien (pharyngo-staphylins)<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-palatopharyngien_thumb.gif" alt="img. Muscles palato-pharyngiens"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
+					<summary><a href="/desc/http://anat.org/muscles-palatopharyngien">Muscles palato-pharyngiens (pharyngo-staphylins)<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3Amuscles-palatopharyngien_thumb.gif" alt="img. Muscles palato-pharyngiens"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
 						<ul id="ul-border-left">
 						<li><a href="/desc/http://anat.org/R-mscl-palatopharyngien">Muscle palato-pharyngien (pharyngo-staphylin) droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-palatopharyngien_thumb.gif" alt="img. muscle palato-pharyngien D"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
 						<li><a href="/desc/http://anat.org/L-mscl-palatopharyngien">Muscle palato-pharyngien (pharyngo-staphylin) gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-palatopharyngien_thumb.gif" alt="img. muscle palato-pharyngien G"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
@@ -4793,7 +4810,7 @@ icon2 {
 						<li><a href="/desc/http://anat.org/R-mscl-trapeze-fx-inf">Faisceau inférieur du muscle trapèze droit<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AR-mscl-trapeze-fx-inf_thumb.gif" alt="img. muscle trapeze D fx inf"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
 						</ul>
 					</details>
-					<details>
+					<details open>
 					<summary><a href="/desc/http://anat.org/L-mscl-trapeze">Muscle trapèze gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-trapeze_thumb.gif" alt="img. muscle trapeze G"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
 						<ul id="ul-border-left">
 						<li><a href="/desc/http://anat.org/L-mscl-trapeze-fx-sup">Faisceau supérieur du muscle trapèze gauche<span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AL-mscl-trapeze-fx-sup_thumb.gif" alt="img. muscle trapeze G fx sup"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></li>
@@ -5450,7 +5467,7 @@ icon2 {
 			</ul>
 		</details>
 		<details open>
-		<summary><a style="font-size:17px"><b class="default">Région des membres superieurs</b></summary>
+		<summary><a style="font-size:17px"><b class="default">Région des membres superieurs</b></a></summary>
 			<ul id="ul-border-left">
 			<details>
 			<summary><a style="font-size:17px"><b class="default">Muscles de la ceinture scapulaire</b><span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AMSCL-ceinture-scap_thumb.gif" alt="img. muscles region de la ceinture scapulaire"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
@@ -6080,7 +6097,7 @@ icon2 {
 			</ul>
 		</details>
 		<details open>
-		<summary><a style="font-size:17px"><b class="default">Région des membres inferieurs</b></summary>
+		<summary><a style="font-size:17px"><b class="default">Région des membres inferieurs</b></a></summary>
 			<ul id="ul-border-left">
 			<details>
 			<summary><a style="font-size:17px"><b class="default">Muscles de la ceinture pelvienne</b><span id=infobulle><img src="https://ia803108.us.archive.org/view_archive.php?archive=/24/items/Myologie/Myologie.zip&file=anat%3AMSCL-ceinture-pelv_thumb.gif" alt="img. muscles region de la ceinture pelvienne"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
@@ -6669,7 +6686,7 @@ icon2 {
 <hr style="height:1px;border-width:0;background-color:#b6680b">
 <details open>
 <summary><a style="font-size:20px"><b class="default">SYSTÈMES ORGANIQUES</b></a></summary>
-	<li><br></li>
+	<br>
 	<ul style="list-style-type:none;">
 	<details>
 	<summary><a style="font-size:17px"><b class="default">SYSTÈME RESPIRATOIRE</b><span id=infobulle><img src="https://ia803101.us.archive.org/view_archive.php?archive=/17/items/systrespi_20191207/SystRespi.zip&file=anat%3ASys-Respi_thumb.gif" alt="img. système respiratoire"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
@@ -10750,6 +10767,12 @@ icon2 {
 			</ul>
 		</details>
 		</ul>
+	</details>
+	<details>
+	<summary><a style="font-size:17px"><b class="default">SYSTÈME DIGESTIF</b><span id=infobulle><img src="http://lifesciencedb.jp/bp3d/API/animation?shorten=DO1fmCeyaCm80L5P1TCeumOH" alt="img. système digestif"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>
+
+		<img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Under_construction_icon-green.svg" alt="icone en travaux" width="200" height="200">
+
 	</details>
 	<details>
 	<summary><a style="font-size:17px"><b class="default">SYSTÈME VOCAL</b><span id=infobulle><img src="" alt="img. systeme vocal"/></span></a><icon1 class="fas fa-ellipsis-v"></icon1><icon2 class="far fa-eye-slash"></icon2></summary>

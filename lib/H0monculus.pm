@@ -354,12 +354,8 @@ get '/anatomie' => sub {
 	template 'anatomie.tt';
 };
 
-get '/myologie' => sub {
-	template 'myologie.tt';
-};
-
-get '/systemes_organiques' => sub {
-	template 'systemes_organiques.tt';
+get '/biomecanique' => sub {
+	template 'biomecanique.tt';
 };
 
 get '/graph' => sub {
